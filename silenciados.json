@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-14T10:35",
+ "actualizado": "2026-09-14T13:29",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1489,7 +1489,8 @@
    "porque": "Isaac lo contestó desde el panel a las 12:12: «el envio del material aun esta en camino».",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "El material consta entregado y pasan 3 días laborables sin nota del externo."
+   "revive_si": "El material consta entregado y pasan 3 días laborables sin nota del externo.",
+   "caducado": "2026-09-14: el material ya llegó; lo que queda vivo es la cita con la clienta."
   },
   {
    "id": "7385-pdte-de-reparar",
@@ -2119,7 +2120,346 @@
    "porque": "Gonzalo lo escribió en el ticket desde el panel el 12/09 a las 13:49: «Se ha vuelto a preguntar, el de que lleva GEE está de vacaciones, por ello puede que tarde en responder». Además lo reclamó por correo ese mismo día a las 11:49.",
    "quien": "Gonzalo",
    "cuando": "2026-09-12",
-   "revive_si": "GEE contesta, o pasan 5 días laborables más sin noticias."
+   "revive_si": "GEE contesta, o pasan 5 días laborables más sin noticias.",
+   "revivido": "2026-09-14: GEE contestó por correo a las 08:06 con la versión del técnico («ninguna fecha les venía bien»), Borja respondió a las 10:34 con la de la clienta, que es la contraria, y GEE cerró a las 10:57 con «Informo al técnico para que se ponga en contacto con la clienta». Se cumple el revive_si: GEE ha contestado."
+  },
+  {
+   "id": "7535-reparto-hoy",
+   "que": "LEAS-7535 Unico Palermo · el manípulo no llega a taller",
+   "ambito": {
+    "leas": "LEAS-7535",
+    "centro": "Unico Palermo",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "esta de reparto para hoy",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "El envío se entrega hoy; si el 16/09 sigue sin constar la entrada en taller."
+  },
+  {
+   "id": "4908-portes-caros",
+   "que": "LEAS-4908 Elha Pintor Felo Monzón · sin dueño desde enero",
+   "ambito": {
+    "leas": "LEAS-4908",
+    "centro": "Elha Pintor Felo Monzón",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "pdte de ver que hace,os . portes muy caros",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "Se decide qué se hace con la C03045, o pasan 10 días laborables más sin decisión."
+  },
+  {
+   "id": "7489-equipo-en-taller",
+   "que": "LEAS-7489 Sinvello Teatinos · préstamo fuera de plazo sin nota",
+   "ambito": {
+    "leas": "LEAS-7489",
+    "centro": "Sinvello Teatinos",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "equipo en taller pdte de reparación",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "La reparación termina y el manípulo H01032 sigue en préstamo, o pasan 10 días laborables."
+  },
+  {
+   "id": "7570-tracking-metido",
+   "que": "LEAS-7570 Elha Pisa · campo de tracking vacío",
+   "ambito": {
+    "leas": "LEAS-7570",
+    "centro": "Elha Pisa",
+    "tipo": "sin-tracking"
+   },
+   "porque": "esta metido....",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "La sustitución no consta entregada el 17/09 y sigue sin poderse recoger la averiada H00937."
+  },
+  {
+   "id": "7325-es-rusia-no-deseja",
+   "que": "LEAS-7325 Deseja · salió del cliente y no llega a taller",
+   "ambito": {
+    "leas": "LEAS-7325",
+    "centro": "Deseja",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "la movida no es con DESEJA . es con Rusia . El miercoles vuelve Chus y le pediremos explicaciones-",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "Chus vuelve el miércoles 16/09 y no queda explicado ese mismo día."
+  },
+  {
+   "id": "7343-enora-pdte-entrega",
+   "que": "LEAS-7343 Elha Sta Teresa · recogida de Enora sin llegar a taller",
+   "ambito": {
+    "leas": "LEAS-7343",
+    "centro": "Elha Sta teresa",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "efectuada por Enora pdte de que nos la entreguen",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "Enora no entrega el equipo antes del 17/09."
+  },
+  {
+   "id": "7523-flujo-normal",
+   "que": "LEAS-7523 Laser Factory Figueres Monturiol · lo del chat no está en el ticket",
+   "ambito": {
+    "leas": "LEAS-7523",
+    "centro": "Laser Factory Figueres",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "no hace falta apuntar todo lo que pasa en los casos a no ser que haya un retraso",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "Hay un retraso o algo queda pendiente sin explicar."
+  },
+  {
+   "id": "7540-flujo-normal",
+   "que": "LEAS-7540 Sinvello Sant Cugat · la visita del técnico no está en el ticket",
+   "ambito": {
+    "leas": "LEAS-7540",
+    "centro": "Sinvello Sant Cugat",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "no hace falta escrinbir todo el rato todo lo que pasa, si el tecnico va hoy y lo sabe el centro",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "El técnico no va, o el centro reclama sin respuesta más de un día laborable."
+  },
+  {
+   "id": "6891-gee-suplencia-hospital",
+   "que": "LEAS-6891 Mercedes Gamaza · técnico externo sin nota nueva",
+   "ambito": {
+    "leas": "LEAS-6891",
+    "centro": "Mercedes Gamaza",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "Hola Isaac, Por las mañanas esta de suplencia en un Hospital de zona Sevilla o alrededores",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "GEE no da fecha de intervención antes del 18/09."
+  },
+  {
+   "id": "7282-gee-semana-que-viene",
+   "que": "LEAS-7282 Bekalon · técnico externo sin nota nueva",
+   "ambito": {
+    "leas": "LEAS-7282",
+    "centro": "Bekalon",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "Me comenta GEE esto después de la reclamación: «Si, yo creo que a partir de la semana que viene si solicitan»",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "Pasa la semana del 21/09 sin que GEE concrete."
+  },
+  {
+   "id": "7452-reclamado-gee-hoy",
+   "que": "LEAS-7452 Sinvello Estepona · siete días sin nota",
+   "ambito": {
+    "leas": "LEAS-7452",
+    "centro": "Sinvello Estepona",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "se ha reclamado a Gee para que procedan cuanto antes con la reparación",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "GEE no contesta a la reclamación antes del 17/09."
+  },
+  {
+   "id": "7490-tracking-gijon",
+   "que": "LEAS-7490 SinVello Cádiz · salió del cliente y no llega a taller",
+   "ambito": {
+    "leas": "LEAS-7490",
+    "centro": "SinVello Cádiz",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "si se hizo, esta el tracking de recogida en Jira y por lo que veo esta en Gijon",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "El equipo no consta en taller el 17/09."
+  },
+  {
+   "id": "7500-hablado-con-la-clienta",
+   "que": "LEAS-7500 Centro Médico Estético Deleite · bloqueado por el centro",
+   "ambito": {
+    "leas": "LEAS-7500",
+    "centro": "Centro Médico Estético Deleite",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "he hablado con la Clienta (Belén) porque tenia dudas si la reparación estaba en garantía; Innet ya puede llamarla",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "Innet no consigue cita con el centro antes del 18/09."
+  },
+  {
+   "id": "7515-si-lleva-tracking",
+   "que": "LEAS-7515 Elha Vilanova · sustitución sin tracking",
+   "ambito": {
+    "leas": "LEAS-7515",
+    "centro": "Elha Vilanova",
+    "tipo": "sin-tracking"
+   },
+   "porque": "SI llleva tracking . esta hoy de reparto",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "La sustitución no consta entregada el 16/09."
+  },
+  {
+   "id": "7521-sincronis-va-el-16",
+   "que": "LEAS-7521 Epil Point Lecce · técnico externo sin fecha",
+   "ambito": {
+    "leas": "LEAS-7521",
+    "centro": "Epil Point Lecce",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "Sincronis van a ir el 16/09/2026, ya nos lo han confirmado sincronis, está en el email",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-14",
+   "revive_si": "Sincronis no va el 16/09."
+  },
+  {
+   "id": "7527-esta-en-asturias",
+   "que": "LEAS-7527 Dermasana Calle Alcalá · salió del cliente y no llega a taller",
+   "ambito": {
+    "leas": "LEAS-7527",
+    "centro": "Dermasana Calle alcala",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "esta en Asturias segun el tracking",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "No consta la entrada en taller el 17/09."
+  },
+  {
+   "id": "7545-material-en-reparto",
+   "que": "LEAS-7545 Laser Factory la Marina · técnico externo sin nota nueva",
+   "ambito": {
+    "leas": "LEAS-7545",
+    "centro": "Laser Factory la Marina",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "el material estas en reparto, cuando llegue Carlos MOra llamara para pedir cita y solucionarlo",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "Carlos Mora no pide cita antes del 17/09."
+  },
+  {
+   "id": "7553-caja-de-madera",
+   "que": "LEAS-7553 Dermasana Calle Alcalá · dos tickets con el mismo seguimiento",
+   "ambito": {
+    "leas": "LEAS-7553",
+    "centro": "Dermasana Calle Alcala",
+    "tipo": "sin-tracking"
+   },
+   "porque": "efectivamente estaba el mismo tracking y no podia ser ya que se envio una caja de madera y hasta que no lo embalen no se puede",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "La C03227 sigue sin recogerse el 17/09."
+  },
+  {
+   "id": "7567-en-garantia",
+   "que": "LEAS-7567 Epil Point Livorno · sin nota de contenido",
+   "ambito": {
+    "leas": "LEAS-7567",
+    "centro": "Epil Point Livorno",
+    "tipo": "epil-sin-nota"
+   },
+   "porque": "No necesita pasar presupuesto ya que está en reparación bajo garantía",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-14",
+   "revive_si": "La reparación no avanza y Epil Point vuelve a preguntar."
+  },
+  {
+   "id": "7573-listo",
+   "que": "LEAS-7573 Elha Laser Center Milano Carducci · sustitución sin tracking",
+   "ambito": {
+    "leas": "LEAS-7573",
+    "centro": "Elha Laser Center Milano",
+    "tipo": "sin-tracking"
+   },
+   "porque": "listo",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "La sustitución no consta entregada el 17/09."
+  },
+  {
+   "id": "7576-consola-rota",
+   "que": "LEAS-7576 Smart Duck Labège · la consola de sustitución llegó rota",
+   "ambito": {
+    "leas": "LEAS-7576",
+    "centro": "smartduck Labege",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "La consola llegó rota y no enfria adecuadamente",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-14",
+   "revive_si": "Smart Duck vuelve a reclamar o se decide qué se hace con el equipo original."
+  },
+  {
+   "id": "7577-sin-seguimiento-aun",
+   "que": "LEAS-7577 Smart Duck Labège · sustitución sin tracking",
+   "ambito": {
+    "leas": "LEAS-7577",
+    "centro": "smartduck Labege",
+    "tipo": "sin-tracking"
+   },
+   "porque": "Ya está metida, no tiene seguimiento ya que todavía están usando la consola que se envió como sustitución",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-14",
+   "revive_si": "Se pide la recogida y sigue sin seguimiento."
+  },
+  {
+   "id": "7525-tracking-palibex",
+   "que": "LEAS-7525 Powerlaser Portugal · el tracking del ticket era de otra empresa",
+   "ambito": {
+    "leas": "LEAS-7525",
+    "centro": "Powerlaser Portugal",
+    "tipo": "sin-tracking"
+   },
+   "porque": "Isaac subió hoy a las 10:54 el seguimiento bueno (Palibex) como comentario del ticket",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "El equipo no consta en taller el 18/09."
+  },
+  {
+   "id": "7514-va-hoy-innet",
+   "que": "LEAS-7514 Elha Alcorcón · la visita de hoy no está en el ticket",
+   "ambito": {
+    "leas": "LEAS-7514",
+    "centro": "Elha Alcorcón",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "Innet dijo hoy a las 09:52 en su grupo «Y Elha Alcorcon vamos hoy…» y a las 11:38 Isaac les mandó el correo del centro para el parte; es flujo normal y no se apunta",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "revive_si": "La visita no se hace hoy o el parte no llega."
+  },
+  {
+   "id": "medsystems-material-enviado",
+   "que": "Med Systems · la pregunta técnica del asistente sin contestar",
+   "ambito": {
+    "leas": null,
+    "centro": "Med Systems",
+    "tipo": "sin-ticket"
+   },
+   "porque": "ya se le mando el material",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "Med Systems vuelve a preguntar lo mismo sin respuesta."
+  },
+  {
+   "id": "epil-lecce2-sin-ticket",
+   "que": "Epil Point Lecce 2 · el código de desbloqueo del sábado",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point Lecce 2",
+    "tipo": "sin-ticket"
+   },
+   "porque": "ningun tiket, no hace falta para esto",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "revive_si": "Lecce 2 vuelve a pedir el código."
   }
  ],
  "enlaces": [
