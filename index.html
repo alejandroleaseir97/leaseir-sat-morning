@@ -1811,7 +1811,7 @@ const FUENTES = {"gen": "2026-09-14T10:35", "jira": "ok", "telegram": "ok", "wap
 // no significa que no haya nada, y eso el equipo tiene que verlo sin leer la p de cada bloque.
 function pintarFuentes(){
   const c = document.getElementById('fuentes'); if(!c) return;
-  const NOM = {jira:'Jira', telegram:'Telegram', wapp:'WhatsApp', correo:'el correo', sesame:'Sesame', airtable:'el Inmovilizado (Airtable)'};   // Holded no toca al equipo: solo en el panel de Alejandro
+  const NOM = {jira:'Jira', telegram:'Telegram', wapp:'WhatsApp', correo:'el correo', sesame:'Sesame', airtable:'el Inmovilizado (Airtable)', holded:'Holded'};
   const malas = Object.keys(NOM).filter(k => String((typeof FUENTES !== 'undefined' && FUENTES[k]) || 'no').indexOf('ok') !== 0);
   if(!malas.length){ c.hidden = true; c.innerHTML = ''; return; }
   c.hidden = false;
@@ -2811,6 +2811,7 @@ function abcalc(id){
   document.getElementById('dlg-calc').showModal();
 }
 try{ pintarAbiertas(); }catch(e){ console.error('abiertas', e); }
+try{ pintarFuentes(); }catch(e){ console.error('fuentes', e); }
 
 // ═══ Buscador: el recorrido completo de un LEAS ═══
 // BUS.t: ticket -> {c cliente, ti tipo, cr creado, e estado actual, cs consola, hp manípulo,
@@ -3540,7 +3541,6 @@ async function explicar(v, fresco){
     if(typeof linkTickets === 'function') linkTickets(out);
   }catch(err){ n.textContent = ''; out.innerHTML = '<div class="blk"><div class="por">No se ha podido leer el worker (' + exEsc(err && err.message) + ').</div></div>'; }
 }
-try{ pintarFuentes(); }catch(e){ console.error('fuentes', e); }
 
 </script>
 </body></html>
