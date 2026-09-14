@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-12T09:50",
+ "actualizado": "2026-09-14T10:00",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2028,6 +2028,98 @@
    "quien": "Isaac",
    "cuando": "2026-09-12",
    "revive_si": "Llega el diodo y pasan 3 dias laborables sin que la reparacion arranque."
+  },
+  {
+   "id": "7424-susti-no-hace-falta",
+   "que": "LEAS-7424 Radiante Estética Avanzada (SUST004 SRF-BS) · SLA de reparación reventado y once días sin nota nueva",
+   "ambito": {
+    "leas": "LEAS-7424",
+    "centro": "Radiante Estetica Avanzada",
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:40: «Lo voy a preguntar el lunes, pero al ser una Sutitución no hace falta que salga».",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-12",
+   "revive_si": "El equipo sale a cliente sin que el ticket se mueva, o pasan 5 días laborables más sin nota."
+  },
+  {
+   "id": "7405-en-cola-y-diagnosticado",
+   "que": "LEAS-7405 Elha Juan de Austria · nueve días en «En cola taller» sin un solo comentario",
+   "ambito": {
+    "leas": "LEAS-7405",
+    "centro": "Elha Juan de Austria",
+    "tipo": "sin-movimiento"
+   },
+   "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:42 («No se ha visto nada ya que está en cola») y el 14/09 a las 09:18 Iván escribió el diagnóstico completo del diodo y del umbilical; el ticket pasó a «Presupuesto preparado pendiente de enviar».",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-12",
+   "revive_si": "El presupuesto no se envía al cliente en 5 días laborables."
+  },
+  {
+   "id": "7543-consolas-reales-fotos",
+   "que": "LEAS-7543 Laser Factory Sabadell · la consola prestada dice C00410 y en el Inmovilizado esa serie es del propio cliente",
+   "ambito": {
+    "leas": "LEAS-7543",
+    "centro": "Laser Factory Sabadell",
+    "serie": "C00410",
+    "tipo": "serie-desconocida"
+   },
+   "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:41: «SON ESAS CONSOLAS LAS QUE SALIERON DE VERDAD; ESTAN PUESTAS LAS FOTOS EN EL GRUPO DE FOTOS DE EQUIPO». Es un traslado entre centros del mismo cliente, no un préstamo. Lo que queda es de Airtable y va al panel de Alejandro, no al del equipo.",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-12",
+   "revive_si": "El equipo vuelve a moverse con otras series o el centro reclama que no es esa máquina."
+  },
+  {
+   "id": "7559-carlos-ya-tiene-material",
+   "que": "LEAS-7559 Laser Factory Figueres (c/Joan Maragall) · las mangueras H00387 y H00471 no están en el ticket y había que enviar material",
+   "ambito": {
+    "leas": "LEAS-7559",
+    "centro": "Laser Factory Figueres",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:41: «No hace falta enviar material, carlos mora ya lo tiene y contestó en el grupo de whatsapp de carlos mora».",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-12",
+   "revive_si": "Carlos Mora dice que le falta material, o pasan 5 días laborables sin nota nueva del externo."
+  },
+  {
+   "id": "7577-series-ya-metidas",
+   "que": "LEAS-7577 Smartduck Labege · la subtarea de sustitución seguía en «Solicitado», sin series prestadas y sin tracking",
+   "ambito": {
+    "leas": "LEAS-7577",
+    "centro": "Smartduck Labege",
+    "tipo": "sin-tracking"
+   },
+   "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:47 («Ya está metida»). Comprobado el 14/09: el ticket lleva C00326 / H00326 y está en «Equipo enviado». El campo de tracking sigue vacío, que es el problema de permisos de Jira, no de este ticket.",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-12",
+   "revive_si": "El envío se pierde o el centro reclama y el ticket sigue sin seguimiento."
+  },
+  {
+   "id": "7544-preguntado-dos-veces",
+   "que": "LEAS-7544 Elha Rocafort · «Pendiente recogida» desde el 10/09, sin dueño y con el tracking vacío",
+   "ambito": {
+    "leas": "LEAS-7544",
+    "centro": "Elha Rocafort",
+    "tipo": "recogida-pendiente"
+   },
+   "porque": "Gonzalo preguntó en el ticket el 11/09 a las 16:49 («Se pregunta si se puede recoger el manipulo») y volvió a preguntar el 12/09 a las 13:48 («Se pregunta de nuevo»). La pelota está en el cliente.",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-12",
+   "revive_si": "El centro contesta, o pasan 5 días laborables más sin respuesta y sin que nadie vuelva a reclamar."
+  },
+  {
+   "id": "7507-gee-de-vacaciones",
+   "que": "LEAS-7507 Cavitbell · la reclamación al técnico externo solo estaba en el correo, no en el ticket",
+   "ambito": {
+    "leas": "LEAS-7507",
+    "centro": "Cavitbell",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "Gonzalo lo escribió en el ticket desde el panel el 12/09 a las 13:49: «Se ha vuelto a preguntar, el de que lleva GEE está de vacaciones, por ello puede que tarde en responder». Además lo reclamó por correo ese mismo día a las 11:49.",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-12",
+   "revive_si": "GEE contesta, o pasan 5 días laborables más sin noticias."
   }
  ],
  "enlaces": [

@@ -1,7 +1,7 @@
 {
   "_que_es": "Días LABORABLES en que cada punto ha salido en el panel. El aviso es len(dias): 1 = primera vez, 2 = campana, 3+ = rojo. Lo mantiene la pasada, no el navegador, para que todos vean el mismo número.",
   "_como_se_actualiza": "En la primera pasada de cada día laborable, añadir la fecha de hoy a cada punto que sigue saliendo, y borrar los puntos que ya no salen. Sábados, domingos y los días de 'festivos' NO se añaden.",
-  "actualizado": "2026-09-11 11:55",
+  "actualizado": "2026-09-14 10:00",
   "festivos": [
     "2026-01-01",
     "2026-01-06",
@@ -19,29 +19,20 @@
     "2026-12-25"
   ],
   "puntos": {
-    "telegram|Centri Unico Rende · el equipo nuevo de SRF ": [
-      "2026-09-11"
+    "telegram|Centri Unico Rende · la consola averiada y l": [
+      "2026-09-14"
     ],
-    "telegram|Centri Unico · la consola de backup C00368 h": [
-      "2026-09-11"
+    "LEAS-7540": [
+      "2026-09-14"
     ],
-    "LEAS-7401": [
-      "2026-09-11"
+    "LEAS-7523": [
+      "2026-09-14"
     ],
-    "LEAS-7285": [
-      "2026-09-11"
+    "LEAS-7452": [
+      "2026-09-14"
     ],
-    "LEAS-7227": [
-      "2026-09-11"
-    ],
-    "LEAS-7531": [
-      "2026-09-11"
-    ],
-    "telegram|Unico Palermo · el mensajero pasó y no se ll": [
-      "2026-09-11"
-    ],
-    "telegram|Clínica Cibeles CC Holea (Huelva) · el clien": [
-      "2026-09-11"
+    "wapp|Material de Happy Laser para México · Borja ": [
+      "2026-09-14"
     ]
   }
 }
