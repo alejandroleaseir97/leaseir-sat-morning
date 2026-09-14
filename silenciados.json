@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-14T13:36",
+ "actualizado": "2026-09-14T15:46",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2460,6 +2460,186 @@
    "quien": "Isaac",
    "cuando": "2026-09-14",
    "revive_si": "Lecce 2 vuelve a pedir el código."
+  },
+  {
+   "id": "7503-misma-etiqueta",
+   "que": "Recogida de Clínica Cibeles Holea que no se hizo",
+   "ambito": {
+    "leas": "LEAS-7503",
+    "centro": "Clinica Cibeles Holea",
+    "cliente": null,
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "no se hace etiqueta nueva, se usa la mimsa y se reclama al transporte",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "hora": "13:44",
+   "revive_si": "si el transporte vuelve a fallar la recogida o el centro dice que sigue sin recogerse"
+  },
+  {
+   "id": "7475-listo",
+   "que": "Sustitución de Dermasana Albufera sin número de envío",
+   "ambito": {
+    "leas": "LEAS-7475",
+    "centro": "Dermasana Albufera",
+    "cliente": null,
+    "tipo": "sin-tracking"
+   },
+   "porque": "listo",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "14:22",
+   "revive_si": "si el centro dice que no ha llegado nada"
+  },
+  {
+   "id": "7507-solicitado-por-mail",
+   "que": "Cavitbell: discrepancia entre lo que dice GEE y lo que dice la clienta",
+   "ambito": {
+    "leas": "LEAS-7507",
+    "centro": "Cavitbell Centro Médico Estético",
+    "cliente": null,
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "esta solicitado por mail que se vuelvan a llamar para que queden en algo (cvada uno da una version)",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "hora": "15:15",
+   "revive_si": "si GEE no ha llamado a la clienta antes del 16/09"
+  },
+  {
+   "id": "7412-asignada-a-juan",
+   "que": "Sinvello Provenza en cola de taller con el SLA reventado",
+   "ambito": {
+    "leas": "LEAS-7412",
+    "centro": "Sinvello Provenza",
+    "cliente": null,
+    "tipo": "repara-sla"
+   },
+   "porque": "se la he asignado a Juan ya que Jony tiene muchas cosas",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "14:25",
+   "revive_si": "si el 17/09 sigue sin nota de Juan en el ticket"
+  },
+  {
+   "id": "7103-placas-actualizacion",
+   "que": "NR Clinics: dos incidencias abiertas desde el 22 de julio sin dueño",
+   "ambito": {
+    "leas": "LEAS-7103",
+    "centro": "NR Clinics",
+    "cliente": null,
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "se les va a mandar las placas para hacer la ctualización",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "14:26",
+   "revive_si": "si la semana que viene no se han mandado las placas"
+  },
+  {
+   "id": "7104-placas-actualizacion",
+   "que": "NR Clinics: la segunda incidencia, del 22 de julio, sin dueño",
+   "ambito": {
+    "leas": "LEAS-7104",
+    "centro": "NR Clinics",
+    "cliente": null,
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "se les va a mandar las placas para hacer la ctualización (Isaac lo escribió en LEAS-7103, que es el mismo asunto)",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "14:26",
+   "revive_si": "si la semana que viene no se han mandado las placas"
+  },
+  {
+   "id": "7349-direccion-correcta",
+   "que": "Dirección del envío de Cris Peña Beauty Center",
+   "ambito": {
+    "leas": "LEAS-7349",
+    "centro": "Cris Peña Beauty Center",
+    "cliente": null,
+    "tipo": "envio-direccion"
+   },
+   "porque": "esta correcta la dirección",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "14:30",
+   "revive_si": "si el transporte devuelve el envío por dirección"
+  },
+  {
+   "id": "6879-etiqueta-pasada",
+   "que": "Recogida de BR Esthetic en Begues con la dirección de Barcelona en el ticket",
+   "ambito": {
+    "leas": "LEAS-6879",
+    "centro": "BR Esthetic 2022",
+    "cliente": null,
+    "tipo": "envio-direccion"
+   },
+   "porque": "han pasado la etiqueta para que lo venga a recoger",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "14:22",
+   "revive_si": "si la recogida falla por la dirección"
+  },
+  {
+   "id": "7421-consola-nueva-de-fabrica",
+   "que": "L Medical: decidir qué se hace con la consola",
+   "ambito": {
+    "leas": "LEAS-7421",
+    "centro": "L Medical (G-Point)",
+    "cliente": null,
+    "tipo": "consola-nueva-decidida"
+   },
+   "porque": "se va a mandar una consola desde fabrica, ya esta hablado con Donet",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "14:31",
+   "revive_si": "si el 16/09 no se ha organizado el envío de la consola nueva"
+  },
+  {
+   "id": "giugliano-solucionado",
+   "que": "Centri Unico Giugliano llevaba desde ayer pidiendo ayuda en el grupo",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico Giugliano",
+    "cliente": null,
+    "tipo": "sin-ticket"
+   },
+   "porque": "esta solucionado, lo gestiono Borja a primera hora del dia",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "14:41",
+   "revive_si": "si el centro vuelve a escribir sin respuesta"
+  },
+  {
+   "id": "deseja-otra-pieza-de-mano",
+   "que": "Deseja (Lituania): avería nueva de hoy sin ticket",
+   "ambito": {
+    "leas": null,
+    "centro": "Deseja",
+    "cliente": null,
+    "tipo": "sin-ticket"
+   },
+   "porque": "se les comenta que prueben con otra pieza de mano para ver si podemos descatar de donde viene",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "14:58",
+   "revive_si": "si el centro dice que no puede probar otra pieza de mano — a las 15:08 avisó de que la consola está a 250 km — o si mañana sigue sin ticket"
+  },
+  {
+   "id": "laserfactory-contestado-a-todo",
+   "que": "Laser Factory: los cuatro pendientes de las 12:38 y 12:40",
+   "ambito": {
+    "leas": null,
+    "centro": "Laser Factory",
+    "cliente": null,
+    "tipo": "sin-ticket"
+   },
+   "porque": "contestado a todo",
+   "quien": "Borja",
+   "cuando": "2026-09-14",
+   "hora": "15:13",
+   "revive_si": "si el cliente vuelve a reclamar alguno de los cuatro"
   }
  ],
  "enlaces": [
@@ -2796,6 +2976,14 @@
    "quien": "Borja",
    "cuando": "2026-09-11",
    "nota": "Segunda incidencia del mismo centro (Globo = Busnago): la pistola con Stop 6, pendiente de mandar sustitucion."
+  },
+  {
+   "centro": "Epil Point Aversa",
+   "cliente": "Epil Point Italia",
+   "leas": "LEAS-7583",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "nota": "Isaac ató el punto del panel sin ticket de Epil Point Aversa a LEAS-7583 a las 14:52 desde el panel; Borja lo repitió a las 15:15. El ticket lleva el manípulo 40374 y el seguimiento de DHL que Isaac pasó al grupo a las 15:06."
   }
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
