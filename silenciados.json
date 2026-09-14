@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-14T10:00",
+ "actualizado": "2026-09-14T10:10",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2074,10 +2074,10 @@
    "que": "LEAS-7559 Laser Factory Figueres (c/Joan Maragall) · las mangueras H00387 y H00471 no están en el ticket y había que enviar material",
    "ambito": {
     "leas": "LEAS-7559",
-    "centro": "Laser Factory Figueres",
+    "centro": "Laser Factory Figueres Joan Maragall",
     "tipo": "externo-sin-nota"
    },
-   "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:41: «No hace falta enviar material, carlos mora ya lo tiene y contestó en el grupo de whatsapp de carlos mora».",
+   "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:41: «No hace falta enviar material, carlos mora ya lo tiene y contestó en el grupo de whatsapp de carlos mora». OJO: esto NO cubre Laser Factory Figueres Monturiol (LEAS-7523), que es otro centro y va por su lado.",
    "quien": "Gonzalo",
    "cuando": "2026-09-12",
    "revive_si": "Carlos Mora dice que le falta material, o pasan 5 días laborables sin nota nueva del externo."
