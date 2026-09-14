@@ -593,6 +593,10 @@ details.comova2 .cm-in{padding:0 18px 16px}
   @page{size:A4;margin:12mm}
 }
 
+.caduco{background:var(--crit-bg);border:1px solid var(--crit-line);border-left:5px solid var(--crit);
+  border-radius:11px;padding:13px 17px;margin:0 0 14px;font-size:13px;color:var(--ink-soft);line-height:1.55}
+.caduco b{color:var(--crit)}
+.caduco .fd{color:var(--muted);font-weight:500}
 </style>
 </head><body>
 
@@ -610,6 +614,8 @@ details.comova2 .cm-in{padding:0 18px 16px}
       <button class="recarga" onclick="location.reload()" title="Solo recarga la página. Los datos se regeneran a las 9:30, 12:30, 15:10, 16:10, 18:10 y 20:10.">Recargar</button>
     </div>
   </header>
+
+  <div id="fuentes" class="caduco" hidden></div>
 
   <nav class="tabbar" role="tablist">
     <button class="on" role="tab" onclick="tab(this,'p-interno')">Puntos abiertos<small>por persona</small></button>
@@ -946,6 +952,20 @@ const CAD = {"envio": ["Gonzalo", "Isaac", "Chus"], "telegram": ["Chus", "Gonzal
 // Cadena de responsabilidad. Siempre tres nombres: quien lo tiene, a quién se lo pide
 // si no llega, y a quién se lo pide ese segundo. Siempre por el grupo, para que quede constancia.
 const FUERA = {"Chus": "vacaciones", "Cristina": "vacaciones"};
+const FUENTES = {"gen": "2026-09-14T10:35", "jira": "ok", "telegram": "ok", "wapp": "ok: leídos hoy los 18 grupos de Archivadas, incluidos Sat Laser Factory, Med Systems, Smart Duck, Sincronis, Innet, Deseja y los cuatro de Dermasana", "correo": "ok", "sesame": "ok", "airtable": "ok", "holded": "no: no se ha entrado en Holded, los importes de Cobros son de la última lectura"};
+// Qué fuentes leyó esta pasada. La escribe la pasada en cada corte (mismo objeto en los dos paneles) y
+// pintarFuentes() saca el aviso rojo cuando algo no es "ok": un bloque a cero de una fuente no leída
+// no significa que no haya nada, y eso el equipo tiene que verlo sin leer la p de cada bloque.
+function pintarFuentes(){
+  const c = document.getElementById('fuentes'); if(!c) return;
+  const NOM = {jira:'Jira', telegram:'Telegram', wapp:'WhatsApp', correo:'el correo', sesame:'Sesame', airtable:'el Inmovilizado (Airtable)'};   // Holded no toca al equipo: solo en el panel de Alejandro
+  const malas = Object.keys(NOM).filter(k => String((typeof FUENTES !== 'undefined' && FUENTES[k]) || 'no').indexOf('ok') !== 0);
+  if(!malas.length){ c.hidden = true; c.innerHTML = ''; return; }
+  c.hidden = false;
+  c.innerHTML = '<b>Esta pasada no ha leído todo.</b> ' + malas.map(k => NOM[k] + ' <span class="fd">' + String(FUENTES[k]).replace(/</g,'&lt;').replace(/^(parcial|no): ?/, '— $1: ') + '</span>').join(' · ')
+    + '. <span class="fd">Un bloque a cero de esas fuentes no significa que no haya nada.</span>';
+}
+
 const NOTA_HOY = {};
 function disp(n){ return !FUERA[n]; }
 // Fuera TODO el día (vacaciones, ausencia, baja) no es lo mismo que haber terminado el turno.
@@ -2089,5 +2109,7 @@ function cp(btn,text){
     setTimeout(()=>{btn.textContent=o; btn.classList.remove('ok');},1600);
   }).catch(()=>{btn.textContent='Selecciona';});
 }
+try{ pintarFuentes(); }catch(e){ console.error('fuentes', e); }
+
 </script>
 </body></html>
