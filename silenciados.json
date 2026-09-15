@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-15T13:14",
+ "actualizado": "2026-09-15T15:47",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -689,7 +689,8 @@
    "porque": "Borja lo contestó desde el panel el 09/09 a las 11:33: «Hemos recordado por mail que no tenemos contestación y nos digan algo cuanto antes. de no tener contestación mañana pasaremos al wahtsapp de manera mas directa».",
    "quien": "Borja",
    "cuando": "2026-09-09",
-   "revive_si": "Pasa el 10/09 sin que se les escriba por WhatsApp o sin respuesta del cliente."
+   "revive_si": "Pasa el 10/09 sin que se les escriba por WhatsApp o sin respuesta del cliente.",
+   "revivido": "2026-09-15: se cumple el revive_si que dejó Borja el 09/09 («pasa el 10/09 sin respuesta del cliente»). Han pasado cuatro días laborables desde la reclamación por correo y Harmonie Salamanca sigue sin contestar los 7.260 €."
   },
   {
    "id": "6198-luxlaser-oliver-arturo",
@@ -2394,7 +2395,8 @@
    "porque": "La consola llegó rota y no enfria adecuadamente",
    "quien": "Gonzalo",
    "cuando": "2026-09-14",
-   "revive_si": "Smart Duck vuelve a reclamar o se decide qué se hace con el equipo original."
+   "revive_si": "Smart Duck vuelve a reclamar o se decide qué se hace con el equipo original.",
+   "revivido": "2026-09-15: se cumple el revive_si. Katy Lézoraine (Smart Duck) volvió sobre el equipo hoy a las 13:35 en «Smart Duck Technical Service»: «Regarding Labège — the unit needs to be returned due to delivery-related issues». Es una decisión sobre el equipo y no está escrita en el ticket."
   },
   {
    "id": "7577-sin-seguimiento-aun",
@@ -2669,7 +2671,8 @@
    "quien": "Isaac",
    "cuando": "2026-09-14",
    "hora": "18:39",
-   "revive_si": "si el campo de consola prestada de LEAS-7563 sigue diciendo 91119 cuando se pueda volver a leer Airtable"
+   "revive_si": "si el campo de consola prestada de LEAS-7563 sigue diciendo 91119 cuando se pueda volver a leer Airtable",
+   "revivido": "2026-09-15: hoy sí se ha podido bajar el Inmovilizado y el campo de consola prestada de LEAS-7563 sigue diciendo 91119, que consta como «Traditional Renting» de Segovia Y Callejo. Se cumple el revive_si tal y como lo dejó escrito Isaac el 14/09."
   },
   {
    "id": "7556-pendiente-aprobacion-humberto",
@@ -2760,6 +2763,36 @@
    "cuando": "2026-09-15",
    "hora": "11:46",
    "revive_si": "el 17/09 LEAS-7534 sigue en «En préstamo» y LEAS-7526 sin inspección de entrada"
+  },
+  {
+   "id": "7552-asnieres-consultado-de-nuevo",
+   "que": "LEAS-7552 Smart Duck Asnières · tres días laborables en «Abierto», sin técnico y sin nota nueva",
+   "ambito": {
+    "leas": "LEAS-7552",
+    "centro": "Smartduck Asnières",
+    "cliente": "Smart Duck",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "hemos consultado de nuevo si nos pueden dar mas información",
+   "quien": "Borja",
+   "cuando": "2026-09-15",
+   "hora": "13:05",
+   "revive_si": "Smart Duck contesta con la información pedida y el ticket sigue sin recogerla, o pasan 3 días laborables desde hoy sin nota nueva"
+  },
+  {
+   "id": "7405-espera-inicio-reparacion",
+   "que": "LEAS-7405 Elha Juan de Austria · Elha aceptó el presupuesto del cambio de diodo por correo y el ticket seguía en «Pendiente confirmación presupuesto»",
+   "ambito": {
+    "leas": "LEAS-7405",
+    "centro": "Elha Juan de Austria",
+    "cliente": "Elha",
+    "tipo": "presu"
+   },
+   "porque": "Estado en espera de inicio de reparación, así que n.a.",
+   "quien": "Chus",
+   "cuando": "2026-09-15",
+   "hora": "14:26",
+   "revive_si": "el 18/09 LEAS-7405 sigue en «Esperando inicio reparación» sin que la reparación haya empezado ni nota nueva"
   }
  ],
  "enlaces": [
@@ -3112,6 +3145,15 @@
    "quien": "Borja",
    "cuando": "2026-09-15",
    "nota": "Borja ató el punto del panel sin ticket de Pantera Barcelona a LEAS-7602 a las 11:15 desde la casilla: «punto del panel sin ticket, va con este». Isaac lo abrió a las 10:31 con la consola 91392 y el manípulo 20251."
+  },
+  {
+   "centro": "Centro Unico Libia",
+   "cliente": "Epil Point Italia",
+   "leas": "LEAS-7606",
+   "vinculado_a": "Centro Unico Milano Porta Romana",
+   "quien": "Chus",
+   "cuando": "2026-09-15",
+   "nota": "El gatillo LT del LEAS-7606 no era de Viale Libia sino de Milano Porta Romana. Chus lo escribió en el ticket a las 14:13 y a las 14:15 se corrigió con Sincronis en «Sincronis - Leaseir / ITS»; Chris Della Porta confirmó a las 14:46 que reconfiguraba la visita. La dirección del ticket (10138) ya es la de Milano; el campo de centro sigue diciendo Libia."
   }
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
