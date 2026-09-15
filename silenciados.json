@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-14T17:18",
+ "actualizado": "2026-09-15T10:18",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2640,6 +2640,66 @@
    "cuando": "2026-09-14",
    "hora": "15:13",
    "revive_si": "si el cliente vuelve a reclamar alguno de los cuatro"
+  },
+  {
+   "id": "7358-direccion-olbia-corregida",
+   "que": "LEAS-7358 Centri Unico Olbia · el envío iba a la dirección completa y el ticket sólo ponía «Cerdeña, Italia»",
+   "ambito": {
+    "leas": "LEAS-7358",
+    "centro": "Centri Unico Olbia",
+    "cliente": null,
+    "tipo": "envio-direccion"
+   },
+   "porque": "Corregida la dirección en el LEAS",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-14",
+   "hora": "17:13",
+   "revive_si": "si el campo de dirección de LEAS-7358 vuelve a quedarse sin la calle de Olbia"
+  },
+  {
+   "id": "7563-91119-parada-se-envio-91096",
+   "que": "LEAS-7563 Dermasana Princesa · la consola prestada 91119 figuraba en el Inmovilizado a nombre de otro cliente",
+   "ambito": {
+    "leas": "LEAS-7563",
+    "centro": "Dermasana Princesa",
+    "cliente": null,
+    "tipo": "serie-desconocida"
+   },
+   "porque": "se paralizo el envio de la 91119 y se envio la 91096 que es de sustitución.",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "18:39",
+   "revive_si": "si el campo de consola prestada de LEAS-7563 sigue diciendo 91119 cuando se pueda volver a leer Airtable"
+  },
+  {
+   "id": "7556-pendiente-aprobacion-humberto",
+   "que": "Material de Happy Laser para México (LEAS-7556) · la proforma llevaba ocho horas enviada y Humberto no contestaba",
+   "ambito": {
+    "leas": "LEAS-7556",
+    "centro": "JOULE MEDICAL",
+    "cliente": null,
+    "tipo": "sin-ticket"
+   },
+   "porque": "pendiente aprovación por parte del cliente",
+   "quien": "Isaac",
+   "cuando": "2026-09-14",
+   "hora": "20:04",
+   "revive_si": "si el 17/09 Humberto sigue sin aprobar la proforma"
+  },
+  {
+   "id": "7227-limoneros-se-quedan-la-susti",
+   "que": "LEAS-7227 Elha Limoneros · subtarea de sustitución con el padre cerrado y préstamo fuera de plazo",
+   "ambito": {
+    "leas": "LEAS-7227",
+    "centro": "Elha Limoneros",
+    "cliente": null,
+    "tipo": "prestamo-huerfano"
+   },
+   "porque": "se quedan la sustitución mientras reparamos su equipo . cerramos este LEAS y abrimos uno de sust en el caso de la  nueva incidencia",
+   "quien": "Borja",
+   "cuando": "2026-09-15",
+   "hora": "09:41",
+   "revive_si": "si el LEAS-7601 no recoge el préstamo o LEAS-7227 sigue abierto el 17/09"
   }
  ],
  "enlaces": [
