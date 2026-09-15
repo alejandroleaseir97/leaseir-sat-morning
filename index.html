@@ -851,7 +851,7 @@ dialog.wide{max-width:860px}
     </div>
     <div class="when">
       <b id="fechagrande">Lunes, 14 de septiembre 2026</b>
-      Última actualización: 15 sep 10:24 · Europe/Madrid
+      Última actualización: 15 sep 10:29 · Europe/Madrid
     </div>
   </header>
 
@@ -1606,7 +1606,7 @@ dialog.wide{max-width:860px}
     <span class="d">·</span>
     <span>Facturas deduplicadas por número (4 tickets compartían la de Brull)</span>
     <span class="d">·</span>
-      <span>Última actualización: 15 sep 10:24 · Europe/Madrid</span>
+      <span>Última actualización: 15 sep 10:29 · Europe/Madrid</span>
   </footer>
 
 <!-- ═════════ KPIs ═════════ -->
@@ -1805,7 +1805,7 @@ const CAD = {"telegram": ["Chus", "Gonzalo", "Isaac"], "wapp": ["Chus", "Gonzalo
 // Cadena de responsabilidad. Siempre tres nombres: quien lo tiene, a quién se lo pide
 // si no llega, y a quién se lo pide ese segundo. Siempre por el grupo, para que quede constancia.
 const FUERA = {"Cristina": "vacaciones", "Iván": "no consta fichado hoy"};
-const FUENTES = {"gen": "2026-09-15T10:24", "jira": "ok", "telegram": "ok", "wapp": "ok", "correo": "ok", "sesame": "ok", "airtable": "no: el conector de Airtable no está dado de alta en la tarea programada de las 9:30/12:30 (sí en la de la tarde), así que no se ha podido bajar el Inmovilizado", "holded": "parcial: Facturas leídas hoy a las 10:17 (Ventas → Facturas); la lista sigue cargando sólo 50 filas y los cobros por fecha de pago no se pueden extraer"};
+const FUENTES = {"gen": "2026-09-15T10:29", "jira": "ok", "telegram": "ok", "wapp": "ok", "correo": "ok", "sesame": "ok", "airtable": "no: el conector de Airtable no está dado de alta en la tarea programada de las 9:30/12:30 (sí en la de la tarde), así que no se ha podido bajar el Inmovilizado", "holded": "parcial: Facturas leídas hoy a las 10:29 (Ventas → Facturas); la lista sigue cargando sólo 50 filas y los cobros por fecha de pago no se pueden extraer"};
 // Qué fuentes leyó esta pasada. La escribe la pasada en cada corte (mismo objeto en los dos paneles) y
 // pintarFuentes() saca el aviso rojo cuando algo no es "ok": un bloque a cero de una fuente no leída
 // no significa que no haya nada, y eso el equipo tiene que verlo sin leer la p de cada bloque.
@@ -2272,7 +2272,7 @@ function renderTal(){
     //     es sencillamente mentira: el día no ha terminado.
     //  2. Si el fichaje que traigo no puede ser de hoy (la hora de salida es posterior al
     //     momento en que se generó el panel), es un dato arrastrado de otro día y no se enseña.
-    // A qué hora se generó este panel. Sale de la cabecera («Última actualización: 15 sep 10:24»).
+    // A qué hora se generó este panel. Sale de la cabecera («Última actualización: 15 sep 10:29»).
     // Si no se puede leer, se devuelve null y NO se acusa a nadie: ante la duda, callar.
     const genH = (function(){
       const e = document.querySelector('.head .when');
@@ -2336,7 +2336,7 @@ function renderTal(){
 // y el botón ni se enseña.
 // Horas fichadas hoy, leídas de Sesame (Who's in). `abierto` = seguía dentro al generar esto.
 // Se mantienen aunque se pulse Actualizar: el botón solo refresca lo de Jira.
-const HRS = {"Chus": {"h": 2.97, "txt": "2h 58min", "abierto": true}, "Borja": {"h": 1.83, "txt": "1h 50min", "abierto": true}, "Isaac": {"h": 0.83, "txt": "0h 50min", "abierto": true}, "Gonzalo": {"h": 0.73, "txt": "0h 44min", "abierto": true}};
+const HRS = {"Chus": {"h": 3.05, "txt": "3h 03min", "abierto": true}, "Borja": {"h": 1.92, "txt": "1h 55min", "abierto": true}, "Isaac": {"h": 0.92, "txt": "0h 55min", "abierto": true}, "Gonzalo": {"h": 0.82, "txt": "0h 49min", "abierto": true}};
 const ACT_CLOUD = "8aafbde8-66aa-4307-94f8-da22cdce723f";
 // accountId de cada uno en Jira: hace falta para preguntar "¿qué ha cerrado hoy?",
 // porque eso sale del historial de estados y ahí no vale el nombre.
@@ -3209,7 +3209,7 @@ function pintarBusFecha(){
 // Tres medidas separadas a propósito. La primera es trabajo que pasó por la herramienta y
 // no admite discusión. La segunda es seguimiento y puede confundir causa con coincidencia.
 // La tercera es el contraste honesto, y cuando el grupo de control es pequeño lo dice.
-const UTIL = {"_f": "2026-09-15", "hora": "10:17", "vent": "de las 00:00 de hoy a las 10:17 de hoy", "notas": 4, "notas_tk": 4, "noaplica": 0, "jira_directo": 4, "quien": {"Borja": 1, "Isaac": 1, "Jonathan": 1, "Iván": 1}, "pub": 0, "movio": 4, "movio_panel": 0, "cerro": 1, "solo_reparto": 0, "ctrl": 183, "ctrl_movio": 4, "L_notas": ["LEAS-7227", "LEAS-7361", "LEAS-7441", "LEAS-7540"], "L_movio": ["LEAS-7227", "LEAS-7361", "LEAS-7441", "LEAS-7540"]};
+const UTIL = {"_f": "2026-09-15", "hora": "10:17", "vent": "de las 00:00 de hoy a las 10:29 de hoy", "notas": 4, "notas_tk": 4, "noaplica": 0, "jira_directo": 4, "quien": {"Borja": 1, "Isaac": 1, "Jonathan": 1, "Iván": 1}, "pub": 0, "movio": 4, "movio_panel": 0, "cerro": 1, "solo_reparto": 0, "ctrl": 183, "ctrl_movio": 4, "L_notas": ["LEAS-7227", "LEAS-7361", "LEAS-7441", "LEAS-7540"], "L_movio": ["LEAS-7227", "LEAS-7361", "LEAS-7441", "LEAS-7540"]};
 function pintarUtil(){
   const c = document.getElementById('uti'); if(!c) return;
   const U = UTIL;
@@ -3218,7 +3218,7 @@ function pintarUtil(){
   const pm = U.pub ? Math.round(100*U.movio/U.pub) : 0, pc = U.pub ? Math.round(100*U.cerro/U.pub) : 0;
   const pctrl = U.ctrl ? Math.round(100*U.ctrl_movio/U.ctrl) : 0;
   const okCtrl = U.ctrl >= 30;
-  const veces = (okCtrl && U.ctrl_movio) ? (U.movio/U.pub) / (U.ctrl_movio/U.ctrl) : null;
+  const veces = (okCtrl && U.ctrl_movio && U.pub) ? (U.movio/U.pub) / (U.ctrl_movio/U.ctrl) : null;
   const quien = Object.keys(U.quien).sort(function(x,y){ return U.quien[y]-U.quien[x]; }).map(function(k){ return k+' '+U.quien[k]; }).join(' · ');
   const conPanel = U.movio ? Math.round(100*U.movio_panel/U.movio) : 0;
   c.innerHTML =
@@ -3244,8 +3244,8 @@ function pintarUtil(){
       ? '<button class="un debil" onclick="utilcalc(\'ctrl\')"><div class="ug">3 · lo que no saca, no se mueve</div><b>'+pctrl+' %</b>'
         + '<div class="ut">'+U.ctrl_movio+' de '+U.ctrl+' abiertos que NO salieron se movieron</div>'
         + '<span class="uf">comparación</span>'
-        + '<div class="us">'+(veces ? 'Lo publicado se movió '+(veces >= 10 ? Math.round(veces) : veces.toFixed(1)).replace('.',',')+' veces más que lo no publicado. '
-                                     : 'Nada de lo no publicado se movió. ')
+        + '<div class="us">'+(veces ? 'Lo publicado se movió '+String(veces >= 10 ? Math.round(veces) : veces.toFixed(1)).replace('.',',')+' veces más que lo no publicado. '
+                                     : (U.pub ? 'Nada de lo no publicado se movió. ' : 'En esta ventana el panel todavía no había publicado nada, así que no hay con qué comparar: lo que se ve es sólo el movimiento de fondo. '))
         + 'Muestra suficiente ('+U.ctrl+'); la pega ya no es el tamaño sino que los grupos no son iguales: el panel '
         + 'elige lo que toca tocar y deja fuera lo que espera a un tercero.</div></button>'
       : '<button class="un debil" onclick="utilcalc(\'ctrl\')"><div class="ug">3 · lo que no saca, ¿se mueve?</div><b>'+U.ctrl_movio+' de '+U.ctrl+'</b>'
