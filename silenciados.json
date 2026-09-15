@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-15T10:29",
+ "actualizado": "2026-09-15T13:14",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2700,6 +2700,66 @@
    "cuando": "2026-09-15",
    "hora": "09:41",
    "revive_si": "si el LEAS-7601 no recoge el préstamo o LEAS-7227 sigue abierto el 17/09"
+  },
+  {
+   "id": "7421-manipulo-ya-enviado",
+   "que": "LEAS-7421 L Medical (G-Point) · los documentos de transporte que Tihomir pidió el 14/09 seguían sin contestar",
+   "ambito": {
+    "leas": "LEAS-7421",
+    "centro": "L Medical (G-Point)",
+    "cliente": "Marvena Ltd",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "el manipulo ya se envio",
+   "quien": "Isaac",
+   "cuando": "2026-09-15",
+   "hora": "11:41",
+   "revive_si": "Tihomir vuelve a pedir la proforma o el packing list en «L Medical (G-Point) - Leaseir» y nadie contesta en el mismo día"
+  },
+  {
+   "id": "7450-enora-decide-hoy",
+   "que": "LEAS-7450 Dinámica Impulso (AHR0110) · siete días laborables en «Pendiente asignar técnico» y sin nadie asignado",
+   "ambito": {
+    "leas": "LEAS-7450",
+    "centro": "Dinamica impulso Yolanda Jaramillo",
+    "cliente": "Dinámica Impulso S.L.",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "Pdtes de quien paga el siniestro. cuando se hable con ENORA hoy se tomaran decisiones",
+   "quien": "Borja",
+   "cuando": "2026-09-15",
+   "hora": "11:14",
+   "revive_si": "el 16/09 sigue sin técnico y sin nota nueva sobre lo que dijo ENORA"
+  },
+  {
+   "id": "7456-ya-llego-el-laser",
+   "que": "LEAS-7456 Sinvello Zaragoza Catedral · la recogida se pidió el jueves y el equipo no aparecía por taller",
+   "ambito": {
+    "leas": "LEAS-7456",
+    "centro": "Sinvello Zaragoza Catedral",
+    "cliente": "Sin Vello por Laser Low Cost SL",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "ya llego el laser solo hace falta meter la entrada en jira",
+   "quien": "Isaac",
+   "cuando": "2026-09-15",
+   "hora": "11:32",
+   "revive_si": "el 17/09 el ticket sigue en «Pendiente asignar técnico» sin la entrada de taller metida"
+  },
+  {
+   "id": "7534-pistola-recogida-y-llegada",
+   "que": "LEAS-7534 Sinvello Zamora · la sustitución estaba en el centro desde el 09/09 y la averiada sin recoger",
+   "ambito": {
+    "leas": "LEAS-7534",
+    "centro": "Sinvello Zamora",
+    "cliente": "Sin Vello por Laser Low Cost SL",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "La pistola fue recogida y ha llegado hoy, 15 de septiembre de 2026; se avanza a Gestionada la recogida para poder rellenar los datos de inspección de entrada",
+   "quien": "Chus",
+   "cuando": "2026-09-15",
+   "hora": "11:46",
+   "revive_si": "el 17/09 LEAS-7534 sigue en «En préstamo» y LEAS-7526 sin inspección de entrada"
   }
  ],
  "enlaces": [
@@ -3044,6 +3104,14 @@
    "quien": "Isaac",
    "cuando": "2026-09-14",
    "nota": "Isaac ató el punto del panel sin ticket de Epil Point Aversa a LEAS-7583 a las 14:52 desde el panel; Borja lo repitió a las 15:15. El ticket lleva el manípulo 40374 y el seguimiento de DHL que Isaac pasó al grupo a las 15:06."
+  },
+  {
+   "centro": "Pantera Barcelona",
+   "cliente": "Pantera",
+   "leas": "LEAS-7602",
+   "quien": "Borja",
+   "cuando": "2026-09-15",
+   "nota": "Borja ató el punto del panel sin ticket de Pantera Barcelona a LEAS-7602 a las 11:15 desde la casilla: «punto del panel sin ticket, va con este». Isaac lo abrió a las 10:31 con la consola 91392 y el manípulo 20251."
   }
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
