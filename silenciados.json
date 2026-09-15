@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-15T15:47",
+ "actualizado": "2026-09-15T16:31",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -702,7 +702,8 @@
    "porque": "Borja lo contestó desde el panel el 09/09 a las 12:18 y 12:29: «actualizado», «sigue pendiente esa conversación con Arturo. Le comento a Oliver tb» y «sigue pdte que nos diga que hacer».",
    "quien": "Borja",
    "cuando": "2026-09-09",
-   "revive_si": "Pasa una semana sin que se sepa qué se decide. Lo del campo de link de ubicación vacío sí sigue saliendo, que es otra cosa."
+   "revive_si": "Pasa una semana sin que se sepa qué se decide. Lo del campo de link de ubicación vacío sí sigue saliendo, que es otra cosa.",
+   "caducado": "2026-09-15: era una espera a un tercero («sigue pdte que nos diga qué hacer», Andre y Arturo) y las esperas sólo apartan el punto de presupuestos tres días laborables. Se han cumplido (10, 11, 14 y 15/09), así que LEAS-6198 vuelve a salir en «Presupuestos sin respuesta» con sus 740 €."
   },
   {
    "id": "6891-gee-reclamado",
@@ -2793,6 +2794,51 @@
    "cuando": "2026-09-15",
    "hora": "14:26",
    "revive_si": "el 18/09 LEAS-7405 sigue en «Esperando inicio reparación» sin que la reparación haya empezado ni nota nueva"
+  },
+  {
+   "id": "7474-albufera-recogida-gestionada",
+   "que": "LEAS-7474 Dermasana Albuferas · seis días laborables sin nota de contenido con el reloj de reparación en cliente reventado",
+   "ambito": {
+    "leas": "LEAS-7474",
+    "centro": "Dermasana Albufera",
+    "cliente": "Dermasana",
+    "tipo": "repara-sin-nota"
+   },
+   "porque": "gstionada recogida",
+   "quien": "Borja",
+   "cuando": "2026-09-15",
+   "hora": "16:00",
+   "revive_si": "el 18/09 LEAS-7474 sigue en «Gestionado transporte» sin que conste ni la llegada de la sustitución ni la entrada de la averiada en taller"
+  },
+  {
+   "id": "7576-labege-recogida-pedida",
+   "que": "LEAS-7576 Smart Duck Labège · Katy Lézoraine dijo a las 13:35 que la unidad hay que devolverla por un problema de entrega y el ticket no lo recogía",
+   "ambito": {
+    "leas": "LEAS-7576",
+    "centro": "smartduck Labege",
+    "cliente": "Smart Duck",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "labege esta pedida la recogida",
+   "quien": "Borja",
+   "cuando": "2026-09-15",
+   "hora": "16:05",
+   "revive_si": "el 18/09 LEAS-7576 sigue en «Gestionado transporte» sin tracking de la recogida, o Smart Duck vuelve a escribir sobre Labège"
+  },
+  {
+   "id": "6765-tramites-equipo-medico",
+   "que": "LEAS-6765 Bella Forme · cinco días laborables en «Inspección de salida» con la nota de Isaac del 08/09 sin resolver",
+   "ambito": {
+    "leas": "LEAS-6765",
+    "centro": "Bella Forme",
+    "cliente": "Bella Forme",
+    "tipo": "cerrar-sin-finalizar"
+   },
+   "porque": "tramites burocraticos de equipo medico pdtes antes del envio",
+   "quien": "Borja",
+   "cuando": "2026-09-15",
+   "hora": "16:05",
+   "revive_si": "es una espera a un tercero: caduca el 22/09 (cinco días laborables). Si ese día LEAS-6765 sigue en «Inspección de salida» sin nota nueva sobre los trámites, el punto vuelve"
   }
  ],
  "enlaces": [
