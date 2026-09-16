@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-16T10:39",
+ "actualizado": "2026-09-16T13:12",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2510,7 +2510,8 @@
    "quien": "Borja",
    "cuando": "2026-09-14",
    "hora": "15:15",
-   "revive_si": "si GEE no ha llamado a la clienta antes del 16/09"
+   "revive_si": "si GEE no ha llamado a la clienta antes del 16/09",
+   "revivido": "2026-09-16: se cumple el revive_si («si GEE no ha llamado a la clienta antes del 16/09»). La última noticia sigue siendo la de GEE del 14/09 a las 10:57 («Informo al técnico para que se ponga en contacto con la clienta») y a las 13:12 de hoy no consta la llamada. Vuelve a «técnico externo»."
   },
   {
    "id": "7412-asignada-a-juan",
@@ -2843,6 +2844,96 @@
    "cuando": "2026-09-15",
    "hora": "16:05",
    "revive_si": "es una espera a un tercero: caduca el 22/09 (cinco días laborables). Si ese día LEAS-6765 sigue en «Inspección de salida» sin nota nueva sobre los trámites, el punto vuelve"
+  },
+  {
+   "id": "7563-listo-borja",
+   "que": "LEAS-7563 Dermasana Princesa · el campo de consola prestada decía 91119 en vez de 91096",
+   "ambito": {
+    "leas": "LEAS-7563",
+    "centro": "Dermasana Princesa",
+    "cliente": "Dermasana",
+    "tipo": "serie-desconocida"
+   },
+   "porque": "esto no aplica: listo",
+   "quien": "Borja",
+   "cuando": "2026-09-16",
+   "hora": "12:47",
+   "revive_si": "Es un hecho: el campo 10199 ya dice 91096, comprobado en Jira a las 13:12. Sólo vuelve si el campo se cambia otra vez a una serie que no sea del SAT."
+  },
+  {
+   "id": "7190-harmonie-contesta-16",
+   "que": "LEAS-7190 Harmonie Salamanca · presupuesto de 7.260 € sin respuesta del cliente",
+   "ambito": {
+    "leas": "LEAS-7190",
+    "centro": "Harmonie Salamanca",
+    "cliente": "Medicina Estética Salamanca, S.L.",
+    "tipo": "presu-sin-respuesta"
+   },
+   "porque": "el cliente ha contestado: dirección del centro a las 12:03 por correo, «Iván ya vuelve de su mes de vacaciones y ya habla contigo» (Borja reclamó a las 11:29 y respondió «ok gracias» a las 12:04)",
+   "quien": "Borja",
+   "cuando": "2026-09-16",
+   "hora": "12:04",
+   "revive_si": "Es una espera a un tercero con nombre: aparta el punto cinco días laborables. Si el 23/09 Iván no ha hablado con Borja o no hay nota nueva en el ticket, el punto vuelve a «presupuestos sin respuesta»."
+  },
+  {
+   "id": "7271-correo-reenviado-16",
+   "que": "LEAS-7271 Epil Point Lecce · reenviar a supportotecnico@epilpoint.it el correo del 2 de septiembre con los partes y la proforma",
+   "ambito": {
+    "leas": "LEAS-7271",
+    "centro": "Epil Point Lecce",
+    "cliente": "Epil Point Italia",
+    "tipo": "epil-correo-pendiente"
+   },
+   "porque": "hecho: Borja lo reenvió hoy a las 11:28 con la proforma adjunta a supportotecnico@epilpoint.it, domenico.granato y fabio.formisano, y el portal quedó arreglado a las 12:31 («done! it works»)",
+   "quien": "Borja",
+   "cuando": "2026-09-16",
+   "hora": "11:28",
+   "revive_si": "Es un hecho, no una espera. Sólo vuelve si Epil Point dice que no lo ha recibido o si a los cinco días laborables (23/09) no han aceptado el pedido del portal."
+  },
+  {
+   "id": "laser-factory-figueres-contestado",
+   "que": "Laser Factory Figueres · consola C00385 sin ticket y sin contestar",
+   "ambito": {
+    "leas": null,
+    "centro": "Laser Factory Figueres",
+    "cliente": "Laser Factory",
+    "tipo": "sin-ticket"
+   },
+   "porque": "ya estaba contestado: Isaac respondió el 15/09 a las 18:31 en «Sat Laser Factory» («lo mejor es traer a taller para ver cómo está el diodo, ¿tenéis sustitución allí?») y hoy el centro ha mandado el vídeo (09:07) y los parámetros (12:09). Chus lo está llevando",
+   "quien": "(recomprobado en WhatsApp)",
+   "cuando": "2026-09-16",
+   "hora": "13:12",
+   "revive_si": "El centro se queda sin respuesta más de un día laborable, o se decide traer el equipo a taller y sigue sin LEAS."
+  },
+  {
+   "id": "7521-sincronis-confirmado-16",
+   "que": "LEAS-7521 Epil Point Lecce · Sincronis sin fecha de intervención",
+   "ambito": {
+    "leas": "LEAS-7521",
+    "centro": "Epil Point Lecce",
+    "cliente": "Epil Point Italia",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "confirmado hoy: Marco La Viola escribió a las 12:21 en «Sincronis - Leaseir / ITS» «Hi, I'll be there soon epil point in Lecce»",
+   "quien": "(confirmado por Sincronis en WhatsApp)",
+   "cuando": "2026-09-16",
+   "hora": "12:21",
+   "revive_si": "El 17/09 no hay nota en LEAS-7521 diciendo qué hizo Sincronis en Lecce."
+  },
+  {
+   "id": "7452-gee-va-hoy-16",
+   "que": "LEAS-7452 Sin Vello Estepona · GEE sin dar fecha de intervención",
+   "ambito": {
+    "leas": "LEAS-7452",
+    "centro": "Sinvello Estepona",
+    "cliente": "Sin Vello por Laser Low Cost SL",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "GEE contestó hoy a las 09:12 por correo a la reclamación de Borja de las 09:02: «El técnico acudirá hoy al cliente, ya que tiene que ir por la zona, está esperando a que sean las 10 para informarles, ya que es a la hora que abren»",
+   "quien": "Borja",
+   "cuando": "2026-09-16",
+   "hora": "09:12",
+   "revive_si": "El 18/09 no consta en LEAS-7452 que el técnico de GEE haya ido a Estepona."
   }
  ],
  "enlaces": [
