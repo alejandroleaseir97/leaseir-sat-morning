@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-16T13:12",
+ "actualizado": "2026-09-16T13:19",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2858,7 +2858,7 @@
    "quien": "Borja",
    "cuando": "2026-09-16",
    "hora": "12:47",
-   "revive_si": "Es un hecho: el campo 10199 ya dice 91096, comprobado en Jira a las 13:12. Sólo vuelve si el campo se cambia otra vez a una serie que no sea del SAT."
+   "revive_si": "Es un hecho: el campo 10199 ya dice 91096, comprobado en Jira a las 13:19. Sólo vuelve si el campo se cambia otra vez a una serie que no sea del SAT."
   },
   {
    "id": "7190-harmonie-contesta-16",
@@ -2902,7 +2902,7 @@
    "porque": "ya estaba contestado: Isaac respondió el 15/09 a las 18:31 en «Sat Laser Factory» («lo mejor es traer a taller para ver cómo está el diodo, ¿tenéis sustitución allí?») y hoy el centro ha mandado el vídeo (09:07) y los parámetros (12:09). Chus lo está llevando",
    "quien": "(recomprobado en WhatsApp)",
    "cuando": "2026-09-16",
-   "hora": "13:12",
+   "hora": "13:19",
    "revive_si": "El centro se queda sin respuesta más de un día laborable, o se decide traer el equipo a taller y sigue sin LEAS."
   },
   {
