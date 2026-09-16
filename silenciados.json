@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-16T15:49",
+ "actualizado": "2026-09-16T16:37",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2938,6 +2938,81 @@
    "cuando": "2026-09-16",
    "hora": "09:12",
    "revive_si": "El 18/09 no consta en LEAS-7452 que el técnico de GEE haya ido a Estepona."
+  },
+  {
+   "id": "gigli-contestado-16",
+   "que": "Centri Unico I Gigli (Firenze) · la consola 00612 bloqueada, sin ticket",
+   "ambito": {
+    "cliente": "Centri Unico",
+    "centro": "Centri Unico I Gigli",
+    "tipo": "sin-ticket",
+    "leas": null
+   },
+   "porque": "Está contestado y lo llevan por privado: a las 15:27 Óscar Estrada lo repitió en «SAT Centri Unico - Leaseir» con la causa probable («El Centro de Florencia “Gigli” tiene el láser bloqueado. Creo es el caliport caducado»), a las 15:28 Borja contestó «estoy hablando con ellas por privado» y a las 15:33 Gonzalo cerró en «Centri Unico Italia - Leaseir» con «Sì, ti scrivo in privato». El punto de las 15:49 decía que seguía sin respuesta y eso ya no era cierto cuando se publicó.",
+   "quien": "Borja y Gonzalo",
+   "cuando": "2026-09-16",
+   "hora": "15:33",
+   "revive_si": "El 18/09 la consola 00612 de I Gigli sigue bloqueada o el centro vuelve a escribir, y sigue sin haber ticket abierto del centro."
+  },
+  {
+   "id": "7486-etiqueta-sabadell-16",
+   "que": "LEAS-7486 Laser Factory Sabadell · el centro dijo que ya se podía recoger y el ticket seguía en «Pendiente recogida»",
+   "ambito": {
+    "leas": "LEAS-7486",
+    "centro": "Laser Factory Sabadell",
+    "cliente": "Laser Factory",
+    "tipo": "sin-ticket"
+   },
+   "porque": "Borja mandó la etiqueta de recogida por WhatsApp a las 15:51 en «Sat Laser Factory»: «Etiqueta para Sabadell . Pasaran mañana», y el ticket pasó a «Gestionado transporte» a las 15:54.",
+   "quien": "Borja",
+   "cuando": "2026-09-16",
+   "hora": "15:51",
+   "revive_si": "El 18/09 la recogida de Sabadell no consta hecha o el ticket vuelve atrás."
+  },
+  {
+   "id": "7386-dua-belenus-16",
+   "que": "LEAS-7386 Belenús · parado en aduanas desde el 27/08 sin nota nueva",
+   "ambito": {
+    "leas": "LEAS-7386",
+    "centro": "Belenus",
+    "cliente": "Clinica Belenús SPA",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "Borja lo contestó desde el panel a las 15:46: «hemos pedido nueva documentacion que le nos han pedido ., necesitamos DUA de importación que tiene Belenus». Es el paso que el punto reclamaba.",
+   "quien": "Borja",
+   "cuando": "2026-09-16",
+   "hora": "15:46",
+   "revive_si": "Pasan 5 días laborables desde el 16/09 sin que Belenús mande el DUA o sin nota nueva."
+  },
+  {
+   "id": "7450-enora-paga-cliente-16",
+   "que": "LEAS-7450 Dinámica Impulso (AHR0110) · sin técnico y sin cerrar quién paga el siniestro",
+   "ambito": {
+    "leas": "LEAS-7450",
+    "centro": "Dinamica impulso Yolanda Jaramillo",
+    "cliente": "Dinámica Impulso S.L.",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "Borja lo cerró desde el panel a las 15:45: «pdte de hacer el presupuesto. la clienta está informada de que tendran que pagar». Ya no es una duda de quién paga, es un presupuesto por hacer.",
+   "quien": "Borja",
+   "cuando": "2026-09-16",
+   "hora": "15:45",
+   "revive_si": "Pasan 5 días laborables desde el 16/09 y LEAS-7450 sigue sin presupuesto y sin nota nueva."
+  },
+  {
+   "id": "7507-cerrado-sin-escribir-16",
+   "que": "LEAS-7507 Cavitbell · lo del manípulo dañado por el técnico de GEE no está en el ticket",
+   "ambito": {
+    "leas": "LEAS-7507",
+    "centro": "Cavitbell Centro Médico Estético",
+    "cliente": null,
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "El ticket se cerró a las 15:54 como «Finalizado técnico externo» y a las 15:55 se abrió LEAS-7638 con su sustitución LEAS-7639 para Pamplona, con tracking de MRW. El punto del equipo se apaga porque el expediente está cerrado; lo que queda —que el daño y la cancelación del presupuesto de GEE no constan en ninguna parte— es una decisión de Alejandro y vive en su panel.",
+   "quien": "Borja",
+   "cuando": "2026-09-16",
+   "hora": "15:54",
+   "revive_si": "No revive en el panel del equipo: el ticket está cerrado. Si se decide reclamar el daño a GEE, se abre expediente nuevo."
   }
  ],
  "enlaces": [
@@ -3299,6 +3374,15 @@
    "quien": "Chus",
    "cuando": "2026-09-15",
    "nota": "El gatillo LT del LEAS-7606 no era de Viale Libia sino de Milano Porta Romana. Chus lo escribió en el ticket a las 14:13 y a las 14:15 se corrigió con Sincronis en «Sincronis - Leaseir / ITS»; Chris Della Porta confirmó a las 14:46 que reconfiguraba la visita. La dirección del ticket (10138) ya es la de Milano; el campo de centro sigue diciendo Libia."
+  },
+  {
+   "centro": "Centro Unico Vercelli",
+   "cliente": "Centri Unico",
+   "leas": "LEAS-7640",
+   "vinculado_a": "punto del panel sin ticket: el ritiro del manípulo de Vercelli y la carcasa que sale",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-16",
+   "nota": "Gonzalo abrió LEAS-7640 (Corso Vercelli 31, Milano) a las 16:02 y lo enlazó con el punto desde el panel a las 16:03. A las 16:02 preguntó el número del manípulo en «SRF unico italia» y a las 16:16 el centro contestó: el que hay que retirar es el sust 006 y el que ya llegó, a la espera del involucro, es el sust 008."
   }
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
