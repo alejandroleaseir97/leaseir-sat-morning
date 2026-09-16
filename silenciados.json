@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-15T16:31",
+ "actualizado": "2026-09-16T10:24",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1545,7 +1545,8 @@
    "porque": "Se movió hoy a las 09:34 de «En reparación» a «Pendiente confirmación presupuesto», con Iván. Ya no es un ticket parado: el balón lo tiene el cliente.",
    "quien": "movimiento en Jira",
    "cuando": "2026-09-10",
-   "revive_si": "Vuelve a estar 3 días laborables sin nota en un estado que dependa de nosotros."
+   "revive_si": "Vuelve a estar 3 días laborables sin nota en un estado que dependa de nosotros.",
+   "revivido": "2026-09-16: se cumple el revive_si. La última nota de contenido es del 10/09 y ya han pasado los tres días laborables de la reclamación; MEDYBEAUTY sigue sin acuerdo de precio (16.044,60 €). Vuelve a «Presupuestos sin respuesta»."
   },
   {
    "id": "envios-material-naturaless-medsystem",
@@ -2733,7 +2734,8 @@
    "quien": "Borja",
    "cuando": "2026-09-15",
    "hora": "11:14",
-   "revive_si": "el 16/09 sigue sin técnico y sin nota nueva sobre lo que dijo ENORA"
+   "revive_si": "el 16/09 sigue sin técnico y sin nota nueva sobre lo que dijo ENORA",
+   "revivido": "2026-09-16: se cumple el revive_si («el 16/09 sigue sin técnico y sin nota nueva»). La conversación con ENORA sobre quién paga el siniestro seguía pendiente al cerrar ayer y hoy sigue sin técnico ni nota. Vuelve al bloque «sin técnico»."
   },
   {
    "id": "7456-ya-llego-el-laser",
