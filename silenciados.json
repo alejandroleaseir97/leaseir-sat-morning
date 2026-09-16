@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-16T13:19",
+ "actualizado": "2026-09-16T15:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -90,7 +90,8 @@
    "porque": "Sí tiene ticket: LEAS-7258, en 'En préstamo'. Aquí el aviso era CORRECTO —SinVello no ha contestado todavía en el chat—; lo único falso era decir que no estaba en Jira. El punto se puede volver a sacar, pero por el silencio del cliente, nunca por 'no está en Jira'. Chus dejó comentario en el ticket el 04/09 a las 19:37 informando de que se está a la espera de respuesta para efectuar la recogida.",
    "quien": "Chus",
    "cuando": "2026-09-04",
-   "revive_si": "Sigue sin respuesta de SinVello pasados varios días: entonces se saca como 'préstamo sin confirmar', citando la fecha del último mensaje."
+   "revive_si": "Sigue sin respuesta de SinVello pasados varios días: entonces se saca como 'préstamo sin confirmar', citando la fecha del último mensaje.",
+   "caducado": "2026-09-16: caduca por la regla de las esperas del 15/09. La nota de Chus del 04/09 («esperando respuesta de SinVello! para efectuar la recogida») es una espera a un tercero: siete días laborables sin respuesta ni nota nueva. LEAS-7258 vuelve a «no llega a taller»."
   },
   {
    "id": "7478-7477-hermanas",
@@ -363,7 +364,8 @@
    "porque": "Gonzalo lo contestó desde el panel el 07/09 a las 16:10: «El técnico está de baja, y el cliente quiere ese técnico por lo que estamos esperando». El ticket está parado a propósito.",
    "quien": "Gonzalo",
    "cuando": "2026-09-07",
-   "revive_si": "Se define el servicio externo o el técnico vuelve, y el ticket sigue sin link de ubicación en el campo 11354."
+   "revive_si": "Se define el servicio externo o el técnico vuelve, y el ticket sigue sin link de ubicación en el campo 11354.",
+   "caducado": "2026-09-16: caduca por la regla de las esperas del 15/09. La nota del 07/09 («el técnico está de baja y el cliente quiere ese técnico») es una espera a un tercero sin fecha: aparta el punto cinco días laborables y ya han pasado seis sin nota nueva. LEAS-7444 vuelve a «técnico externo»."
   },
   {
    "id": "7343-7472-recogida-enora",
@@ -1791,7 +1793,8 @@
    "porque": "«no aplica» de Borja del 11/09 a las 10:00 por la casilla del panel (guardado en el worker, GET /notas): «listo».",
    "quien": "Borja",
    "cuando": "2026-09-11",
-   "revive_si": "I Gigli vuelve a escribir por el mismo problema y sigue sin haber ticket abierto del centro."
+   "revive_si": "I Gigli vuelve a escribir por el mismo problema y sigue sin haber ticket abierto del centro.",
+   "revivido": "2026-09-16: se cumple el revive_si que dejó Borja el 11/09 («I Gigli vuelve a escribir por el mismo problema y sigue sin haber ticket abierto del centro»). Hoy a las 15:06 han escrito en «Centri Unico Italia - Leaseir» que la consola 00612 de I Gigli Firenze está bloqueada, y a las 16:20 sigue sin haber ningún ticket abierto del centro."
   },
   {
    "id": "7504-susti-entregada-cibeles",
@@ -1897,7 +1900,8 @@
    "porque": "Gonzalo escribio en el ticket el 10/09 a las 18:17: «Se le han pasado los pasos, pero no parece que los haya realizado correctamente, a la espera de actualizaciones». No es una recogida parada: se sigue intentando resolver en remoto con el cliente.",
    "quien": "Gonzalo",
    "cuando": "2026-09-11",
-   "revive_si": "El cliente confirma que ha hecho los pasos y el equipo sigue fallando, o pasan 3 dias laborables sin ninguna nota nueva en LEAS-7479."
+   "revive_si": "El cliente confirma que ha hecho los pasos y el equipo sigue fallando, o pasan 3 dias laborables sin ninguna nota nueva en LEAS-7479.",
+   "caducado": "2026-09-16: se cumple el revive_si que dejó Gonzalo el 11/09 («pasan 3 días laborables sin ninguna nota»). Cuatro días laborables sin nota y sin respuesta del centro de Vigo. LEAS-7479 vuelve a «sin técnico»."
   },
   {
    "id": "6765-encuesta-votada",
