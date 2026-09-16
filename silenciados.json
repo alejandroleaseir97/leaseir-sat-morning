@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-16T10:24",
+ "actualizado": "2026-09-16T10:39",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -998,7 +998,8 @@
    "porque": "Borja lo contestó desde el panel el 09/09 a las 14:16: «Parado en aduanas. He mandado hoy documento NO FARMIN que solicitaban». No es un transporte perdido, es una aduana.",
    "quien": "Borja",
    "cuando": "2026-09-09",
-   "revive_si": "Pasa una semana desde el 09/09 sin que aduanas lo libere o sin nota nueva."
+   "revive_si": "Pasa una semana desde el 09/09 sin que aduanas lo libere o sin nota nueva.",
+   "revivido": "2026-09-16: se cumple el revive_si. Belenús sigue en «Gestionado transporte»/aduanas desde el 27/08 y la última nota es del 09/09 («parado en aduanas, mandado el NO FARMIN»): una semana sin novedad. Vuelve a «no llega a taller»."
   },
   {
    "id": "depil-planet-mismo-centro",
@@ -2018,7 +2019,8 @@
    "porque": "El ticket paso a «En reparacion» el 11/09 a las 14:03 con Fran asignado: se esta trabajando en el, aunque la ultima nota escrita sea del 01/09.",
    "quien": "Fran",
    "cuando": "2026-09-12",
-   "revive_si": "Pasan 3 dias laborables desde el 11/09 sin nota nueva ni cambio de estado."
+   "revive_si": "Pasan 3 dias laborables desde el 11/09 sin nota nueva ni cambio de estado.",
+   "revivido": "2026-09-16: se cumple el revive_si (3 días laborables desde el 11/09 sin nota ni cambio de estado). La única nota de contenido es del 01/09. Vuelve a «reparación fuera de plazo»."
   },
   {
    "id": "7355-zurimed-diodo-en-fabricacion",
@@ -2674,7 +2676,7 @@
    "cuando": "2026-09-14",
    "hora": "18:39",
    "revive_si": "si el campo de consola prestada de LEAS-7563 sigue diciendo 91119 cuando se pueda volver a leer Airtable",
-   "revivido": "2026-09-15: hoy sí se ha podido bajar el Inmovilizado y el campo de consola prestada de LEAS-7563 sigue diciendo 91119, que consta como «Traditional Renting» de Segovia Y Callejo. Se cumple el revive_si tal y como lo dejó escrito Isaac el 14/09."
+   "revivido": "2026-09-16: bajado el Inmovilizado en esta pasada; el campo de consola prestada de LEAS-7563 sigue diciendo 91119, que consta como «Traditional Renting» de Segovia Y Callejo. Se mantiene el punto: corregir el campo a 91096."
   },
   {
    "id": "7556-pendiente-aprobacion-humberto",
