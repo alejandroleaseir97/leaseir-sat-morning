@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-17T17:12",
+ "actualizado": "2026-09-17T18:40",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -3494,6 +3494,34 @@
    "quien": "Borja",
    "cuando": "2026-09-17",
    "revive_si": "Es un hecho, no una espera: el documento se ha entregado. Solo vuelve si el centro dice que ese documento no les sirve."
+  },
+  {
+   "id": "7258-reclamado-dhl-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7258",
+    "centro": "SinVello Miraflores",
+    "cliente": "",
+    "tipo": "recogida-sin-numero"
+   },
+   "porque": "Se ha reclamado a DHL",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una reclamacion a un tercero: aparta el punto cinco dias laborables. Si el 24/09 la recogida sigue sin numero y el centro sigue con el equipo, vuelve."
+  },
+  {
+   "id": "7118-parte-reclamado-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7118",
+    "centro": "Corpoderm",
+    "cliente": "Corpoderm",
+    "tipo": "parte-sin-llegar"
+   },
+   "porque": "Se les ha preguntado si lo han cambiado",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una reclamacion al cliente: aparta el punto cinco dias laborables. Si el 24/09 el parte de Bahia sigue sin llegar, vuelve."
   }
  ],
  "enlaces": [
