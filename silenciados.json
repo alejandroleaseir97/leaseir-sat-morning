@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-17T10:32",
+ "actualizado": "2026-09-17T10:57",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -439,7 +439,7 @@
    "revive_si": "El cliente devuelve el equipo y el ticket sigue abierto, o pasan más de 30 días sin nota nueva sobre ese préstamo.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Superado por la nota de Borja del 15/09: se quedan la sustitución y el LEAS se cierra. El 17/09 sigue abierto."
    }
   },
@@ -944,7 +944,7 @@
    "revive_si": "Pasan 3 días laborables sin que Sincronis dé fecha, comprobado releyendo el ticket.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "El cliente confirmó el 16/09 a las 17:39 que la intervención de Lecce salió bien y pidió el parte; el ticket no lo recoge."
    }
   },
@@ -962,7 +962,7 @@
    "revive_si": "Pasan más de 5 días laborables sin que se retome, o el centro vuelve a reclamar.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "El «par de días» de la nota del 11/09 son ya cuatro días laborables y no hay respuesta ni decisión."
    }
   },
@@ -1130,7 +1130,7 @@
    "revive_si": "LEAS-7534 llega al centro y LEAS-7526 sigue sin recogida ni tracking pasados 3 días laborables.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "LEAS-7534 está en el centro y LEAS-7526 sigue sin recogida ni tracking tres días laborables después; sale en el punto de préstamo de Zamora."
    }
   },
@@ -1161,7 +1161,7 @@
    "revive_si": "Pasan 3 días laborables desde el 09/09 sin que Deseja confirme el envío, o sin nota nueva en el ticket.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "El 17/09 LEAS-7325 sigue en «Gestionado transporte» sin nota desde el 14/09."
    }
   },
@@ -1328,7 +1328,7 @@
    "revive_si": "Pasan 3 días laborables sin respuesta del cliente ni nota nueva.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Cinco días laborables sin respuesta del cliente sobre las válvulas ni nota nueva en el ticket; lo de ayer en el grupo era del aplicador, no de las válvulas."
    }
   },
@@ -1346,7 +1346,7 @@
    "revive_si": "Pasan 3 días laborables sin nota nueva del técnico.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Cinco días laborables sin nota nueva del técnico en LEAS-7312."
    }
   },
@@ -1402,7 +1402,7 @@
    "revive_si": "Pasan 5 días laborables y la sustitución sigue sin recogerse.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Cinco días laborables desde el 10/09 y la sustitución sigue sin recogerse: LEAS-7237 continúa en «Gestionada recogida» sin nota nueva."
    }
   },
@@ -1550,7 +1550,7 @@
    "revive_si": "El láser sale de taller y el préstamo sigue abierto 5 días laborables más.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "El láser salió de taller el lunes 14/09 (LEAS-7299 «Devuelto a cliente», envío publicado en ENVIOS a las 12:37) y el préstamo sigue abierto cinco días laborables después."
    }
   },
@@ -1652,7 +1652,7 @@
    "revive_si": "Epil Point pide mover la SUSTMHR019 de Viareggio, o el segundo manípulo vuelve a fallar, o pasan 3 días sin recoger.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Cinco días laborables desde el 10/09 sin que se recoja el manípulo de Sesto Fiorentino."
    }
   },
@@ -1696,7 +1696,7 @@
    "revive_si": "Pasan 5 días laborables desde el 10/09 sin que se repare ni se cierre el préstamo.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Cinco días laborables desde el 10/09 sin que se repare ni se cierre el préstamo, y el equipo del cliente (LEAS-7358) ya está devuelto."
    }
   },
@@ -1714,7 +1714,7 @@
    "revive_si": "Pasan 5 días laborables desde el 10/09 sin que se repare ni se cierre el préstamo.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Cinco días laborables desde el 10/09 sin que se repare ni se cierre el préstamo."
    }
   },
@@ -1910,7 +1910,7 @@
    "revive_si": "Pol confirma la recogida y la máquina llega a taller sin que LEAS-7227 se mueva de «En préstamo».",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Superado por la nota de Borja del 15/09: ya no se trata de que Pol recoja la sustitución, sino de cerrar el LEAS y abrir el nuevo, que ya existe (LEAS-7601)."
    }
   },
@@ -2078,7 +2078,7 @@
    "revive_si": "La sustitucion consta entregada y pasan 3 dias laborables sin que se recoja la averiada.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "La sustitución LEAS-7563 consta entregada («En préstamo», dada por lista el 16/09) y han pasado cuatro días laborables sin que se recoja la averiada."
    }
   },
@@ -2268,7 +2268,7 @@
    "revive_si": "Chus vuelve el miércoles 16/09 y no queda explicado ese mismo día.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Chus volvió el miércoles 16/09 y trabajó, y LEAS-7325 no tiene ni una línea nueva desde el 14/09. Se cumple su revive_si al pie de la letra."
    }
   },
@@ -2403,7 +2403,7 @@
    "revive_si": "Sincronis no va el 16/09.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Sincronis fue el 16/09 y el ticket sigue sin decir qué hizo."
    }
   },
@@ -2447,7 +2447,7 @@
    "revive_si": "La C03227 sigue sin recogerse el 17/09.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Su revive_si decía «la C03227 sigue sin recogerse el 17/09» y hoy es 17: LEAS-7553 sigue en «Pendiente recogida» sin nota desde el 14/09."
    }
   },
@@ -2478,7 +2478,7 @@
    "revive_si": "La sustitución no consta entregada el 17/09.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Su revive_si decía «la sustitución no consta entregada el 17/09»: Sincronis avisó hoy a las 09:40 de que la recogida en Cinisello falló ayer por segunda vez."
    }
   },
@@ -2804,7 +2804,7 @@
    "revive_si": "si el LEAS-7601 no recoge el préstamo o LEAS-7227 sigue abierto el 17/09",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "El 17/09 LEAS-7227 sigue abierto y la sustitución nueva (LEAS-7601) ya está abierta desde el 15/09: se cumple su revive_si."
    }
   },
@@ -2870,7 +2870,7 @@
    "revive_si": "el 17/09 LEAS-7534 sigue en «En préstamo» y LEAS-7526 sin inspección de entrada",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Su revive_si decía «el 17/09 LEAS-7534 sigue En préstamo y LEAS-7526 sin inspección de entrada»: las dos cosas se cumplen."
    }
   },
@@ -3025,7 +3025,7 @@
    "revive_si": "El 17/09 no hay nota en LEAS-7521 diciendo qué hizo Sincronis en Lecce.",
    "revivido": {
     "cuando": "2026-09-17",
-    "hora": "10:32",
+    "hora": "10:57",
     "motivo": "Su revive_si decía «el 17/09 no hay nota en LEAS-7521 diciendo qué hizo Sincronis en Lecce»: hoy es 17 y no la hay."
    }
   },
