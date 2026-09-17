@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-17T15:50",
+ "actualizado": "2026-09-17T16:41",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -3466,6 +3466,34 @@
    "quien": "Borja",
    "cuando": "2026-09-17",
    "revive_si": "Pasan 5 dias laborables desde el 17/09 sin nota nueva en LEAS-7412."
+  },
+  {
+   "id": "7505-cola-taller-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7505",
+    "centro": "Sin Vello Cadiz",
+    "cliente": "",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "Esta en cola de taller su consola que tuvo que volver porque el cliente no notaba efecto",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una espera interna al taller: aparta el punto cinco dias laborables. Si el 24/09 la consola sigue sin repararse y la sustitucion sigue en el centro, vuelve."
+  },
+  {
+   "id": "parma-declaracion-conformidad-17",
+   "que": "Epil Point Parma pedia la Declaracion de Conformidad (DM 206/2015) con una inspeccion en marcha",
+   "ambito": {
+    "leas": "",
+    "centro": "Epil Point Parma",
+    "cliente": "Epil Point",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "Borja subio a las 16:20 al grupo EPIL POINT LASER SUPPORT el PDF Scheda_Tecnica_Leiseir_secondo_Decr_206_2015_Leaseir_Medical_LIght (3 paginas), que es la documentacion que pedian los inspectores",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es un hecho, no una espera: el documento se ha entregado. Solo vuelve si el centro dice que ese documento no les sirve."
   }
  ],
  "enlaces": [
