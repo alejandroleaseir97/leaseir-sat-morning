@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-17T13:12",
+ "actualizado": "2026-09-17T15:50",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -547,7 +547,8 @@
    "quien": "Isaac",
    "cuando": "2026-09-07",
    "anotado": "2026-09-08",
-   "revive_si": "Pasa el miércoles 9 sin que la caja salga de Gijón, o el ticket sigue sin dueño el jueves."
+   "revive_si": "Pasa el miércoles 9 sin que la caja salga de Gijón, o el ticket sigue sin dueño el jueves.",
+   "revivido": "2026-09-17 15:50: mismo motivo, la caja de madera sigue sin constar entregada."
   },
   {
    "id": "7158-serie-41003",
@@ -612,7 +613,8 @@
    "porque": "Isaac lo contestó desde el panel el 09/09 a las 11:07: «esta pedida la recogida para hoy por Enora y Dhl». A las 12:31 añadió que hay que pedirle a Ernesto por Telegram que meta un spray de prueba.",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables desde el 09/09 y el equipo sigue sin entrar en taller."
+   "revive_si": "Pasan 3 días laborables desde el 09/09 y el equipo sigue sin entrar en taller.",
+   "revivido": "2026-09-17 15:50: la espera vencio. Ademas la peticion que Isaac marco como IMPORTANTE el 09/09 (mandar un telegram a Ernesto para meter un spray de prueba) sigue sin contestar seis dias laborables despues."
   },
   {
    "id": "7334-metido-con-dhl",
@@ -660,7 +662,8 @@
    "porque": "Borja lo cerró desde el panel el 09/09 a las 12:19 con «esto no aplica: pedido parte a corpoderm», después de escribir a las 12:10 «solicitado un parte de que han hecho el cambio. Es equipo medico y debe quedar todo debidamente registrado».",
    "quien": "Borja",
    "cuando": "2026-09-09",
-   "revive_si": "Corpoderm manda el parte y el ticket sigue sin moverse, o pasan 15 días sin nota nueva."
+   "revive_si": "Corpoderm manda el parte y el ticket sigue sin moverse, o pasan 15 días sin nota nueva.",
+   "revivido": "2026-09-17 15:50: la espera a Corpoderm vencio a los cinco dias laborables desde el 09/09 y el parte de la reparacion de Bahia sigue sin llegar."
   },
   {
    "id": "7048-envio-material-cerrado",
@@ -734,7 +737,8 @@
    "porque": "Isaac lo contestó desde el panel el 09/09 a las 12:09: «recoge el cliente, ya esta avisado». El ticket sigue abierto a propósito hasta que el cliente pase.",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 10 días y el cliente no ha recogido la pieza de mano."
+   "revive_si": "Pasan 10 días y el cliente no ha recogido la pieza de mano.",
+   "revivido": "2026-09-17 15:50: la espera al cliente vencio a los cinco dias laborables desde el 09/09. El cliente sigue sin recoger la pieza de mano y el SLA de cierre lleva 13,8 dias reventado."
   },
   {
    "id": "7247-recogida-dhl",
@@ -929,7 +933,8 @@
    "porque": "Isaac lo contestó desde el panel el 09/09 a las 13:28: «se envia caja de madera, hasta que no llegue a la clinica no podemos recoger». Es la misma lógica de siempre: no se recoge hasta que llega el embalaje o la sustitución.",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Consta que la caja de madera llegó al centro y siguen pasando 3 días laborables sin recogida ni tracking."
+   "revive_si": "Consta que la caja de madera llegó al centro y siguen pasando 3 días laborables sin recogida ni tracking.",
+   "revivido": "2026-09-17 15:50: la espera vencio. La nota del 09/09 («se envia caja de madera, hasta que no llegue a la clinica no podemos recoger») aparta el punto cinco dias laborables y hoy van seis, sin que conste que la caja llegara ni que se pidiera la recogida."
   },
   {
    "id": "7521-reclamado-sincronis",
@@ -1430,7 +1435,8 @@
    "porque": "Isaac lo contestó desde el panel a las 11:38: «aun no ha llegado su laser por eso esta aun en prestamo, los envios desde Tenerife tardan mas de lo normal».",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "El láser del cliente consta entregado y el préstamo sigue abierto."
+   "revive_si": "El láser del cliente consta entregado y el préstamo sigue abierto.",
+   "revivido": "2026-09-17 15:50: la espera al transporte vencio a los cinco dias laborables desde el 10/09 y el laser del cliente sigue sin llegar ni constar por donde va."
   },
   {
    "id": "7415-recogida-repetida",
@@ -1443,7 +1449,8 @@
    "porque": "Isaac lo contestó desde el panel a las 11:40: «hemos tenido con la maquina que se envio reparada y se ha tenido que recoger de nuevo por eso lleva muchos dias».",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "La máquina reparada vuelve al centro y el préstamo sigue abierto 5 días laborables más."
+   "revive_si": "La máquina reparada vuelve al centro y el préstamo sigue abierto 5 días laborables más.",
+   "revivido": "2026-09-17 15:50: la espera vencio a los cinco dias laborables desde el 10/09, sin nota nueva ni cambio de estado."
   },
   {
    "id": "7476-innet-garantia",
@@ -1469,7 +1476,8 @@
    "porque": "Isaac lo contestó desde el panel a las 12:02: «se ha enviado caja de madera a la clinica que no tienen, cuando llegue se solicitara la recogida del laser y se metera el tracking». El tracking está aplazado a propósito.",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "La caja consta entregada y pasan 2 días laborables sin tracking de recogida."
+   "revive_si": "La caja consta entregada y pasan 2 días laborables sin tracking de recogida.",
+   "revivido": "2026-09-17 15:50: la espera vencio. La nota del 10/09 aparta el punto cinco dias laborables y hoy se cumplen, sin tracking de recogida ni nota nueva."
   },
   {
    "id": "7500-reclamado-innet",
@@ -3276,6 +3284,188 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-17",
    "revive_si": "Es una recogida pedida: aparta el punto cinco dias laborables. Si el 24/09 la C03204 y el H01026 siguen en prestamo sin que la recogida se haya materializado, vuelve."
+  },
+  {
+   "id": "7621-numero-correcto-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7621",
+    "centro": "CLINIC AND ESTHETIC by Skincare Addict",
+    "cliente": "",
+    "tipo": "serie-desconocida"
+   },
+   "porque": "el numero es correcto",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "El campo 10199 de LEAS-7621 cambia de AHR0082 a otra cosa, o el Inmovilizado da de alta esa serie con otra actividad."
+  },
+  {
+   "id": "7534-asignado-ya-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7534",
+    "centro": "Sinvello Zamora",
+    "cliente": "",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "Esta asignado ya",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Pasan 5 dias laborables desde el 17/09 y LEAS-7534 sigue En prestamo con LEAS-7526 sin inspeccion de entrada."
+  },
+  {
+   "id": "7343-al-dia-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7343",
+    "centro": "Elha Sta teresa",
+    "cliente": "",
+    "tipo": "presu-sin-respuesta"
+   },
+   "porque": "caso actualizado y al dia",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es un hecho: el ticket se movio a «Esperando inicio reparacion» el 17/09. Solo vuelve si a los 3 dias laborables sigue sin importe en el campo 10301 o sin fecha de reparacion."
+  },
+  {
+   "id": "7466-aceptado-por-mail-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7466",
+    "centro": "Sin Vello Teatinos",
+    "cliente": "",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "ya esta actualziado y aceptsado el presupuesto por mail",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "El ticket vuelve atras o la factura de 1.687,95 EUR emitida hoy se queda sin reparacion asociada."
+  },
+  {
+   "id": "7312-cerrado-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7312",
+    "centro": "Elha Vilanova",
+    "cliente": "",
+    "tipo": "cerrar-sin-finalizar"
+   },
+   "porque": "cerrado el caso",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es un hecho: LEAS-7312 quedo Finalizada el 17/09 a las 14:27. Solo vuelve si se reabre."
+  },
+  {
+   "id": "7359-en-transito-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7359",
+    "centro": "Centri Unico Olbia",
+    "cliente": "",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "aun no ha llegado , esta en transisto",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una espera al transporte: aparta el punto cinco dias laborables. Si el 24/09 el H01025 sigue en el centro sin constar la entrada, vuelve."
+  },
+  {
+   "id": "7237-reclamado-dhl-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7237",
+    "centro": "Smart Duck Labege",
+    "cliente": "",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "reclamado el envio a Dhl",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una reclamacion: aparta el punto cinco dias laborables. Si el 24/09 la sustitucion sigue sin recogerse, vuelve."
+  },
+  {
+   "id": "7553-recogida-alcala-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7553",
+    "centro": "Dermasana Calle Alcala",
+    "cliente": "",
+    "tipo": "repara-sin-nota"
+   },
+   "porque": "lo preparan hoy para recoger, en cuantro este nos avisan",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es un hecho con hora: el centro dijo a las 14:25 «ahora os lo preparo, que me trajo Claudia ayer el maletin». Si el 24/09 la C03227 sigue sin recogerse, vuelve."
+  },
+  {
+   "id": "7520-equipo-nuevo-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7520",
+    "centro": "L Medical (G-Point)",
+    "cliente": "",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "HEmos cambiado el estado , SE le ha mandado un equipo nuevo a cambio . Cuando llegue lo devolveremos a fabrica",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es un hecho: el estado cambio y se mando equipo nuevo. Solo vuelve si a los 5 dias laborables el equipo averiado no consta devuelto a fabrica."
+  },
+  {
+   "id": "7636-zurimed-consultado-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7636",
+    "centro": "CEntros Zurimed (Parque Principado)",
+    "cliente": "",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "les consultamos por el cha por que no nos dejan claro i piueden trabajar o no. Asi ganamos tiempo para conseguir una sust",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una espera a la respuesta del centro: aparta el punto tres dias laborables. Si el 22/09 no hay sustitucion organizada ni nota nueva, vuelve."
+  },
+  {
+   "id": "7408-asignada-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7408",
+    "centro": "Elha Sta teresa",
+    "cliente": "",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "esta asignada para hacerse en cuanto se pueda",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una espera interna: aparta el punto cinco dias laborables. Si el 24/09 la SUSTMHR013 sigue en el centro, vuelve."
+  },
+  {
+   "id": "7658-umbilical-sale-hoy-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7658",
+    "centro": "SinVello A Coruna",
+    "cliente": "",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "si , sale una hoy",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es flujo normal: el centro pidio la pieza a las 14:28 y Borja confirmo a las 14:48 que sale hoy. Solo vuelve si el 18/09 el umbilical no consta enviado."
+  },
+  {
+   "id": "7412-actualizado-17",
+   "que": "punto del panel contestado por el equipo el 17/09",
+   "ambito": {
+    "leas": "LEAS-7412",
+    "centro": "",
+    "cliente": "",
+    "tipo": "sin-movimiento"
+   },
+   "porque": "actualizado el jira",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Pasan 5 dias laborables desde el 17/09 sin nota nueva en LEAS-7412."
   }
  ],
  "enlaces": [
