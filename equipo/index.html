@@ -609,7 +609,7 @@ details.comova2 .cm-in{padding:0 18px 16px}
     </div>
     <div class="when">
       <b id="fecha">Miércoles, 16 de septiembre 2026</b>
-      <span id="corte" data-gen="2026-09-17T16:41">Última actualización: 17 sept 16:41</span>
+      <span id="corte" data-gen="2026-09-17T17:12">Última actualización: 17 sept 17:12</span>
       <span id="jira-vivo" class="prox"></span>
       <button class="recarga" onclick="location.reload()" title="Solo recarga la página. Los datos se regeneran a las 9:30, 12:30, 15:10, 16:10, 18:10 y 20:10.">Recargar</button>
     </div>
@@ -952,7 +952,7 @@ const CAD = {"envio": ["Gonzalo", "Isaac", "Chus"], "telegram": ["Chus", "Gonzal
 // Cadena de responsabilidad. Siempre tres nombres: quien lo tiene, a quién se lo pide
 // si no llega, y a quién se lo pide ese segundo. Siempre por el grupo, para que quede constancia.
 const FUERA = {"Cristina": "vacaciones", "Borja": "turno terminado (salió a las 16:20)"};
-const FUENTES = {"gen": "2026-09-17T16:41", "jira": "ok", "telegram": "ok", "wapp": "ok", "correo": "ok", "sesame": "ok", "airtable": "ok", "holded": "parcial: no se entra en la pasada de las 16:10 (solo en las de 9:30 y 15:10); FACT, Cobros y el ritmo de presupuestos siguen siendo los recalculados a las 15:50"};
+const FUENTES = {"gen": "2026-09-17T17:12", "jira": "ok", "telegram": "ok", "wapp": "ok", "correo": "ok", "sesame": "ok", "airtable": "ok", "holded": "parcial: no se entra en la pasada de las 16:10 (solo en las de 9:30 y 15:10); FACT, Cobros y el ritmo de presupuestos siguen siendo los recalculados a las 15:50"};
 // Qué fuentes leyó esta pasada. La escribe la pasada en cada corte (mismo objeto en los dos paneles) y
 // pintarFuentes() saca el aviso rojo cuando algo no es "ok": un bloque a cero de una fuente no leída
 // no significa que no haya nada, y eso el equipo tiene que verlo sin leer la p de cada bloque.
@@ -1150,7 +1150,7 @@ function titularEf(k, t){
   return titularBase(k, t);
 }
 
-const BMETA = {"telegram": [2, 2, 0], "wapp": [2, 2, 0], "serie": [0, 0, 37], "envio": [0, 0, 3], "ruta": [2, 2, 18], "maps": [0, 0, 46], "track": [0, 0, 9], "nadie": [0, 0, 23], "huerf": [0, 0, 11], "epil": [0, 0, 16], "parado": [0, 0, 0], "repara": [3, 3, 69], "prestamo": [4, 4, 22], "cerrar": [2, 2, 10], "externo": [0, 0, 16], "medias": [0, 0, 19], "presu": [0, 0, 12]};
+const BMETA = {"wapp": ["a", "📱", "2"], "ruta": ["a", "🔴", "18"], "maps": ["b", "📍", "46"], "track": ["b", "🚚", "9"], "nadie": ["a", "🚩", "23"], "huerf": ["a", "🧟", "11"], "epil": ["a", "🇮🇹", "16"], "parado": ["a", "⏸", "0"], "repara": ["b", "🔧", "69"], "prestamo": ["b", "🔁", "22"], "cerrar": ["c", "✅", "10"], "externo": ["a", "🛠", "16"], "medias": ["a", "📝", "19"], "telegram": ["a", "💬", "2"], "equipo": ["d", "👏", "4"], "envio": ["a", "📦", "3"], "serie": ["a", "🏷", "37"], "miercoles": ["a", "📅", "0"], "transporte": ["b", "📦", "1"], "privado": ["a", "🔒", "—"], "presu": ["b", "💶", "12"]};
 const BTIT  = {"envio": "La dirección del envío no cuadra con el ticket", "wapp": "WhatsApp dice una cosa y Jira otra", "serie": "La serie prestada no cuadra con el inventario", "ruta": "Salió del cliente y no llega a taller", "maps": "Falta el link de ubicación", "track": "Falta el tracking del transporte", "nadie": "Sin técnico y paradas, fuera de cadena", "huerf": "Subtareas con el ticket padre ya cerrado", "epil": "Epil Point · el cliente que no pasa por Jira", "parado": "Incidencias paradas más de 15 días", "repara": "Reparación fuera de plazo", "prestamo": "Préstamos fuera de plazo", "cerrar": "Terminados y sin cerrar", "externo": "Técnico externo: se gestiona y ahí se queda", "transporte": "El transporte, el cuello de botella sin medir", "medias": "A medio gestionar y sin observación en Jira", "privado": "Clientes grandes atendidos por privado", "telegram": "Telegram dice una cosa y Jira otra", "equipo": "Cómo va el equipo", "miercoles": "Para el miércoles", "lunes": "Para el lunes", "presu": "Presupuestos que el cliente no contesta"};
 
 // ── Acumulación de avisos: 2ª jornada campana, 3ª en rojo ──
