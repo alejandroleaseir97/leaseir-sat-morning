@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-17T10:57",
+ "actualizado": "2026-09-17T13:08",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2283,7 +2283,8 @@
    "porque": "efectuada por Enora pdte de que nos la entreguen",
    "quien": "Borja",
    "cuando": "2026-09-14",
-   "revive_si": "Enora no entrega el equipo antes del 17/09."
+   "revive_si": "Enora no entrega el equipo antes del 17/09.",
+   "revivido": "2026-09-17 13:20: su revive_si era «Enora no entrega el equipo antes del 17/09». Hoy es 17 y LEAS-7343 sigue en «Presupuesto preparado pendiente de enviar» sin nota desde el 14/09. El punto vuelve en el bloque de presupuestos."
   },
   {
    "id": "7523-flujo-normal",
@@ -3147,7 +3148,134 @@
    "quien": "Isaac",
    "cuando": "2026-09-17",
    "hora": "09:36",
-   "revive_si": "Pasan 3 días laborables desde el 17/09 sin que se pida la recogida ni haya nota nueva en LEAS-7258."
+   "revive_si": "Pasan 3 días laborables desde el 17/09 sin que se pida la recogida ni haya nota nueva en LEAS-7258.",
+   "revivido": "2026-09-17 13:20: a las 12:06 el propio centro escribio en SINVELLO - SEGUIMIENTO SUSTITUCIONES que el equipo llevaba listo desde el primer dia y que no les consta que haya ido nadie a recogerlo. El silencio de las 09:36 era sobre la autorizacion; esto es un hecho nuevo y posterior, y en sentido contrario."
+  },
+  {
+   "id": "romaest-franquiciados-17",
+   "que": "Las cuatro gafas de proteccion que pidio Centro Unico Roma Est el 16/09 a las 20:12",
+   "ambito": {
+    "leas": null,
+    "centro": "Centro Unico Roma Est",
+    "cliente": "Centri Unico",
+    "tipo": "sin-ticket"
+   },
+   "porque": "son franquiciados. Los pedios de material deben gestionarlos a nivel interno y que nis los traslade Oscar a nosotros",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Roma Est vuelve a pedir material directamente y nadie contesta, o Oscar traslada el pedido a Leaseir y no se abre ticket."
+  },
+  {
+   "id": "santboi-caliport-17",
+   "que": "Laser Factory Sant Boi (consola 00684) no podia calibrar tras el cambio de caliport",
+   "ambito": {
+    "leas": null,
+    "centro": "Laser Factory Sant Boi",
+    "cliente": "Laser Factory",
+    "tipo": "sin-ticket"
+   },
+   "porque": "abierto caso , llama Gonzalo",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es un hecho: LEAS-7652 se abrio a las 11:47 y Gonzalo dejo el equipo funcionando a las 12:32 («ya esta, que no apaguen el equipo»), con otro caliport pedido a fabrica para hoy. Solo vuelve si Sant Boi vuelve a no calibrar y LEAS-7652 sigue sin nota."
+  },
+  {
+   "id": "7572-sustahrd015",
+   "que": "LEAS-7572: el campo de consola prestada decia SUSTAHRD005, que no consta en el Inmovilizado",
+   "ambito": {
+    "leas": "LEAS-7572",
+    "centro": "No filters (Dinamica Impulso)",
+    "cliente": "Dinamica Impulso S.L.",
+    "tipo": "serie-desconocida"
+   },
+   "porque": "SUSTAHRD015",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-17",
+   "revive_si": "El campo 10199 de LEAS-7572 sigue diciendo SUSTAHRD005 pasados 2 dias laborables desde hoy, o aparece una tercera serie distinta."
+  },
+  {
+   "id": "7561-asturias-17",
+   "que": "LEAS-7561 (Dermasana Princesa) llevaba cuatro dias laborables sin nota con la sustitucion ya entregada",
+   "ambito": {
+    "leas": "LEAS-7561",
+    "centro": "Dermasana Princesa",
+    "cliente": "Dermasana",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "Todavia no ha llegado a taller está en Asturias",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una espera al transporte: aparta el punto cinco dias laborables. Si el 24/09 LEAS-7561 sigue en «Pendiente recogida» sin entrada en taller ni nota nueva, vuelve."
+  },
+  {
+   "id": "7325-bielorrusia-17",
+   "que": "LEAS-7325 (MedQuant / Rusia) llevaba desde el 14/09 sin una linea nueva",
+   "ambito": {
+    "leas": "LEAS-7325",
+    "centro": "MedQuant",
+    "cliente": "AMB",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "La pieza sigue de camino a Bielorrusia al tecnico que luego hara el envio a taller . Seguimos investigando que relación hay entre deseja y esta gente",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 24/09 la pieza no consta en taller o no hay nota nueva, vuelve. Medquant dijo hoy a las 12:12 que aun no han enviado nada y que esperan la unidad en su oficina de Moscu."
+  },
+  {
+   "id": "7573-reclamado-sincronis-17",
+   "que": "LEAS-7573 (Elha Cinisello a Carducci): la recogida de DHL habia fallado dos veces y el ticket no lo decia",
+   "ambito": {
+    "leas": "LEAS-7573",
+    "centro": "Elha Laser Center Milano - Carducci",
+    "cliente": "Elha",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "se ha reclamado otra vez hoy el envio a sincronis,",
+   "quien": "Borja",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 24/09 el equipo sigue sin salir de Cinisello o Sincronis vuelve a escribir sin respuesta, vuelve."
+  },
+  {
+   "id": "7334-energia-fran-17",
+   "que": "LEAS-7334 (BEAUTY Centre d'estetica) llevaba seis dias laborables en «Presupuesto preparado pendiente de enviar» sin nota y sin importe",
+   "ambito": {
+    "leas": "LEAS-7334",
+    "centro": "BEAUTY Centre d'estetica",
+    "cliente": "Cat Depilgrup S.L.",
+    "tipo": "presu-sin-respuesta"
+   },
+   "porque": "Isaac pregunto hoy a las 12:27 en SAT TALLER LEASEIR «la leas-7334 me puedes decir si se puede subir la energia», y Fran contesto a las 12:33 explicando la version 1.5.0.1 y el riesgo de pasar a las tablas de una version mas actual",
+   "quien": "Isaac",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una espera tecnica: aparta el punto tres dias laborables. Si el 22/09 LEAS-7334 sigue sin presupuesto enviado y sin importe en el campo 10301, vuelve."
+  },
+  {
+   "id": "7535-palermo-retirado-17",
+   "que": "LEAS-7535 (Unico Palermo): el envio se daba por «de reparto» el 14/09 y el equipo no constaba en taller",
+   "ambito": {
+    "leas": "LEAS-7535",
+    "centro": "Unico Palermo",
+    "cliente": "Beauty Cool Italia (Unico)",
+    "tipo": "no-llega-taller"
+   },
+   "porque": "Buongiorno da Palermo vi comunichiamo che hanno appena ritirato il laser",
+   "quien": "Centro Unico Palermo (via Telegram, 12:13)",
+   "cuando": "2026-09-17",
+   "revive_si": "Es un hecho con fecha: el laser salio del centro hoy a las 12:13. Solo vuelve si a los cinco dias laborables (24/09) no consta la entrada en taller."
+  },
+  {
+   "id": "7385-etiqueta-granada-16",
+   "que": "LEAS-7385 (Sin Vello Granada Constitucion): el equipo del cliente salio el 14/09 y el prestamo seguia abierto",
+   "ambito": {
+    "leas": "LEAS-7385",
+    "centro": "SinVello Granada Constitucion",
+    "cliente": "Sin Vello por Laser Low Cost SL",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "El 16/09 a las 18:03 se le paso al centro por SINVELLO - SEGUIMIENTO SUSTITUCIONES el PDF de la etiqueta de recogida: «el equipo de sustitucion de Granada Constitucion ya se puede recoger» y «si la pueden pegar en la caja»",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-17",
+   "revive_si": "Es una recogida pedida: aparta el punto cinco dias laborables. Si el 24/09 la C03204 y el H01026 siguen en prestamo sin que la recogida se haya materializado, vuelve."
   }
  ],
  "enlaces": [
