@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-18T16:24",
+ "actualizado": "2026-09-18T18:35",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -3953,6 +3953,48 @@
    "quien": "Borja",
    "cuando": "2026-09-18T15:00",
    "revive_si": "Nunca por esto: un ticket cancelado no vuelve al panel. Si reaparece como abierto, es un fallo de la pasada y hay que mirarlo."
+  },
+  {
+   "id": "7677-caliport-recalibrado-18",
+   "que": "Laser Factory Sant Boi: el caliport llego y no calibraba",
+   "ambito": {
+    "leas": "LEAS-7677",
+    "centro": "Laser Factory Sant boi",
+    "cliente": "Laser Factory",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "Gonzalo lo explico desde el panel el 18/09 a las 17:44: «Se recalibra el caliport antiguo, se recogen los 2 nuevos». A las 16:01 ya lo habia diagnosticado en el grupo interno («los 2 caliports que se enviaron a Sant Boi dan 100-120») y a las 17:09 se lo conto a Laser Factory, que contesto a las 17:13 «De acuerdo, quedamos atentos» y anadio que Madrid tambien quedo solucionado.",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho con hora y confirmado por el cliente. Vuelve si Sant Boi vuelve a reclamar el caliport, si el 25/09 LEAS-7677 sigue en «Material enviado», o si los dos caliports nuevos con lecturas raras se quedan sin decision."
+  },
+  {
+   "id": "7445-aceptado-elha-18",
+   "que": "Elha Caracol 40308: la aceptacion del cambio no estaba en el ticket",
+   "ambito": {
+    "leas": "LEAS-7445",
+    "centro": "Elha Caracol",
+    "cliente": "Elha",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "Gonzalo lo dejo escrito en el ticket el 18/09 a las 17:43: «Esta esperando el inicio de reparacion porque ha sido aceptado». La aceptacion de Pol Martinez («Adelante con el cambio», correo de las 15:01 con el equipo en copia) ya consta en el expediente.",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho con hora. Vuelve si el 25/09 la reparacion de los 14.411 € sigue sin arrancar y el ticket sigue en «Esperando inicio reparacion»."
+  },
+  {
+   "id": "7575-pieza-a-ostia-18",
+   "que": "Centri Unico Globo (Busnago): sustitucion en «Solicitado» desde el 11/09 sin ninguna nota",
+   "ambito": {
+    "leas": "LEAS-7575",
+    "centro": "Centri Unico Globo",
+    "cliente": "Centri Unico",
+    "tipo": "epil-sin-nota"
+   },
+   "porque": "Gonzalo lo explico desde el panel el 18/09 a las 17:44: «Estamos esperando a que la pieza llegue a Ostia, no ha llegado».",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-18",
+   "revive_si": "Es una espera a un envio de un tercero: aparta el punto cinco dias laborables. Vuelve el 25/09 si la pieza sigue sin llegar a Ostia o si la sustitucion de Busnago sigue en «Solicitado» sin nota nueva."
   }
  ],
  "enlaces": [
