@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-18T11:32",
+ "actualizado": "2026-09-18T13:17",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2750,7 +2750,12 @@
    "quien": "Borja",
    "cuando": "2026-09-14",
    "hora": "15:13",
-   "revive_si": "si el cliente vuelve a reclamar alguno de los cuatro"
+   "revive_si": "si el cliente vuelve a reclamar alguno de los cuatro",
+   "revivido": {
+    "cuando": "2026-09-18",
+    "hora": "13:17",
+    "porque": "Se cumple su revive_si («si el cliente vuelve a reclamar alguno de los cuatro»): el 17/09 a las 16:57 Laser Factory volvio a escribir en «Sat Laser Factory» con tres preguntas abiertas (Ample, el tecnico de Madrid y el caliport de Sant Boi, que necesitan el sabado) y a fecha de hoy siguen sin contestar."
+   }
   },
   {
    "id": "7358-direccion-olbia-corregida",
@@ -2942,7 +2947,12 @@
    "quien": "Borja",
    "cuando": "2026-09-15",
    "hora": "16:05",
-   "revive_si": "el 18/09 LEAS-7576 sigue en «Gestionado transporte» sin tracking de la recogida, o Smart Duck vuelve a escribir sobre Labège"
+   "revive_si": "el 18/09 LEAS-7576 sigue en «Gestionado transporte» sin tracking de la recogida, o Smart Duck vuelve a escribir sobre Labège",
+   "revivido": {
+    "cuando": "2026-09-18",
+    "hora": "13:17",
+    "porque": "Se cumple su propio revive_si al pie de la letra: hoy 18/09 LEAS-7576 sigue en «Gestionado transporte» y el campo 11420 no lleva el tracking de la recogida pendiente, sino el de OTRO envio (JJD014600012821862355), que DHL dio por entregado en Gijon hoy a las 12:08. Ademas hay un hecho nuevo y posterior al silencio: el 17/09 a las 12:17 Borja reclamo a DHL la recogida del waybill 9894326923 y a las 13:37 DHL le pidio el PRG, sin respuesta desde entonces."
+   }
   },
   {
    "id": "6765-tramites-equipo-medico",
@@ -3579,6 +3589,160 @@
    "quien": "Borja",
    "cuando": "2026-09-18",
    "revive_si": "Es un hecho con hora. Vuelve si pasan 5 dias laborables desde el 17/09 (el 24/09) y el laser sigue sin constar en taller."
+  },
+  {
+   "id": "7415-laser-sale-hoy-18",
+   "que": "punto de prestamo de LEAS-7415 (Sinvello Provenza)",
+   "ambito": {
+    "leas": "LEAS-7415",
+    "centro": "Sinvello Provenza",
+    "cliente": "Sin Vello",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "Isaac lo explico desde el panel a las 11:52: «sale hoy su laser reparado, cuando llegue el suyo se pide la recogida de la sustitucion»",
+   "quien": "Isaac",
+   "cuando": "2026-09-18",
+   "revive_si": "Es una espera a que llegue el laser reparado: aparta el punto cinco dias laborables. Si el 25/09 la SUSTMHR030 y la SUSTDUAL010 siguen en prestamo, vuelve."
+  },
+  {
+   "id": "7191-cambio-de-diodo-18",
+   "que": "punto de prestamo de LEAS-7191 (Harmonie Salamanca)",
+   "ambito": {
+    "leas": "LEAS-7191",
+    "centro": "Harmonie Salamanca",
+    "cliente": "Harmonie",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "Isaac lo explico desde el panel a las 11:56: «esta en reparación de cambio de diodo, cuando se repare y se envié, recuperamos la sustitucion»",
+   "quien": "Isaac",
+   "cuando": "2026-09-18",
+   "revive_si": "Es una espera a una reparacion en curso: aparta el punto cinco dias laborables. Si el 25/09 la SUSTQUAD025 sigue en prestamo y el ticket sigue sin nota, vuelve."
+  },
+  {
+   "id": "7420-aun-no-han-recogido-18",
+   "que": "punto de cerrar de LEAS-7420 (Medical & Aesthetics, Panama)",
+   "ambito": {
+    "leas": "LEAS-7420",
+    "centro": "Medical & Aesthetics Solutions",
+    "cliente": "Medical & Aesthetics",
+    "tipo": "terminado-sin-finalizar"
+   },
+   "porque": "Isaac lo explico desde el panel a las 12:23: «aun no han recogido»",
+   "quien": "Isaac",
+   "cuando": "2026-09-18",
+   "revive_si": "Es una espera a que el cliente recoja, no un hecho: aparta el punto cinco dias laborables. Si el 25/09 la pieza de mano sigue sin recogerse, vuelve y toca reclamar o cerrar."
+  },
+  {
+   "id": "6907-hablara-arturo-18",
+   "que": "punto de presupuestos sin respuesta de LEAS-6907 (Apain Estetika)",
+   "ambito": {
+    "leas": "LEAS-6907",
+    "centro": "Apain Estetika",
+    "cliente": "Apain",
+    "tipo": "presu-sin-respuesta"
+   },
+   "porque": "Isaac lo explico desde el panel a las 12:26: «hablara con ella Arturo»",
+   "quien": "Isaac",
+   "cuando": "2026-09-18",
+   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Vuelve el 23/09 si Arturo no ha hablado con la clienta o si sigue sin decidirse entre reclamar y cancelar."
+  },
+  {
+   "id": "7619-problema-remitido-18",
+   "que": "punto de sin tecnico de LEAS-7619 (Laser Factory Castelldefels)",
+   "ambito": {
+    "leas": "LEAS-7619",
+    "centro": "Laser Factory man & woman Castelldefels",
+    "cliente": "Laser Factory",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "Isaac lo explico desde el panel a las 12:27: «el problema a remitido, se cancela»",
+   "quien": "Isaac",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho declarado, pero el ticket sigue en «Abierto»: si el 25/09 sigue sin cancelarse, vuelve. Esta apuntado en el panel de Alejandro como dicho y no hecho."
+  },
+  {
+   "id": "7375-laser-publicado-18",
+   "que": "punto de prestamo de LEAS-7375 (Cleanbody CC La Villa)",
+   "ambito": {
+    "leas": "LEAS-7375",
+    "centro": "Cleanbody CC La Villa",
+    "cliente": "Cleanbody",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "Ernesto publico hoy a las 10:27 en ENVIOS SAT LEASEIR el envio del laser del cliente («90737 / 30267 Clean Body La Villa, Centro Comercial la Villa, Autopista del Nte., 36, 38312 La Orotava, LEAS-7374»), asi que ya consta por donde va",
+   "quien": "Ernesto",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho con hora. Vuelve si pasan cinco dias laborables (el 25/09) y la C00367 y el H00751 siguen en prestamo sin que el laser del cliente haya llegado."
+  },
+  {
+   "id": "7640-etiqueta-mandada-18",
+   "que": "punto de telegram de LEAS-7640 (Centro Unico Vercelli)",
+   "ambito": {
+    "leas": "LEAS-7640",
+    "centro": "Centro Unico Vercelli",
+    "cliente": "Beauty Cool Italia (Unico)",
+    "tipo": "telegram-sin-nota"
+   },
+   "porque": "Isaac mando la etiqueta de recogida en «SRF unico italia» a las 10:39 y 10:43 y lo escribio en el ticket a las 10:40 («se le envia etiqueta para su recogida»); el ticket ha pasado a «Gestionado transporte» y a las 12:56 Borja se lo paso a Gonzalo",
+   "quien": "Isaac",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho con hora y con cambio de estado. Vuelve si pasan cinco dias laborables (el 25/09) y la recogida sigue sin hacerse."
+  },
+  {
+   "id": "7320-listo-para-presupuestar-18",
+   "que": "punto de reparacion fuera de plazo de LEAS-7320 (Belleza Begona Tapia)",
+   "ambito": {
+    "leas": "LEAS-7320",
+    "centro": "Belleza Begona Tapia",
+    "cliente": "Belleza Begona Tapia",
+    "tipo": "repara-fuera-de-plazo"
+   },
+   "porque": "Chus escribio a las 12:04 en el grupo interno «Caso listo para elaborar el presupuesto para la cliente» e Isaac lo dejo en el ticket a las 12:24 («se esta reparamdo ya»); el ticket ha pasado a «Presupuesto preparado pendiente de enviar» con Chus asignado",
+   "quien": "Chus",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho con hora y con cambio de estado. Vuelve por «presupuestos sin respuesta» si pasan cinco dias laborables desde hoy (el 25/09) sin que el presupuesto salga."
+  },
+  {
+   "id": "7456-tecnico-asignado-18",
+   "que": "punto de sin tecnico de LEAS-7456 (Sinvello Zaragoza Catedral)",
+   "ambito": {
+    "leas": "LEAS-7456",
+    "centro": "Sinvello Zaragoza Catedral",
+    "cliente": "Sin Vello",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "Isaac lo asigno a un tecnico y lo dejo escrito a las 12:27 («ya se lo he asignado a un técnico»); el ticket esta en «En cola taller» con Jonathan",
+   "quien": "Isaac",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho con hora. Vuelve si el ticket se queda otra vez sin tecnico o si el 25/09 sigue en cola sin que arranque la reparacion."
+  },
+  {
+   "id": "modena-ancona-contestado-18",
+   "que": "punto de Epil Point sobre la entrega de Modena y Ancona (sin ticket)",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point Modena y Ancona",
+    "cliente": "Epil Point Italia",
+    "tipo": "epil-sin-respuesta"
+   },
+   "porque": "Borja contesto en EPIL POINT LASER SUPPORT a las 10:30: las dos maquinas salieron el miercoles a la sede de Napoli con DHL 3351110273 y no se cambia el destino de un envio ya hecho; reaccionaron con un 👍 y no han vuelto a preguntar",
+   "quien": "Borja",
+   "cuando": "2026-09-18",
+   "revive_si": "Es una respuesta dada, no una espera. Vuelve si el lunes 21/09 las maquinas no estan en la sede de Napoli o si Epil Point vuelve a preguntar."
+  },
+  {
+   "id": "vomero-ticket-abierto-18",
+   "que": "punto de telegram de Natur Belle Vomero (SRF completo sin expediente)",
+   "ambito": {
+    "leas": "LEAS-7673",
+    "centro": "Natur Belle Vomero",
+    "cliente": "Natur Belle",
+    "tipo": "sin-ticket"
+   },
+   "porque": "Hoy se ha abierto LEAS-7673 (Natur Belle Vomero, SRF0028, «Pendiente recogida»), cinco dias despues de que el SRF saliera: el punto pedia exactamente esto",
+   "quien": "Alejandro",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho: el expediente existe. El caso sigue vivo en el panel de Alejandro como ejemplo de por que hay que abrir ticket el mismo dia, pero ya no es punto del equipo."
   }
  ],
  "enlaces": [
