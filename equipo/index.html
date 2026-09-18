@@ -966,7 +966,7 @@ function pintarFuentes(){
     + '. <span class="fd">Un bloque a cero de esas fuentes no significa que no haya nada.</span>';
 }
 
-const NOTA_HOY = ["LEAS-6765", "LEAS-7118", "LEAS-7237", "LEAS-7258", "LEAS-7312", "LEAS-7325", "LEAS-7343", "LEAS-7359", "LEAS-7374", "LEAS-7385", "LEAS-7408", "LEAS-7412", "LEAS-7423", "LEAS-7445", "LEAS-7448", "LEAS-7466", "LEAS-7482", "LEAS-7484", "LEAS-7505", "LEAS-7520", "LEAS-7530", "LEAS-7534", "LEAS-7553", "LEAS-7561", "LEAS-7572", "LEAS-7573", "LEAS-7621", "LEAS-7636"];
+const NOTA_HOY = [];
 function disp(n){ return !FUERA[n]; }
 // Fuera TODO el día (vacaciones, ausencia, baja) no es lo mismo que haber terminado el turno.
 // Quien se ha ido a casa sigue siendo el dueño de lo suyo mañana por la mañana: si no, al cerrar
@@ -1160,7 +1160,7 @@ const BTIT  = {"envio": "La dirección del envío no cuadra con el ticket", "wap
 // Y solo cuentan los DÍAS LABORABLES. Un punto que se dice el viernes y sigue el lunes va por
 // el segundo aviso, no por el cuarto: el fin de semana y los festivos no son días de trabajo.
 const FESTIVOS = ["2026-01-01", "2026-01-06", "2026-02-17", "2026-04-02", "2026-04-03", "2026-05-01", "2026-06-29", "2026-08-15", "2026-09-08", "2026-10-12", "2026-11-02", "2026-12-07", "2026-12-08", "2026-12-25"];
-const AVDIAS = {"telegram|Natur Belle Vomero (Nápoles) · **el SRF comp": ["2026-09-17"], "LEAS-7640": ["2026-09-17"], "telegram|Centro Unico Roma Est · **piden cuatro gafas": ["2026-09-17"], "wapp|Laser Factory Sant Boi · consola 00684 · **e": ["2026-09-17"], "LEAS-7573": ["2026-09-17"], "wapp|SinVello · **los presupuestos que el cliente": ["2026-09-17"], "LEAS-7572": ["2026-09-17"], "LEAS-7621": ["2026-09-17"], "LEAS-7325": ["2026-09-17"], "LEAS-7237": ["2026-09-17"], "LEAS-7468": ["2026-09-17"], "LEAS-7520": ["2026-09-17"], "LEAS-7530": ["2026-09-17"], "LEAS-7561": ["2026-09-17"], "LEAS-7227": ["2026-09-17"], "LEAS-7423": ["2026-09-17"], "LEAS-7484": ["2026-09-17"], "LEAS-7553": ["2026-09-17"], "LEAS-7359": ["2026-09-17"], "LEAS-7385": ["2026-09-17"], "LEAS-7408": ["2026-09-17"], "LEAS-7534": ["2026-09-17"], "LEAS-7312": ["2026-09-17"], "LEAS-7521": ["2026-09-17"], "LEAS-7334": ["2026-09-17"]};
+const AVDIAS = {"telegram|Natur Belle Vomero (Napoles) · quinto dia co": ["2026-09-18"], "LEAS-7640": ["2026-09-17", "2026-09-18"], "telegram|Centri Unico Rende · el SRF sigue sin recoge": ["2026-09-18"], "LEAS-7612": ["2026-09-18"], "wapp|Laser Factory · tres preguntas abiertas desd": ["2026-09-18"], "LEAS-7662": ["2026-09-18"], "wapp|Epil Point Messina · la via alternativa tamp": ["2026-09-18"], "LEAS-7465": ["2026-09-18"], "LEAS-7456": ["2026-09-18"], "LEAS-7527": ["2026-09-18"], "LEAS-7619": ["2026-09-18"], "epil|Epil Point · Modena y Ancona · **llevan desd": ["2026-09-18"], "LEAS-7270": ["2026-09-18"], "LEAS-7320": ["2026-09-18"], "LEAS-7415": ["2026-09-18"], "LEAS-7191": ["2026-09-18"], "LEAS-7375": ["2026-09-18"], "LEAS-7420": ["2026-09-18"], "LEAS-7578": ["2026-09-18"], "LEAS-4443": ["2026-09-18"], "LEAS-7403": ["2026-09-18"], "LEAS-6198": ["2026-09-18"], "LEAS-6907": ["2026-09-18"]};
 const HOYISO = new Date().toISOString().slice(0,10);
 const MESCORTO = ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'];
 const DIASEM = ['domingo','lunes','martes','miércoles','jueves','viernes','sábado'];
@@ -1620,7 +1620,7 @@ function respHtml(k, t){
 
 // Tickets que cada uno ha llevado hoy a un estado de cierre. Lo rellena la pasada leyendo
 // el historial de estados de Jira; vacío mientras no haya pasada del día.
-const CERRADO = {"Isaac": ["LEAS-7355", "LEAS-7356", "LEAS-7452"], "Borja": ["LEAS-7121", "LEAS-7140", "LEAS-7224", "LEAS-7227", "LEAS-7299", "LEAS-7302", "LEAS-7307", "LEAS-7312", "LEAS-7356", "LEAS-7468", "LEAS-7521", "LEAS-7530"]};
+const CERRADO = {};
 let FILTRO = null, VERHECHOS = false;
 // Filtro por cliente: para cuando quieres repasar un centro entero de una sentada.
 // Se cruza con el de persona, no lo sustituye.
