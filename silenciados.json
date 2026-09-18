@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-17T18:40",
+ "actualizado": "2026-09-18T09:13",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -687,7 +687,8 @@
    "porque": "Borja lo contestó desde el panel el 09/09 a las 11:37: «no hay novedades. Se lo vamos a recordar a Oliver para decidir si cerramos el caso definitivamente o esperamos».",
    "quien": "Borja",
    "cuando": "2026-09-09",
-   "revive_si": "Pasa una semana sin que se decida si se cierra el caso."
+   "revive_si": "Pasa una semana sin que se decida si se cierra el caso.",
+   "caducado": "2026-09-18: paso una semana desde el 09/09 sin que se decidiera si se cierra el caso, que era su revive_si. Ademas la ultima nota (Isaac, 15/09 19:51, «se le vuelve a comentar») es una reclamacion y aparta el punto solo tres dias laborables. LEAS-4443 vuelve a «Presupuestos sin respuesta» con sus 12.560 EUR."
   },
   {
    "id": "7190-harmonie-recordado",
@@ -3522,6 +3523,62 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-17",
    "revive_si": "Es una reclamacion al cliente: aparta el punto cinco dias laborables. Si el 24/09 el parte de Bahia sigue sin llegar, vuelve."
+  },
+  {
+   "id": "7484-presupuesto-hecho-17",
+   "que": "punto de reparacion fuera de plazo de LEAS-7484 (Con Diodo Alcoy)",
+   "ambito": {
+    "leas": "LEAS-7484",
+    "centro": "Con Diodo Nacho",
+    "cliente": "ConDiodo",
+    "tipo": "repara-fuera-de-plazo"
+   },
+   "porque": "Borja le hizo el presupuesto el 17/09 a las 15:13: 2.044,99 EUR, con el alcance escrito («no aparece Stop 6, tiene un golpe en la puntera; necesita cambio de puntera y optica») y el PDF E261817 adjunto",
+   "quien": "Borja",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho, no una espera: el presupuesto esta hecho y enviado. El ticket vuelve por «presupuestos sin respuesta» si pasan 5 dias laborables desde el 17/09 (el 24/09) sin que el cliente conteste."
+  },
+  {
+   "id": "7485-inspeccion-salida-hecha-17",
+   "que": "punto de terminado sin finalizar de LEAS-7485 (Con Diodo Nacho)",
+   "ambito": {
+    "leas": "LEAS-7485",
+    "centro": "Con Diodo Nacho",
+    "cliente": "ConDiodo",
+    "tipo": "terminado-sin-finalizar"
+   },
+   "porque": "Ernesto hizo la inspeccion de salida entera el 17/09 a las 16:14 (lista de comprobacion rellena, accesorios, cinco fotos) y paso el ticket de «Inspeccion de salida» a «Devuelto a cliente»",
+   "quien": "Ernesto",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho con hora. Vuelve si pasan 5 dias laborables desde el 17/09 (el 24/09) y el ticket sigue en «Devuelto a cliente» sin finalizar."
+  },
+  {
+   "id": "5697-recogida-pedida-17",
+   "que": "punto de prestamo fuera de plazo de LEAS-5697 (Smart Duck Paris), el mas antiguo",
+   "ambito": {
+    "leas": "LEAS-5697",
+    "centro": "Smart Duck Paris",
+    "cliente": "Smart Duck",
+    "tipo": "prestamo-huerfano"
+   },
+   "porque": "Gonzalo movio el ticket el 17/09 a las 16:04 de «En prestamo» a «Gestionada recogida», o sea que la recogida de la C03143 y el H03143 ya esta pedida",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-18",
+   "revive_si": "Es una recogida pedida: aparta el punto cinco dias laborables. Si el 24/09 la C03143 y el H03143 siguen sin constar recogidas, vuelve. Lo de que las series no consten en el Inmovilizado es otra cosa y sigue vivo en el panel de Alejandro."
+  },
+  {
+   "id": "7510-transporte-gestionado-17",
+   "que": "punto de ruta de LEAS-7510 (Elha Boltana)",
+   "ambito": {
+    "leas": "LEAS-7510",
+    "centro": "Elha Boltana",
+    "cliente": "Elha",
+    "tipo": "llega-tarde-a-taller"
+   },
+   "porque": "Borja le gestiono el transporte el 17/09 a las 09:07 y le metio el tracking de DHL (JJD00006286083902338001), asi que la caja de madera llego y la recogida esta hecha",
+   "quien": "Borja",
+   "cuando": "2026-09-18",
+   "revive_si": "Es un hecho con hora. Vuelve si pasan 5 dias laborables desde el 17/09 (el 24/09) y el laser sigue sin constar en taller."
   }
  ],
  "enlaces": [
