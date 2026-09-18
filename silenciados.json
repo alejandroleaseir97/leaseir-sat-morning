@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-18T13:17",
+ "actualizado": "2026-09-18T15:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -3743,6 +3743,216 @@
    "quien": "Alejandro",
    "cuando": "2026-09-18",
    "revive_si": "Es un hecho: el expediente existe. El caso sigue vivo en el panel de Alejandro como ejemplo de por que hay que abrir ticket el mismo dia, pero ya no es punto del equipo."
+  },
+  {
+   "id": "7576-dos-recogidas-hechas-18",
+   "que": "Que LEAS-7576 (smartduck Labege) sigue en «Gestionado transporte» y que el tracking del ticket no es el envio que se reclamaba",
+   "ambito": {
+    "leas": "LEAS-7576",
+    "centro": "smartduck Labege",
+    "cliente": "Smart Duck",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "esto no aplica: habai dos recogidas hechas. llego . todo aclarado",
+   "quien": "Borja",
+   "cuando": "2026-09-18T13:52",
+   "revive_si": "Es un hecho declarado: las dos recogidas estan hechas y el equipo llego. Vuelve si Smart Duck Labege vuelve a reclamar el envio o si el 25/09 LEAS-7576 sigue abierto en «Gestionado transporte»."
+  },
+  {
+   "id": "7270-autorizado-arturo-18",
+   "que": "Que LEAS-7270 (Epil Point Lecce) sigue esperando el correo que el cliente ha pedido dos veces y sigue asignado a un tecnico que no esta disponible",
+   "ambito": {
+    "leas": "LEAS-7270",
+    "centro": "Epil Point Lecce",
+    "cliente": "Epil Point Italia",
+    "tipo": "epil-sin-respuesta"
+   },
+   "porque": "esto no aplica: el cambio lo autorizo Arturo por chat privado y el tecnico que figura asignado no esta disponible",
+   "quien": "Borja",
+   "cuando": "2026-09-18T13:53",
+   "revive_si": "Es una autorizacion, no el cierre del caso: aparta el punto cinco dias laborables. Vuelve el 25/09 si la reparacion sigue sin arrancar, si el ticket sigue asignado a alguien que no esta, o si Epil Point vuelve a pedir el correo."
+  },
+  {
+   "id": "7599-pocos-tecnicos-18",
+   "que": "Que LEAS-7599 (Elha Limoneros) lleva cuatro dias en cola de taller sin una sola observacion",
+   "ambito": {
+    "leas": "LEAS-7599",
+    "centro": "Elha Limoneros",
+    "cliente": "Elha",
+    "tipo": "medias-sin-nota"
+   },
+   "porque": "esto no aplica: hay muchas averias y pocos tecnicos , vamos asignando segun liberan",
+   "quien": "Borja",
+   "cuando": "2026-09-18T13:58",
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si sigue en cola sin que arranque la reparacion."
+  },
+  {
+   "id": "laserfactory-tres-preguntas-contestadas-18",
+   "que": "Las tres preguntas que Laser Factory dejo abiertas el 17/09 a las 16:57 (Ample, Av. Madrid y el caliport de Sant Boi)",
+   "ambito": {
+    "leas": null,
+    "centro": "Laser Factory",
+    "cliente": "Laser Factory",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "no aplica: contestadas todas. enviado material",
+   "quien": "Borja",
+   "cuando": "2026-09-18T13:29",
+   "revive_si": "Es un hecho: se contestaron y se mando el material. Vuelve si Laser Factory reclama otra vez alguna de las tres. Ya ha vuelto por una via distinta: a las 15:27 dijeron que el caliport de Sant Boi llego y no calibra, y eso sale como punto nuevo."
+  },
+  {
+   "id": "rende-reclamado-dhl-18",
+   "que": "Que el SRF de Centri Unico Rende sigue sin recogerse y que el centro y DHL se contradicen",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico Rende",
+    "cliente": "Centri Unico",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "nota: se ha reclamado a DHL y voy abrir un leas para que este el caso asociado.",
+   "quien": "Isaac",
+   "cuando": "2026-09-18T14:11",
+   "revive_si": "Es una reclamacion en curso, no un hecho cerrado: aparta el punto cinco dias laborables. Vuelve el 25/09 si el SRF sigue sin recogerse, o antes si el 22/09 sigue sin existir el expediente que Isaac dijo que iba a abrir."
+  },
+  {
+   "id": "7465-recogida-en-transito-18",
+   "que": "Que LEAS-7465 (Elha Placa del Gra) sigue en «Gestionado transporte» sin llegar a taller",
+   "ambito": {
+    "leas": "LEAS-7465",
+    "centro": "Elha Placa del Gra",
+    "cliente": "Elha",
+    "tipo": "llega-tarde-a-taller"
+   },
+   "porque": "ya esta en transito la recogida",
+   "quien": "Isaac",
+   "cuando": "2026-09-18T13:37",
+   "revive_si": "Es una espera al transporte: aparta el punto cinco dias laborables. Vuelve el 25/09 si el equipo sigue sin constar en taller."
+  },
+  {
+   "id": "7529-cola-taller-18",
+   "que": "Que LEAS-7529 (Dermasana Calle Alcala) lleva prestado mas tiempo del previsto y no tenia ninguna nota",
+   "ambito": {
+    "leas": "LEAS-7529",
+    "centro": "Dermasana Calle alcala",
+    "cliente": "Dermasana",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "Está en cola de taller, esperando asignación tenemos 2 técnicos de 4 para realizar reparaciones",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-18T13:39",
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si la sustitucion sigue en prestamo sin que arranque la reparacion."
+  },
+  {
+   "id": "7509-cola-taller-18",
+   "que": "Que LEAS-7509 lleva prestado mas tiempo del previsto y no tenia ninguna nota",
+   "ambito": {
+    "leas": "LEAS-7509",
+    "centro": null,
+    "cliente": null,
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "ya tla tiene asignada un tecnico pero esta en cola de taller, cuando puedoa se pondra con ella",
+   "quien": "Isaac",
+   "cuando": "2026-09-18T14:07",
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si sigue en prestamo sin que arranque la reparacion."
+  },
+  {
+   "id": "7477-cola-taller-18",
+   "que": "Que LEAS-7477 (Sinvello Zaragoza Catedral) lleva prestado mas tiempo del previsto y no tenia ninguna nota",
+   "ambito": {
+    "leas": "LEAS-7477",
+    "centro": "Sinvello Zaragoza Catedral",
+    "cliente": "Sin Vello",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "ya la tiene asiganada un tecnico y esta en cola cuando pueda se pondra con ella",
+   "quien": "Isaac",
+   "cuando": "2026-09-18T14:09",
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si sigue en prestamo sin que arranque la reparacion."
+  },
+  {
+   "id": "7527-asignado-chus-18",
+   "que": "Que LEAS-7527 (Dermasana Calle Alcala) estaba sin tecnico y quieta",
+   "ambito": {
+    "leas": "LEAS-7527",
+    "centro": "Dermasana Calle alcala",
+    "cliente": "Dermasana",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "se asigna a Chus",
+   "quien": "Isaac",
+   "cuando": "2026-09-18T13:22",
+   "revive_si": "Es un hecho con hora: el ticket ya tiene tecnico. Vuelve si se queda otra vez sin asignar o si el 25/09 sigue en cola sin que arranque la reparacion."
+  },
+  {
+   "id": "7230-porte-contestado-18",
+   "que": "Que Sin Vello pregunto por el porte de la sustitucion y la respuesta no estaba en el ticket",
+   "ambito": {
+    "leas": "LEAS-7230",
+    "centro": "SinVello Albacete",
+    "cliente": "Sin Vello",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "El porte de la pieza dañada se cobra, ya que el contrato de mantenimiento no incluye los portes; la sustitución, al estar en el centro, no se cobra, por eso no aparece en la factura",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-18T13:47",
+   "revive_si": "Es un hecho: Gonzalo contesto al cliente por correo a las 11:46 y lo dejo escrito en el ticket. Vuelve si Sin Vello vuelve a preguntar por el porte o si el presupuesto de 913,55 € sigue sin contestar el 25/09."
+  },
+  {
+   "id": "6198-pdte-arturo-18",
+   "que": "Que LEAS-6198 (Luxlaser, 740 €) lleva cuatro meses sin respuesta al presupuesto",
+   "ambito": {
+    "leas": "LEAS-6198",
+    "centro": "Luxlaser andre belgica",
+    "cliente": "Lux-Laser",
+    "tipo": "presu-sin-respuesta"
+   },
+   "porque": "sigue pdte de hablar con arturo",
+   "quien": "Borja",
+   "cuando": "2026-09-18T13:31",
+   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Vuelve el 23/09 con sus 740 € si Arturo no ha decidido entre cobrar y reparar o cancelar."
+  },
+  {
+   "id": "7403-cliente-no-contesta-18",
+   "que": "Que LEAS-7403 (Dermoscan, 9.560 €) lleva desde abril sin respuesta al presupuesto",
+   "ambito": {
+    "leas": "LEAS-7403",
+    "centro": "Dermoscan",
+    "cliente": "Dermoscan",
+    "tipo": "presu-sin-respuesta"
+   },
+   "porque": "siguen pdtes de que les conteste su cliente",
+   "quien": "Borja",
+   "cuando": "2026-09-18T13:31",
+   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Vuelve el 23/09 con sus 9.560 €."
+  },
+  {
+   "id": "barletta-ticket-abierto-18",
+   "que": "Que la pieza de mano 40600 de Epil Point Barletta no tenia expediente",
+   "ambito": {
+    "leas": "LEAS-7671",
+    "centro": "Epil Point Barletta",
+    "cliente": "Epil Point Italia",
+    "tipo": "epil"
+   },
+   "porque": "punto del panel sin ticket, va con este",
+   "quien": "Borja",
+   "cuando": "2026-09-18T14:06",
+   "revive_si": "Es un hecho: el expediente existe (LEAS-7671, y LEAS-7672 para la sustitucion). El caso sigue vivo en el panel de Alejandro mientras Epil Point no diga el coste del desplazamiento y la mano de obra."
+  },
+  {
+   "id": "4443-cancelado-18",
+   "que": "Que LEAS-4443 (Dermoscan, 12.560 €) salia como presupuesto sin respuesta",
+   "ambito": {
+    "leas": "LEAS-4443",
+    "centro": "Dermoscan",
+    "cliente": "Dermoscan",
+    "tipo": "presu-sin-respuesta"
+   },
+   "porque": "el ticket esta cancelado: tenia resolucion del 27/04 y Borja lo ha vuelto a cerrar hoy",
+   "quien": "Borja",
+   "cuando": "2026-09-18T15:00",
+   "revive_si": "Nunca por esto: un ticket cancelado no vuelve al panel. Si reaparece como abierto, es un fallo de la pasada y hay que mirarlo."
   }
  ],
  "enlaces": [
@@ -4113,6 +4323,14 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-16",
    "nota": "Gonzalo abrió LEAS-7640 (Corso Vercelli 31, Milano) a las 16:02 y lo enlazó con el punto desde el panel a las 16:03. A las 16:02 preguntó el número del manípulo en «SRF unico italia» y a las 16:16 el centro contestó: el que hay que retirar es el sust 006 y el que ya llegó, a la espera del involucro, es el sust 008."
+  },
+  {
+   "centro": "Epil Point Barletta",
+   "cliente": "Epil Point Italia",
+   "leas": "LEAS-7671",
+   "vinculado_a": "epil|Epil Point Barletta (40600) · pieza de mano muerta",
+   "quien": "Borja",
+   "cuando": "2026-09-18T14:06"
   }
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
@@ -4229,6 +4447,34 @@
    "quien": "Borja (vía panel)",
    "cuando": "2026-09-10",
    "nota": "assignee de LEAS-7438 cambiado de Borja a Gonzalo en la pasada de las 15:10"
+  },
+  {
+   "idPunto": "LEAS-7230",
+   "a": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-09-18T13:23",
+   "aplicado": false
+  },
+  {
+   "idPunto": "LEAS-7599",
+   "a": "Isaac",
+   "quien": "Alejandro",
+   "cuando": "2026-09-18T13:23",
+   "aplicado": false
+  },
+  {
+   "idPunto": "epil__epil_Epil_Point_Barletta__40600____pieza_de_mano_",
+   "a": "Borja",
+   "quien": "Alejandro",
+   "cuando": "2026-09-18T13:23",
+   "aplicado": false
+  },
+  {
+   "idPunto": "LEAS-7527",
+   "a": "Chus",
+   "quien": "Isaac",
+   "cuando": "2026-09-18T13:22",
+   "aplicado": false
   }
  ],
  "que_es_esto_traspasos": "Traspasos de puntos SIN ticket. No hay Jira donde escribirlos, así que se guardan aquí y cada pasada los vuelca al objeto TRASPASOS del panel del equipo con la clave del punto (idPunto = bloque__bloque|primeros 44 caracteres). Así el reparto se aplica solo y nadie tiene que pegar líneas en el grupo de la herramienta. Si el destino está en FUERA, el panel lo vuelve a repartir por la cadena."
