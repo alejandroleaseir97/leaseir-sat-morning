@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-21T13:47",
+ "actualizado": "2026-09-21T16:30",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4485,6 +4485,22 @@
    "vinculado_a": "epil|Epil Point Barletta (40600) · pieza de mano muerta",
    "quien": "Borja",
    "cuando": "2026-09-18T14:06"
+  },
+  {
+   "centro": "Centri Unico Ostia",
+   "cliente": "Centri Unico",
+   "leas": "LEAS-7692",
+   "vinculado_a": "punto sin ticket de Centri Unico Ostia (manipulo reparado y gafas de operador)",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-21T13:52"
+  },
+  {
+   "centro": "Laser Factory Sant Boi",
+   "cliente": "Laser Factory",
+   "leas": "LEAS-7693",
+   "vinculado_a": "punto sin ticket de Sant Boi (manguera rota del H00684 y caliport, visita de Carlos Mora)",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-21T13:54"
   }
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
