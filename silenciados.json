@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-18T18:43",
+ "actualizado": "2026-09-21T09:30",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -381,7 +381,9 @@
    "porque": "Gonzalo dio el número de recogida desde el panel el 07/09 a las 16:13 y 16:14: «Numero de recogida por enora: 1036143». Las dos van en el mismo porte y la recogida está gestionada.",
    "quien": "Gonzalo",
    "cuando": "2026-09-07",
-   "revive_si": "Pasan 3 días laborables desde el 07/09 y el equipo sigue sin entrar en taller. Lo del campo de tracking vacío de LEAS-7472 sí sigue saliendo, que es otra cosa."
+   "revive_si": "Pasan 3 días laborables desde el 07/09 y el equipo sigue sin entrar en taller. Lo del campo de tracking vacío de LEAS-7472 sí sigue saliendo, que es otra cosa.",
+   "caducado": "2026-09-21",
+   "revivido": "La parte de LEAS-7472 vuelve a salir: dieciocho dias desde que salio del centro sin constancia de llegada."
   },
   {
    "id": "7249-pieza-de-mano-30748",
@@ -751,7 +753,9 @@
    "porque": "Isaac lo contestó desde el panel el 09/09 a las 12:25: «solicitada recogida por dhl».",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 10 días sin que la recogida se materialice."
+   "revive_si": "Pasan 10 días sin que la recogida se materialice.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7247 vuelve: cinco dias laborables desde la ultima nota con el padre ya cerrado."
   },
   {
    "id": "7468-serie-40306",
@@ -886,7 +890,9 @@
    "porque": "Isaac lo contestó desde el panel el 09/09 a las 13:11: «LES VUELVO A PREGUNTAR».",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables sin respuesta del centro o sin nota nueva, comprobado releyendo el ticket."
+   "revive_si": "Pasan 3 días laborables sin respuesta del centro o sin nota nueva, comprobado releyendo el ticket.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7430 vuelve: cinco dias laborables desde «recogida pedida» y sigue sin tecnico ni numero de recogida."
   },
   {
    "id": "7357-finalizada",
@@ -1074,7 +1080,9 @@
    "porque": "Borja lo contestó desde el panel el 09/09 a las 15:02: «cancelamos cuando confirmen que su tecnico esta reparado. Hasta entonces mantenemos como está». Está parado a propósito, esperando a Epil Point.",
    "quien": "Borja",
    "cuando": "2026-09-09",
-   "revive_si": "Epil Point confirma que su técnico lo reparó y el ticket sigue abierto, o pasan 10 días sin noticias."
+   "revive_si": "Epil Point confirma que su técnico lo reparó y el ticket sigue abierto, o pasan 10 días sin noticias.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7213 vuelve a «tecnico externo»: ocho dias laborables desde aquel silencio y cinco desde la ultima consulta del 14/09, sin que Sincronis haya dado fecha. El campo 10144 sigue en el 10/08."
   },
   {
    "id": "7453-maps-anadida",
@@ -1086,7 +1094,9 @@
    "porque": "Borja lo puso el 09/09 a las 15:28 y lo dijo por el panel: «añadida desde google». El campo 11354 ya tiene el enlace.",
    "quien": "Borja",
    "cuando": "2026-09-09",
-   "revive_si": "El campo vuelve a quedarse vacío."
+   "revive_si": "El campo vuelve a quedarse vacío.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7453 vuelve en «sin tecnico»: tres dias laborables quieta y sigue sin arrancar desde el 02/09."
   },
   {
    "id": "huerfanas-admin-listo-0909",
@@ -1262,7 +1272,9 @@
    "porque": "Borja lo contestó desde el panel a las 09:02: «En envios de material para reparaciones no se suele poner. Añadido de todos modos», y dejó el MRW 0060603011F226896 en un comentario.",
    "quien": "Borja",
    "cuando": "2026-09-10",
-   "revive_si": "Nunca por el campo vacío en envíos de material de reparación. Sí si el equipo sale del cliente y no llega a taller pasados 3 días laborables."
+   "revive_si": "Nunca por el campo vacío en envíos de material de reparación. Sí si el equipo sale del cliente y no llega a taller pasados 3 días laborables.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7472 vuelve en «no llega a taller»: siete dias laborables desde aquella nota y el campo 11420 sigue vacio, con Enora sin dar numero."
   },
   {
    "id": "7503-susti-no-ha-llegado",
@@ -1876,7 +1888,9 @@
    "porque": "Isaac lo contestó desde la casilla del panel el 11/09 a las 12:40: «ha llegado hace una hora la sustitución, la van a probar y si esta todo correcto recogemos la suya». LEAS-7504 pasó a «En préstamo» a esa misma hora.",
    "quien": "Isaac",
    "cuando": "2026-09-11",
-   "revive_si": "La prueba falla, o el centro vuelve a escribir y pasan más de 2 horas sin que nadie del equipo conteste."
+   "revive_si": "La prueba falla, o el centro vuelve a escribir y pasan más de 2 horas sin que nadie del equipo conteste.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7504 vuelve: la sustitucion se entrego el 11/09 y la averiada sigue sin recogerse."
   },
   {
    "id": "7416-palermo-susti-sin-mover",
@@ -1889,7 +1903,9 @@
    "porque": "Isaac lo contestó desde la casilla del panel el 11/09 a las 12:36: «lo mismo que ayer aun no se ha movido sustituición». El equipo ya lo tiene visto.",
    "quien": "Isaac",
    "cuando": "2026-09-11",
-   "revive_si": "Pasan 3 días laborables más sin que LEAS-7416 ni su sustitución LEAS-7418 cambien de estado."
+   "revive_si": "Pasan 3 días laborables más sin que LEAS-7416 ni su sustitución LEAS-7418 cambien de estado.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7416 vuelve: seis dias laborables sin nota y sigue sin tecnico."
   },
   {
    "id": "7568-rende-videollamada",
@@ -2068,7 +2084,9 @@
    "porque": "Isaac lo cerro desde el panel el 11/09 a las 17:51 con «esto no aplica: listo».",
    "quien": "Isaac",
    "cuando": "2026-09-11",
-   "revive_si": "La subtarea sigue abierta dentro de un mes."
+   "revive_si": "La subtarea sigue abierta dentro de un mes.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7481 vuelve: siete dias laborables desde el 10/09 sin una sola linea y el padre cerrado."
   },
   {
    "id": "7561-princesa-recogida-puesta",
@@ -2129,7 +2147,9 @@
    "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:40: «Lo voy a preguntar el lunes, pero al ser una Sutitución no hace falta que salga».",
    "quien": "Gonzalo",
    "cuando": "2026-09-12",
-   "revive_si": "El equipo sale a cliente sin que el ticket se mueva, o pasan 5 días laborables más sin nota."
+   "revive_si": "El equipo sale a cliente sin que el ticket se mueva, o pasan 5 días laborables más sin nota.",
+   "caducado": "2026-09-21",
+   "revivido": "Gonzalo dijo el 12/09 «lo voy a preguntar el lunes»: hoy es ese lunes."
   },
   {
    "id": "7405-en-cola-y-diagnosticado",
@@ -2156,7 +2176,9 @@
    "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:41: «SON ESAS CONSOLAS LAS QUE SALIERON DE VERDAD; ESTAN PUESTAS LAS FOTOS EN EL GRUPO DE FOTOS DE EQUIPO». Es un traslado entre centros del mismo cliente, no un préstamo. Lo que queda es de Airtable y va al panel de Alejandro, no al del equipo.",
    "quien": "Gonzalo",
    "cuando": "2026-09-12",
-   "revive_si": "El equipo vuelve a moverse con otras series o el centro reclama que no es esa máquina."
+   "revive_si": "El equipo vuelve a moverse con otras series o el centro reclama que no es esa máquina.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7543 vuelve en «falta el tracking»: seis dias laborables en «Equipo enviado» con el campo 11420 vacio."
   },
   {
    "id": "7559-carlos-ya-tiene-material",
@@ -2195,7 +2217,9 @@
    "porque": "Gonzalo preguntó en el ticket el 11/09 a las 16:49 («Se pregunta si se puede recoger el manipulo») y volvió a preguntar el 12/09 a las 13:48 («Se pregunta de nuevo»). La pelota está en el cliente.",
    "quien": "Gonzalo",
    "cuando": "2026-09-12",
-   "revive_si": "El centro contesta, o pasan 5 días laborables más sin respuesta y sin que nadie vuelva a reclamar."
+   "revive_si": "El centro contesta, o pasan 5 días laborables más sin respuesta y sin que nadie vuelva a reclamar.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7544 vuelve: cinco dias laborables desde «se pide por ctt» sin numero de recogida."
   },
   {
    "id": "7507-gee-de-vacaciones",
@@ -2261,7 +2285,9 @@
    "porque": "esta metido....",
    "quien": "Borja",
    "cuando": "2026-09-14",
-   "revive_si": "La sustitución no consta entregada el 17/09 y sigue sin poderse recoger la averiada H00937."
+   "revive_si": "La sustitución no consta entregada el 17/09 y sigue sin poderse recoger la averiada H00937.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7570 vuelve: el prestamo sigue abierto y el ticket no tiene ni un comentario."
   },
   {
    "id": "7325-es-rusia-no-deseja",
@@ -2397,7 +2423,9 @@
    "porque": "SI llleva tracking . esta hoy de reparto",
    "quien": "Borja",
    "cuando": "2026-09-14",
-   "revive_si": "La sustitución no consta entregada el 16/09."
+   "revive_si": "La sustitución no consta entregada el 16/09.",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7515 vuelve: cinco dias laborables desde «esta hoy de reparto» sin constancia de entrega."
   },
   {
    "id": "7521-sincronis-va-el-16",
@@ -2584,7 +2612,9 @@
    "quien": "Borja",
    "cuando": "2026-09-14",
    "hora": "13:44",
-   "revive_si": "si el transporte vuelve a fallar la recogida o el centro dice que sigue sin recogerse"
+   "revive_si": "si el transporte vuelve a fallar la recogida o el centro dice que sigue sin recogerse",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7503 vuelve: seis dias laborables desde «se trae a taller» sin constancia de llegada."
   },
   {
    "id": "7475-listo",
@@ -2932,7 +2962,9 @@
    "quien": "Borja",
    "cuando": "2026-09-15",
    "hora": "16:00",
-   "revive_si": "el 18/09 LEAS-7474 sigue en «Gestionado transporte» sin que conste ni la llegada de la sustitución ni la entrada de la averiada en taller"
+   "revive_si": "el 18/09 LEAS-7474 sigue en «Gestionado transporte» sin que conste ni la llegada de la sustitución ni la entrada de la averiada en taller",
+   "caducado": "2026-09-21",
+   "revivido": "LEAS-7474 vuelve en «paradas»: diecisiete dias sin nota de contenido y DHL lo da entregado el 18/09 a las 16:33."
   },
   {
    "id": "7576-labege-recogida-pedida",

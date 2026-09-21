@@ -1,7 +1,7 @@
 {
  "_que_es": "Días LABORABLES en que cada punto ha salido en el panel. El aviso es len(dias): 1 = primera vez, 2 = campana, 3+ = rojo. Lo mantiene la pasada, no el navegador, para que todos vean el mismo número.",
  "_como_se_actualiza": "En la primera pasada de cada día laborable, añadir la fecha de hoy a cada punto que sigue saliendo, y borrar los puntos que ya no salen. Sábados, domingos y los días de 'festivos' NO se añaden.",
- "actualizado": "2026-09-18T11:32",
+ "actualizado": "2026-09-21T09:30",
  "festivos": [
   "2026-01-01",
   "2026-01-06",
@@ -19,75 +19,89 @@
   "2026-12-25"
  ],
  "puntos": {
-  "telegram|Natur Belle Vomero (Napoles) · quinto dia co": [
-   "2026-09-18"
+  "telegram|Zurimed Parque Principado · el centro escrib": [
+   "2026-09-21"
   ],
-  "LEAS-7640": [
-   "2026-09-17",
-   "2026-09-18"
+  "wapp|Laser Factory Olot · el centro pregunto el v": [
+   "2026-09-21"
   ],
-  "telegram|Centri Unico Rende · el SRF sigue sin recoge": [
-   "2026-09-18"
+  "wapp|Clinic & Esthetic Valencia · el centro escri": [
+   "2026-09-21"
   ],
-  "LEAS-7612": [
-   "2026-09-18"
+  "LEAS-7583": [
+   "2026-09-21"
   ],
-  "wapp|Laser Factory · tres preguntas abiertas desd": [
-   "2026-09-18"
+  "LEAS-7472": [
+   "2026-09-21"
   ],
-  "LEAS-7662": [
-   "2026-09-18"
+  "LEAS-7543": [
+   "2026-09-21"
   ],
-  "wapp|Epil Point Messina · la via alternativa tamp": [
-   "2026-09-18"
+  "LEAS-7453": [
+   "2026-09-21"
   ],
-  "LEAS-7465": [
-   "2026-09-18"
+  "LEAS-7481": [
+   "2026-09-21"
   ],
-  "LEAS-7456": [
-   "2026-09-18"
+  "LEAS-7247": [
+   "2026-09-21"
   ],
-  "LEAS-7527": [
-   "2026-09-18"
+  "LEAS-7582": [
+   "2026-09-21"
   ],
-  "LEAS-7619": [
-   "2026-09-18"
+  "epil|Epil Point Castellammare · el **sabado a las": [
+   "2026-09-21"
   ],
-  "epil|Epil Point · Modena y Ancona · **llevan desd": [
-   "2026-09-18"
+  "LEAS-7474": [
+   "2026-09-21"
   ],
-  "LEAS-7270": [
-   "2026-09-18"
+  "LEAS-7405": [
+   "2026-09-21"
   ],
-  "LEAS-7320": [
-   "2026-09-18"
+  "LEAS-7416": [
+   "2026-09-21"
   ],
-  "LEAS-7415": [
-   "2026-09-18"
+  "LEAS-7424": [
+   "2026-09-21"
   ],
-  "LEAS-7191": [
-   "2026-09-18"
+  "LEAS-7430": [
+   "2026-09-21"
   ],
-  "LEAS-7375": [
-   "2026-09-18"
+  "LEAS-7503": [
+   "2026-09-21"
   ],
-  "LEAS-7420": [
-   "2026-09-18"
+  "LEAS-7544": [
+   "2026-09-21"
   ],
-  "LEAS-7578": [
-   "2026-09-18"
+  "LEAS-7504": [
+   "2026-09-21"
   ],
-  "LEAS-4443": [
-   "2026-09-18"
+  "LEAS-7515": [
+   "2026-09-21"
   ],
-  "LEAS-7403": [
-   "2026-09-18"
+  "LEAS-7570": [
+   "2026-09-21"
   ],
-  "LEAS-6198": [
-   "2026-09-18"
+  "LEAS-7584": [
+   "2026-09-21"
   ],
-  "LEAS-6907": [
-   "2026-09-18"
+  "LEAS-7358": [
+   "2026-09-21"
+  ],
+  "LEAS-7213": [
+   "2026-09-21"
+  ],
+  "LEAS-7588": [
+   "2026-09-21"
+  ],
+  "LEAS-7585": [
+   "2026-09-21"
+  ],
+  "LEAS-6906": [
+   "2026-09-21"
+  ],
+  "LEAS-7450": [
+   "2026-09-21"
   ]
  }
 }
