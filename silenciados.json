@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-21T09:50",
+ "actualizado": "2026-09-21T13:38",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -10,6 +10,79 @@
   "5. Este fichero es también la medida de calidad de la herramienta. Cada entrada es una vez que me equivoqué o que fui redundante. Si crece rápido, el problema soy yo."
  ],
  "silenciados": [
+  {
+   "id": "7213-pavia-listo-21",
+   "que": "LEAS-7213 Epil Point Pavia · punto de tecnico externo sin nota nueva",
+   "ambito": {
+    "leas": "LEAS-7213",
+    "centro": "Epil Point Pavia",
+    "cliente": "Epil Point Italia",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "esto no aplica: listo. falta tramitar que lo prueben y gestionar la recogida de la sust",
+   "quien": "Borja",
+   "cuando": "2026-09-21",
+   "hora": "11:37",
+   "revive_si": "Es un hecho: el tecnico externo ya lo ha hecho. Vuelve si a los 5 dias laborables (28/09) no consta ni la prueba ni la recogida de la sustitucion."
+  },
+  {
+   "id": "7515-ya-en-cliente-21",
+   "que": "LEAS-7515 · prestamo fuera de plazo, el campo 11420 vacio y sin constar la entrega",
+   "ambito": {
+    "leas": "LEAS-7515",
+    "centro": "Elha Vilanova i la Geltru",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "esto no aplica: ya esta en el cliente y pedida la recogida del estropeado",
+   "quien": "Borja",
+   "cuando": "2026-09-21",
+   "hora": "11:25",
+   "revive_si": "Es un hecho con fecha (Palibex 9999081679256 entregado el 14/09 a las 14:26). Vuelve si a los 5 dias laborables (28/09) la averiada del padre LEAS-7443 sigue en «Pendiente recogida»."
+  },
+  {
+   "id": "7503-ya-asignada-21",
+   "que": "LEAS-7503 Clinica Cibeles Holea · reparacion fuera de plazo sin tecnico",
+   "ambito": {
+    "leas": "LEAS-7503",
+    "centro": "Clinica Cibeles Holea",
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "esto no aplica: esta asignada ya",
+   "quien": "Borja",
+   "cuando": "2026-09-21",
+   "hora": "11:05",
+   "revive_si": "Es un hecho: ya tiene tecnico y esta en cola de taller. Vuelve si a los 5 dias laborables (28/09) sigue en «En cola taller» sin nota nueva."
+  },
+  {
+   "id": "olot-current-date-21",
+   "que": "Laser Factory Olot · el centro pregunto el viernes a las 17:14 por el Current Date incorrecto desde junio",
+   "ambito": {
+    "leas": null,
+    "centro": "Laser Factory Olot",
+    "cliente": "Laser Factory",
+    "tipo": "sin-ticket"
+   },
+   "porque": "cuando vaya el tecnico a una incidencia se cambiara",
+   "quien": "Isaac",
+   "cuando": "2026-09-21",
+   "hora": "09:46",
+   "revive_si": "Es una espera a una visita sin fecha: aparta el punto 5 dias laborables. Si el 28/09 el centro no ha tenido visita y vuelve a preguntar, sale otra vez."
+  },
+  {
+   "id": "castellammare-ticket-abierto-21",
+   "que": "Epil Point Castellammare · el ticket del sabado a las 15:51 sin expediente y sin respuesta",
+   "ambito": {
+    "leas": "LEAS-7686",
+    "centro": "Epil Point Castellammare",
+    "cliente": "Epil Point Italia",
+    "tipo": "sin-ticket"
+   },
+   "porque": "Ya lo ha visto gonzalo y esta abriendo el Ticket y avisando a los tecnicos",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-21",
+   "hora": "10:03",
+   "revive_si": "Es un hecho: LEAS-7686 se abrio a las 10:12 con Sincronis avisado y fecha de tecnico externo el 25/09. Solo vuelve si el 25/09 pasa sin visita."
+  },
   {
    "id": "vomero-epilpoint",
    "que": "Reclamación de una máquina a Andrea en el centro Vomero",
@@ -4031,6 +4104,13 @@
  ],
  "enlaces": [
   {
+   "centro": "Epil Point Castellammare",
+   "cliente": "Epil Point Italia",
+   "leas": "LEAS-7686",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-21"
+  },
+  {
    "centro": "Jerez",
    "cliente": "SinVello",
    "leas": "LEAS-7330",
@@ -4409,6 +4489,70 @@
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
  "traspasos": [
+  {
+   "punto": "LEAS-7247",
+   "a": "Isaac",
+   "de": "Chus",
+   "quien": "Alejandro",
+   "cuando": "2026-09-21T09:43+02:00",
+   "porque": "reparto de la carga de Chus"
+  },
+  {
+   "punto": "LEAS-7405",
+   "a": "Gonzalo",
+   "de": "Isaac",
+   "quien": "Alejandro",
+   "cuando": "2026-09-21T09:43+02:00",
+   "porque": "reparto de la carga de Chus"
+  },
+  {
+   "punto": "LEAS-7453",
+   "a": "Borja",
+   "de": "Chus",
+   "quien": "Alejandro",
+   "cuando": "2026-09-21T09:43+02:00",
+   "porque": "reparto de la carga de Chus"
+  },
+  {
+   "punto": "LEAS-7582",
+   "a": "Isaac",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-09-21T09:43+02:00",
+   "porque": "reparto de la carga de Chus"
+  },
+  {
+   "punto": "LEAS-7585",
+   "a": "Borja",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-09-21T09:43+02:00",
+   "porque": "reparto de la carga de Chus"
+  },
+  {
+   "punto": "LEAS-7424",
+   "a": "Gonzalo",
+   "de": "Borja",
+   "quien": "Borja",
+   "cuando": "2026-09-21T11:37+02:00",
+   "porque": "se lo paso a Gonzalo desde el panel"
+  },
+  {
+   "punto": "epil__epil_Epil_Point_Castellammare___el___sabado_a_las",
+   "a": "Isaac",
+   "de": "Chus",
+   "quien": "Alejandro",
+   "cuando": "2026-09-21T09:43+02:00",
+   "porque": "reparto de la carga de Chus"
+  },
+  {
+   "punto": "wapp__wapp_Laser_Factory_Olot___el_centro_pregunto_el_v",
+   "a": "Gonzalo",
+   "de": "Chus",
+   "quien": "Alejandro",
+   "cuando": "2026-09-21T09:43+02:00",
+   "porque": "reparto de la carga de Chus"
+  },
   {
    "punto": "telegram__telegram_Palermo_pide_una_segunda_recogida___el_08_09",
    "a": "Isaac",
