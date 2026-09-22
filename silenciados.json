@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-22T09:34",
+ "actualizado": "2026-09-22T14:29",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2145,7 +2145,8 @@
    "porque": "Isaac escribio el 11/09 a las 18:20 «vamos a preparar el material para quitar la actualizacion y que vaya innet hacerlo. Se mandara el material la semana del 14 de septiembre», y el ticket paso a «Esperando respuesta cliente a presupuesto».",
    "quien": "Isaac",
    "cuando": "2026-09-11",
-   "revive_si": "Acaba la semana del 14 de septiembre sin que el material haya salido, o sin nota nueva."
+   "revive_si": "Acaba la semana del 14 de septiembre sin que el material haya salido, o sin nota nueva.",
+   "revivido": "2026-09-22: la condicion era que acabase la semana del 14 de septiembre sin que el material saliese. Salio el 17/09 y GEE no ha dado senal en tres dias laborables. Vuelve en «con el tecnico externo»."
   },
   {
    "id": "7481-no-aplica-listo",
@@ -2749,7 +2750,8 @@
    "quien": "Isaac",
    "cuando": "2026-09-14",
    "hora": "14:26",
-   "revive_si": "si la semana que viene no se han mandado las placas"
+   "revive_si": "si la semana que viene no se han mandado las placas",
+   "revivido": "2026-09-22: la condicion era que acabase la semana del 14 de septiembre sin que saliesen las placas. El material salio el 16/09 y desde entonces el expediente sigue sin asignar. Vuelve en «nadie la ha cogido»."
   },
   {
    "id": "7104-placas-actualizacion",
@@ -2764,7 +2766,8 @@
    "quien": "Isaac",
    "cuando": "2026-09-14",
    "hora": "14:26",
-   "revive_si": "si la semana que viene no se han mandado las placas"
+   "revive_si": "si la semana que viene no se han mandado las placas",
+   "revivido": "2026-09-22: la condicion era que acabase la semana del 14 de septiembre sin que saliesen las placas. El material salio el 16/09 y desde entonces el expediente sigue sin asignar. Vuelve en «nadie la ha cogido»."
   },
   {
    "id": "7349-direccion-correcta",
@@ -3074,7 +3077,8 @@
    "quien": "Borja",
    "cuando": "2026-09-15",
    "hora": "16:05",
-   "revive_si": "es una espera a un tercero: caduca el 22/09 (cinco días laborables). Si ese día LEAS-6765 sigue en «Inspección de salida» sin nota nueva sobre los trámites, el punto vuelve"
+   "revive_si": "es una espera a un tercero: caduca el 22/09 (cinco días laborables). Si ese día LEAS-6765 sigue en «Inspección de salida» sin nota nueva sobre los trámites, el punto vuelve",
+   "caducado": "2026-09-22: el propio silencio ponia el 22/09 como fecha de caducidad (cinco dias laborables desde el 15/09). Cumplida. El punto vuelve en «terminado pero sin cerrar»."
   },
   {
    "id": "7563-listo-borja",
@@ -4105,6 +4109,51 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-18",
    "revive_si": "Es una espera a un envio de un tercero: aparta el punto cinco dias laborables. Vuelve el 25/09 si la pieza sigue sin llegar a Ostia o si la sustitucion de Busnago sigue en «Solicitado» sin nota nueva."
+  },
+  {
+   "id": "7591-lanzada-22",
+   "que": "LEAS-7591 ESTETICA LOS ARCOS · punto de telegram: presupuesto aceptado y el ticket no lo decia",
+   "ambito": {
+    "leas": "LEAS-7591",
+    "centro": "ESTETICA LOS ARCOS",
+    "cliente": "Fayna Perdomo Pena",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "esto no aplica: lanzada",
+   "quien": "Borja",
+   "cuando": "2026-09-22",
+   "hora": "11:56",
+   "revive_si": "Es un hecho: la reparacion esta lanzada en taller y el equipo salio hoy (encuesta de Ernesto de las 12:52, MHP30316). Vuelve si el 25/09 el ticket sigue en «Inspeccion de salida» sin finalizar."
+  },
+  {
+   "id": "7490-chus-repara-22",
+   "que": "LEAS-7490 SinVello Cadiz · punto de reparacion sin nota",
+   "ambito": {
+    "leas": "LEAS-7490",
+    "centro": "SinVello! Cadiz",
+    "cliente": "Sin Vello por Laser Low Cost SL",
+    "tipo": "repara-sin-nota"
+   },
+   "porque": "esto no aplica: lo estsa reparando chus par que salga hoy o cuanmto antes",
+   "quien": "Borja",
+   "cuando": "2026-09-22",
+   "hora": "11:59",
+   "revive_si": "Es un hecho con hora: lo esta reparando Chus hoy y el equipo consta salido (encuesta de Ernesto de las 12:56, C00801/H00801). Vuelve si el 25/09 no ha salido de «En preparacion presupuesto»."
+  },
+  {
+   "id": "7651-asignado-22",
+   "que": "LEAS-7651 Arturas Deseja · punto de cola de taller sin tecnico",
+   "ambito": {
+    "leas": "LEAS-7651",
+    "centro": "Arturas Deseja",
+    "cliente": "UAB Deseja",
+    "tipo": "nadie-sin-tecnico"
+   },
+   "porque": "esto no aplica: asignado. tampoco se pueden asignar 20 casos a cada tecnico",
+   "quien": "Borja",
+   "cuando": "2026-09-22",
+   "hora": "12:52",
+   "revive_si": "Es un hecho: ya tiene tecnico asignado. Vuelve si el 29/09 sigue en «En cola taller» sin ninguna nota de contenido posterior al 22/09. Nota para el panel: Borja avisa de que no se puede cargar veinte casos a cada tecnico; el bloque no debe insistir con este por falta de asignacion."
   }
  ],
  "enlaces": [
