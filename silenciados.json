@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-22T16:50",
+ "actualizado": "2026-09-22T20:48",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1266,7 +1266,7 @@
    "quien": "movimiento en Jira, comprobado por la pasada de las 18:30",
    "cuando": "2026-09-09",
    "revive_si": "Pasan 3 días laborables desde el 09/09 sin presupuesto ni nota nueva.",
-   "caducado": "Caducado el 2026-09-22 a las 16:50: su propia condicion de vuelta era «3 dias laborables desde el 09/09 sin presupuesto ni nota nueva». Hubo nota nueva el 15/09 («Esta en taller»), y desde entonces han pasado 5 dias laborables sin presupuesto y sin ninguna otra nota, asi que el punto vuelve."
+   "caducado": true
   },
   {
    "id": "huerfanas-cerradas-0909",
@@ -4155,6 +4155,36 @@
    "cuando": "2026-09-22",
    "hora": "12:52",
    "revive_si": "Es un hecho: ya tiene tecnico asignado. Vuelve si el 29/09 sigue en «En cola taller» sin ninguna nota de contenido posterior al 22/09. Nota para el panel: Borja avisa de que no se puede cargar veinte casos a cada tecnico; el bloque no debe insistir con este por falta de asignacion."
+  },
+  {
+   "id": "7543-sust-laser-factory-22",
+   "que": "LEAS-7543 · la consola C00410 figura en el Inmovilizado como «Renting S&L» de Laser Factory",
+   "ambito": {
+    "leas": "LEAS-7543",
+    "centro": "Laser Factory",
+    "cliente": "Laser Factory",
+    "tipo": "serie-actividad"
+   },
+   "porque": "esa consola H00410 C00410 es una de las sustituciones que tiene Laser Factory para dar servicio cuando tienen una incidencia",
+   "quien": "Isaac",
+   "cuando": "2026-09-22",
+   "hora": "18:40",
+   "revive_si": "Es un hecho estable: el equipo esta cedido a Laser Factory como sustitucion de servicio. Vuelve solo si el prestamo se cierra y la serie sigue marcada como Renting S&L, o si aparece en otro centro."
+  },
+  {
+   "id": "7686-umbilical-cambiado-22",
+   "que": "LEAS-7686 · Epil Point Castellammare, ticket abierto desde el sabado",
+   "ambito": {
+    "leas": "LEAS-7686",
+    "centro": "Epil Point Castellammare",
+    "cliente": "Epil Point Italia",
+    "tipo": "epil-sin-contestar"
+   },
+   "porque": "la finalizo ya que el tecnico ya hizo el cambio del umbilical",
+   "quien": "Isaac",
+   "cuando": "2026-09-22",
+   "hora": "19:04",
+   "revive_si": "Nunca por esto: el ticket esta en «Finalizada». Solo si el centro vuelve a escribir por el mismo manipulo."
   }
  ],
  "enlaces": [
@@ -4556,6 +4586,14 @@
    "vinculado_a": "punto sin ticket de Sant Boi (manguera rota del H00684 y caliport, visita de Carlos Mora)",
    "quien": "Gonzalo",
    "cuando": "2026-09-21T13:54"
+  },
+  {
+   "centro": "Epil Point · equipo 90884",
+   "cliente": "Epil Point Italia",
+   "leas": "LEAS-7683",
+   "vinculado_a": "punto del panel sin ticket «etiqueta entregada, seguimiento no»",
+   "quien": "Isaac",
+   "cuando": "2026-09-22"
   }
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
