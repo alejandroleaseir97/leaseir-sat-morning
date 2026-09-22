@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-22T16:13",
+ "actualizado": "2026-09-22T16:50",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1265,7 +1265,8 @@
    "porque": "Se movió hoy 09/09 a las 14:34 de «En preparación presupuesto» a «En cola taller» y se le puso el tracking de DHL. Ya no es un ticket parado.",
    "quien": "movimiento en Jira, comprobado por la pasada de las 18:30",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables desde el 09/09 sin presupuesto ni nota nueva."
+   "revive_si": "Pasan 3 días laborables desde el 09/09 sin presupuesto ni nota nueva.",
+   "caducado": "Caducado el 2026-09-22 a las 16:50: su propia condicion de vuelta era «3 dias laborables desde el 09/09 sin presupuesto ni nota nueva». Hubo nota nueva el 15/09 («Esta en taller»), y desde entonces han pasado 5 dias laborables sin presupuesto y sin ninguna otra nota, asi que el punto vuelve."
   },
   {
    "id": "huerfanas-cerradas-0909",
