@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-21T20:50",
+ "actualizado": "2026-09-22T09:34",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2332,7 +2332,8 @@
    "porque": "pdte de ver que hace,os . portes muy caros",
    "quien": "Borja",
    "cuando": "2026-09-14",
-   "revive_si": "Se decide qué se hace con la C03045, o pasan 10 días laborables más sin decisión."
+   "revive_si": "Se decide qué se hace con la C03045, o pasan 10 días laborables más sin decisión.",
+   "caducado": "Cumplidos los cinco dias laborables desde el 14/09 sin que se tome la decision de los portes; el punto vuelve en 'parado' el 22/09."
   },
   {
    "id": "7489-equipo-en-taller",
@@ -3005,7 +3006,8 @@
    "quien": "Borja",
    "cuando": "2026-09-15",
    "hora": "13:05",
-   "revive_si": "Smart Duck contesta con la información pedida y el ticket sigue sin recogerla, o pasan 3 días laborables desde hoy sin nota nueva"
+   "revive_si": "Smart Duck contesta con la información pedida y el ticket sigue sin recogerla, o pasan 3 días laborables desde hoy sin nota nueva",
+   "caducado": "Cumplidos los cinco dias laborables desde el 15/09 sin que Smart Duck conteste; el punto vuelve en 'nadie' el 22/09."
   },
   {
    "id": "7405-espera-inicio-reparacion",
@@ -3371,7 +3373,8 @@
    "porque": "Isaac pregunto hoy a las 12:27 en SAT TALLER LEASEIR «la leas-7334 me puedes decir si se puede subir la energia», y Fran contesto a las 12:33 explicando la version 1.5.0.1 y el riesgo de pasar a las tablas de una version mas actual",
    "quien": "Isaac",
    "cuando": "2026-09-17",
-   "revive_si": "Es una espera tecnica: aparta el punto tres dias laborables. Si el 22/09 LEAS-7334 sigue sin presupuesto enviado y sin importe en el campo 10301, vuelve."
+   "revive_si": "Es una espera tecnica: aparta el punto tres dias laborables. Si el 22/09 LEAS-7334 sigue sin presupuesto enviado y sin importe en el campo 10301, vuelve.",
+   "caducado": "22/09: la espera tecnica del 17/09 ha cumplido sus tres dias laborables (18, 21 y 22/09). El importe ya esta en el campo 10301 (2.565,20 €), asi que esa mitad del revive_si esta resuelta, pero el presupuesto sigue sin enviarse y el expediente sigue en «Presupuesto preparado pendiente de enviar»."
   },
   {
    "id": "7535-palermo-retirado-17",
@@ -3385,7 +3388,8 @@
    "porque": "Buongiorno da Palermo vi comunichiamo che hanno appena ritirato il laser",
    "quien": "Centro Unico Palermo (via Telegram, 12:13)",
    "cuando": "2026-09-17",
-   "revive_si": "Es un hecho con fecha: el laser salio del centro hoy a las 12:13. Solo vuelve si a los cinco dias laborables (24/09) no consta la entrada en taller."
+   "revive_si": "Es un hecho con fecha: el laser salio del centro hoy a las 12:13. Solo vuelve si a los cinco dias laborables (24/09) no consta la entrada en taller.",
+   "revivido": "22/09 09:11: hecho nuevo y posterior. El DHL Parcel JJD00006336051112553001 salio de Barcelona hoy a las 05:37 y el portal internacional confirma destino CATANIA - ITALY, no Palermo."
   },
   {
    "id": "7385-etiqueta-granada-16",
@@ -3483,7 +3487,8 @@
    "porque": "aun no ha llegado , esta en transisto",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es una espera al transporte: aparta el punto cinco dias laborables. Si el 24/09 el H01025 sigue en el centro sin constar la entrada, vuelve."
+   "revive_si": "Es una espera al transporte: aparta el punto cinco dias laborables. Si el 24/09 el H01025 sigue en el centro sin constar la entrada, vuelve.",
+   "revivido": "22/09 09:11: hecho nuevo y posterior. El waybill 79 8161 1190 sigue en 'etiqueta generada, no entregado a DHL' desde el 21/09 13:48, y el enlace del campo 11454 apunta a otro envio ya entregado el 26/08."
   },
   {
    "id": "7237-reclamado-dhl-17",
