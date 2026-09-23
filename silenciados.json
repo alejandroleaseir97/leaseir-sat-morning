@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-22T20:48",
+ "actualizado": "2026-09-23T10:19",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -776,7 +776,8 @@
    "quien": "Borja",
    "cuando": "2026-09-09",
    "revive_si": "Pasa el 10/09 sin que se les escriba por WhatsApp o sin respuesta del cliente.",
-   "revivido": "2026-09-15: se cumple el revive_si que dejó Borja el 09/09 («pasa el 10/09 sin respuesta del cliente»). Han pasado cuatro días laborables desde la reclamación por correo y Harmonie Salamanca sigue sin contestar los 7.260 €."
+   "revivido": "2026-09-15: se cumple el revive_si que dejó Borja el 09/09 («pasa el 10/09 sin respuesta del cliente»). Han pasado cuatro días laborables desde la reclamación por correo y Harmonie Salamanca sigue sin contestar los 7.260 €.",
+   "caducado": "caducado el 23/09: su revive_si era del 10/09 y quedo absorbido por 7190-harmonie-contesta-16."
   },
   {
    "id": "6198-luxlaser-oliver-arturo",
@@ -1101,7 +1102,7 @@
    "quien": "Borja",
    "cuando": "2026-09-09",
    "revive_si": "Pasa una semana desde el 09/09 sin que aduanas lo libere o sin nota nueva.",
-   "revivido": "2026-09-16: se cumple el revive_si. Belenús sigue en «Gestionado transporte»/aduanas desde el 27/08 y la última nota es del 09/09 («parado en aduanas, mandado el NO FARMIN»): una semana sin novedad. Vuelve a «no llega a taller»."
+   "revivido": "revivido el 23/09: hace mucho mas de una semana desde el 09/09 y aduanas no lo ha liberado; hecho nuevo hoy a las 02:57 en el portal de DHL."
   },
   {
    "id": "depil-planet-mismo-centro",
@@ -3109,7 +3110,8 @@
    "quien": "Borja",
    "cuando": "2026-09-16",
    "hora": "12:04",
-   "revive_si": "Es una espera a un tercero con nombre: aparta el punto cinco días laborables. Si el 23/09 Iván no ha hablado con Borja o no hay nota nueva en el ticket, el punto vuelve a «presupuestos sin respuesta»."
+   "revive_si": "Es una espera a un tercero con nombre: aparta el punto cinco días laborables. Si el 23/09 Iván no ha hablado con Borja o no hay nota nueva en el ticket, el punto vuelve a «presupuestos sin respuesta».",
+   "revivido": "revivido el 23/09: vencian hoy los cinco dias laborables y no hay ninguna nota nueva en el ticket (el unico movimiento de hoy es un cambio de campo a las 07:51, sin comentario). Ivan no ha hablado con Borja."
   },
   {
    "id": "7271-correo-reenviado-16",
@@ -3219,7 +3221,8 @@
    "quien": "Borja",
    "cuando": "2026-09-16",
    "hora": "15:46",
-   "revive_si": "Pasan 5 días laborables desde el 16/09 sin que Belenús mande el DUA o sin nota nueva."
+   "revive_si": "Pasan 5 días laborables desde el 16/09 sin que Belenús mande el DUA o sin nota nueva.",
+   "revivido": "revivido el 23/09: cinco dias laborables desde el 16/09 sin que Belenus mande el DUA, y ademas DHL registro hoy a las 02:57 dos eventos nuevos en Vitoria (envio retenido y retraso en el despacho de aduanas)."
   },
   {
    "id": "7450-enora-paga-cliente-16",
@@ -3577,7 +3580,8 @@
    "porque": "si , sale una hoy",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es flujo normal: el centro pidio la pieza a las 14:28 y Borja confirmo a las 14:48 que sale hoy. Solo vuelve si el 18/09 el umbilical no consta enviado."
+   "revive_si": "Es flujo normal: el centro pidio la pieza a las 14:28 y Borja confirmo a las 14:48 que sale hoy. Solo vuelve si el 18/09 el umbilical no consta enviado.",
+   "revivido": "revivido el 23/09: hecho nuevo y posterior. El centro autorizo la recogida hoy a las 09:46 y Borja subio la etiqueta de CTT 0033260015349700019273 a las 09:52, y ese localizador no esta en ningun campo del ticket."
   },
   {
    "id": "7412-actualizado-17",
@@ -3759,7 +3763,8 @@
    "porque": "Isaac lo explico desde el panel a las 12:26: «hablara con ella Arturo»",
    "quien": "Isaac",
    "cuando": "2026-09-18",
-   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Vuelve el 23/09 si Arturo no ha hablado con la clienta o si sigue sin decidirse entre reclamar y cancelar."
+   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Vuelve el 23/09 si Arturo no ha hablado con la clienta o si sigue sin decidirse entre reclamar y cancelar.",
+   "revivido": "revivido el 23/09: se cumplieron los tres dias laborables y no consta que Arturo haya hablado con la clienta."
   },
   {
    "id": "7619-problema-remitido-18",
@@ -4025,7 +4030,8 @@
    "porque": "sigue pdte de hablar con arturo",
    "quien": "Borja",
    "cuando": "2026-09-18T13:31",
-   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Vuelve el 23/09 con sus 740 € si Arturo no ha decidido entre cobrar y reparar o cancelar."
+   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Vuelve el 23/09 con sus 740 € si Arturo no ha decidido entre cobrar y reparar o cancelar.",
+   "revivido": "revivido el 23/09: se cumplieron los tres dias laborables y Arturo sigue sin decidir entre cobrar y cancelar."
   },
   {
    "id": "7403-cliente-no-contesta-18",
@@ -4039,7 +4045,8 @@
    "porque": "siguen pdtes de que les conteste su cliente",
    "quien": "Borja",
    "cuando": "2026-09-18T13:31",
-   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Vuelve el 23/09 con sus 9.560 €."
+   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Vuelve el 23/09 con sus 9.560 €.",
+   "revivido": "revivido el 23/09: se cumplieron los tres dias laborables desde el 18/09 y el cliente de Dermoscan sigue sin contestar. El punto vuelve con sus 9.560 €."
   },
   {
    "id": "barletta-ticket-abierto-18",
@@ -4185,6 +4192,36 @@
    "cuando": "2026-09-22",
    "hora": "19:04",
    "revive_si": "Nunca por esto: el ticket esta en «Finalizada». Solo si el centro vuelve a escribir por el mismo manipulo."
+  },
+  {
+   "id": "7643-va-pichi-23",
+   "que": "LEAS-7643 Malie La Morea Pamplona · la recogida que DHL devolvio con incidencia el 22/09",
+   "ambito": {
+    "leas": "LEAS-7643",
+    "centro": "Malie morea Pamplona Centro Comercial La Morea",
+    "cliente": "Malie",
+    "tipo": "llega-taller-transporte"
+   },
+   "porque": "esto no aplica: Va pichi",
+   "quien": "Borja",
+   "cuando": "2026-09-23",
+   "hora": "09:23",
+   "revive_si": "Es un hecho con nombre: la recogida la hace Pichi. Vuelve si a los cinco dias laborables (30/09) el equipo no consta ni recogido ni en taller, o si no aparece ninguna fecha en el ticket."
+  },
+  {
+   "id": "7675-listo-23",
+   "que": "LEAS-7675 Depil&Bell · entregado el 22/09 a las 16:27 y el ticket sin mover",
+   "ambito": {
+    "leas": "LEAS-7675",
+    "centro": "Depil&Bell",
+    "cliente": "Depil&Bell",
+    "tipo": "llega-taller-transporte"
+   },
+   "porque": "esto no aplica: listo",
+   "quien": "Borja",
+   "cuando": "2026-09-23",
+   "hora": "09:26",
+   "revive_si": "Es un hecho: ya esta recepcionado. Vuelve solo si el ticket sigue en «Gestionado transporte» a los tres dias laborables (26/09)."
   }
  ],
  "enlaces": [
