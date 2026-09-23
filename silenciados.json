@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-23T14:08",
+ "actualizado": "2026-09-23T14:31",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4350,6 +4350,51 @@
    "cuando": "2026-09-23",
    "hora": "11:21",
    "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Si el 26/09 Arturo no ha contestado, vuelve, y entonces la decision es cobrar o cancelar."
+  },
+  {
+   "id": "7646-recogida-ctt-23",
+   "que": "LEAS-7646 Clinica MED · sustitucion sin una sola nota",
+   "ambito": {
+    "leas": "LEAS-7646",
+    "centro": "Clínica MED medicina estética depilación",
+    "cliente": "Clinica MED",
+    "tipo": "medias-sin-nota"
+   },
+   "porque": "esto no aplica: Gestionada recogida por CTTEXPRESS con nº0033260080539700026643",
+   "quien": "Cristina",
+   "cuando": "2026-09-23",
+   "hora": "13:20",
+   "revive_si": "Es un hecho con localizador. Vuelve si el 28/09 la averiada LEAS-7645 sigue sin constar recogida con ese numero."
+  },
+  {
+   "id": "7683-visto-23",
+   "que": "LEAS-7683 Elha Appia · el portal prometia entrega hoy y el paquete seguia en Milan",
+   "ambito": {
+    "leas": "LEAS-7683",
+    "centro": "ELha Appia",
+    "cliente": "Elha",
+    "tipo": "llega-taller-transporte"
+   },
+   "porque": "esto no aplica: visto",
+   "quien": "Borja",
+   "cuando": "2026-09-23",
+   "hora": "13:24",
+   "revive_si": "Es un acuse de recibo, no un hecho: si el 25/09 el equipo no consta en taller, vuelve."
+  },
+  {
+   "id": "7386-dua-pedido-otra-vez-23",
+   "que": "LEAS-7386 Belenus · veinte dias retenido en aduana en Vitoria",
+   "ambito": {
+    "leas": "LEAS-7386",
+    "centro": "Belenus",
+    "cliente": "Clinica Belenús SPA",
+    "tipo": "llega-taller-transporte"
+   },
+   "porque": "he vuelto a pedir a belenus el dua. nos lo tienen que dar ellos , a ver is hoy tenemos suerte",
+   "quien": "Borja",
+   "cuando": "2026-09-23",
+   "hora": "14:20",
+   "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 30/09 DHL sigue en «Envio retenido» sin el DUA, vuelve, y la decision es de Alejandro."
   }
  ],
  "enlaces": [
