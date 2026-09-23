@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-23T15:51",
+ "actualizado": "2026-09-23T17:00",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1205,7 +1205,7 @@
    "quien": "Borja e Isaac",
    "cuando": "2026-09-09",
    "revive_si": "Pasa una semana desde el 09/09 sin que se graben los discos ni se organice la actualización.",
-   "revivido": "2026-09-23 15:51 · el revive_si vencia el 09/09; LEAS-7103 y LEAS-7104 siguen abiertos en «Enviado a tecnico externo» y sin nota posterior al 16/09. Salen en «externo»."
+   "revivido": "2026-09-23 17:00 · el revive_si vencia el 09/09; LEAS-7103 y LEAS-7104 siguen abiertos en «Enviado a tecnico externo» y sin nota posterior al 16/09. Salen en «externo»."
   },
   {
    "id": "7526-zamora-sust-organizada",
@@ -2639,7 +2639,7 @@
    "quien": "Isaac",
    "cuando": "2026-09-14",
    "revive_si": "El equipo no consta en taller el 18/09.",
-   "revivido": "2026-09-23 15:51 · el revive_si vencia el 18/09; LEAS-7525 sigue en «Pendiente confirmacion presupuesto» con 8.373,20 EUR y la unica nota posterior es tecnica, no una respuesta del cliente. Sale en «presu»."
+   "revivido": "2026-09-23 17:00 · el revive_si vencia el 18/09; LEAS-7525 sigue en «Pendiente confirmacion presupuesto» con 8.373,20 EUR y la unica nota posterior es tecnica, no una respuesta del cliente. Sale en «presu»."
   },
   {
    "id": "7514-va-hoy-innet",
@@ -3449,7 +3449,7 @@
    "quien": "Borja",
    "cuando": "2026-09-17",
    "revive_si": "Pasan 5 dias laborables desde el 17/09 y LEAS-7534 sigue En prestamo con LEAS-7526 sin inspeccion de entrada.",
-   "revivido": "2026-09-23 15:51 · el revive_si vencia el 17/09, el ticket sigue abierto con 335 h de prestamo sobre 80 h y no hay ninguna nota de contenido posterior al 15/09. Sale en «prestamo»."
+   "revivido": "2026-09-23 17:00 · el revive_si vencia el 17/09, el ticket sigue abierto con 335 h de prestamo sobre 80 h y no hay ninguna nota de contenido posterior al 15/09. Sale en «prestamo»."
   },
   {
    "id": "7343-al-dia-17",
@@ -4174,7 +4174,7 @@
    "cuando": "2026-09-22",
    "hora": "12:52",
    "revive_si": "Es un hecho: ya tiene tecnico asignado. Vuelve si el 29/09 sigue en «En cola taller» sin ninguna nota de contenido posterior al 22/09. Nota para el panel: Borja avisa de que no se puede cargar veinte casos a cada tecnico; el bloque no debe insistir con este por falta de asignacion.",
-   "revivido": "2026-09-23 15:51 · el revive_si vencia el 22/09, sigue en «En cola taller» con 148 h sobre 80 h y sin una sola nota en todo el expediente; ademas el cliente pregunto hoy a las 13:35 por WhatsApp. Sale en «repara»."
+   "revivido": "2026-09-23 17:00 · el revive_si vencia el 22/09, sigue en «En cola taller» con 148 h sobre 80 h y sin una sola nota en todo el expediente; ademas el cliente pregunto hoy a las 13:35 por WhatsApp. Sale en «repara»."
   },
   {
    "id": "7543-sust-laser-factory-22",
