@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-23T14:31",
+ "actualizado": "2026-09-23T15:51",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1204,7 +1204,8 @@
    "porque": "Isaac pidió las placas a Chus el 09/09 a las 13:05 y 13:09, y Borja lo contestó desde el panel a las 15:52: «pdte de grabar discos y organizar la actualización».",
    "quien": "Borja e Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasa una semana desde el 09/09 sin que se graben los discos ni se organice la actualización."
+   "revive_si": "Pasa una semana desde el 09/09 sin que se graben los discos ni se organice la actualización.",
+   "revivido": "2026-09-23 15:51 · el revive_si vencia el 09/09; LEAS-7103 y LEAS-7104 siguen abiertos en «Enviado a tecnico externo» y sin nota posterior al 16/09. Salen en «externo»."
   },
   {
    "id": "7526-zamora-sust-organizada",
@@ -2637,7 +2638,8 @@
    "porque": "Isaac subió hoy a las 10:54 el seguimiento bueno (Palibex) como comentario del ticket",
    "quien": "Isaac",
    "cuando": "2026-09-14",
-   "revive_si": "El equipo no consta en taller el 18/09."
+   "revive_si": "El equipo no consta en taller el 18/09.",
+   "revivido": "2026-09-23 15:51 · el revive_si vencia el 18/09; LEAS-7525 sigue en «Pendiente confirmacion presupuesto» con 8.373,20 EUR y la unica nota posterior es tecnica, no una respuesta del cliente. Sale en «presu»."
   },
   {
    "id": "7514-va-hoy-innet",
@@ -3130,7 +3132,8 @@
    "cuando": "2026-09-16",
    "hora": "11:28",
    "revive_si": "Es un hecho, no una espera. Sólo vuelve si Epil Point dice que no lo ha recibido o si a los cinco días laborables (23/09) no han aceptado el pedido del portal.",
-   "revivido": "2026-09-23: su revive_si vencia hoy («si a los cinco dias laborables (23/09) no han aceptado el pedido del portal»). No se ha podido entrar en el portal de Epil Point en tres pasadas, asi que el punto vuelve diciendo exactamente eso."
+   "revivido": "2026-09-23: su revive_si vencia hoy («si a los cinco dias laborables (23/09) no han aceptado el pedido del portal»). No se ha podido entrar en el portal de Epil Point en tres pasadas, asi que el punto vuelve diciendo exactamente eso.",
+   "caducado": "2026-09-23 15:07 · Borja en el ticket: «arturo dio luz vede sale reparado hoy». El hecho que se esperaba (que Epil Point aceptara el pedido del portal) ya no hace falta: Arturo lo ha autorizado. No hace falta entrar al portal."
   },
   {
    "id": "laser-factory-figueres-contestado",
@@ -3445,7 +3448,8 @@
    "porque": "Esta asignado ya",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Pasan 5 dias laborables desde el 17/09 y LEAS-7534 sigue En prestamo con LEAS-7526 sin inspeccion de entrada."
+   "revive_si": "Pasan 5 dias laborables desde el 17/09 y LEAS-7534 sigue En prestamo con LEAS-7526 sin inspeccion de entrada.",
+   "revivido": "2026-09-23 15:51 · el revive_si vencia el 17/09, el ticket sigue abierto con 335 h de prestamo sobre 80 h y no hay ninguna nota de contenido posterior al 15/09. Sale en «prestamo»."
   },
   {
    "id": "7343-al-dia-17",
@@ -4169,7 +4173,8 @@
    "quien": "Borja",
    "cuando": "2026-09-22",
    "hora": "12:52",
-   "revive_si": "Es un hecho: ya tiene tecnico asignado. Vuelve si el 29/09 sigue en «En cola taller» sin ninguna nota de contenido posterior al 22/09. Nota para el panel: Borja avisa de que no se puede cargar veinte casos a cada tecnico; el bloque no debe insistir con este por falta de asignacion."
+   "revive_si": "Es un hecho: ya tiene tecnico asignado. Vuelve si el 29/09 sigue en «En cola taller» sin ninguna nota de contenido posterior al 22/09. Nota para el panel: Borja avisa de que no se puede cargar veinte casos a cada tecnico; el bloque no debe insistir con este por falta de asignacion.",
+   "revivido": "2026-09-23 15:51 · el revive_si vencia el 22/09, sigue en «En cola taller» con 148 h sobre 80 h y sin una sola nota en todo el expediente; ademas el cliente pregunto hoy a las 13:35 por WhatsApp. Sale en «repara»."
   },
   {
    "id": "7543-sust-laser-factory-22",
@@ -4395,6 +4400,51 @@
    "cuando": "2026-09-23",
    "hora": "14:20",
    "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 30/09 DHL sigue en «Envio retenido» sin el DUA, vuelve, y la decision es de Alejandro."
+  },
+  {
+   "id": "7526-atasco-taller-23",
+   "que": "LEAS-7526 Sinvello Zamora · reparacion pasada de plazo tras aceptar el presupuesto",
+   "ambito": {
+    "leas": "LEAS-7526",
+    "centro": "Sinvello Zamora",
+    "cliente": "Sin Vello por Laser Low Cost SL",
+    "tipo": "repara-sla"
+   },
+   "porque": "esto no aplica: hay atasco en taller , esta asignada pero tiene que hacerse a un .",
+   "quien": "Borja",
+   "cuando": "2026-09-23",
+   "hora": "15:06",
+   "revive_si": "Es una espera interna, no un hecho cerrado: si el 30/09 sigue en «Esperando inicio reparacion» sin nota nueva, vuelve."
+  },
+  {
+   "id": "7644-sust-entregada-23",
+   "que": "LEAS-7644 Malie La Morea Pamplona · prestamo fuera de plazo con la sustitucion entregada",
+   "ambito": {
+    "leas": "LEAS-7644",
+    "centro": "Malie morea Pamplona Centro Comercial La Morea",
+    "cliente": "Malie",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "esto no aplica: sust enmtregada , equiupo recogido en gest de recogida. no veo nada que haya qye cambiar tocar",
+   "quien": "Borja",
+   "cuando": "2026-09-23",
+   "hora": "15:18",
+   "revive_si": "Es un hecho. Vuelve solo si el 30/09 la averiada del padre LEAS-7643 sigue sin constar en taller."
+  },
+  {
+   "id": "7630-reclamado-dhl-23",
+   "que": "LEAS-7630 Sin Vello Montilla · prestamo de 166 h con la sustitucion entregada el 18/09",
+   "ambito": {
+    "leas": "LEAS-7630",
+    "centro": "Sin Vello Montilla",
+    "cliente": "Sin Vello por Laser Low Cost SL",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "reclamado en dhl la recogida",
+   "quien": "Borja",
+   "cuando": "2026-09-23",
+   "hora": "15:16",
+   "revive_si": "Es una reclamacion a un tercero: aparta el punto cinco dias laborables. Si el 30/09 DHL Parcel no ha recogido la averiada, vuelve. (La recogida de la averiada LEAS-7628 si consta: «Recogida realizada» hoy 23/09 a las 15:26 en Cordoba.)"
   }
  ],
  "enlaces": [
