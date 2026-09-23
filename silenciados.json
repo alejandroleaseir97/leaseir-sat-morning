@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-23T19:12",
+ "actualizado": "2026-09-23T21:01",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4445,6 +4445,34 @@
    "cuando": "2026-09-23",
    "hora": "15:16",
    "revive_si": "Es una reclamacion a un tercero: aparta el punto cinco dias laborables. Si el 30/09 DHL Parcel no ha recogido la averiada, vuelve. (La recogida de la averiada LEAS-7628 si consta: «Recogida realizada» hoy 23/09 a las 15:26 en Cordoba.)"
+  },
+  {
+   "id": "euroma2-contestado-23",
+   "que": "Centri Unico Euroma2 (SRF): el centro había contestado a las 18:06 con vídeo, consola 10016 y manípulo SUST005 y seguíamos sin responderle",
+   "ambito": {
+    "leas": "LEAS-7730",
+    "centro": "Unico - Centro C.C. Euroma2 Roma",
+    "cliente": "Beauty Cool Italia",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "Dobbiamo inviare un prodotto sostitutivo; lo spediremo il prima possibile",
+   "quien": "Isaac",
+   "cuando": "2026-09-23T19:09",
+   "revive_si": "Si el 25/09 la sustitución no consta enviada con tracking en LEAS-7730, o si Euroma2 vuelve a escribir sin respuesta en 4 horas"
+  },
+  {
+   "id": "7602-carlos-mora-viernes-23",
+   "que": "LEAS-7602 Pantera Barcelona: dos avisos a Carlos Mora sin que fuera y avería en vivo desde las 18:47",
+   "ambito": {
+    "leas": "LEAS-7602",
+    "centro": "Pantera Barcelona",
+    "cliente": "Pantera",
+    "tipo": "externo-sin-fecha"
+   },
+   "porque": "he quedado para el viernes a las 1030 mañana es fiesta en BCN",
+   "quien": "Isaac",
+   "cuando": "2026-09-23T19:09",
+   "revive_si": "2026-09-26 si no consta en el ticket que el técnico fue el viernes 26/09 a las 10:30"
   }
  ],
  "enlaces": [
