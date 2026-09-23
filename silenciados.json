@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-23T13:41",
+ "actualizado": "2026-09-23T14:08",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1776,7 +1776,8 @@
    "porque": "Gonzalo dijo en «SAT Leaseir (Interno)» a las 11:49 «Lo meto en un leas» y Borja confirmó a las 13:58 en ese mismo grupo: «ya esta metido en este: LEAS-7555». El ticket se creó a las 13:55 como «Petición de material» y está en «Presupuesto enviado».",
    "quien": "Borja",
    "cuando": "2026-09-10",
-   "revive_si": "LEAS-7555 se queda sin movimiento 3 días laborables."
+   "revive_si": "LEAS-7555 se queda sin movimiento 3 días laborables.",
+   "revivido": "2026-09-23: su propio revive_si («se queda sin movimiento 3 dias laborables») se cumplio el 15/09 y nadie lo reviso. Nueve dias laborables sin tocar el ticket. El punto vuelve al bloque de presupuestos."
   },
   {
    "id": "7359-olbia-llego-ayer",
@@ -2474,7 +2475,8 @@
    "porque": "si se hizo, esta el tracking de recogida en Jira y por lo que veo esta en Gijon",
    "quien": "Isaac",
    "cuando": "2026-09-14",
-   "revive_si": "El equipo no consta en taller el 17/09."
+   "revive_si": "El equipo no consta en taller el 17/09.",
+   "caducado": "2026-09-23: el hecho que esperaba ya ocurrio — el equipo llego a taller, esta en «Inspeccion de salida» y Chus lo termino hoy a las 10:40. El silencio no cubre nada."
   },
   {
    "id": "7500-hablado-con-la-clienta",
@@ -2910,7 +2912,8 @@
    "quien": "Isaac",
    "cuando": "2026-09-14",
    "hora": "20:04",
-   "revive_si": "si el 17/09 Humberto sigue sin aprobar la proforma"
+   "revive_si": "si el 17/09 Humberto sigue sin aprobar la proforma",
+   "revivido": "2026-09-23: su propio revive_si («si el 17/09 Humberto sigue sin aprobar la proforma») se cumplio el 17/09 y nadie lo reviso. Cuatro dias laborables de mas. El punto vuelve al bloque de presupuestos."
   },
   {
    "id": "7227-limoneros-se-quedan-la-susti",
@@ -3126,7 +3129,8 @@
    "quien": "Borja",
    "cuando": "2026-09-16",
    "hora": "11:28",
-   "revive_si": "Es un hecho, no una espera. Sólo vuelve si Epil Point dice que no lo ha recibido o si a los cinco días laborables (23/09) no han aceptado el pedido del portal."
+   "revive_si": "Es un hecho, no una espera. Sólo vuelve si Epil Point dice que no lo ha recibido o si a los cinco días laborables (23/09) no han aceptado el pedido del portal.",
+   "revivido": "2026-09-23: su revive_si vencia hoy («si a los cinco dias laborables (23/09) no han aceptado el pedido del portal»). No se ha podido entrar en el portal de Epil Point en tres pasadas, asi que el punto vuelve diciendo exactamente eso."
   },
   {
    "id": "laser-factory-figueres-contestado",
@@ -3268,7 +3272,8 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-17",
    "hora": "09:46",
-   "revive_si": "Pasan 3 días laborables desde el 17/09 y LEAS-7418 sigue en «Solicitado» sin que conste la recogida."
+   "revive_si": "Pasan 3 días laborables desde el 17/09 y LEAS-7418 sigue en «Solicitado» sin que conste la recogida.",
+   "revivido": "2026-09-23: su revive_si («pasan 3 dias laborables desde el 17/09 y sigue en Solicitado sin que conste la recogida») se cumplio el 22/09 y nadie lo reviso. Van cuatro dias laborables y los tres campos de seguimiento siguen vacios."
   },
   {
    "id": "7258-sinvello-autoriza-17",
@@ -3454,7 +3459,8 @@
    "porque": "caso actualizado y al dia",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es un hecho: el ticket se movio a «Esperando inicio reparacion» el 17/09. Solo vuelve si a los 3 dias laborables sigue sin importe en el campo 10301 o sin fecha de reparacion."
+   "revive_si": "Es un hecho: el ticket se movio a «Esperando inicio reparacion» el 17/09. Solo vuelve si a los 3 dias laborables sigue sin importe en el campo 10301 o sin fecha de reparacion.",
+   "caducado": "2026-09-23: su condicion ya no se sostiene — el campo 10301 tiene importe (3.654 EUR), asi que el silencio no puede seguir apartando el punto por esa via. LEAS-7343 entra en «terminado sin cerrar» el 24/09 por el umbral normal de cinco dias laborables."
   },
   {
    "id": "7466-aceptado-por-mail-17",
@@ -3553,7 +3559,8 @@
    "porque": "les consultamos por el cha por que no nos dejan claro i piueden trabajar o no. Asi ganamos tiempo para conseguir una sust",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es una espera a la respuesta del centro: aparta el punto tres dias laborables. Si el 22/09 no hay sustitucion organizada ni nota nueva, vuelve."
+   "revive_si": "Es una espera a la respuesta del centro: aparta el punto tres dias laborables. Si el 22/09 no hay sustitucion organizada ni nota nueva, vuelve.",
+   "revivido": "2026-09-23: su revive_si («si el 22/09 no hay sustitucion organizada ni nota nueva, vuelve») se cumplio ayer. La unica nota posterior, del 21/09, solo aclara que el centro es Aviles y no dice nada de la sustitucion."
   },
   {
    "id": "7408-asignada-17",
