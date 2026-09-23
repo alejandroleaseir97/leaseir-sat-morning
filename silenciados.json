@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-23T10:19",
+ "actualizado": "2026-09-23T13:41",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -3206,7 +3206,8 @@
    "quien": "Borja",
    "cuando": "2026-09-16",
    "hora": "15:51",
-   "revive_si": "El 18/09 la recogida de Sabadell no consta hecha o el ticket vuelve atrás."
+   "revive_si": "El 18/09 la recogida de Sabadell no consta hecha o el ticket vuelve atrás.",
+   "caducado": "2026-09-23: la recogida se materializo y el laser esta en taller (el ticket esta en «En preparacion presupuesto»), asi que el silencio de la etiqueta ya no cubre nada. Lo que hay ahora es otra cosa: Fran conto hoy a las 12:31 en «SAT TALLER LEASEIR» como esta el equipo y eso no esta en el ticket."
   },
   {
    "id": "7386-dua-belenus-16",
@@ -4222,6 +4223,126 @@
    "cuando": "2026-09-23",
    "hora": "09:26",
    "revive_si": "Es un hecho: ya esta recepcionado. Vuelve solo si el ticket sigue en «Gestionado transporte» a los tres dias laborables (26/09)."
+  },
+  {
+   "id": "7618-entregado-en-fabrica-23",
+   "que": "LEAS-7618 Smart Duck Asnieres · entregado el 22/09 a las 17:14 en Gijon y el ticket seguia en «Gestionado transporte»",
+   "ambito": {
+    "leas": "LEAS-7618",
+    "centro": "smartduck Asnieres sur Seine",
+    "cliente": "Smart Duck",
+    "tipo": "llega-taller-transporte"
+   },
+   "porque": "Lo han entregado por error en fabrica, esperando a que se mueva a taller",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-23",
+   "hora": "10:02",
+   "revive_si": "Es una espera interna con explicacion: aparta el punto cinco dias laborables. Si el 30/09 el equipo sigue sin constar en taller, vuelve."
+  },
+  {
+   "id": "7583-cola-taller-23",
+   "que": "LEAS-7583 Epil Point Aversa · manipulo 40374 en Gijon desde el 21/09 sin nota",
+   "ambito": {
+    "leas": "LEAS-7583",
+    "centro": "Epil Point Aversa",
+    "cliente": "Epil Point",
+    "tipo": "repara-sin-nota"
+   },
+   "porque": "En cola de taller",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-23",
+   "hora": "10:03",
+   "revive_si": "Es un hecho con hora y con estado. Vuelve si el 30/09 sigue en cola sin que arranque la reparacion."
+  },
+  {
+   "id": "7685-llegado-a-taller-23",
+   "que": "LEAS-7685 Elha Elche · entregado el 22/09 a las 09:57 y el ticket sin recepcionar",
+   "ambito": {
+    "leas": "LEAS-7685",
+    "centro": "Elha Elche",
+    "cliente": "Elha",
+    "tipo": "llega-taller-transporte"
+   },
+   "porque": "Ha llegado a taller",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-23",
+   "hora": "10:06",
+   "revive_si": "Es un hecho: el equipo esta en taller y el ticket paso a «Pendiente asignar tecnico». Vuelve si el 30/09 sigue sin tecnico asignado."
+  },
+  {
+   "id": "7298-recordado-a-david-23",
+   "que": "LEAS-7298 subtarea de cobro de LEAS-6906 · veintisiete dias laborables sin un solo comentario",
+   "ambito": {
+    "leas": "LEAS-7298",
+    "centro": "Daniel JAramillo Holea",
+    "cliente": "Holea",
+    "tipo": "medias-sin-nota"
+   },
+   "porque": "Se le ha recordad a David, sobre este presupuesto ya que lo iba a mirar",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-23",
+   "hora": "10:11",
+   "revive_si": "Es una reclamacion interna, no un hecho: aparta el punto cinco dias laborables. Si el 30/09 el presupuesto de LEAS-6906 sigue sin firmarse y la subtarea sigue muda, vuelve."
+  },
+  {
+   "id": "7649-no-entregada-23",
+   "que": "LEAS-7649 Smart Duck Asnieres · 147 h de prestamo y ninguna nota desde el 17/09",
+   "ambito": {
+    "leas": "LEAS-7649",
+    "centro": "smartduck Asnieres sur Seine",
+    "cliente": "Smart Duck",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "No se puede planificar la devolucion ya que no esta entregada. La movio el cliente esta consola",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-23",
+   "hora": "10:12",
+   "revive_si": "Es una espera al transporte de la averiada (LEAS-7618): aparta el punto cinco dias laborables. Si el 30/09 la sustitucion sigue en prestamo, vuelve."
+  },
+  {
+   "id": "7635-recogida-pedida-de-nuevo-23",
+   "que": "LEAS-7635 Elha Sta Coloma · quinto dia con la etiqueta hecha y CTT sin recogerlo",
+   "ambito": {
+    "leas": "LEAS-7635",
+    "centro": "Elha Sta Coloma",
+    "cliente": "Elha",
+    "tipo": "llega-taller-transporte"
+   },
+   "porque": "Se pide si se puede recoger de nuevo",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-23",
+   "hora": "10:17",
+   "revive_si": "Es una reclamacion al transportista, no un hecho: aparta el punto tres dias laborables. Si el 28/09 CTT sigue sin recoger, vuelve y toca cambiar de transportista."
+  },
+  {
+   "id": "7645-recogida-reclamada-23",
+   "que": "LEAS-7645 Clinica MED · «Pendiente recogida» sin tracking en ningun campo",
+   "ambito": {
+    "leas": "LEAS-7645",
+    "centro": "Clínica MED medicina estética depilación",
+    "cliente": "Clinica MED",
+    "tipo": "sin-tracking"
+   },
+   "porque": "reclamado en chat la recogida",
+   "quien": "Borja",
+   "cuando": "2026-09-23",
+   "hora": "09:33",
+   "revive_si": "Es una reclamacion: aparta el punto tres dias laborables. Si el 28/09 la recogida sigue sin numero, vuelve. Su sustitucion LEAS-7646 depende de esto."
+  },
+  {
+   "id": "6907-escrito-a-arturo-23",
+   "que": "LEAS-6907 Apain Estetika (AHR0071) · presupuesto preparado y sin enviar, esperando a Arturo",
+   "ambito": {
+    "leas": "LEAS-6907",
+    "centro": "Apain Estetika ( AHR0071)",
+    "cliente": "Apain Estetika",
+    "tipo": "presu-sin-respuesta"
+   },
+   "porque": "Escribo a Arturo para que me confirme si contacto con el cliente, a la espera de confirmacion",
+   "quien": "Cristina",
+   "cuando": "2026-09-23",
+   "hora": "11:21",
+   "revive_si": "Es una espera a un tercero sobre un presupuesto: aparta el punto tres dias laborables. Si el 26/09 Arturo no ha contestado, vuelve, y entonces la decision es cobrar o cancelar."
   }
  ],
  "enlaces": [
