@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-24T14:22",
+ "actualizado": "2026-09-24T16:32",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -3392,7 +3392,11 @@
    "porque": "SUSTAHRD015",
    "quien": "Gonzalo",
    "cuando": "2026-09-17",
-   "revive_si": "El campo 10199 de LEAS-7572 sigue diciendo SUSTAHRD005 pasados 2 dias laborables desde hoy, o aparece una tercera serie distinta."
+   "revive_si": "El campo 10199 de LEAS-7572 sigue diciendo SUSTAHRD005 pasados 2 dias laborables desde hoy, o aparece una tercera serie distinta.",
+   "revivido": {
+    "cuando": "2026-09-24T16:32",
+    "porque": "vencía a los dos días laborables desde el 17/09 y el campo 10199 de LEAS-7572 sigue diciendo SUSTAHRD005 (comprobado a las 15:32); la SUSTAHRD015 consta en el Inmovilizado como «SAT - OUT»"
+   }
   },
   {
    "id": "7561-asturias-17",
@@ -4731,6 +4735,146 @@
    "cuando": "2026-09-24",
    "hora": "12:55",
    "revive_si": "2026-09-29 si LEAS-6906 sigue en «Pendiente confirmacion presupuesto» sin nota de contenido. Es una espera al cliente: tres dias laborables. La decision de cobrar o cancelar sigue siendo de Alejandro y va en su panel."
+  },
+  {
+   "id": "7591-esta-bien-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-7591",
+    "centro": "ESTÉTICA LOS ARCOS",
+    "cliente": null,
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "esto no aplica: esta bien",
+   "quien": "Borja",
+   "cuando": "2026-09-24T14:56",
+   "revive_si": "Es un hecho: el cliente recogió y pagó (Isaac, 13:54). Vuelve solo si el ticket sigue abierto el 2026-10-01."
+  },
+  {
+   "id": "7527-taller-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-7527",
+    "centro": "Dermasana Calle alcala",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "esto no aplica: taller",
+   "quien": "Borja",
+   "cuando": "2026-09-24T14:56",
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco días laborables. Vuelve el 2026-10-01 si sigue en «En cola taller» sin nota de contenido."
+  },
+  {
+   "id": "7675-consulto-borja-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-7675",
+    "centro": "Depil&Bell",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "esto no aplica: Consulto con Borja ya que es un asunto que desconozco.",
+   "quien": "Cristina",
+   "cuando": "2026-09-24T16:05",
+   "revive_si": "Es una consulta interna: aparta el punto tres días laborables. Vuelve el 2026-09-29 si no hay nota de contenido."
+  },
+  {
+   "id": "7664-sin-centro-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-7664",
+    "centro": null,
+    "cliente": null,
+    "tipo": "medias-sin-nota"
+   },
+   "porque": "esto no aplica: me aparece sustitución sin centro, pero el centro tiene equipo de sustitución y a parte el equipo reparado del centro esta en Barcelona esperando a pasar a reparto",
+   "quien": "Cristina",
+   "cuando": "2026-09-24T16:10",
+   "revive_si": "Es una espera a la entrega del equipo reparado. Vuelve el 2026-10-01 si la sustitución sigue en «Solicitado» sin centro."
+  },
+  {
+   "id": "7553-asignado-fran-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-7553",
+    "centro": "Dermasana Calle Alcala",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "esto no aplica: ya dio respuesta Isaac hace 2h, asignado a Fran",
+   "quien": "Cristina",
+   "cuando": "2026-09-24T16:16",
+   "revive_si": "Es un hecho: tiene técnico desde las 14:07. Vuelve el 2026-10-01 si sigue en «En cola taller» sin nota de contenido."
+  },
+  {
+   "id": "7445-inspeccion-salida-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-7445",
+    "centro": "Elha Caracol",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "esto no aplica: El equipo aparece ya en inspección de salida",
+   "quien": "Cristina",
+   "cuando": "2026-09-24T16:18",
+   "revive_si": "Es un hecho: está en «Inspección de salida». Vuelve el 2026-10-01 si no se ha devuelto al cliente."
+  },
+  {
+   "id": "5697-demo-corpoderm-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-5697",
+    "centro": "Smart Duck Paris",
+    "cliente": null,
+    "tipo": "prestamo-huerfano"
+   },
+   "porque": "lo usa corpoderm de demo con autorización de Oliver",
+   "quien": "Borja",
+   "cuando": "2026-09-24T15:31",
+   "revive_si": "Es un hecho: el préstamo está cedido como demo con autorización. Vuelve si Smart Duck o Corpoderm reclaman el equipo, o el 2026-10-08 si sigue abierto sin nota."
+  },
+  {
+   "id": "7343-reparto-barcelona-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-7343",
+    "centro": "Elha Sta teresa",
+    "cliente": null,
+    "tipo": "cerrar-sin-finalizar"
+   },
+   "porque": "revisa JIRA- Este equipo se reparó y se devolvió - Está en Barcelona esperando a pasar a reparto",
+   "quien": "Borja",
+   "cuando": "2026-09-24T15:35",
+   "revive_si": "Es una espera al reparto. Vuelve el 2026-10-01 si sigue en «Devuelto a cliente»."
+  },
+  {
+   "id": "7213-francesco-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-7213",
+    "centro": "Epil Point Pavia",
+    "cliente": null,
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "se preguntó ayer y aún no ha ido Francesco a repararlo, seguimos a la espera",
+   "quien": "Borja",
+   "cuando": "2026-09-24T15:33",
+   "revive_si": "Es una espera a un tercero sin fecha: aparta el punto cinco días laborables. Vuelve el 2026-10-01."
+  },
+  {
+   "id": "7311-dhl-recogido-24",
+   "que": "«esto no aplica» o explicación del equipo en el ticket",
+   "ambito": {
+    "leas": "LEAS-7311",
+    "centro": "Elha Pisa",
+    "cliente": null,
+    "tipo": "no-llega-taller"
+   },
+   "porque": "DHL Express JJD014600012842640292: «Envío recogido» en Livorno el 24/09 a las 14:47, entrega prevista el 28/09 (portal abierto a las 16:22)",
+   "quien": "pasada 15:10",
+   "cuando": "2026-09-24T16:22",
+   "revive_si": "Vuelve si el 2026-09-29 no consta entregado en Oviedo."
   }
  ],
  "enlaces": [
