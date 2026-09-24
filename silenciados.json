@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-24T16:32",
+ "actualizado": "2026-09-24T17:23",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4875,6 +4875,34 @@
    "quien": "pasada 15:10",
    "cuando": "2026-09-24T16:22",
    "revive_si": "Vuelve si el 2026-09-29 no consta entregado en Oviedo."
+  },
+  {
+   "id": "7695-espera-recogida-24",
+   "que": "LEAS-7695 · ruta",
+   "ambito": {
+    "leas": "LEAS-7695",
+    "centro": null,
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "aun no han recogido",
+   "quien": "Isaac",
+   "cuando": "2026-09-24 14:05",
+   "revive_si": "2026-10-01: si CTT sigue sin recibirlo"
+  },
+  {
+   "id": "7672-reclamado-sincronis-24",
+   "que": "LEAS-7672 · medias-epil",
+   "ambito": {
+    "leas": "LEAS-7672",
+    "centro": null,
+    "cliente": null,
+    "tipo": "medias-epil"
+   },
+   "porque": "reclamado a sincronis cuando pasan o si pasaron ya",
+   "quien": "Borja",
+   "cuando": "2026-09-24 16:02",
+   "revive_si": "2026-09-29: reclamación, 3 días laborables"
   }
  ],
  "enlaces": [
