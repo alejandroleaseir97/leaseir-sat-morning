@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-23T21:01",
+ "actualizado": "2026-09-24T10:30",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -37,7 +37,11 @@
    "quien": "Borja",
    "cuando": "2026-09-21",
    "hora": "11:25",
-   "revive_si": "Es un hecho con fecha (Palibex 9999081679256 entregado el 14/09 a las 14:26). Vuelve si a los 5 dias laborables (28/09) la averiada del padre LEAS-7443 sigue en «Pendiente recogida»."
+   "revive_si": "Es un hecho con fecha (Palibex 9999081679256 entregado el 14/09 a las 14:26). Vuelve si a los 5 dias laborables (28/09) la averiada del padre LEAS-7443 sigue en «Pendiente recogida».",
+   "revivido": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el hecho (entrega del 14/09) esta confirmado hoy en Palibex, pero el silencio vencio el 14/09 y ocho dias laborables despues el padre LEAS-7443 sigue en «Pendiente asignar tecnico» y el prestamo lleva 283 h sobre 80 h"
+   }
   },
   {
    "id": "7503-ya-asignada-21",
@@ -135,7 +139,11 @@
    "porque": "Sí tiene ticket: LEAS-7330, en 'Gestionada recogida'. Es la recogida de una máquina de SUSTITUCIÓN, no de una avería, por eso no hay ticket nuevo. Isaac ya la programó para el lunes. En el chat solo aparece el nombre del centro a medias, sin LEAS ni serie: ese es el motivo de que no supiera atarlo. Chus dejó comentario en el ticket el 04/09 a las 19:37 informando de que se recoge el lunes, y lo vinculó al caso LEAS-7324.",
    "quien": "Chus",
    "cuando": "2026-09-04",
-   "revive_si": "La recogida no se hace el lunes 07/09 o el estado del ticket retrocede."
+   "revive_si": "La recogida no se hace el lunes 07/09 o el estado del ticket retrocede.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7330 ya esta cerrado"
+   }
   },
   {
    "id": "elpalo-recogida",
@@ -1088,7 +1096,11 @@
    "porque": "Borja lo contestó desde el panel el 09/09 a las 14:07: «ya llego a taller, esta pendiente de hacerse la entrada en Jira». Ernesto corrigió el tracking de DHL a las 15:09.",
    "quien": "Borja",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables desde el 09/09 y sigue sin hacerse la entrada en taller."
+   "revive_si": "Pasan 3 días laborables desde el 09/09 y sigue sin hacerse la entrada en taller.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7358 ya esta cerrado"
+   }
   },
   {
    "id": "7386-belenus-aduanas",
@@ -1996,7 +2008,11 @@
    "porque": "Gonzalo abrió LEAS-7568 para este punto y lo dijo desde el panel el 11/09 a las 12:51: «punto del panel sin ticket, va con este». A las 12:57 lo cerró: «Se ha solucionado con videollamada». LEAS-7568 quedó en «Resuelto».",
    "quien": "Gonzalo",
    "cuando": "2026-09-11",
-   "revive_si": "Rende vuelve a escribir que el equipo de SRF sigue sin calentar. PRECISION (11/09 15:45): este silenciado cubre SOLO la averia del SRF que Gonzalo resolvio por videollamada. La recogida de la maquina averiada y el envio de la sustitucion a Italia NO entran aqui: son logistica, siguen sin ticket abierto y salen por su lado."
+   "revive_si": "Rende vuelve a escribir que el equipo de SRF sigue sin calentar. PRECISION (11/09 15:45): este silenciado cubre SOLO la averia del SRF que Gonzalo resolvio por videollamada. La recogida de la maquina averiada y el envio de la sustitucion a Italia NO entran aqui: son logistica, siguen sin ticket abierto y salen por su lado.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7568 ya esta cerrado"
+   }
   },
   {
    "id": "7227-pol-elha-recoge",
@@ -2437,7 +2453,11 @@
    "porque": "Hola Isaac, Por las mañanas esta de suplencia en un Hospital de zona Sevilla o alrededores",
    "quien": "Isaac",
    "cuando": "2026-09-14",
-   "revive_si": "GEE no da fecha de intervención antes del 18/09."
+   "revive_si": "GEE no da fecha de intervención antes del 18/09.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-6891 ya esta cerrado"
+   }
   },
   {
    "id": "7282-gee-semana-que-viene",
@@ -2450,7 +2470,11 @@
    "porque": "Me comenta GEE esto después de la reclamación: «Si, yo creo que a partir de la semana que viene si solicitan»",
    "quien": "Isaac",
    "cuando": "2026-09-14",
-   "revive_si": "Pasa la semana del 21/09 sin que GEE concrete."
+   "revive_si": "Pasa la semana del 21/09 sin que GEE concrete.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7282 ya esta cerrado"
+   }
   },
   {
    "id": "7452-reclamado-gee-hoy",
@@ -2463,7 +2487,11 @@
    "porque": "se ha reclamado a Gee para que procedan cuanto antes con la reparación",
    "quien": "Borja",
    "cuando": "2026-09-14",
-   "revive_si": "GEE no contesta a la reclamación antes del 17/09."
+   "revive_si": "GEE no contesta a la reclamación antes del 17/09.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7452 ya esta cerrado"
+   }
   },
   {
    "id": "7490-tracking-gijon",
@@ -2490,7 +2518,11 @@
    "porque": "he hablado con la Clienta (Belén) porque tenia dudas si la reparación estaba en garantía; Innet ya puede llamarla",
    "quien": "Isaac",
    "cuando": "2026-09-14",
-   "revive_si": "Innet no consigue cita con el centro antes del 18/09."
+   "revive_si": "Innet no consigue cita con el centro antes del 18/09.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7500 ya esta cerrado"
+   }
   },
   {
    "id": "7515-si-lleva-tracking",
@@ -2549,7 +2581,11 @@
    "porque": "el material estas en reparto, cuando llegue Carlos MOra llamara para pedir cita y solucionarlo",
    "quien": "Isaac",
    "cuando": "2026-09-14",
-   "revive_si": "Carlos Mora no pide cita antes del 17/09."
+   "revive_si": "Carlos Mora no pide cita antes del 17/09.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7545 ya esta cerrado"
+   }
   },
   {
    "id": "7553-caja-de-madera",
@@ -2818,7 +2854,11 @@
    "quien": "Isaac",
    "cuando": "2026-09-14",
    "hora": "14:31",
-   "revive_si": "si el 16/09 no se ha organizado el envío de la consola nueva"
+   "revive_si": "si el 16/09 no se ha organizado el envío de la consola nueva",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7421 ya esta cerrado"
+   }
   },
   {
    "id": "giugliano-solucionado",
@@ -3032,7 +3072,11 @@
    "quien": "Chus",
    "cuando": "2026-09-15",
    "hora": "14:26",
-   "revive_si": "el 18/09 LEAS-7405 sigue en «Esperando inicio reparación» sin que la reparación haya empezado ni nota nueva"
+   "revive_si": "el 18/09 LEAS-7405 sigue en «Esperando inicio reparación» sin que la reparación haya empezado ni nota nueva",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7405 ya esta cerrado"
+   }
   },
   {
    "id": "7474-albufera-recogida-gestionada",
@@ -3183,7 +3227,11 @@
    "quien": "Borja",
    "cuando": "2026-09-16",
    "hora": "09:12",
-   "revive_si": "El 18/09 no consta en LEAS-7452 que el técnico de GEE haya ido a Estepona."
+   "revive_si": "El 18/09 no consta en LEAS-7452 que el técnico de GEE haya ido a Estepona.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7452 ya esta cerrado"
+   }
   },
   {
    "id": "gigli-contestado-16",
@@ -3362,7 +3410,11 @@
    "porque": "La pieza sigue de camino a Bielorrusia al tecnico que luego hara el envio a taller . Seguimos investigando que relación hay entre deseja y esta gente",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 24/09 la pieza no consta en taller o no hay nota nueva, vuelve. Medquant dijo hoy a las 12:12 que aun no han enviado nada y que esperan la unidad en su oficina de Moscu."
+   "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 24/09 la pieza no consta en taller o no hay nota nueva, vuelve. Medquant dijo hoy a las 12:12 que aun no han enviado nada y que esperan la unidad en su oficina de Moscu.",
+   "revivido": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "vencia el 24/09 y la pieza no consta en taller ni hay nota nueva: la ultima de contenido es del 17/09 y los tres campos de seguimiento (11420, 11454 y 10213) siguen vacios"
+   }
   },
   {
    "id": "7573-reclamado-sincronis-17",
@@ -3376,7 +3428,11 @@
    "porque": "se ha reclamado otra vez hoy el envio a sincronis,",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 24/09 el equipo sigue sin salir de Cinisello o Sincronis vuelve a escribir sin respuesta, vuelve."
+   "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 24/09 el equipo sigue sin salir de Cinisello o Sincronis vuelve a escribir sin respuesta, vuelve.",
+   "revivido": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "vencia el 24/09 y no hay nada nuevo: el seguimiento de DHL Express (JJD014600012734461753), abierto dos veces hoy, sigue congelado en «solo etiqueta generada» del 11/09 a las 14:38, y el ticket sigue en «Equipo enviado»"
+   }
   },
   {
    "id": "7334-energia-fran-17",
@@ -3420,7 +3476,11 @@
    "porque": "El 16/09 a las 18:03 se le paso al centro por SINVELLO - SEGUIMIENTO SUSTITUCIONES el PDF de la etiqueta de recogida: «el equipo de sustitucion de Granada Constitucion ya se puede recoger» y «si la pueden pegar en la caja»",
    "quien": "Gonzalo",
    "cuando": "2026-09-17",
-   "revive_si": "Es una recogida pedida: aparta el punto cinco dias laborables. Si el 24/09 la C03204 y el H01026 siguen en prestamo sin que la recogida se haya materializado, vuelve."
+   "revive_si": "Es una recogida pedida: aparta el punto cinco dias laborables. Si el 24/09 la C03204 y el H01026 siguen en prestamo sin que la recogida se haya materializado, vuelve.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7385 ya esta cerrado"
+   }
   },
   {
    "id": "7621-numero-correcto-17",
@@ -3492,7 +3552,11 @@
    "porque": "cerrado el caso",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es un hecho: LEAS-7312 quedo Finalizada el 17/09 a las 14:27. Solo vuelve si se reabre."
+   "revive_si": "Es un hecho: LEAS-7312 quedo Finalizada el 17/09 a las 14:27. Solo vuelve si se reabre.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7312 ya esta cerrado"
+   }
   },
   {
    "id": "7359-en-transito-17",
@@ -3521,7 +3585,11 @@
    "porque": "reclamado el envio a Dhl",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es una reclamacion: aparta el punto cinco dias laborables. Si el 24/09 la sustitucion sigue sin recogerse, vuelve."
+   "revive_si": "Es una reclamacion: aparta el punto cinco dias laborables. Si el 24/09 la sustitucion sigue sin recogerse, vuelve.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7237 ya esta cerrado"
+   }
   },
   {
    "id": "7553-recogida-alcala-17",
@@ -3535,7 +3603,11 @@
    "porque": "lo preparan hoy para recoger, en cuantro este nos avisan",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es un hecho con hora: el centro dijo a las 14:25 «ahora os lo preparo, que me trajo Claudia ayer el maletin». Si el 24/09 la C03227 sigue sin recogerse, vuelve."
+   "revive_si": "Es un hecho con hora: el centro dijo a las 14:25 «ahora os lo preparo, que me trajo Claudia ayer el maletin». Si el 24/09 la C03227 sigue sin recogerse, vuelve.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "comprobado hoy en DHL Parcel (JJD00006286083905498001): entregado el 21/09 a las 16:47 en Asturias. La recogida se materializo, asi que la condicion del silencio se cumplio; el punto que sale ahora es otro (lleva tres dias en taller sin tecnico asignado)"
+   }
   },
   {
    "id": "7520-equipo-nuevo-17",
@@ -3578,7 +3650,11 @@
    "porque": "esta asignada para hacerse en cuanto se pueda",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es una espera interna: aparta el punto cinco dias laborables. Si el 24/09 la SUSTMHR013 sigue en el centro, vuelve."
+   "revive_si": "Es una espera interna: aparta el punto cinco dias laborables. Si el 24/09 la SUSTMHR013 sigue en el centro, vuelve.",
+   "revivido": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "vencia el 24/09 y la SUSTMHR013 sigue en el centro: Palibex (999908128897) abierto hoy dice «Entregada» el 01/09 a las 14:30 en Barcelona III, y la ultima nota es del 17/09"
+   }
   },
   {
    "id": "7658-umbilical-sale-hoy-17",
@@ -3621,7 +3697,11 @@
    "porque": "Esta en cola de taller su consola que tuvo que volver porque el cliente no notaba efecto",
    "quien": "Gonzalo",
    "cuando": "2026-09-17",
-   "revive_si": "Es una espera interna al taller: aparta el punto cinco dias laborables. Si el 24/09 la consola sigue sin repararse y la sustitucion sigue en el centro, vuelve."
+   "revive_si": "Es una espera interna al taller: aparta el punto cinco dias laborables. Si el 24/09 la consola sigue sin repararse y la sustitucion sigue en el centro, vuelve.",
+   "revivido": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "vencia el 24/09 y la sustitucion sigue en el centro: DHL Parcel (3351090913) abierto hoy dice «Entregado» el 14/08 a las 09:25 en Cadiz, casi seis semanas, y la ultima nota es del 17/09"
+   }
   },
   {
    "id": "parma-declaracion-conformidad-17",
@@ -3649,7 +3729,11 @@
    "porque": "Se ha reclamado a DHL",
    "quien": "Gonzalo",
    "cuando": "2026-09-17",
-   "revive_si": "Es una reclamacion a un tercero: aparta el punto cinco dias laborables. Si el 24/09 la recogida sigue sin numero y el centro sigue con el equipo, vuelve."
+   "revive_si": "Es una reclamacion a un tercero: aparta el punto cinco dias laborables. Si el 24/09 la recogida sigue sin numero y el centro sigue con el equipo, vuelve.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "comprobado hoy en DHL Parcel (3351088573): entregado el 11/08 a las 12:57 en Malaga, y el ticket esta en «Equipo devuelto». El equipo volvio"
+   }
   },
   {
    "id": "7118-parte-reclamado-17",
@@ -3691,7 +3775,11 @@
    "porque": "Ernesto hizo la inspeccion de salida entera el 17/09 a las 16:14 (lista de comprobacion rellena, accesorios, cinco fotos) y paso el ticket de «Inspeccion de salida» a «Devuelto a cliente»",
    "quien": "Ernesto",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho con hora. Vuelve si pasan 5 dias laborables desde el 17/09 (el 24/09) y el ticket sigue en «Devuelto a cliente» sin finalizar."
+   "revive_si": "Es un hecho con hora. Vuelve si pasan 5 dias laborables desde el 17/09 (el 24/09) y el ticket sigue en «Devuelto a cliente» sin finalizar.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "el ticket LEAS-7485 ya esta cerrado"
+   }
   },
   {
    "id": "5697-recogida-pedida-17",
@@ -3705,7 +3793,11 @@
    "porque": "Gonzalo movio el ticket el 17/09 a las 16:04 de «En prestamo» a «Gestionada recogida», o sea que la recogida de la C03143 y el H03143 ya esta pedida",
    "quien": "Gonzalo",
    "cuando": "2026-09-18",
-   "revive_si": "Es una recogida pedida: aparta el punto cinco dias laborables. Si el 24/09 la C03143 y el H03143 siguen sin constar recogidas, vuelve. Lo de que las series no consten en el Inmovilizado es otra cosa y sigue vivo en el panel de Alejandro."
+   "revive_si": "Es una recogida pedida: aparta el punto cinco dias laborables. Si el 24/09 la C03143 y el H03143 siguen sin constar recogidas, vuelve. Lo de que las series no consten en el Inmovilizado es otra cosa y sigue vivo en el panel de Alejandro.",
+   "revivido": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "vencia el 24/09 y la C03143/H03143 sigue sin constar recogida: el ticket sigue en «Gestionada recogida», la ultima nota de contenido es del 04/09 y el unico campo de seguimiento dice «dhl express carretera», que no es un localizador que se pueda abrir"
+   }
   },
   {
    "id": "7510-transporte-gestionado-17",
@@ -3719,7 +3811,11 @@
    "porque": "Borja le gestiono el transporte el 17/09 a las 09:07 y le metio el tracking de DHL (JJD00006286083902338001), asi que la caja de madera llego y la recogida esta hecha",
    "quien": "Borja",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho con hora. Vuelve si pasan 5 dias laborables desde el 17/09 (el 24/09) y el laser sigue sin constar en taller."
+   "revive_si": "Es un hecho con hora. Vuelve si pasan 5 dias laborables desde el 17/09 (el 24/09) y el laser sigue sin constar en taller.",
+   "caducado": {
+    "cuando": "2026-09-24T10:23",
+    "porque": "comprobado hoy en DHL Parcel (JJD00006286083902338001): entregado el 21/09 a las 16:47 en Asturias. El laser si consta en taller; el punto que sale ahora es que sigue en «Pendiente asignar tecnico»"
+   }
   },
   {
    "id": "7415-laser-sale-hoy-18",
@@ -4473,6 +4569,62 @@
    "quien": "Isaac",
    "cuando": "2026-09-23T19:09",
    "revive_si": "2026-09-26 si no consta en el ticket que el técnico fue el viernes 26/09 a las 10:30"
+  },
+  {
+   "id": "7388-recogida-y-link-24",
+   "que": "LEAS-7388 sale en «falta el link de ubicacion» y en «sin seguimiento»",
+   "ambito": {
+    "leas": "LEAS-7388",
+    "centro": "CVL Distribuidor Aparatologia",
+    "cliente": "CVL",
+    "tipo": "maps-sin-link"
+   },
+   "porque": "ya esta recogida. si que hay link de ubicacion.",
+   "quien": "Borja",
+   "cuando": "2026-09-24T09:37",
+   "revive_si": "2026-10-01 si el 11354 de LEAS-7388 o del padre sigue vacio y la recogida no consta materializada"
+  },
+  {
+   "id": "7678-lecce-corregido-24",
+   "que": "LEAS-7678 sale en «Epil Point y Centri Unico» y en «tecnico externo» por el 10143 equivocado y por no tener dueño",
+   "ambito": {
+    "leas": "LEAS-7678",
+    "centro": "Epil Point Lecce",
+    "cliente": "Epil Point Italia",
+    "tipo": "epil"
+   },
+   "porque": "corregido",
+   "quien": "Borja",
+   "cuando": "2026-09-24T09:39",
+   "revive_si": "2026-09-25 si no consta en LEAS-7678 que la intervencion de Sincronis del 24/09 a las 11:30 se hizo, o si el 10143 vuelve a decir Innet"
+  },
+  {
+   "id": "7270-salio-ayer-24",
+   "que": "LEAS-7270 sale en «reparacion fuera de plazo» y en «listo para cerrar»",
+   "ambito": {
+    "leas": "LEAS-7270",
+    "centro": "Epil Point Lecce",
+    "cliente": "Epil Point Italia",
+    "tipo": "repara-sin-nota"
+   },
+   "porque": "Salió ayer - pido a ernesto que meta las fotos de salida",
+   "quien": "Borja",
+   "cuando": "2026-09-24T09:43",
+   "revive_si": "2026-09-26 si las fotos de salida del LEAS-7270 no constan en «Fotos equipos» y el ticket sigue en «Inspeccion de salida»"
+  },
+  {
+   "id": "7561-princesa-ya-esta-24",
+   "que": "LEAS-7561 sale en «presupuestos sin respuesta»: Dermasana Princesa acepto el presupuesto el 23/09 a las 19:27 y el ticket seguia sin mover",
+   "ambito": {
+    "leas": "LEAS-7561",
+    "centro": "Dermasana Princesa",
+    "cliente": "Dermasana",
+    "tipo": "presu"
+   },
+   "porque": "ya esta",
+   "quien": "Borja",
+   "cuando": "2026-09-24T09:43",
+   "revive_si": "2026-09-29 si LEAS-7561 sigue sin pasar de «Esperando inicio reparacion» con el presupuesto ya aceptado"
   }
  ],
  "enlaces": [
