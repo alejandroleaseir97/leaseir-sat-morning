@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-24T10:30",
+ "actualizado": "2026-09-24T13:38",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -709,7 +709,8 @@
    "porque": "Isaac lo contestó desde el panel el 09/09 a las 12:08 y 12:09: «aun no se ha recogido el laser» y «ya esta metido con DHL».",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables y sigue sin recogerse, o el campo de tracking sigue vacío el 11/09."
+   "revive_si": "Pasan 3 días laborables y sigue sin recogerse, o el campo de tracking sigue vacío el 11/09.",
+   "caducado": "caducado el 24/09 a las 13:35: el hecho ocurrio. LEAS-7334 ya esta «En reparacion», asi que se recogio y llego a taller."
   },
   {
    "id": "7361-sigue-en-transito",
@@ -1392,7 +1393,8 @@
    "porque": "Resuelto en «Centri Unico Italia - Leaseir» el 09/09: Borja aclaró a las 14:26 que la H00611 se había enviado por error y ya estaba retirada; Óscar Estrada explicó a las 14:51 que la H00611 era el manípulo de Buenos Aires puesto por error en el maletín del backup 00368; Gonzalo cerró a las 16:20 que el manípulo averiado se recoge aparte hacia España y la consola se manda a Italia, y a las 16:27 se publicó la etiqueta de recogida.",
    "quien": "Borja y Gonzalo",
    "cuando": "2026-09-10",
-   "revive_si": "Pasan 3 días laborables desde el 09/09 y la recogida de la H00676 no se ha materializado, o el centro vuelve a reclamarla."
+   "revive_si": "Pasan 3 días laborables desde el 09/09 y la recogida de la H00676 no se ha materializado, o el centro vuelve a reclamarla.",
+   "caducado": "caducado el 24/09 a las 13:35: el hecho ocurrio. LEAS-7416 esta «Esperando inicio reparacion» (llego a taller) y LEAS-7418 lleva nota de contenido de hoy a las 09:50 de Gonzalo."
   },
   {
    "id": "sinvello-codigos-comprobacion",
@@ -1732,7 +1734,8 @@
    "porque": "Borja lo contestó desde el panel el 10/09 a las 13:52: «se lo paso a Gonzalo. son dos casos diferentes- hay que esperar». El assignee de LEAS-7438 se cambió a Gonzalo en esa misma pasada.",
    "quien": "Borja",
    "cuando": "2026-09-10",
-   "revive_si": "Pasan 3 días laborables desde el 10/09 sin nota nueva en LEAS-7438, o el técnico externo de LEAS-7518 contesta y no se escribe."
+   "revive_si": "Pasan 3 días laborables desde el 10/09 sin nota nueva en LEAS-7438, o el técnico externo de LEAS-7518 contesta y no se escribe.",
+   "caducado": "caducado el 24/09 a las 13:35: LEAS-7518 esta cerrado y LEAS-7438 tiene nota de contenido del 23/09 a las 09:46 («Ya se ha hablado con Oscar»), posterior al silencio."
   },
   {
    "id": "7540-tracking-ya-comentado",
@@ -2126,7 +2129,8 @@
    "porque": "El 11/09 a las 16:21 el ticket paso a «Pendiente recogida» a nombre de Gonzalo y se creo la subtarea de sustitucion LEAS-7575 en «Solicitado». Ya no esta ni huerfano ni sin decidir.",
    "quien": "Gonzalo",
    "cuando": "2026-09-11",
-   "revive_si": "LEAS-7575 sigue en «Solicitado» pasados 3 dias laborables desde el 11/09 sin serie prestada ni tracking."
+   "revive_si": "LEAS-7575 sigue en «Solicitado» pasados 3 dias laborables desde el 11/09 sin serie prestada ni tracking.",
+   "caducado": "caducado el 24/09 a las 13:35: la condicion no se cumple. LEAS-7575 ya no esta en «Solicitado» sino en «Equipo enviado»."
   },
   {
    "id": "7503-cibeles-a-taller",
@@ -2340,7 +2344,8 @@
    "porque": "esta de reparto para hoy",
    "quien": "Borja",
    "cuando": "2026-09-14",
-   "revive_si": "El envío se entrega hoy; si el 16/09 sigue sin constar la entrada en taller."
+   "revive_si": "El envío se entrega hoy; si el 16/09 sigue sin constar la entrada en taller.",
+   "caducado": "caducado el 24/09 a las 13:35: sustituido por la nota de contenido de Isaac del 22/09 a las 10:57 («aun esta en transito»), posterior a la fecha del silencio. El expediente sigue su cuenta por «terminado pero sin cerrar»."
   },
   {
    "id": "4908-portes-caros",
@@ -2568,7 +2573,8 @@
    "porque": "esta en Asturias segun el tracking",
    "quien": "Isaac",
    "cuando": "2026-09-14",
-   "revive_si": "No consta la entrada en taller el 17/09."
+   "revive_si": "No consta la entrada en taller el 17/09.",
+   "caducado": "caducado el 24/09 a las 13:35: el hecho ocurrio. LEAS-7527 ya esta «En cola taller», es decir, la entrada en taller consta."
   },
   {
    "id": "7545-material-en-reparto",
@@ -2777,7 +2783,8 @@
    "quien": "Isaac",
    "cuando": "2026-09-14",
    "hora": "14:25",
-   "revive_si": "si el 17/09 sigue sin nota de Juan en el ticket"
+   "revive_si": "si el 17/09 sigue sin nota de Juan en el ticket",
+   "caducado": "caducado el 24/09 a las 13:35: hay nota de contenido del 21/09 a las 14:26 sobre la humedad de la puntera, posterior al 17/09."
   },
   {
    "id": "7103-placas-actualizacion",
@@ -3021,7 +3028,8 @@
    "quien": "Isaac",
    "cuando": "2026-09-15",
    "hora": "11:32",
-   "revive_si": "el 17/09 el ticket sigue en «Pendiente asignar técnico» sin la entrada de taller metida"
+   "revive_si": "el 17/09 el ticket sigue en «Pendiente asignar técnico» sin la entrada de taller metida",
+   "caducado": "caducado el 24/09 a las 13:35: el hecho ocurrio. Sin Vello acepto el presupuesto por correo el 23/09 a las 16:00 e Isaac lo escribio en el ticket a las 19:44."
   },
   {
    "id": "7534-pistola-recogida-y-llegada",
@@ -3246,7 +3254,8 @@
    "quien": "Borja y Gonzalo",
    "cuando": "2026-09-16",
    "hora": "15:33",
-   "revive_si": "El 18/09 la consola 00612 de I Gigli sigue bloqueada o el centro vuelve a escribir, y sigue sin haber ticket abierto del centro."
+   "revive_si": "El 18/09 la consola 00612 de I Gigli sigue bloqueada o el centro vuelve a escribir, y sigue sin haber ticket abierto del centro.",
+   "revivido": "revivido el 24/09 a las 13:35: el revive_si vencia el 18/09, la consola 00612 de I Gigli sigue sin ticket abierto del centro y no hay un solo mensaje suyo en «Centri Unico Italia» ni en «SAT Centri Unico» desde entonces. Ocho dias. Sale como punto en el bloque del chat."
   },
   {
    "id": "7486-etiqueta-sabadell-16",
@@ -3293,7 +3302,8 @@
    "quien": "Borja",
    "cuando": "2026-09-16",
    "hora": "15:45",
-   "revive_si": "Pasan 5 días laborables desde el 16/09 y LEAS-7450 sigue sin presupuesto y sin nota nueva."
+   "revive_si": "Pasan 5 días laborables desde el 16/09 y LEAS-7450 sigue sin presupuesto y sin nota nueva.",
+   "caducado": "caducado el 24/09 a las 13:35: hay nota de contenido de Isaac del 21/09 a las 11:28 («se la pasa presupuesto»), posterior al 16/09."
   },
   {
    "id": "7507-cerrado-sin-escribir-16",
@@ -3396,7 +3406,8 @@
    "porque": "Todavia no ha llegado a taller está en Asturias",
    "quien": "Gonzalo",
    "cuando": "2026-09-17",
-   "revive_si": "Es una espera al transporte: aparta el punto cinco dias laborables. Si el 24/09 LEAS-7561 sigue en «Pendiente recogida» sin entrada en taller ni nota nueva, vuelve."
+   "revive_si": "Es una espera al transporte: aparta el punto cinco dias laborables. Si el 24/09 LEAS-7561 sigue en «Pendiente recogida» sin entrada en taller ni nota nueva, vuelve.",
+   "caducado": "caducado el 24/09 a las 13:35: el hecho ocurrio. Dermasana Princesa acepto el presupuesto el 23/09 a las 17:27 por correo y Borja lo marco «esto no aplica: ya esta» hoy a las 09:43."
   },
   {
    "id": "7325-bielorrusia-17",
@@ -3683,7 +3694,8 @@
    "porque": "actualizado el jira",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Pasan 5 dias laborables desde el 17/09 sin nota nueva en LEAS-7412."
+   "revive_si": "Pasan 5 dias laborables desde el 17/09 sin nota nueva en LEAS-7412.",
+   "caducado": "caducado el 24/09 a las 13:35: misma razon que el silencio hermano, hay nota de contenido del 21/09 posterior al 17/09."
   },
   {
    "id": "7505-cola-taller-17",
@@ -3747,7 +3759,8 @@
    "porque": "Se les ha preguntado si lo han cambiado",
    "quien": "Gonzalo",
    "cuando": "2026-09-17",
-   "revive_si": "Es una reclamacion al cliente: aparta el punto cinco dias laborables. Si el 24/09 el parte de Bahia sigue sin llegar, vuelve."
+   "revive_si": "Es una reclamacion al cliente: aparta el punto cinco dias laborables. Si el 24/09 el parte de Bahia sigue sin llegar, vuelve.",
+   "caducado": "caducado el 24/09 a las 13:35: sustituido por la reclamacion de Gonzalo del 23/09 a las 17:49 («Se les pregunta de nuevo a corpodem para que pasen el parte»), que aparta el punto otros cinco dias laborables, hasta el 30/09."
   },
   {
    "id": "7484-presupuesto-hecho-17",
@@ -3761,7 +3774,8 @@
    "porque": "Borja le hizo el presupuesto el 17/09 a las 15:13: 2.044,99 EUR, con el alcance escrito («no aparece Stop 6, tiene un golpe en la puntera; necesita cambio de puntera y optica») y el PDF E261817 adjunto",
    "quien": "Borja",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho, no una espera: el presupuesto esta hecho y enviado. El ticket vuelve por «presupuestos sin respuesta» si pasan 5 dias laborables desde el 17/09 (el 24/09) sin que el cliente conteste."
+   "revive_si": "Es un hecho, no una espera: el presupuesto esta hecho y enviado. El ticket vuelve por «presupuestos sin respuesta» si pasan 5 dias laborables desde el 17/09 (el 24/09) sin que el cliente conteste.",
+   "caducado": "caducado el 24/09 a las 13:35: la condicion se cumplio (cinco dias laborables sin respuesta del cliente), pero la nota de espera de Gonzalo de hoy a las 09:48 («Se le ha enviado, no nos ha dicho nada, estamos a la espera») lo vuelve a apartar tres dias laborables, hasta el 29/09."
   },
   {
    "id": "7485-inspeccion-salida-hecha-17",
@@ -3956,7 +3970,8 @@
    "porque": "Borja contesto en EPIL POINT LASER SUPPORT a las 10:30: las dos maquinas salieron el miercoles a la sede de Napoli con DHL 3351110273 y no se cambia el destino de un envio ya hecho; reaccionaron con un 👍 y no han vuelto a preguntar",
    "quien": "Borja",
    "cuando": "2026-09-18",
-   "revive_si": "Es una respuesta dada, no una espera. Vuelve si el lunes 21/09 las maquinas no estan en la sede de Napoli o si Epil Point vuelve a preguntar."
+   "revive_si": "Es una respuesta dada, no una espera. Vuelve si el lunes 21/09 las maquinas no estan en la sede de Napoli o si Epil Point vuelve a preguntar.",
+   "caducado": "caducado el 24/09 a las 13:35: la condicion no se cumple. Epil Point no ha vuelto a preguntar por Modena ni Ancona, y el grupo EPIL POINT LASER SUPPORT no tiene un mensaje desde el 23/09 a las 16:09."
   },
   {
    "id": "vomero-ticket-abierto-18",
@@ -4239,7 +4254,8 @@
    "quien": "Borja",
    "cuando": "2026-09-22",
    "hora": "11:56",
-   "revive_si": "Es un hecho: la reparacion esta lanzada en taller y el equipo salio hoy (encuesta de Ernesto de las 12:52, MHP30316). Vuelve si el 25/09 el ticket sigue en «Inspeccion de salida» sin finalizar."
+   "revive_si": "Es un hecho: la reparacion esta lanzada en taller y el equipo salio hoy (encuesta de Ernesto de las 12:52, MHP30316). Vuelve si el 25/09 el ticket sigue en «Inspeccion de salida» sin finalizar.",
+   "caducado": "caducado el 24/09 a las 13:40: el hecho que lo apartaba ocurrio. El equipo MHP30316 salio hoy: Ernesto lo publico en ENVIOS a las 11:52 con seguimiento Nacex 3305/12312876 y confirmo la recogida a las 12:36. Lo que sale hoy en el panel es otra cosa y posterior: la direccion del chat (Calle Ferraz 90, Madrid) no coincide con el 10138 (Av. de las Playas, Tias, Las Palmas)."
   },
   {
    "id": "7490-chus-repara-22",
@@ -4625,6 +4641,96 @@
    "quien": "Borja",
    "cuando": "2026-09-24T09:43",
    "revive_si": "2026-09-29 si LEAS-7561 sigue sin pasar de «Esperando inicio reparacion» con el presupuesto ya aceptado"
+  },
+  {
+   "id": "7408-devuelto-24",
+   "que": "LEAS-7408 Elha Santa Teresa - prestamo fuera de plazo",
+   "ambito": {
+    "leas": "LEAS-7408",
+    "centro": "Elha Sta teresa",
+    "cliente": "Elha",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "esto no aplica: el equipo esta devuelto a cliente tal y como pone el jira . aun no han entregado",
+   "quien": "Borja",
+   "cuando": "2026-09-24",
+   "hora": "11:05",
+   "revive_si": "2026-10-01 si LEAS-7408 sigue «En prestamo» sin que conste la entrega de la averiada."
+  },
+  {
+   "id": "7578-finalizado-24",
+   "que": "LEAS-7578 - punto de chat sobre la factura sin localizar",
+   "ambito": {
+    "leas": "LEAS-7578",
+    "centro": "",
+    "cliente": "Nantara Laser",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "esto no aplica: esta finalizado",
+   "quien": "Borja",
+   "cuando": "2026-09-24",
+   "hora": "11:03",
+   "revive_si": "Es un hecho: el ticket esta finalizado. No vuelve."
+  },
+  {
+   "id": "7420-no-recogida-24",
+   "que": "LEAS-7420 - terminado pero sin cerrar",
+   "ambito": {
+    "leas": "LEAS-7420",
+    "centro": "",
+    "cliente": "",
+    "tipo": "cerrar-sin-finalizar"
+   },
+   "porque": "esto no aplica: consulto con Ernesto y me confirma que no esta recogida, asique voy a averiguar cuando recoge el cliente",
+   "quien": "Cristina",
+   "cuando": "2026-09-24",
+   "hora": "10:37",
+   "revive_si": "2026-10-01 si LEAS-7420 sigue en «Inspeccion de salida» sin fecha de recogida escrita en el ticket. Es una espera, cinco dias laborables."
+  },
+  {
+   "id": "6765-marruecos-24",
+   "que": "LEAS-6765 - terminado pero sin cerrar",
+   "ambito": {
+    "leas": "LEAS-6765",
+    "centro": "",
+    "cliente": "",
+    "tipo": "cerrar-sin-finalizar"
+   },
+   "porque": "esto no aplica: Consulto con Chus ya que es de Marruecos y es el quien lo controla mas, en cuanto confirme con el actualizo estado",
+   "quien": "Cristina",
+   "cuando": "2026-09-24",
+   "hora": "10:36",
+   "revive_si": "2026-10-01 si LEAS-6765 sigue en «Inspeccion de salida» sin la confirmacion de Chus escrita. Es una espera a alguien de dentro, cinco dias laborables."
+  },
+  {
+   "id": "7504-cola-taller-24",
+   "que": "LEAS-7504 Clinica Cibeles Holea - prestamo fuera de plazo",
+   "ambito": {
+    "leas": "LEAS-7504",
+    "centro": "Clinica Cibeles Holea",
+    "cliente": "",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "esto no aplica: Segun se vayan liberando los tecnicos de taller se va asignando, hay mucho volumen de trabajo",
+   "quien": "Cristina",
+   "cuando": "2026-09-24",
+   "hora": "10:35",
+   "revive_si": "2026-10-01 si LEAS-7504 sigue sin tecnico asignado. Es una espera por capacidad de taller, cinco dias laborables."
+  },
+  {
+   "id": "6906-no-sabe-donde-24",
+   "que": "LEAS-6906 Daniel Jaramillo (Clinica Cibeles Holea) - presupuesto de 16.044,60 EUR sin respuesta",
+   "ambito": {
+    "leas": "LEAS-6906",
+    "centro": "Daniel JAramillo Holea",
+    "cliente": "MEDYBEAUTY, S.L.",
+    "tipo": "presupuesto-sin-respuesta"
+   },
+   "porque": "esto no aplica: no sabe donde mndarlo aun",
+   "quien": "Borja",
+   "cuando": "2026-09-24",
+   "hora": "12:55",
+   "revive_si": "2026-09-29 si LEAS-6906 sigue en «Pendiente confirmacion presupuesto» sin nota de contenido. Es una espera al cliente: tres dias laborables. La decision de cobrar o cancelar sigue siendo de Alejandro y va en su panel."
   }
  ],
  "enlaces": [
