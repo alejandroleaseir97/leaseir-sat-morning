@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-25T13:26",
+ "actualizado": "2026-09-25T16:07",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5143,6 +5143,76 @@
    "quien": "Borja",
    "cuando": "2026-09-25T10:19",
    "revive_si": "2026-09-30 si LEAS-7334 sigue en «Inspección de salida» sin nota de contenido"
+  },
+  {
+   "id": "7563-noaplica-25b",
+   "que": "Dermasana Princesa: pregunta del calor sin respuesta",
+   "ambito": {
+    "leas": "LEAS-7563",
+    "centro": "Dermasana Princesa",
+    "cliente": "",
+    "tipo": "chat-wapp"
+   },
+   "porque": "sale su equipo hoy reparado",
+   "quien": "Borja",
+   "cuando": "2026-09-25T14:03",
+   "revive_si": "2026-09-30 si Princesa vuelve a preguntar sin respuesta"
+  },
+  {
+   "id": "7682-noaplica-25",
+   "que": "Malie Usurbil: préstamo fuera de plazo",
+   "ambito": {
+    "leas": "LEAS-7682",
+    "centro": "Malie Estetica Avanzada",
+    "cliente": "",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "no hay nada que resolver aqui",
+   "quien": "Borja",
+   "cuando": "2026-09-25T14:08",
+   "revive_si": "2026-10-02 si la sustitución sigue en préstamo sin nota de contenido"
+  },
+  {
+   "id": "7375-noaplica-25",
+   "que": "Cleanbody La Villa: préstamo fuera de plazo",
+   "ambito": {
+    "leas": "LEAS-7375",
+    "centro": "Cleanbody CC La Villa",
+    "cliente": "",
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "va por maritimo con BPR aun tardara unos dias en llegar a la isla",
+   "quien": "Borja",
+   "cuando": "2026-09-25T14:17",
+   "revive_si": "2026-10-02 si su láser no ha llegado y no hay nota"
+  },
+  {
+   "id": "7715-noaplica-25",
+   "que": "Cris Peña: avisar a la clienta del técnico",
+   "ambito": {
+    "leas": "LEAS-7715",
+    "centro": "Cris Peña Beauty Center",
+    "cliente": "",
+    "tipo": "chat-wapp"
+   },
+   "porque": "Avisada la clienta tanto de que se manda material con llegada el lunes y de la asistencia del técnico.",
+   "quien": "Cristina",
+   "cuando": "2026-09-25T14:49",
+   "revive_si": "2026-09-30 si el técnico no ha ido tras llegar el material el lunes 28/09"
+  },
+  {
+   "id": "7438-noaplica-25",
+   "que": "Globo: retirar cabeza 264 y manípulo 674",
+   "ambito": {
+    "leas": "LEAS-7438",
+    "centro": "Centri Unico Globo",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Manda Gonzalo etiqueta de recogida",
+   "quien": "Cristina",
+   "cuando": "2026-09-25T15:41",
+   "revive_si": "2026-10-02 si sigue en «Pendiente recogida» sin nota de contenido"
   }
  ],
  "enlaces": [
