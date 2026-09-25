@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-25T16:07",
+ "actualizado": "2026-09-25T19:07",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5213,6 +5213,76 @@
    "quien": "Cristina",
    "cuando": "2026-09-25T15:41",
    "revive_si": "2026-10-02 si sigue en «Pendiente recogida» sin nota de contenido"
+  },
+  {
+   "id": "gigli-noaplica-25",
+   "que": "Centri Unico I Gigli (Firenze) · el silencio venció el 18/09 y sigue sin haber nada",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico I Gigli",
+    "cliente": "Centri Unico",
+    "tipo": "sin-ticket telegram"
+   },
+   "porque": "esta solucionado por provado la extension de año de caliport",
+   "quien": "Borja",
+   "cuando": "2026-09-25T14:00",
+   "revive_si": "si I Gigli vuelve a escribir en «SRF unico italia» o «Centri Unico Italia» sin respuesta"
+  },
+  {
+   "id": "epil-resumen-noaplica-25",
+   "que": "Epil Point · resumen de los mantenimientos de España",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point",
+    "cliente": "Epil Point",
+    "tipo": "epil sin-ticket"
+   },
+   "porque": "no hay nda que resolver aqui",
+   "quien": "Borja",
+   "cuando": "2026-09-25T14:08",
+   "revive_si": "si Epil Point vuelve a pedir el resumen en el grupo"
+  },
+  {
+   "id": "caliports-inventario-espera-25",
+   "que": "Centri Unico · inventario de los Caliports",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico",
+    "cliente": "Centri Unico",
+    "tipo": "epil sin-ticket"
+   },
+   "porque": "Esperamos a que nos digan para poder recogerlos todos",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-25T12:20",
+   "revive_si": "2026-10-02 si Óscar no ha contestado y nadie lo ha retomado"
+  },
+  {
+   "id": "7731-nota-panel-25",
+   "que": "Euroma2: urgencia del manípulo sin respuesta, sustitución en «Solicitado»",
+   "ambito": {
+    "leas": "LEAS-7731",
+    "centro": "Unico - Centro C.C. Euroma2 Roma",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "Se revisa una consola para enviar mañana",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-25T17:23",
+   "revive_si": "2026-09-29 si LEAS-7731 sigue en «Solicitado» sin salida"
+  },
+  {
+   "id": "7490-nota-panel-25",
+   "que": "SinVello Cádiz: llegó sin soporte del manípulo",
+   "ambito": {
+    "leas": "LEAS-7490",
+    "centro": "SinVello! Cádiz",
+    "cliente": "Sin Vello",
+    "tipo": "chat-wapp"
+   },
+   "porque": "Vino sin el se quedan el de sust",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-25T17:38",
+   "revive_si": "si Cádiz vuelve a escribir sobre el soporte"
   }
  ],
  "enlaces": [
