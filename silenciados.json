@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-24T18:52",
+ "actualizado": "2026-09-25T08:54",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -85,7 +85,11 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-21",
    "hora": "10:03",
-   "revive_si": "Es un hecho: LEAS-7686 se abrio a las 10:12 con Sincronis avisado y fecha de tecnico externo el 25/09. Solo vuelve si el 25/09 pasa sin visita."
+   "revive_si": "Es un hecho: LEAS-7686 se abrio a las 10:12 con Sincronis avisado y fecha de tecnico externo el 25/09. Solo vuelve si el 25/09 pasa sin visita.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "LEAS-7686 cerrado"
+   }
   },
   {
    "id": "vomero-epilpoint",
@@ -3847,7 +3851,11 @@
    "porque": "Isaac lo explico desde el panel a las 11:52: «sale hoy su laser reparado, cuando llegue el suyo se pide la recogida de la sustitucion»",
    "quien": "Isaac",
    "cuando": "2026-09-18",
-   "revive_si": "Es una espera a que llegue el laser reparado: aparta el punto cinco dias laborables. Si el 25/09 la SUSTMHR030 y la SUSTDUAL010 siguen en prestamo, vuelve."
+   "revive_si": "Es una espera a que llegue el laser reparado: aparta el punto cinco dias laborables. Si el 25/09 la SUSTMHR030 y la SUSTDUAL010 siguen en prestamo, vuelve.",
+   "revivido": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "vence el 25/09 y la SUSTMHR030/SUSTDUAL010 siguen en préstamo sin nota nueva"
+   }
   },
   {
    "id": "7191-cambio-de-diodo-18",
@@ -3861,7 +3869,11 @@
    "porque": "Isaac lo explico desde el panel a las 11:56: «esta en reparación de cambio de diodo, cuando se repare y se envié, recuperamos la sustitucion»",
    "quien": "Isaac",
    "cuando": "2026-09-18",
-   "revive_si": "Es una espera a una reparacion en curso: aparta el punto cinco dias laborables. Si el 25/09 la SUSTQUAD025 sigue en prestamo y el ticket sigue sin nota, vuelve."
+   "revive_si": "Es una espera a una reparacion en curso: aparta el punto cinco dias laborables. Si el 25/09 la SUSTQUAD025 sigue en prestamo y el ticket sigue sin nota, vuelve.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: recogida de la sustitución pedida el 24/09 19:27 (CTT) y ticket en «Gestionada recogida»"
+   }
   },
   {
    "id": "7420-aun-no-han-recogido-18",
@@ -3875,7 +3887,11 @@
    "porque": "Isaac lo explico desde el panel a las 12:23: «aun no han recogido»",
    "quien": "Isaac",
    "cuando": "2026-09-18",
-   "revive_si": "Es una espera a que el cliente recoja, no un hecho: aparta el punto cinco dias laborables. Si el 25/09 la pieza de mano sigue sin recogerse, vuelve y toca reclamar o cerrar."
+   "revive_si": "Es una espera a que el cliente recoja, no un hecho: aparta el punto cinco dias laborables. Si el 25/09 la pieza de mano sigue sin recogerse, vuelve y toca reclamar o cerrar.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "sustituido por 7420-no-recogida-24"
+   }
   },
   {
    "id": "6907-hablara-arturo-18",
@@ -3904,7 +3920,11 @@
    "porque": "Isaac lo explico desde el panel a las 12:27: «el problema a remitido, se cancela»",
    "quien": "Isaac",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho declarado, pero el ticket sigue en «Abierto»: si el 25/09 sigue sin cancelarse, vuelve. Esta apuntado en el panel de Alejandro como dicho y no hecho."
+   "revive_si": "Es un hecho declarado, pero el ticket sigue en «Abierto»: si el 25/09 sigue sin cancelarse, vuelve. Esta apuntado en el panel de Alejandro como dicho y no hecho.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "LEAS-7619 cerrado"
+   }
   },
   {
    "id": "7375-laser-publicado-18",
@@ -3918,7 +3938,11 @@
    "porque": "Ernesto publico hoy a las 10:27 en ENVIOS SAT LEASEIR el envio del laser del cliente («90737 / 30267 Clean Body La Villa, Centro Comercial la Villa, Autopista del Nte., 36, 38312 La Orotava, LEAS-7374»), asi que ya consta por donde va",
    "quien": "Ernesto",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho con hora. Vuelve si pasan cinco dias laborables (el 25/09) y la C00367 y el H00751 siguen en prestamo sin que el laser del cliente haya llegado."
+   "revive_si": "Es un hecho con hora. Vuelve si pasan cinco dias laborables (el 25/09) y la C00367 y el H00751 siguen en prestamo sin que el laser del cliente haya llegado.",
+   "revivido": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "vence el 25/09: el padre LEAS-7374 está cerrado y la C00367/H00751 siguen en préstamo"
+   }
   },
   {
    "id": "7640-etiqueta-mandada-18",
@@ -3932,7 +3956,11 @@
    "porque": "Isaac mando la etiqueta de recogida en «SRF unico italia» a las 10:39 y 10:43 y lo escribio en el ticket a las 10:40 («se le envia etiqueta para su recogida»); el ticket ha pasado a «Gestionado transporte» y a las 12:56 Borja se lo paso a Gonzalo",
    "quien": "Isaac",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho con hora y con cambio de estado. Vuelve si pasan cinco dias laborables (el 25/09) y la recogida sigue sin hacerse."
+   "revive_si": "Es un hecho con hora y con cambio de estado. Vuelve si pasan cinco dias laborables (el 25/09) y la recogida sigue sin hacerse.",
+   "revivido": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "vence el 25/09: DHL lo entregó en Gijón el 23/09 16:46 y sigue en «Gestionado transporte»"
+   }
   },
   {
    "id": "7320-listo-para-presupuestar-18",
@@ -3946,7 +3974,11 @@
    "porque": "Chus escribio a las 12:04 en el grupo interno «Caso listo para elaborar el presupuesto para la cliente» e Isaac lo dejo en el ticket a las 12:24 («se esta reparamdo ya»); el ticket ha pasado a «Presupuesto preparado pendiente de enviar» con Chus asignado",
    "quien": "Chus",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho con hora y con cambio de estado. Vuelve por «presupuestos sin respuesta» si pasan cinco dias laborables desde hoy (el 25/09) sin que el presupuesto salga."
+   "revive_si": "Es un hecho con hora y con cambio de estado. Vuelve por «presupuestos sin respuesta» si pasan cinco dias laborables desde hoy (el 25/09) sin que el presupuesto salga.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "LEAS-7320 cerrado"
+   }
   },
   {
    "id": "7456-tecnico-asignado-18",
@@ -3960,7 +3992,11 @@
    "porque": "Isaac lo asigno a un tecnico y lo dejo escrito a las 12:27 («ya se lo he asignado a un técnico»); el ticket esta en «En cola taller» con Jonathan",
    "quien": "Isaac",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho con hora. Vuelve si el ticket se queda otra vez sin tecnico o si el 25/09 sigue en cola sin que arranque la reparacion."
+   "revive_si": "Es un hecho con hora. Vuelve si el ticket se queda otra vez sin tecnico o si el 25/09 sigue en cola sin que arranque la reparacion.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: reparado y devuelto (OUT 24/09 14:18)"
+   }
   },
   {
    "id": "modena-ancona-contestado-18",
@@ -4003,7 +4039,11 @@
    "porque": "esto no aplica: habai dos recogidas hechas. llego . todo aclarado",
    "quien": "Borja",
    "cuando": "2026-09-18T13:52",
-   "revive_si": "Es un hecho declarado: las dos recogidas estan hechas y el equipo llego. Vuelve si Smart Duck Labege vuelve a reclamar el envio o si el 25/09 LEAS-7576 sigue abierto en «Gestionado transporte»."
+   "revive_si": "Es un hecho declarado: las dos recogidas estan hechas y el equipo llego. Vuelve si Smart Duck Labege vuelve a reclamar el envio o si el 25/09 LEAS-7576 sigue abierto en «Gestionado transporte».",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: LEAS-7576 ya no está en «Gestionado transporte»"
+   }
   },
   {
    "id": "7270-autorizado-arturo-18",
@@ -4017,7 +4057,11 @@
    "porque": "esto no aplica: el cambio lo autorizo Arturo por chat privado y el tecnico que figura asignado no esta disponible",
    "quien": "Borja",
    "cuando": "2026-09-18T13:53",
-   "revive_si": "Es una autorizacion, no el cierre del caso: aparta el punto cinco dias laborables. Vuelve el 25/09 si la reparacion sigue sin arrancar, si el ticket sigue asignado a alguien que no esta, o si Epil Point vuelve a pedir el correo."
+   "revive_si": "Es una autorizacion, no el cierre del caso: aparta el punto cinco dias laborables. Vuelve el 25/09 si la reparacion sigue sin arrancar, si el ticket sigue asignado a alguien que no esta, o si Epil Point vuelve a pedir el correo.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: salió el 23/09; sigue 7270-salio-ayer-24"
+   }
   },
   {
    "id": "7599-pocos-tecnicos-18",
@@ -4031,7 +4075,11 @@
    "porque": "esto no aplica: hay muchas averias y pocos tecnicos , vamos asignando segun liberan",
    "quien": "Borja",
    "cuando": "2026-09-18T13:58",
-   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si sigue en cola sin que arranque la reparacion."
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si sigue en cola sin que arranque la reparacion.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "sustituido por 7599-consulta-borja-25"
+   }
   },
   {
    "id": "laserfactory-tres-preguntas-contestadas-18",
@@ -4073,7 +4121,11 @@
    "porque": "ya esta en transito la recogida",
    "quien": "Isaac",
    "cuando": "2026-09-18T13:37",
-   "revive_si": "Es una espera al transporte: aparta el punto cinco dias laborables. Vuelve el 25/09 si el equipo sigue sin constar en taller."
+   "revive_si": "Es una espera al transporte: aparta el punto cinco dias laborables. Vuelve el 25/09 si el equipo sigue sin constar en taller.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: LEAS-7465 está en «En cola taller»"
+   }
   },
   {
    "id": "7529-cola-taller-18",
@@ -4087,7 +4139,11 @@
    "porque": "Está en cola de taller, esperando asignación tenemos 2 técnicos de 4 para realizar reparaciones",
    "quien": "Gonzalo",
    "cuando": "2026-09-18T13:39",
-   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si la sustitucion sigue en prestamo sin que arranque la reparacion."
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si la sustitucion sigue en prestamo sin que arranque la reparacion.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "sustituido por 7529-dos-tecnicos-25"
+   }
   },
   {
    "id": "7509-cola-taller-18",
@@ -4101,7 +4157,11 @@
    "porque": "ya tla tiene asignada un tecnico pero esta en cola de taller, cuando puedoa se pondra con ella",
    "quien": "Isaac",
    "cuando": "2026-09-18T14:07",
-   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si sigue en prestamo sin que arranque la reparacion."
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si sigue en prestamo sin que arranque la reparacion.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: reparación terminada; sustituido por 7509-laser-en-camino-25"
+   }
   },
   {
    "id": "7477-cola-taller-18",
@@ -4115,7 +4175,11 @@
    "porque": "ya la tiene asiganada un tecnico y esta en cola cuando pueda se pondra con ella",
    "quien": "Isaac",
    "cuando": "2026-09-18T14:09",
-   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si sigue en prestamo sin que arranque la reparacion."
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco dias laborables. Vuelve el 25/09 si sigue en prestamo sin que arranque la reparacion.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: reparación terminada; sustituido por 7477-laser-salio-25"
+   }
   },
   {
    "id": "7527-asignado-chus-18",
@@ -4129,7 +4193,11 @@
    "porque": "se asigna a Chus",
    "quien": "Isaac",
    "cuando": "2026-09-18T13:22",
-   "revive_si": "Es un hecho con hora: el ticket ya tiene tecnico. Vuelve si se queda otra vez sin asignar o si el 25/09 sigue en cola sin que arranque la reparacion."
+   "revive_si": "Es un hecho con hora: el ticket ya tiene tecnico. Vuelve si se queda otra vez sin asignar o si el 25/09 sigue en cola sin que arranque la reparacion.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "sustituido por el «no aplica» de Borja del 24/09 14:56"
+   }
   },
   {
    "id": "7230-porte-contestado-18",
@@ -4143,7 +4211,11 @@
    "porque": "El porte de la pieza dañada se cobra, ya que el contrato de mantenimiento no incluye los portes; la sustitución, al estar en el centro, no se cobra, por eso no aparece en la factura",
    "quien": "Gonzalo",
    "cuando": "2026-09-18T13:47",
-   "revive_si": "Es un hecho: Gonzalo contesto al cliente por correo a las 11:46 y lo dejo escrito en el ticket. Vuelve si Sin Vello vuelve a preguntar por el porte o si el presupuesto de 913,55 € sigue sin contestar el 25/09."
+   "revive_si": "Es un hecho: Gonzalo contesto al cliente por correo a las 11:46 y lo dejo escrito en el ticket. Vuelve si Sin Vello vuelve a preguntar por el porte o si el presupuesto de 913,55 € sigue sin contestar el 25/09.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "LEAS-7230 cerrado"
+   }
   },
   {
    "id": "6198-pdte-arturo-18",
@@ -4215,7 +4287,11 @@
    "porque": "Gonzalo lo explico desde el panel el 18/09 a las 17:44: «Se recalibra el caliport antiguo, se recogen los 2 nuevos». A las 16:01 ya lo habia diagnosticado en el grupo interno («los 2 caliports que se enviaron a Sant Boi dan 100-120») y a las 17:09 se lo conto a Laser Factory, que contesto a las 17:13 «De acuerdo, quedamos atentos» y anadio que Madrid tambien quedo solucionado.",
    "quien": "Gonzalo",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho con hora y confirmado por el cliente. Vuelve si Sant Boi vuelve a reclamar el caliport, si el 25/09 LEAS-7677 sigue en «Material enviado», o si los dos caliports nuevos con lecturas raras se quedan sin decision."
+   "revive_si": "Es un hecho con hora y confirmado por el cliente. Vuelve si Sant Boi vuelve a reclamar el caliport, si el 25/09 LEAS-7677 sigue en «Material enviado», o si los dos caliports nuevos con lecturas raras se quedan sin decision.",
+   "revivido": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "vence el 25/09 y LEAS-7677 sigue en «Material enviado» (entregado el 18/09)"
+   }
   },
   {
    "id": "7445-aceptado-elha-18",
@@ -4229,7 +4305,11 @@
    "porque": "Gonzalo lo dejo escrito en el ticket el 18/09 a las 17:43: «Esta esperando el inicio de reparacion porque ha sido aceptado». La aceptacion de Pol Martinez («Adelante con el cambio», correo de las 15:01 con el equipo en copia) ya consta en el expediente.",
    "quien": "Gonzalo",
    "cuando": "2026-09-18",
-   "revive_si": "Es un hecho con hora. Vuelve si el 25/09 la reparacion de los 14.411 € sigue sin arrancar y el ticket sigue en «Esperando inicio reparacion»."
+   "revive_si": "Es un hecho con hora. Vuelve si el 25/09 la reparacion de los 14.411 € sigue sin arrancar y el ticket sigue en «Esperando inicio reparacion».",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: LEAS-7445 está en «Inspección de salida»"
+   }
   },
   {
    "id": "7575-pieza-a-ostia-18",
@@ -4243,7 +4323,11 @@
    "porque": "Gonzalo lo explico desde el panel el 18/09 a las 17:44: «Estamos esperando a que la pieza llegue a Ostia, no ha llegado».",
    "quien": "Gonzalo",
    "cuando": "2026-09-18",
-   "revive_si": "Es una espera a un envio de un tercero: aparta el punto cinco dias laborables. Vuelve el 25/09 si la pieza sigue sin llegar a Ostia o si la sustitucion de Busnago sigue en «Solicitado» sin nota nueva."
+   "revive_si": "Es una espera a un envio de un tercero: aparta el punto cinco dias laborables. Vuelve el 25/09 si la pieza sigue sin llegar a Ostia o si la sustitucion de Busnago sigue en «Solicitado» sin nota nueva.",
+   "revivido": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "vence el 25/09 sin nota nueva; Globo pide además retirar cabeza 264 y manípulo 674 (24/09 17:55)"
+   }
   },
   {
    "id": "7591-lanzada-22",
@@ -4274,7 +4358,11 @@
    "quien": "Borja",
    "cuando": "2026-09-22",
    "hora": "11:59",
-   "revive_si": "Es un hecho con hora: lo esta reparando Chus hoy y el equipo consta salido (encuesta de Ernesto de las 12:56, C00801/H00801). Vuelve si el 25/09 no ha salido de «En preparacion presupuesto»."
+   "revive_si": "Es un hecho con hora: lo esta reparando Chus hoy y el equipo consta salido (encuesta de Ernesto de las 12:56, C00801/H00801). Vuelve si el 25/09 no ha salido de «En preparacion presupuesto».",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: LEAS-7490 en «Devuelto a cliente»"
+   }
   },
   {
    "id": "7651-asignado-22",
@@ -4500,7 +4588,11 @@
    "quien": "Borja",
    "cuando": "2026-09-23",
    "hora": "13:24",
-   "revive_si": "Es un acuse de recibo, no un hecho: si el 25/09 el equipo no consta en taller, vuelve."
+   "revive_si": "Es un acuse de recibo, no un hecho: si el 25/09 el equipo no consta en taller, vuelve.",
+   "caducado": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "hecho: consta en taller (Ernesto, 24/09 13:14)"
+   }
   },
   {
    "id": "7386-dua-pedido-otra-vez-23",
@@ -4574,7 +4666,11 @@
    "porque": "Dobbiamo inviare un prodotto sostitutivo; lo spediremo il prima possibile",
    "quien": "Isaac",
    "cuando": "2026-09-23T19:09",
-   "revive_si": "Si el 25/09 la sustitución no consta enviada con tracking en LEAS-7730, o si Euroma2 vuelve a escribir sin respuesta en 4 horas"
+   "revive_si": "Si el 25/09 la sustitución no consta enviada con tracking en LEAS-7730, o si Euroma2 vuelve a escribir sin respuesta en 4 horas",
+   "revivido": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "vence el 25/09 y la sustitución LEAS-7731 sigue en «Solicitado» sin tracking"
+   }
   },
   {
    "id": "7602-carlos-mora-viernes-23",
@@ -4616,7 +4712,11 @@
    "porque": "corregido",
    "quien": "Borja",
    "cuando": "2026-09-24T09:39",
-   "revive_si": "2026-09-25 si no consta en LEAS-7678 que la intervencion de Sincronis del 24/09 a las 11:30 se hizo, o si el 10143 vuelve a decir Innet"
+   "revive_si": "2026-09-25 si no consta en LEAS-7678 que la intervencion de Sincronis del 24/09 a las 11:30 se hizo, o si el 10143 vuelve a decir Innet",
+   "revivido": {
+    "cuando": "2026-09-25T08:50",
+    "porque": "vence el 25/09 y no consta en LEAS-7678 que la visita de Sincronis del 24/09 se hiciera"
+   }
   },
   {
    "id": "7270-salio-ayer-24",
@@ -4903,6 +5003,104 @@
    "quien": "Borja",
    "cuando": "2026-09-24 16:02",
    "revive_si": "2026-09-29: reclamación, 3 días laborables"
+  },
+  {
+   "id": "7509-laser-en-camino-25",
+   "que": "LEAS-7509 · préstamo de Cádiz con el láser de vuelta",
+   "ambito": {
+    "leas": "LEAS-7509",
+    "centro": null,
+    "cliente": null,
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "Gonzalo (vía panel, 23/09 17:50) en LEAS-7490: «No ha llegado al cliente»",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-23 17:50",
+   "revive_si": "2026-10-01 si LEAS-7509 sigue «En préstamo»: espera a que llegue el láser, 5 días laborables"
+  },
+  {
+   "id": "7477-laser-salio-25",
+   "que": "LEAS-7477 · préstamo de Zaragoza con el láser recién salido",
+   "ambito": {
+    "leas": "LEAS-7477",
+    "centro": null,
+    "cliente": null,
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "OUT #C00295 / H01018 en «Fotos equipos» el 24/09 a las 14:18 (LEAS-7456)",
+   "quien": "Ernesto (Fotos equipos)",
+   "cuando": "2026-09-24 14:18",
+   "revive_si": "2026-10-01 si LEAS-7477 sigue «En préstamo»"
+  },
+  {
+   "id": "7529-dos-tecnicos-25",
+   "que": "LEAS-7529 · préstamo de Dermasana Alcalá con el padre en cola",
+   "ambito": {
+    "leas": "LEAS-7529",
+    "centro": null,
+    "cliente": null,
+    "tipo": "prestamo-fuera-de-plazo"
+   },
+   "porque": "Gonzalo (vía panel, 24/09 09:52) en LEAS-7527: «Solo hay 2 técnicos reparando»",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-24 09:52",
+   "revive_si": "2026-10-01 si LEAS-7527 sigue en cola sin arrancar"
+  },
+  {
+   "id": "7599-consulta-borja-25",
+   "que": "LEAS-7599 · Elha Limoneros en cola",
+   "ambito": {
+    "leas": "LEAS-7599",
+    "centro": null,
+    "cliente": null,
+    "tipo": "repara-sla"
+   },
+   "porque": "Cristina (vía panel, 23/09 16:17): «esto no aplica: Escribo a Borja para consultar ya que hay falta de técnicos en taller»",
+   "quien": "Cristina",
+   "cuando": "2026-09-23 16:17",
+   "revive_si": "2026-09-30 si sigue en «En cola taller» sin arrancar"
+  },
+  {
+   "id": "7690-no-enviado-25",
+   "que": "LEAS-7690 · sustitución de SinVello Valladolid sin nota",
+   "ambito": {
+    "leas": "LEAS-7690",
+    "centro": null,
+    "cliente": null,
+    "tipo": "medias-sin-nota"
+   },
+   "porque": "Isaac (vía panel, 24/09 09:23) en el padre LEAS-7687: «aun no se ha enviado manipulo de sustitucion xq habia otras incidencias mas urgentes»",
+   "quien": "Isaac",
+   "cuando": "2026-09-24 09:23",
+   "revive_si": "2026-10-01 si LEAS-7690 sigue en «Solicitado»"
+  },
+  {
+   "id": "vario-codigos-servicio-25",
+   "que": "Vario · «Send the link» de Arturo",
+   "ambito": {
+    "leas": null,
+    "centro": "Vario",
+    "cliente": null,
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "Isaac en «SAT Leaseir (Interno)», 24/09 18:29: «si hable con Arturo, pensaba que pedian codigos mensuales pero ya le comente que eran de servicio y eso no podiamos dar acceso»",
+   "quien": "Isaac",
+   "cuando": "2026-09-24 18:29",
+   "revive_si": "Si Arturo o Vario vuelven a pedir el enlace o el acceso"
+  },
+  {
+   "id": "elha-h00494-recogido-25",
+   "que": "Elha Vilanova · H00494 «Ahora os decimos!»",
+   "ambito": {
+    "leas": null,
+    "centro": "Elha Vilanova",
+    "cliente": null,
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "Elha en «Incidencias Leaseir/Elha», 24/09 15:41, sobre LEAS-7443: «me dicen las chicas que ya se recogió el día 17/09»; LEAS-7443 está en «En cola taller»",
+   "quien": "Elha (hecho)",
+   "cuando": "2026-09-24 15:41",
+   "revive_si": "Si Elha vuelve a preguntar por la recogida de H00494"
   }
  ],
  "enlaces": [

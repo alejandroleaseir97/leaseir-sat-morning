@@ -1,7 +1,7 @@
 {
  "_que_es": "Días LABORABLES en que cada punto ha salido en el panel. El aviso es len(dias): 1 = primera vez, 2 = campana, 3+ = rojo. Lo mantiene la pasada, no el navegador, para que todos vean el mismo número.",
  "_como_se_actualiza": "En la primera pasada de cada día laborable, añadir la fecha de hoy a cada punto que sigue saliendo, y borrar los puntos que ya no salen. Sábados, domingos y los días de 'festivos' NO se añaden.",
- "actualizado": "2026-09-24T10:30",
+ "actualizado": "2026-09-25T08:50",
  "festivos": [
   "2026-01-01",
   "2026-01-06",
@@ -19,111 +19,84 @@
   "2026-12-25"
  ],
  "puntos": {
-  "LEAS-7733": [
-   "2026-09-24"
+  "LEAS-7651": [
+   "2026-09-25"
   ],
-  "telegram|CALIPORT · sin ticket · **el P00185 se conte": [
-   "2026-09-24"
+  "telegram|Centri Unico I Gigli (Firenze) · sin ticket ": [
+   "2026-09-25"
   ],
-  "LEAS-7578": [
-   "2026-09-24"
+  "LEAS-7737": [
+   "2026-09-25"
   ],
-  "wapp|Cris Peña Beauty Center · sin ticket · **vei": [
-   "2026-09-24"
+  "LEAS-7715": [
+   "2026-09-25"
   ],
-  "wapp|Sat Laser Factory · sin ticket propio · **ve": [
-   "2026-09-24"
+  "LEAS-7563": [
+   "2026-09-25"
   ],
-  "wapp|SAT Italia / Slyou · La Maison · sin ticket ": [
-   "2026-09-24"
+  "wapp|Dermasana Majadahonda · no he podido enlazar": [
+   "2026-09-25"
   ],
-  "LEAS-7311": [
-   "2026-09-23",
-   "2026-09-24"
+  "wapp|L Medical (G-Point) · sin ticket · **el clie": [
+   "2026-09-25"
+  ],
+  "LEAS-7572": [
+   "2026-09-25"
+  ],
+  "LEAS-7640": [
+   "2026-09-25"
+  ],
+  "LEAS-7191": [
+   "2026-09-25"
   ],
   "LEAS-7325": [
-   "2026-09-24"
+   "2026-09-24",
+   "2026-09-25"
   ],
-  "LEAS-5697": [
-   "2026-09-24"
+  "LEAS-7677": [
+   "2026-09-25"
   ],
-  "LEAS-6765": [
-   "2026-09-24"
+  "LEAS-7697": [
+   "2026-09-25"
   ],
-  "LEAS-7698": [
-   "2026-09-24"
+  "LEAS-7438": [
+   "2026-09-25"
   ],
-  "epil|Centri Unico Rende · sin ticket · **tercera ": [
-   "2026-09-24"
+  "LEAS-7731": [
+   "2026-09-25"
   ],
-  "LEAS-7510": [
-   "2026-09-24"
+  "LEAS-7679": [
+   "2026-09-25"
   ],
-  "LEAS-7553": [
-   "2026-09-24"
+  "LEAS-7678": [
+   "2026-09-25"
   ],
-  "LEAS-7443": [
-   "2026-09-23",
-   "2026-09-24"
+  "epil|Centri Unico · inventario de los Caliports ·": [
+   "2026-09-25"
   ],
-  "LEAS-7423": [
-   "2026-09-23",
-   "2026-09-24"
+  "epil|Epil Point · resumen de los mantenimientos d": [
+   "2026-09-25"
   ],
-  "LEAS-7599": [
-   "2026-09-24"
+  "LEAS-7334": [
+   "2026-09-25"
   ],
-  "LEAS-7420": [
-   "2026-09-24"
+  "LEAS-7600": [
+   "2026-09-25"
   ],
-  "LEAS-7504": [
-   "2026-09-23",
-   "2026-09-24"
+  "LEAS-7375": [
+   "2026-09-25"
   ],
-  "LEAS-7505": [
-   "2026-09-24"
+  "LEAS-7415": [
+   "2026-09-25"
   ],
-  "LEAS-7408": [
-   "2026-09-24"
+  "LEAS-7682": [
+   "2026-09-25"
   ],
-  "LEAS-7515": [
-   "2026-09-24"
+  "LEAS-7699": [
+   "2026-09-25"
   ],
-  "LEAS-7573": [
-   "2026-09-24"
-  ],
-  "LEAS-7104": [
-   "2026-09-24"
-  ],
-  "LEAS-7588": [
-   "2026-09-24"
-  ],
-  "LEAS-7671": [
-   "2026-09-24"
-  ],
-  "LEAS-6906": [
-   "2026-09-24"
-  ],
-  "LEAS-6198": [
-   "2026-09-23",
-   "2026-09-24"
-  ],
-  "LEAS-7188": [
-   "2026-09-22",
-   "2026-09-23",
-   "2026-09-24"
-  ],
-  "LEAS-7641": [
-   "2026-09-24"
-  ],
-  "LEAS-7555": [
-   "2026-09-24"
-  ],
-  "LEAS-7688": [
-   "2026-09-24"
-  ],
-  "LEAS-7692": [
-   "2026-09-24"
+  "LEAS-7611": [
+   "2026-09-25"
   ]
  }
 }
