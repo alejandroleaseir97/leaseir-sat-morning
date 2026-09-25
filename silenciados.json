@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-25T08:54",
+ "actualizado": "2026-09-25T13:26",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5101,6 +5101,48 @@
    "quien": "Elha (hecho)",
    "cuando": "2026-09-24 15:41",
    "revive_si": "Si Elha vuelve a preguntar por la recogida de H00494"
+  },
+  {
+   "id": "7651-sale-hoy-25",
+   "que": "Deseja: la lista sale hoy",
+   "ambito": {
+    "leas": "LEAS-7651",
+    "centro": "Arturas Deseja",
+    "cliente": "Deseja",
+    "tipo": "chat-telegram-wapp"
+   },
+   "porque": "Contestó Gonzalo - Saldrá hoy esta lista a falta de un caliport que nos han pedido",
+   "quien": "Borja",
+   "cuando": "2026-09-25T09:04",
+   "revive_si": "2026-09-29 si LEAS-7651 sigue sin salir de taller (sin OUT en «Fotos equipos»)"
+  },
+  {
+   "id": "7737-queja-precio-25",
+   "que": "Clinic One: audio de queja por el precio",
+   "ambito": {
+    "leas": "LEAS-7737",
+    "centro": "Clinics One Tenerife",
+    "cliente": "Clinic One",
+    "tipo": "chat-wapp"
+   },
+   "porque": "el audio es de queja por el precio. lo trataremos esta mañana con ellas",
+   "quien": "Borja",
+   "cuando": "2026-09-25T09:22",
+   "revive_si": "2026-09-30 si la clienta vuelve a escribir sin respuesta o no consta la proforma acordada el 25/09"
+  },
+  {
+   "id": "7334-actualizado-25",
+   "que": "BEAUTY Centre: reparación fuera de plazo",
+   "ambito": {
+    "leas": "LEAS-7334",
+    "centro": "BEAUTY Centre d'estètica",
+    "cliente": "",
+    "tipo": "repara-sla cerrar"
+   },
+   "porque": "actualizado",
+   "quien": "Borja",
+   "cuando": "2026-09-25T10:19",
+   "revive_si": "2026-09-30 si LEAS-7334 sigue en «Inspección de salida» sin nota de contenido"
   }
  ],
  "enlaces": [
