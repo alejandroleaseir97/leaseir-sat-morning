@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-25T20:34",
+ "actualizado": "2026-09-26T10:36",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4107,7 +4107,11 @@
    "porque": "nota: se ha reclamado a DHL y voy abrir un leas para que este el caso asociado.",
    "quien": "Isaac",
    "cuando": "2026-09-18T14:11",
-   "revive_si": "Es una reclamacion en curso, no un hecho cerrado: aparta el punto cinco dias laborables. Vuelve el 25/09 si el SRF sigue sin recogerse, o antes si el 22/09 sigue sin existir el expediente que Isaac dijo que iba a abrir."
+   "revive_si": "Es una reclamacion en curso, no un hecho cerrado: aparta el punto cinco dias laborables. Vuelve el 25/09 si el SRF sigue sin recogerse, o antes si el 22/09 sigue sin existir el expediente que Isaac dijo que iba a abrir.",
+   "caducado": {
+    "cuando": "2026-09-26T10:36",
+    "motivo": "el SRF de Rende se recogió: Gonzalo, «SAT Centri Unico», 24/09 17:45: «Lo han recogido al final». Comprobado el 26/09."
+   }
   },
   {
    "id": "7465-recogida-en-transito-18",
@@ -4438,7 +4442,11 @@
    "quien": "Borja",
    "cuando": "2026-09-23",
    "hora": "09:26",
-   "revive_si": "Es un hecho: ya esta recepcionado. Vuelve solo si el ticket sigue en «Gestionado transporte» a los tres dias laborables (26/09)."
+   "revive_si": "Es un hecho: ya esta recepcionado. Vuelve solo si el ticket sigue en «Gestionado transporte» a los tres dias laborables (26/09).",
+   "caducado": {
+    "cuando": "2026-09-26T10:36",
+    "motivo": "LEAS-7675 ya no está en «Gestionado transporte» (está en «Pendiente asignar técnico»). Comprobado el 26/09."
+   }
   },
   {
    "id": "7618-entregado-en-fabrica-23",
@@ -4730,7 +4738,11 @@
    "porque": "Salió ayer - pido a ernesto que meta las fotos de salida",
    "quien": "Borja",
    "cuando": "2026-09-24T09:43",
-   "revive_si": "2026-09-26 si las fotos de salida del LEAS-7270 no constan en «Fotos equipos» y el ticket sigue en «Inspeccion de salida»"
+   "revive_si": "2026-09-26 si las fotos de salida del LEAS-7270 no constan en «Fotos equipos» y el ticket sigue en «Inspeccion de salida»",
+   "caducado": {
+    "cuando": "2026-09-26T10:36",
+    "motivo": "LEAS-7270 ya está en «Devuelto a cliente»: salió de inspección. Comprobado el 26/09."
+   }
   },
   {
    "id": "7561-princesa-ya-esta-24",
