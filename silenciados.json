@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-28T13:11",
+ "actualizado": "2026-09-28T15:59",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5374,6 +5374,34 @@
    "quien": "Borja",
    "cuando": "2026-09-28T12:54",
    "revive_si": "2026-10-05 si LEAS-7270 sigue sin finalizar"
+  },
+  {
+   "id": "7530-noaplica-28",
+   "que": "SinVello Fuengirola · consola 91383 en stop cada 10 s, sin ticket",
+   "ambito": {
+    "leas": "LEAS-7777",
+    "centro": "Sin Vello Fuengirola",
+    "cliente": "Sin Vello",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "esto no aplica: LEAS-7777",
+   "quien": "Borja",
+   "cuando": "2026-09-28T14:38",
+   "revive_si": "2026-10-01 si LEAS-7777 sigue sin nota de contenido (Isaac 14:49: «mañana que esta Luismi hablaremos con el»)"
+  },
+  {
+   "id": "7731-noaplica-28",
+   "que": "LEAS-7731 Euroma2 · el manípulo/consola de la SRF que esperan desde hace una semana",
+   "ambito": {
+    "leas": "LEAS-7731",
+    "centro": "Unico Euroma2",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "SAle una consola de sustitución hoy mismo",
+   "quien": "Borja",
+   "cuando": "2026-09-28T14:25",
+   "revive_si": "2026-09-30 si la SRF enviada hoy (JJD014600012806139783) no consta entregada"
   }
  ],
  "enlaces": [
