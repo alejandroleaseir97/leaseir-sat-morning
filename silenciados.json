@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-28T10:08",
+ "actualizado": "2026-09-28T13:11",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5318,6 +5318,62 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-25T17:38",
    "revive_si": "si Cádiz vuelve a escribir sobre el soporte"
+  },
+  {
+   "id": "deseja-noaplica-28",
+   "que": "Deseja: respuesta prometida sobre la caída de energía",
+   "ambito": {
+    "leas": null,
+    "centro": "Deseja",
+    "cliente": "Deseja",
+    "tipo": "sin-ticket"
+   },
+   "porque": "Hablo arturo directamente con ellos de que no les cubre el diodo",
+   "quien": "Borja",
+   "cuando": "2026-09-28T11:44",
+   "revive_si": "2026-10-01 si Deseja vuelve a preguntar por la energía sin respuesta"
+  },
+  {
+   "id": "6907-noaplica-28",
+   "que": "Apain: presupuesto sin respuesta, esperando a Arturo",
+   "ambito": {
+    "leas": "LEAS-6907",
+    "centro": "Apain Estetika ( AHR0071)",
+    "cliente": "Apain",
+    "tipo": "presu"
+   },
+   "porque": "Escribo a Arturo para que me diga sobre lo que le comenté el otro día, en cuanto me de respuesta actualizo.",
+   "quien": "Cristina",
+   "cuando": "2026-09-28T11:44",
+   "revive_si": "2026-10-01 si no hay nota de contenido posterior"
+  },
+  {
+   "id": "7706-noaplica-28",
+   "que": "Granada: préstamo sin comentarios",
+   "ambito": {
+    "leas": "LEAS-7706",
+    "centro": "SinVello Granada Constitucion",
+    "cliente": "Sin Vello",
+    "tipo": "medias"
+   },
+   "porque": "ya esta en gijon pasara en breve a taller",
+   "quien": "Borja",
+   "cuando": "2026-09-28T12:53",
+   "revive_si": "2026-10-05 si el padre LEAS-7695 no ha entrado en taller"
+  },
+  {
+   "id": "7270-noaplica-28",
+   "que": "Lecce: devuelto sin finalizar, préstamo LEAS-7271 abierto",
+   "ambito": {
+    "leas": "LEAS-7270",
+    "centro": "Epil Point Lecce",
+    "cliente": "Epil Point",
+    "tipo": "cerrar"
+   },
+   "porque": "esta de reparto. las sustis de Epil Se seulen quedar en el mismo centro hasta que se vuelven a necesitar",
+   "quien": "Borja",
+   "cuando": "2026-09-28T12:54",
+   "revive_si": "2026-10-05 si LEAS-7270 sigue sin finalizar"
   }
  ],
  "enlaces": [
