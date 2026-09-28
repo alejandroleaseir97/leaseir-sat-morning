@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-28T16:14",
+ "actualizado": "2026-09-28T18:39",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5402,6 +5402,48 @@
    "quien": "Borja",
    "cuando": "2026-09-28T14:25",
    "revive_si": "2026-09-30 si la SRF enviada hoy (JJD014600012806139783) no consta entregada"
+  },
+  {
+   "id": "7418-serie-gonzalo-28",
+   "que": "LEAS-7418 · Palermo · manípulo prestado H00476 no consta en el Inmovilizado",
+   "ambito": {
+    "leas": "LEAS-7418",
+    "centro": "Centro Unico Palermo",
+    "cliente": "Centri Unico",
+    "tipo": "serie-desconocida"
+   },
+   "porque": "No consta porque es de Centros unico, se pone en el chat de centro unico",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-28T18:19",
+   "revive_si": "El préstamo H00476 se mueve con otra serie o el centro reclama que no es esa pieza"
+  },
+  {
+   "id": "sat-italia-presupuesto-7748-28",
+   "que": "SAT ITALIA · presupuesto Sincronis de 400 € prometido a Maria Martire",
+   "ambito": {
+    "leas": "LEAS-7748",
+    "centro": "La Maison",
+    "cliente": null,
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "Se espera a que el cliente apruebe el presupuesto, el leas es el siguiente: LEAS-7748",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-28T18:01",
+   "revive_si": "2026-10-01 si LEAS-7748 sigue sin nota de contenido (espera al cliente: 3 días laborables)"
+  },
+  {
+   "id": "globo-h00677-7781-28",
+   "que": "Centri Unico Globo (Busnago) · manípulo H00677 averiado sin ticket",
+   "ambito": {
+    "leas": "LEAS-7781",
+    "centro": "Centri Unico Globo",
+    "cliente": "Centri Unico",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "Se envia material y se avisa a técnico LEAS-7781",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-28T18:01",
+   "revive_si": "2026-10-05 si LEAS-7781 sigue sin nota de contenido"
   }
  ],
  "enlaces": [
