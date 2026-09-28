@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-28T18:39",
+ "actualizado": "2026-09-28T20:43",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -296,7 +296,8 @@
    "porque": "Falso: Chus escribió a las 16:24 del 04/09. La pasada copió el texto de la pasada anterior en vez de releer el ticket.",
    "quien": "Chus",
    "cuando": "2026-09-04",
-   "revive_si": "Pasan 3 días laborables sin comentario nuevo de verdad, comprobado releyendo el ticket en esa misma pasada."
+   "revive_si": "Pasan 3 días laborables sin comentario nuevo de verdad, comprobado releyendo el ticket en esa misma pasada.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7268 (no está en abiertos)"
   },
   {
    "id": "7316-7476-tornillo",
@@ -405,7 +406,8 @@
    "porque": "Gonzalo lo contestó desde el panel el 07/09 a las 16:16: «Se le ha dicho a Sincronis, que por favor llamen cuanto antes». Ya hay nota en el ticket y la gestión está hecha con el proveedor.",
    "quien": "Gonzalo",
    "cuando": "2026-09-07",
-   "revive_si": "Pasa un día laborable más y el centro sigue sin fecha, o Sincronis no ha llamado."
+   "revive_si": "Pasa un día laborable más y el centro sigue sin fecha, o Sincronis no ha llamado.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7499 (Finalizada)"
   },
   {
    "id": "7419-material-entregado",
@@ -417,7 +419,8 @@
    "porque": "Gonzalo escribió desde el panel el 07/09 a las 16:05: «Material entregado y recordado al técnico». Ya hay nota de hoy.",
    "quien": "Gonzalo",
    "cuando": "2026-09-07",
-   "revive_si": "Pasan 3 días laborables sin nota nueva, comprobado releyendo el ticket en esa pasada."
+   "revive_si": "Pasan 3 días laborables sin nota nueva, comprobado releyendo el ticket en esa pasada.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7419 (no está en abiertos)"
   },
   {
    "id": "7469-material-recibido",
@@ -429,7 +432,8 @@
    "porque": "Gonzalo escribió desde el panel el 07/09 a las 16:02: «Material recibido, se avisa al técnico».",
    "quien": "Gonzalo",
    "cuando": "2026-09-07",
-   "revive_si": "Pasan 3 días laborables sin nota nueva, comprobado releyendo el ticket."
+   "revive_si": "Pasan 3 días laborables sin nota nueva, comprobado releyendo el ticket.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7469 (no está en abiertos)"
   },
   {
    "id": "7455-maps-agendar-llamada",
@@ -560,7 +564,8 @@
    "porque": "Isaac lo contestó en el ticket el 07/09 a las 19:14: «como no sabemos muy bien cual es la averia vamos a traer a taller el laser completo, se movera cuando nos avisen mañana una sustitución de ellos que esta en Manresa». La decisión está tomada y escrita.",
    "quien": "Isaac",
    "cuando": "2026-09-07",
-   "revive_si": "Pasan 3 días laborables sin que la recogida se materialice o sin nota nueva, comprobado releyendo el ticket."
+   "revive_si": "Pasan 3 días laborables sin que la recogida se materialice o sin nota nueva, comprobado releyendo el ticket.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7486 (Resuelto)"
   },
   {
    "id": "cerdanyola-umbilical",
@@ -732,7 +737,8 @@
    "porque": "Isaac lo contestó desde el panel el 09/09 a las 11:56: «sigue en transito».",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables más y sigue sin entrar en taller."
+   "revive_si": "Pasan 3 días laborables más y sigue sin entrar en taller.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7361 (Finalizada)"
   },
   {
    "id": "7374-bplogistic-sin-link",
@@ -744,7 +750,8 @@
    "porque": "Isaac lo explicó desde el panel el 09/09 a las 11:09 y 11:25: «se pide información a BP logistic porque aun no ha llegado a taller» y «BP Logistic no facilita link de transporte». No hay número que poner porque el transportista no lo da.",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Nunca por el campo de tracking mientras el porte sea de BP Logistic. Sí si pasa una semana sin que el equipo llegue a taller."
+   "revive_si": "Nunca por el campo de tracking mientras el porte sea de BP Logistic. Sí si pasa una semana sin que el equipo llegue a taller.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7374 (no está en abiertos)"
   },
   {
    "id": "7118-parte-corpoderm",
@@ -821,7 +828,8 @@
    "porque": "Isaac lo contestó desde el panel el 09/09 a las 12:11: «le reclamo a GEE que agilice esta intervencion».",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables sin nota nueva, comprobado releyendo el ticket."
+   "revive_si": "Pasan 3 días laborables sin nota nueva, comprobado releyendo el ticket.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-6891 (no está en abiertos)"
   },
   {
    "id": "7420-recoge-el-cliente",
@@ -1021,7 +1029,8 @@
    "porque": "Isaac lo contestó desde el panel el 09/09 a las 13:27: «ya la he asignada a Ivan».",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables sin que Iván la mueva ni escriba nota."
+   "revive_si": "Pasan 3 días laborables sin que Iván la mueva ni escriba nota.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7299 (Finalizada)"
   },
   {
    "id": "7465-caja-de-madera",
@@ -1082,7 +1091,8 @@
    "porque": "Borja lo cerró desde el panel el 09/09 a las 13:41 («esto no aplica: getionado») y lo explicó a las 14:07 («recogida y de camino») y a las 14:30: «aclarado: habia confusión entre la H00611 (sin LEAS) y la LEAS-7416 que está pdte de recogida». Isaac añadió a las 14:33: «aun no hay traking porque no se ha mandado sustitución, cuando llegue se pedira recogida y se subira el tracking».",
    "quien": "Borja e Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "La sustitución de Palermo sale del taller y LEAS-7416 sigue sin tracking pasados 3 días laborables."
+   "revive_si": "La sustitución de Palermo sale del taller y LEAS-7416 sigue sin tracking pasados 3 días laborables.",
+   "caducado": "2026-09-28 20:43 · el hecho esperado ya ocurrió: LEAS-7416 está en taller («Esperando inicio reparación», diagnóstico de Chus del 23/09 14:16); la recogida se hizo"
   },
   {
    "id": "7214-hospitalet-cerrado",
@@ -1164,7 +1174,8 @@
    "porque": "Borja lo cerró desde el panel el 09/09 a las 14:51: «esto no aplica: pedida recogida, notificada y actualizado el caso». El campo de tracking ya lleva el DHL 1170232148 y el ticket está en «Gestionado transporte».",
    "quien": "Borja",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables y la recogida no se materializa."
+   "revive_si": "Pasan 3 días laborables y la recogida no se materializa.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7490 (Resuelto)"
   },
   {
    "id": "7213-pavia-se-mantiene",
@@ -1259,7 +1270,8 @@
    "porque": "No se recoge la averiada hasta que llega la sustitución: la sustitución completa MHR (MHR91096 / MHP40498) salió por DHL el 09/09 a las 16:53, publicada en ENVIOS SAT LEASEIR, y Ernesto lo escribió en LEAS-7475 a las 17:23 («Recuperada la 91119 se envia por parcel la 91096»).",
    "quien": "pasada 09/09 18:10",
    "cuando": "2026-09-09",
-   "revive_si": "Consta que la sustitución llegó al centro y pasan 3 días laborables sin recogida ni tracking en LEAS-7474."
+   "revive_si": "Consta que la sustitución llegó al centro y pasan 3 días laborables sin recogida ni tracking en LEAS-7474.",
+   "caducado": "2026-09-28 20:43 · LEAS-7474 ya está en taller (diagnóstico de Chus 24/09 10:38, «Pendiente confirmación presupuesto»): la recogida se materializó"
   },
   {
    "id": "7325-deseja-reclamado",
@@ -1320,7 +1332,8 @@
    "porque": "Isaac lo cerró el 09/09 a las 18:53: «tambien se pide por DHL porque nos estan dando muchos problemas Enora», y desde el panel a las 18:53 «ya esta subido el tracking». El campo 11420 lleva ya el DHL (JJD014600012821338901), comprobado a las 20:10.",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "El campo de tracking vuelve a quedarse vacío, o pasan 3 días laborables sin que la recogida se materialice."
+   "revive_si": "El campo de tracking vuelve a quedarse vacío, o pasan 3 días laborables sin que la recogida se materialice.",
+   "caducado": "2026-09-28 20:43 · LEAS-7525 ya está en taller (diagnóstico de Jonathan 21/09 10:43; presupuesto enviado 23/09): la recogida se materializó"
   },
   {
    "id": "4908-isaac-panel-1854",
@@ -1346,7 +1359,8 @@
    "porque": "Isaac lo escribió en el ticket el 09/09 a las 18:44 («se envia material y aviso a Carlos Mora») y lo pasó a «Enviado a técnico externo» a las 18:54. SOLO se silencia la parte del técnico: la de la dirección de entrega sigue viva y sale en el bloque wapp.",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables sin nota nueva del técnico externo. La dirección de entrega NO entra aquí: ese punto sigue abierto hasta que el centro conteste."
+   "revive_si": "Pasan 3 días laborables sin nota nueva del técnico externo. La dirección de entrega NO entra aquí: ese punto sigue abierto hasta que el centro conteste.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7540 (no está en abiertos)"
   },
   {
    "id": "6198-maps-listo",
@@ -1358,7 +1372,8 @@
    "porque": "Borja lo contestó desde la casilla del panel: «esto no aplica: listo».",
    "quien": "Borja",
    "cuando": "2026-09-10",
-   "revive_si": "El campo de link de ubicación sigue vacío pasados 3 días laborables desde hoy, comprobado releyendo el campo 11354 en esa pasada."
+   "revive_si": "El campo de link de ubicación sigue vacío pasados 3 días laborables desde hoy, comprobado releyendo el campo 11354 en esa pasada.",
+   "caducado": "2026-09-28 20:43 · el 11354 de LEAS-6198 ya tiene link (https://maps.app.goo.gl/wFFHNta3vnxGr45K8)"
   },
   {
    "id": "7472-tracking-en-comentario",
@@ -1386,7 +1401,8 @@
    "porque": "Borja lo contestó desde el panel a las 09:12: «Aun no ha llegado la sutitución», con el Palibex 9999081600212B7T de LEAS-7504. Hasta que no llega la sustitución no se puede recoger.",
    "quien": "Borja",
    "cuando": "2026-09-10",
-   "revive_si": "La sustitución LEAS-7504 consta entregada y aun así pasan 3 días laborables sin que LEAS-7503 tenga tracking en el campo."
+   "revive_si": "La sustitución LEAS-7504 consta entregada y aun así pasan 3 días laborables sin que LEAS-7503 tenga tracking en el campo.",
+   "caducado": "2026-09-28 20:43 · LEAS-7503 ya está «En cola taller»: la averiada llegó (y ya había otro silencio suyo revivido el 28/09 10:08)"
   },
   {
    "id": "palermo-segunda-recogida-resuelta",
@@ -1492,7 +1508,8 @@
    "porque": "Isaac lo contestó desde el panel a las 10:37: «se ha pedido diodo que lo estan haciendo». El préstamo depende de una pieza en fabricación.",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "Llega el diodo y el préstamo sigue abierto 5 días laborables más."
+   "revive_si": "Llega el diodo y el préstamo sigue abierto 5 días laborables más.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7356 (no está en abiertos)"
   },
   {
    "id": "7112-reclamado-transporte",
@@ -1504,7 +1521,8 @@
    "porque": "Isaac lo contestó desde el panel a las 11:02: «se reclama a transporte».",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "Pasan 3 días laborables sin que el transporte conteste ni haya nota nueva."
+   "revive_si": "Pasan 3 días laborables sin que el transporte conteste ni haya nota nueva.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7112 (no está en abiertos)"
   },
   {
    "id": "7237-etiqueta-a-smart",
@@ -1603,7 +1621,8 @@
    "porque": "Isaac lo contestó desde el panel a las 12:04: «se reclama a innet».",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "Pasan 3 días laborables desde hoy sin nota nueva del externo."
+   "revive_si": "Pasan 3 días laborables desde hoy sin nota nueva del externo.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7500 (Finalizada)"
   },
   {
    "id": "7514-innet-organizando",
@@ -1616,7 +1635,8 @@
    "porque": "Isaac lo contestó desde el panel a las 12:05: «lo esta organizando Innet segun nos avisan».",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "Pasan 3 días laborables desde hoy sin nota nueva del externo."
+   "revive_si": "Pasan 3 días laborables desde hoy sin nota nueva del externo.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7514 (no está en abiertos)"
   },
   {
    "id": "7419-reclamado-konexa",
@@ -1629,7 +1649,8 @@
    "porque": "Isaac lo contestó desde el panel a las 12:07: «se reclama a Konexa por mail».",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "Pasan 3 días laborables desde hoy sin nota nueva del externo."
+   "revive_si": "Pasan 3 días laborables desde hoy sin nota nueva del externo.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7419 (no está en abiertos)"
   },
   {
    "id": "7495-gee-reclamado",
@@ -1642,7 +1663,8 @@
    "porque": "Isaac lo contestó desde el panel a las 12:11: «se avisa a Gee que llego el material y se reclama que vayan lo antes posible».",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "Pasan 3 días laborables desde hoy sin nota nueva del externo."
+   "revive_si": "Pasan 3 días laborables desde hoy sin nota nueva del externo.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7495 (no está en abiertos)"
   },
   {
    "id": "7507-material-en-camino",
@@ -1689,7 +1711,8 @@
    "porque": "Isaac lo contestó desde el panel a las 12:33: «la sustitucion fue envia y ya esta en reparto». Antes ya había explicado el 05/09 que no se recogía porque la sustitución no había salido.",
    "quien": "Isaac",
    "cuando": "2026-09-10",
-   "revive_si": "La sustitución consta entregada y pasan 2 días laborables sin tracking de recogida."
+   "revive_si": "La sustitución consta entregada y pasan 2 días laborables sin tracking de recogida.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7230 (Finalizada), LEAS-7251 (no está en abiertos)"
   },
   {
    "id": "7102-traspaso-borja",
@@ -2056,7 +2079,8 @@
    "porque": "Isaac lo explicó en el propio ticket desde el panel el 11/09 a las 13:14: «se va a dar unos dias de plazo ya que estamos esperando que venga a mirar el transporte los daños que causaron; sino contestan hablaremos con Yolanda de Dinamica Impulso para recuperar la sustitución». A las 13:36 el ticket pasó a «Gestionada recogida». El punto se publicó a las 13:23, nueve minutos DESPUÉS de esa nota: salió ya contestado.",
    "quien": "Isaac",
    "cuando": "2026-09-11",
-   "revive_si": "LEAS-7401 sigue abierto y sin dueño pasados 5 días laborables sin nota nueva, o el transporte contesta y la recogida no se cierra."
+   "revive_si": "LEAS-7401 sigue abierto y sin dueño pasados 5 días laborables sin nota nueva, o el transporte contesta y la recogida no se cierra.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7401 (no está en abiertos)"
   },
   {
    "id": "c00368-tiburtina-recogida",
@@ -2070,7 +2094,8 @@
    "porque": "Gonzalo lo tiene en marcha por los dos lados el 11/09: a las 13:15 escribio en LEAS-7416 «Se ha movido sustitucion, estan usando la C00368» y a las 13:17 pidio la recogida al centro en «Centri Unico Italia - Leaseir»: «24943 Buongiorno, possiamo quindi ritirare la console C00368, dato che la tua console funziona correttamente; facci sapere per organizzare il ritiro». El punto llevaba saliendo desde el 10/09.",
    "quien": "Gonzalo",
    "cuando": "2026-09-11",
-   "revive_si": "Pasan 3 dias laborables sin que la recogida de la C00368 conste en ningun ticket, o el centro contesta y nadie lo recoge."
+   "revive_si": "Pasan 3 dias laborables sin que la recogida de la C00368 conste en ningun ticket, o el centro contesta y nadie lo recoge.",
+   "revivido": "2026-09-28 20:43 · vencía el 16/09 (3 dl desde el 11/09): la recogida de la C00368 no consta en ningún ticket (la única mención sigue siendo Gonzalo 11/09 13:15 en LEAS-7416). Mirar el chat de Centri Unico antes de sacarlo"
   },
   {
    "id": "busnago-es-globo",
@@ -2153,7 +2178,8 @@
    "porque": "Contestado el 11/09: Gonzalo a las 17:50 «Ya han recibido la consola y se ha metido el link de la etiqueta de recogida para que se la lleven» e Isaac a las 17:52 «se trae a taller». El campo de tracking ya tiene la etiqueta de DHL.",
    "quien": "Gonzalo e Isaac",
    "cuando": "2026-09-11",
-   "revive_si": "El centro vuelve a escribir sin respuesta, o pasan 3 dias laborables sin que la averiada salga del centro."
+   "revive_si": "El centro vuelve a escribir sin respuesta, o pasan 3 dias laborables sin que la averiada salga del centro.",
+   "caducado": "2026-09-28 20:43 · la averiada salió del centro: LEAS-7503 está «En cola taller» (Borja hoy 12:46 «la intentamos colar en fabrica»)"
   },
   {
    "id": "7470-bellaforme-pieza-con-consola",
@@ -2166,7 +2192,8 @@
    "porque": "Gonzalo escribio desde el panel el 11/09 a las 17:34 «Se va a enviar la pieza con la consola que se devuelve a Bella Forme, para que lo cambien ellos» y el ticket paso a «Esperando inicio reparacion».",
    "quien": "Gonzalo",
    "cuando": "2026-09-11",
-   "revive_si": "La consola sale hacia Bella Forme sin la pieza, o pasan 3 dias laborables sin nota nueva."
+   "revive_si": "La consola sale hacia Bella Forme sin la pieza, o pasan 3 dias laborables sin nota nueva.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7470 (no está en abiertos)"
   },
   {
    "id": "7482-innet-semana-14",
@@ -2242,7 +2269,8 @@
    "porque": "Esta parado esperando el diodo: Isaac escribio el 07/09 a las 15:28 «Vamos a ver si encontramos un diodo que podamos poner», y el 10/09 quedo explicado en su sustitucion LEAS-7356 que el diodo esta en fabricacion.",
    "quien": "Isaac",
    "cuando": "2026-09-12",
-   "revive_si": "Llega el diodo y pasan 3 dias laborables sin que la reparacion arranque."
+   "revive_si": "Llega el diodo y pasan 3 dias laborables sin que la reparacion arranque.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7355 (no está en abiertos)"
   },
   {
    "id": "7424-susti-no-hace-falta",
@@ -2270,7 +2298,8 @@
    "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:42 («No se ha visto nada ya que está en cola») y el 14/09 a las 09:18 Iván escribió el diagnóstico completo del diodo y del umbilical; el ticket pasó a «Presupuesto preparado pendiente de enviar».",
    "quien": "Gonzalo",
    "cuando": "2026-09-12",
-   "revive_si": "El presupuesto no se envía al cliente en 5 días laborables."
+   "revive_si": "El presupuesto no se envía al cliente en 5 días laborables.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7405 (no está en abiertos)"
   },
   {
    "id": "7543-consolas-reales-fotos",
@@ -2299,7 +2328,8 @@
    "porque": "Gonzalo lo contestó desde el panel el 12/09 a las 13:41: «No hace falta enviar material, carlos mora ya lo tiene y contestó en el grupo de whatsapp de carlos mora». OJO: esto NO cubre Laser Factory Figueres Monturiol (LEAS-7523), que es otro centro y va por su lado.",
    "quien": "Gonzalo",
    "cuando": "2026-09-12",
-   "revive_si": "Carlos Mora dice que le falta material, o pasan 5 días laborables sin nota nueva del externo."
+   "revive_si": "Carlos Mora dice que le falta material, o pasan 5 días laborables sin nota nueva del externo.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7559 (no está en abiertos)"
   },
   {
    "id": "7577-series-ya-metidas",
@@ -2382,7 +2412,8 @@
    "porque": "equipo en taller pdte de reparación",
    "quien": "Borja",
    "cuando": "2026-09-14",
-   "revive_si": "La reparación termina y el manípulo H01032 sigue en préstamo, o pasan 10 días laborables."
+   "revive_si": "La reparación termina y el manípulo H01032 sigue en préstamo, o pasan 10 días laborables.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7489 (Resuelto)"
   },
   {
    "id": "7570-tracking-metido",
@@ -2455,7 +2486,8 @@
    "porque": "no hace falta escrinbir todo el rato todo lo que pasa, si el tecnico va hoy y lo sabe el centro",
    "quien": "Borja",
    "cuando": "2026-09-14",
-   "revive_si": "El técnico no va, o el centro reclama sin respuesta más de un día laborable."
+   "revive_si": "El técnico no va, o el centro reclama sin respuesta más de un día laborable.",
+   "caducado": "2026-09-28 20:43 · ticket(s) ya cerrado(s): LEAS-7540 (no está en abiertos)"
   },
   {
    "id": "6891-gee-suplencia-hospital",
@@ -3646,7 +3678,8 @@
    "porque": "HEmos cambiado el estado , SE le ha mandado un equipo nuevo a cambio . Cuando llegue lo devolveremos a fabrica",
    "quien": "Borja",
    "cuando": "2026-09-17",
-   "revive_si": "Es un hecho: el estado cambio y se mando equipo nuevo. Solo vuelve si a los 5 dias laborables el equipo averiado no consta devuelto a fabrica."
+   "revive_si": "Es un hecho: el estado cambio y se mando equipo nuevo. Solo vuelve si a los 5 dias laborables el equipo averiado no consta devuelto a fabrica.",
+   "revivido": "2026-09-28 20:43 · vencía el 24/09 (5 dl desde el 17/09): LEAS-7520 sigue en «Pendiente recogida», sin seguimiento en ningún campo y sin constar devuelto a fábrica; la única nota posterior es de Gonzalo 24/09 09:52 «Corregido la direción»"
   },
   {
    "id": "7636-zurimed-consultado-17",
@@ -5444,6 +5477,20 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-28T18:01",
    "revive_si": "2026-10-05 si LEAS-7781 sigue sin nota de contenido"
+  },
+  {
+   "id": "elha-12oct-noaplica-28",
+   "que": "Elha (Área Técnica) · sin ticket · a las 11:31 Elha preguntó en «Incidencias Leaseir/Elha» si el 12 de octubre (festivo) se trabaja",
+   "ambito": {
+    "leas": null,
+    "centro": "Elha (Área Técnica)",
+    "cliente": "Elha",
+    "tipo": "sin-ticket"
+   },
+   "porque": "contestado",
+   "quien": "Borja",
+   "cuando": "2026-09-28T14:36",
+   "revive_si": "Elha vuelve a preguntar por el festivo del 12/10 sin respuesta."
   }
  ],
  "enlaces": [
