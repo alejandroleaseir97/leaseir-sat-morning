@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-29T15:59",
+ "actualizado": "2026-09-29T17:51",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5611,6 +5611,71 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-29T09:49",
    "revive_si": "2026-10-02 si el cliente no ha contestado y LEAS-7748 no tiene nota de contenido"
+  },
+  {
+   "id": "7741-noaplica-cristina-29",
+   "que": "LEAS-7741 BiNatural · reparación fuera de plazo sin nota",
+   "ambito": {
+    "leas": "LEAS-7741",
+    "centro": "BiNatural",
+    "tipo": "repara-sla"
+   },
+   "porque": "esto no aplica: En cuanto se liberen técnicos en taller se asignará uno.",
+   "quien": "Cristina",
+   "cuando": "2026-09-29T16:57",
+   "revive_si": "2026-10-02: espera interna sin fecha; vuelve si a esa fecha sigue sin técnico ni nota de contenido"
+  },
+  {
+   "id": "7572-se-recupera-29",
+   "que": "LEAS-7572 No Filters · la serie SUSTAHRD005 no consta en el Inmovilizado",
+   "ambito": {
+    "leas": "LEAS-7572",
+    "centro": "No filters (Dinamica Impulso)",
+    "tipo": "serie-desconocida"
+   },
+   "porque": "Se envia su laser y se recupera el nuestro",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-29T17:06",
+   "revive_si": "2026-10-06: si el préstamo sigue abierto con la SUSTAHRD005 sin ficha. La ficha va a Airtable de Alejandro."
+  },
+  {
+   "id": "7647-carlos-manana-29",
+   "que": "LEAS-7647 Elha Rambla Catalunya · técnico externo sin noticias",
+   "ambito": {
+    "leas": "LEAS-7647",
+    "centro": "Elha rambla Catalunya",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "Mañana va a carlos al mediodia (Carlos Mora en su grupo a las 17:08: «Me acercaré mañana al medio día»)",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-29T17:08",
+   "revive_si": "2026-10-01: si no hay nota de la visita del 30/09"
+  },
+  {
+   "id": "7520-se-pregunta-recoger-29",
+   "que": "LEAS-7520 L Medical · Pendiente recogida sin seguimiento",
+   "ambito": {
+    "leas": "LEAS-7520",
+    "centro": "L Medical (G-Point)",
+    "tipo": "track"
+   },
+   "porque": "Se pregunta si se puede recoger",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-29T17:35",
+   "revive_si": "2026-10-02: espera al cliente; vuelve si sigue sin transportista ni tracking"
+  },
+  {
+   "id": "7583-enviada-caracciolo-29",
+   "que": "LEAS-7583 Epil Point Aversa · la 40374, lista o no y a qué dirección",
+   "ambito": {
+    "leas": "LEAS-7583",
+    "centro": "Epil Point Aversa",
+    "tipo": "epil"
+   },
+   "porque": "Se ha enviado a la dirección correcta, es que ayer vino de fábrica con el umbilical roto (DHL JJD00006336051119243001)",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-29T17:46",
+   "revive_si": "2026-10-02: si el estado sigue en «Esperando inicio reparación» sin nota o el préstamo LEAS-7584 sin recoger"
   }
  ],
  "enlaces": [
@@ -6020,6 +6085,14 @@
    "vinculado_a": "punto del panel sin ticket «etiqueta entregada, seguimiento no»",
    "quien": "Isaac",
    "cuando": "2026-09-22"
+  },
+  {
+   "centro": "Epil Point Messina",
+   "cliente": "Epil Point Italia",
+   "leas": "LEAS-7798",
+   "vinculado_a": "epil · Epil Point Messina (MHR 91385) · sin ticket",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-29T17:05"
   }
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
