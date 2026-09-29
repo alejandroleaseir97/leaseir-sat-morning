@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-29T13:00",
+ "actualizado": "2026-09-29T15:59",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4811,7 +4811,8 @@
    "porque": "ya esta",
    "quien": "Borja",
    "cuando": "2026-09-24T09:43",
-   "revive_si": "2026-09-29 si LEAS-7561 sigue sin pasar de «Esperando inicio reparacion» con el presupuesto ya aceptado"
+   "revive_si": "2026-09-29 si LEAS-7561 sigue sin pasar de «Esperando inicio reparacion» con el presupuesto ya aceptado",
+   "caducado": "2026-09-29T15:59 · el ticket LEAS-7561 ya está cerrado"
   },
   {
    "id": "7408-devuelto-24",
@@ -4947,7 +4948,11 @@
    "porque": "esto no aplica: Consulto con Borja ya que es un asunto que desconozco.",
    "quien": "Cristina",
    "cuando": "2026-09-24T16:05",
-   "revive_si": "Es una consulta interna: aparta el punto tres días laborables. Vuelve el 2026-09-29 si no hay nota de contenido."
+   "revive_si": "Es una consulta interna: aparta el punto tres días laborables. Vuelve el 2026-09-29 si no hay nota de contenido.",
+   "revivido": {
+    "cuando": "2026-09-29T15:59",
+    "motivo": "vencía hoy: LEAS-7675 sigue «En cola taller» y no hay nota de contenido desde el «Consulto con Borja» del 24/09 a las 16:05"
+   }
   },
   {
    "id": "7664-sin-centro-24",
@@ -5077,7 +5082,11 @@
    "porque": "reclamado a sincronis cuando pasan o si pasaron ya",
    "quien": "Borja",
    "cuando": "2026-09-24 16:02",
-   "revive_si": "2026-09-29: reclamación, 3 días laborables"
+   "revive_si": "2026-09-29: reclamación, 3 días laborables",
+   "revivido": {
+    "cuando": "2026-09-29T15:59",
+    "motivo": "vencía hoy: la sustitución LEAS-7672 sigue en «Solicitado» con el padre cerrado; hoy Borja subió el parte de Barletta y Epil Point dio el visto bueno a las 14:08"
+   }
   },
   {
    "id": "7509-laser-en-camino-25",
@@ -5189,7 +5198,8 @@
    "porque": "Contestó Gonzalo - Saldrá hoy esta lista a falta de un caliport que nos han pedido",
    "quien": "Borja",
    "cuando": "2026-09-25T09:04",
-   "revive_si": "2026-09-29 si LEAS-7651 sigue sin salir de taller (sin OUT en «Fotos equipos»)"
+   "revive_si": "2026-09-29 si LEAS-7651 sigue sin salir de taller (sin OUT en «Fotos equipos»)",
+   "caducado": "2026-09-29T15:59 · el ticket LEAS-7651 ya está cerrado"
   },
   {
    "id": "7737-queja-precio-25",
