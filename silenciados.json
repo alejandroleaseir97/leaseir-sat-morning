@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-28T20:43",
+ "actualizado": "2026-09-29T08:46",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4897,7 +4897,11 @@
    "quien": "Borja",
    "cuando": "2026-09-24",
    "hora": "12:55",
-   "revive_si": "2026-09-29 si LEAS-6906 sigue en «Pendiente confirmacion presupuesto» sin nota de contenido. Es una espera al cliente: tres dias laborables. La decision de cobrar o cancelar sigue siendo de Alejandro y va en su panel."
+   "revive_si": "2026-09-29 si LEAS-6906 sigue en «Pendiente confirmacion presupuesto» sin nota de contenido. Es una espera al cliente: tres dias laborables. La decision de cobrar o cancelar sigue siendo de Alejandro y va en su panel.",
+   "revivido": {
+    "cuando": "2026-09-29T08:50",
+    "motivo": "Vencía hoy 29/09 y LEAS-6906 sigue en «Pendiente confirmación presupuesto» sin nota de contenido desde el 21/09."
+   }
   },
   {
    "id": "7591-esta-bien-24",
@@ -5037,7 +5041,11 @@
    "porque": "DHL Express JJD014600012842640292: «Envío recogido» en Livorno el 24/09 a las 14:47, entrega prevista el 28/09 (portal abierto a las 16:22)",
    "quien": "pasada 15:10",
    "cuando": "2026-09-24T16:22",
-   "revive_si": "Vuelve si el 2026-09-29 no consta entregado en Oviedo."
+   "revive_si": "Vuelve si el 2026-09-29 no consta entregado en Oviedo.",
+   "revivido": {
+    "cuando": "2026-09-29T08:40",
+    "motivo": "No consta entregado en Oviedo: DHL lo tiene «Envío retenido» en Milán el 25/09 a las 11:35 y otra vez el 28/09 a las 10:53 (mirado el 29/09 a primera hora)."
+   }
   },
   {
    "id": "7695-espera-recogida-24",
