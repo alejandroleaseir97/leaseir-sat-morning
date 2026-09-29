@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-29T08:46",
+ "actualizado": "2026-09-29T11:50",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5499,6 +5499,104 @@
    "quien": "Borja",
    "cuando": "2026-09-28T14:36",
    "revive_si": "Elha vuelve a preguntar por el festivo del 12/10 sin respuesta."
+  },
+  {
+   "id": "7719-noaplica-29",
+   "que": "LEAS-7719 · reparación fuera de plazo, a la cola de taller",
+   "ambito": {
+    "leas": "LEAS-7719",
+    "centro": null,
+    "cliente": null,
+    "tipo": "repara-sin-nota"
+   },
+   "porque": "En cuanto se vaya liberando algún técnico será asignado, hay bastante volumen de trabajo en taller.",
+   "quien": "Cristina",
+   "cuando": "2026-09-29T11:37",
+   "revive_si": "2026-10-06 si sigue sin técnico asignado ni nota de contenido"
+  },
+  {
+   "id": "7718-noaplica-29",
+   "que": "LEAS-7718 · reparación fuera de plazo, a la cola de taller",
+   "ambito": {
+    "leas": "LEAS-7718",
+    "centro": null,
+    "cliente": null,
+    "tipo": "repara-sin-nota"
+   },
+   "porque": "En cuanto se vaya liberando algún técnico será asignado, hay bastante volumen de trabajo en taller.",
+   "quien": "Cristina",
+   "cuando": "2026-09-29T11:37",
+   "revive_si": "2026-10-06 si sigue sin técnico asignado ni nota de contenido"
+  },
+  {
+   "id": "7681-noaplica-29",
+   "que": "LEAS-7681 · reparación fuera de plazo, a la cola de taller",
+   "ambito": {
+    "leas": "LEAS-7681",
+    "centro": null,
+    "cliente": null,
+    "tipo": "repara-sin-nota"
+   },
+   "porque": "Esta a la cola de taller, no tenemos técnicos suficientes",
+   "quien": "Cristina",
+   "cuando": "2026-09-29T11:35",
+   "revive_si": "2026-10-06 si sigue sin técnico asignado ni nota de contenido"
+  },
+  {
+   "id": "7510-noaplica-29",
+   "que": "LEAS-7510 · Elha Boltaña · reparación fuera de plazo en «En cola taller»",
+   "ambito": {
+    "leas": "LEAS-7510",
+    "centro": "Elha Boltaña",
+    "cliente": "Elha",
+    "tipo": "repara-sin-nota"
+   },
+   "porque": "esto no aplica: ya esta adjudicado para colarlo en las reparaciones",
+   "quien": "Borja",
+   "cuando": "2026-09-29T11:10",
+   "revive_si": "2026-10-06 si sigue en «En cola taller» sin nota de contenido"
+  },
+  {
+   "id": "6906-seguimos-esperando-29",
+   "que": "LEAS-6906 · Holea · presupuesto de 16.044,60 € sin respuesta",
+   "ambito": {
+    "leas": "LEAS-6906",
+    "centro": "Daniel Jaramillo Holea",
+    "cliente": "Holea",
+    "tipo": "presu"
+   },
+   "porque": "seguimos esperando",
+   "quien": "Borja",
+   "cuando": "2026-09-29T11:10",
+   "revive_si": "2026-10-02 si no hay respuesta del cliente ni nota de contenido"
+  },
+  {
+   "id": "7698-espera-clienta-29",
+   "que": "LEAS-7698 · Bianca House of Beauty · sin nadie asignado",
+   "ambito": {
+    "leas": "LEAS-7698",
+    "centro": "Bianca House of Beauty",
+    "cliente": "Bianca House of Beauty",
+    "tipo": "nadie"
+   },
+   "porque": "tiene que preparalo la cluenta y avisarnos",
+   "quien": "Borja",
+   "cuando": "2026-09-29T11:09",
+   "revive_si": "2026-10-06 si la clienta no ha avisado y no hay nota de contenido"
+  },
+  {
+   "id": "satitalia-sincronis-7748-29",
+   "que": "SAT ITALIA · sin ticket · presupuesto de Sincronis (400 €) prometido a Maria Martire el 28/09 a las 10:42",
+   "ambito": {
+    "leas": null,
+    "centro": "SAT ITALIA",
+    "cliente": "Slyou italia",
+    "tipo": "sin-ticket"
+   },
+   "porque": "Se le ha pasado, el ticket es el LEAS-7748, sin respuesta todavia",
+   "quien": "Gonzalo",
+   "cuando": "2026-09-29T09:49",
+   "revive_si": "2026-10-02 si el cliente no ha contestado y LEAS-7748 no tiene nota de contenido"
   }
  ],
  "enlaces": [
