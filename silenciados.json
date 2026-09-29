@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-29T11:50",
+ "actualizado": "2026-09-29T13:00",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -2095,7 +2095,11 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-11",
    "revive_si": "Pasan 3 dias laborables sin que la recogida de la C00368 conste en ningun ticket, o el centro contesta y nadie lo recoge.",
-   "revivido": "2026-09-28 20:43 · vencía el 16/09 (3 dl desde el 11/09): la recogida de la C00368 no consta en ningún ticket (la única mención sigue siendo Gonzalo 11/09 13:15 en LEAS-7416). Mirar el chat de Centri Unico antes de sacarlo"
+   "revivido": "2026-09-28 20:43 · vencía el 16/09 (3 dl desde el 11/09): la recogida de la C00368 no consta en ningún ticket (la única mención sigue siendo Gonzalo 11/09 13:15 en LEAS-7416). Mirar el chat de Centri Unico antes de sacarlo",
+   "caducado": {
+    "cuando": "2026-09-29T13:00",
+    "porque": "hecho: hoy a las 12:31 se abrió LEAS-7791 (Centro Unico Tiburtina, consola C00368, «Pendiente recogida») con su sustitución LEAS-7792"
+   }
   },
   {
    "id": "busnago-es-globo",
