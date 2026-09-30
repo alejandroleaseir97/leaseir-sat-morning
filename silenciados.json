@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-29T20:25",
+ "actualizado": "2026-09-30T10:34",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4471,7 +4471,11 @@
    "quien": "Borja",
    "cuando": "2026-09-23",
    "hora": "09:23",
-   "revive_si": "Es un hecho con nombre: la recogida la hace Pichi. Vuelve si a los cinco dias laborables (30/09) el equipo no consta ni recogido ni en taller, o si no aparece ninguna fecha en el ticket."
+   "revive_si": "Es un hecho con nombre: la recogida la hace Pichi. Vuelve si a los cinco dias laborables (30/09) el equipo no consta ni recogido ni en taller, o si no aparece ninguna fecha en el ticket.",
+   "revivido": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: vencía hoy y el equipo no consta en taller (sigue en «Gestionado transporte», sin nota desde el 23/09). Sale en «ruta»."
+   }
   },
   {
    "id": "7675-listo-23",
@@ -4505,7 +4509,11 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-23",
    "hora": "10:02",
-   "revive_si": "Es una espera interna con explicacion: aparta el punto cinco dias laborables. Si el 30/09 el equipo sigue sin constar en taller, vuelve."
+   "revive_si": "Es una espera interna con explicacion: aparta el punto cinco dias laborables. Si el 30/09 el equipo sigue sin constar en taller, vuelve.",
+   "caducado": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: el equipo ya consta en taller («En cola taller» con Chus). Sale en «repara» por el SLA y cinco días sin nota."
+   }
   },
   {
    "id": "7583-cola-taller-23",
@@ -4520,7 +4528,11 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-23",
    "hora": "10:03",
-   "revive_si": "Es un hecho con hora y con estado. Vuelve si el 30/09 sigue en cola sin que arranque la reparacion."
+   "revive_si": "Es un hecho con hora y con estado. Vuelve si el 30/09 sigue en cola sin que arranque la reparacion.",
+   "caducado": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: nota de contenido de Gonzalo del 29/09 a las 17:46 (la 40374 enviada a Via Caracciolo)."
+   }
   },
   {
    "id": "7685-llegado-a-taller-23",
@@ -4535,7 +4547,11 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-23",
    "hora": "10:06",
-   "revive_si": "Es un hecho: el equipo esta en taller y el ticket paso a «Pendiente asignar tecnico». Vuelve si el 30/09 sigue sin tecnico asignado."
+   "revive_si": "Es un hecho: el equipo esta en taller y el ticket paso a «Pendiente asignar tecnico». Vuelve si el 30/09 sigue sin tecnico asignado.",
+   "caducado": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: ya tiene técnico (Iván, diagnóstico del 28/09)."
+   }
   },
   {
    "id": "7298-recordado-a-david-23",
@@ -4550,7 +4566,11 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-23",
    "hora": "10:11",
-   "revive_si": "Es una reclamacion interna, no un hecho: aparta el punto cinco dias laborables. Si el 30/09 el presupuesto de LEAS-6906 sigue sin firmarse y la subtarea sigue muda, vuelve."
+   "revive_si": "Es una reclamacion interna, no un hecho: aparta el punto cinco dias laborables. Si el 30/09 el presupuesto de LEAS-6906 sigue sin firmarse y la subtarea sigue muda, vuelve.",
+   "caducado": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: el presupuesto del padre LEAS-6906 lleva una nota de espera de Borja del 29/09 y un silencio hasta el 02/10."
+   }
   },
   {
    "id": "7649-no-entregada-23",
@@ -4565,7 +4585,11 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-23",
    "hora": "10:12",
-   "revive_si": "Es una espera al transporte de la averiada (LEAS-7618): aparta el punto cinco dias laborables. Si el 30/09 la sustitucion sigue en prestamo, vuelve."
+   "revive_si": "Es una espera al transporte de la averiada (LEAS-7618): aparta el punto cinco dias laborables. Si el 30/09 la sustitucion sigue en prestamo, vuelve.",
+   "caducado": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: la averiada del padre LEAS-7618 ya está en taller; el préstamo va con el punto de «repara» del padre."
+   }
   },
   {
    "id": "7635-recogida-pedida-de-nuevo-23",
@@ -4666,7 +4690,11 @@
    "quien": "Borja",
    "cuando": "2026-09-23",
    "hora": "14:20",
-   "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 30/09 DHL sigue en «Envio retenido» sin el DUA, vuelve, y la decision es de Alejandro."
+   "revive_si": "Es una espera a un tercero: aparta el punto cinco dias laborables. Si el 30/09 DHL sigue en «Envio retenido» sin el DUA, vuelve, y la decision es de Alejandro.",
+   "caducado": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: el hecho que se esperaba ocurrió: DHL Express despachó la aduana el 28/09 y lo entregó en Gijón el 29/09 a las 14:47 (portal mirado hoy a las 10:17). Sale en «ruta» porque el ticket sigue en «Gestionado transporte»."
+   }
   },
   {
    "id": "7526-atasco-taller-23",
@@ -4696,7 +4724,11 @@
    "quien": "Borja",
    "cuando": "2026-09-23",
    "hora": "15:18",
-   "revive_si": "Es un hecho. Vuelve solo si el 30/09 la averiada del padre LEAS-7643 sigue sin constar en taller."
+   "revive_si": "Es un hecho. Vuelve solo si el 30/09 la averiada del padre LEAS-7643 sigue sin constar en taller.",
+   "revivido": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: la averiada del padre LEAS-7643 sigue sin constar en taller; va con el punto de «ruta» de LEAS-7643."
+   }
   },
   {
    "id": "7630-reclamado-dhl-23",
@@ -4711,7 +4743,11 @@
    "quien": "Borja",
    "cuando": "2026-09-23",
    "hora": "15:16",
-   "revive_si": "Es una reclamacion a un tercero: aparta el punto cinco dias laborables. Si el 30/09 DHL Parcel no ha recogido la averiada, vuelve. (La recogida de la averiada LEAS-7628 si consta: «Recogida realizada» hoy 23/09 a las 15:26 en Cordoba.)"
+   "revive_si": "Es una reclamacion a un tercero: aparta el punto cinco dias laborables. Si el 30/09 DHL Parcel no ha recogido la averiada, vuelve. (La recogida de la averiada LEAS-7628 si consta: «Recogida realizada» hoy 23/09 a las 15:26 en Cordoba.)",
+   "caducado": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: la averiada del padre LEAS-7628 ya está en taller («En preparación presupuesto» con Iván)."
+   }
   },
   {
    "id": "euroma2-contestado-23",
@@ -5142,7 +5178,11 @@
    "porque": "Cristina (vía panel, 23/09 16:17): «esto no aplica: Escribo a Borja para consultar ya que hay falta de técnicos en taller»",
    "quien": "Cristina",
    "cuando": "2026-09-23 16:17",
-   "revive_si": "2026-09-30 si sigue en «En cola taller» sin arrancar"
+   "revive_si": "2026-09-30 si sigue en «En cola taller» sin arrancar",
+   "caducado": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: ya no está en cola: pasó a «Devuelto a cliente» el 28/09."
+   }
   },
   {
    "id": "7690-no-enviado-25",
@@ -5213,7 +5253,11 @@
    "porque": "el audio es de queja por el precio. lo trataremos esta mañana con ellas",
    "quien": "Borja",
    "cuando": "2026-09-25T09:22",
-   "revive_si": "2026-09-30 si la clienta vuelve a escribir sin respuesta o no consta la proforma acordada el 25/09"
+   "revive_si": "2026-09-30 si la clienta vuelve a escribir sin respuesta o no consta la proforma acordada el 25/09",
+   "revivido": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: vencía hoy; no consta en el ticket la proforma ni qué se acordó, y sigue sin nadie asignado. Sale en «nadie»."
+   }
   },
   {
    "id": "7334-actualizado-25",
@@ -5284,7 +5328,11 @@
    "porque": "Avisada la clienta tanto de que se manda material con llegada el lunes y de la asistencia del técnico.",
    "quien": "Cristina",
    "cuando": "2026-09-25T14:49",
-   "revive_si": "2026-09-30 si el técnico no ha ido tras llegar el material el lunes 28/09"
+   "revive_si": "2026-09-30 si el técnico no ha ido tras llegar el material el lunes 28/09",
+   "revivido": {
+    "cuando": "2026-09-30T10:34",
+    "motivo": "30/09: vencía hoy; GEE no ha confirmado la visita del 29/09 (Borja pidió novedades el 29/09 a las 11:26 sin respuesta). Sale en «externo»."
+   }
   },
   {
    "id": "7438-noaplica-25",
@@ -5456,7 +5504,7 @@
    "porque": "SAle una consola de sustitución hoy mismo",
    "quien": "Borja",
    "cuando": "2026-09-28T14:25",
-   "revive_si": "2026-09-30 si la SRF enviada hoy (JJD014600012806139783) no consta entregada"
+   "revive_si": "2026-10-01 si la SRF (DHL Express JJD014600012806139783) no consta entregada en Roma: el 30/09 a las 10:20 estaba en tránsito (salida de Barcelona a las 06:13, entrega prevista el 30/09)."
   },
   {
    "id": "7418-serie-gonzalo-28",
