@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-30T10:34",
+ "actualizado": "2026-09-30T13:17",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5750,6 +5750,32 @@
    "quien": "Gonzalo",
    "cuando": "2026-09-29T18:17",
    "revive_si": "2026-10-02: espera al cliente; vuelve si sigue sin recogida ni nota de contenido"
+  },
+  {
+   "id": "7673-noaplica-30",
+   "que": "LEAS-7673 Natur Belle Vomero · la SRF averiada sin recoger",
+   "ambito": {
+    "leas": "LEAS-7673",
+    "centro": "Natur Belle Vomero SRF0028",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: ha reclanado isaac esta mañana",
+   "quien": "Borja",
+   "cuando": "2026-09-30T11:06",
+   "revive_si": "2026-10-05: si DHL sigue sin recogerla y no hay nota de contenido posterior"
+  },
+  {
+   "id": "7618-noaplica-30",
+   "que": "LEAS-7618 Smart Duck Asnières · reparación fuera de plazo",
+   "ambito": {
+    "leas": "LEAS-7618",
+    "centro": "Smart Duck Asnières-sur-Seine",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: esta ya asignado para hacerse hoy",
+   "quien": "Borja",
+   "cuando": "2026-09-30T10:54",
+   "revive_si": "2026-10-01: si no hay nota de la reparación hecha hoy"
   }
  ],
  "enlaces": [
