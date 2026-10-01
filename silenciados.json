@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-09-30T17:02",
+ "actualizado": "2026-10-01T11:09",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4863,7 +4863,11 @@
    "quien": "Borja",
    "cuando": "2026-09-24",
    "hora": "11:05",
-   "revive_si": "2026-10-01 si LEAS-7408 sigue «En prestamo» sin que conste la entrega de la averiada."
+   "revive_si": "2026-10-01 si LEAS-7408 sigue «En prestamo» sin que conste la entrega de la averiada.",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "LEAS-7408 sigue «En préstamo» sin nota desde el 17/09: sale en «Préstamo fuera de plazo»"
+   }
   },
   {
    "id": "7578-finalizado-24",
@@ -4893,7 +4897,11 @@
    "quien": "Cristina",
    "cuando": "2026-09-24",
    "hora": "10:37",
-   "revive_si": "2026-10-01 si LEAS-7420 sigue en «Inspeccion de salida» sin fecha de recogida escrita en el ticket. Es una espera, cinco dias laborables."
+   "revive_si": "2026-10-01 si LEAS-7420 sigue en «Inspeccion de salida» sin fecha de recogida escrita en el ticket. Es una espera, cinco dias laborables.",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sigue en «Inspección de salida» sin nota desde el 24/09: sale en «Terminado pero sin cerrar»"
+   }
   },
   {
    "id": "6765-marruecos-24",
@@ -4908,7 +4916,11 @@
    "quien": "Cristina",
    "cuando": "2026-09-24",
    "hora": "10:36",
-   "revive_si": "2026-10-01 si LEAS-6765 sigue en «Inspeccion de salida» sin la confirmacion de Chus escrita. Es una espera a alguien de dentro, cinco dias laborables."
+   "revive_si": "2026-10-01 si LEAS-6765 sigue en «Inspeccion de salida» sin la confirmacion de Chus escrita. Es una espera a alguien de dentro, cinco dias laborables.",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sigue en «Inspección de salida» sin nota de contenido desde el 17/09: sale en «Terminado pero sin cerrar»"
+   }
   },
   {
    "id": "7504-cola-taller-24",
@@ -4956,7 +4968,11 @@
    "porque": "esto no aplica: esta bien",
    "quien": "Borja",
    "cuando": "2026-09-24T14:56",
-   "revive_si": "Es un hecho: el cliente recogió y pagó (Isaac, 13:54). Vuelve solo si el ticket sigue abierto el 2026-10-01."
+   "revive_si": "Es un hecho: el cliente recogió y pagó (Isaac, 13:54). Vuelve solo si el ticket sigue abierto el 2026-10-01.",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sigue «Devuelto a cliente» sin finalizar: sale en «Terminado pero sin cerrar»"
+   }
   },
   {
    "id": "7527-taller-24",
@@ -4970,7 +4986,11 @@
    "porque": "esto no aplica: taller",
    "quien": "Borja",
    "cuando": "2026-09-24T14:56",
-   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco días laborables. Vuelve el 2026-10-01 si sigue en «En cola taller» sin nota de contenido."
+   "revive_si": "Es una espera a la cola de taller: aparta el punto cinco días laborables. Vuelve el 2026-10-01 si sigue en «En cola taller» sin nota de contenido.",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sigue «En cola taller» sin nota desde el 24/09 (reasignado a Iván hoy a las 10:01): sale en «Reparación fuera de plazo»"
+   }
   },
   {
    "id": "7675-consulto-borja-24",
@@ -5002,7 +5022,11 @@
    "porque": "esto no aplica: me aparece sustitución sin centro, pero el centro tiene equipo de sustitución y a parte el equipo reparado del centro esta en Barcelona esperando a pasar a reparto",
    "quien": "Cristina",
    "cuando": "2026-09-24T16:10",
-   "revive_si": "Es una espera a la entrega del equipo reparado. Vuelve el 2026-10-01 si la sustitución sigue en «Solicitado» sin centro."
+   "revive_si": "Es una espera a la entrega del equipo reparado. Vuelve el 2026-10-01 si la sustitución sigue en «Solicitado» sin centro.",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sigue en «Solicitado» sin una nota y con el padre cerrado: sale en «Subtarea viva con el padre cerrado»"
+   }
   },
   {
    "id": "7553-asignado-fran-24",
@@ -5016,7 +5040,11 @@
    "porque": "esto no aplica: ya dio respuesta Isaac hace 2h, asignado a Fran",
    "quien": "Cristina",
    "cuando": "2026-09-24T16:16",
-   "revive_si": "Es un hecho: tiene técnico desde las 14:07. Vuelve el 2026-10-01 si sigue en «En cola taller» sin nota de contenido."
+   "revive_si": "Es un hecho: tiene técnico desde las 14:07. Vuelve el 2026-10-01 si sigue en «En cola taller» sin nota de contenido.",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sigue «Devuelto a cliente» sin finalizar; última nota de Fran del 28/09: sale en «Terminado pero sin cerrar»"
+   }
   },
   {
    "id": "7445-inspeccion-salida-24",
@@ -5104,7 +5132,11 @@
    "porque": "aun no han recogido",
    "quien": "Isaac",
    "cuando": "2026-09-24 14:05",
-   "revive_si": "2026-10-01: si CTT sigue sin recibirlo"
+   "revive_si": "2026-10-01: si CTT sigue sin recibirlo",
+   "caducado": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "hecho: LEAS-7695 pasó hoy a las 10:29 a «Pendiente confirmación presupuesto»"
+   }
   },
   {
    "id": "7672-reclamado-sincronis-24",
@@ -5136,7 +5168,11 @@
    "porque": "Gonzalo (vía panel, 23/09 17:50) en LEAS-7490: «No ha llegado al cliente»",
    "quien": "Gonzalo",
    "cuando": "2026-09-23 17:50",
-   "revive_si": "2026-10-01 si LEAS-7509 sigue «En préstamo»: espera a que llegue el láser, 5 días laborables"
+   "revive_si": "2026-10-01 si LEAS-7509 sigue «En préstamo»: espera a que llegue el láser, 5 días laborables",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sigue en «Gestionada recogida» sin nota desde el 18/09: sale en «Préstamo fuera de plazo»"
+   }
   },
   {
    "id": "7477-laser-salio-25",
@@ -5150,7 +5186,11 @@
    "porque": "OUT #C00295 / H01018 en «Fotos equipos» el 24/09 a las 14:18 (LEAS-7456)",
    "quien": "Ernesto (Fotos equipos)",
    "cuando": "2026-09-24 14:18",
-   "revive_si": "2026-10-01 si LEAS-7477 sigue «En préstamo»"
+   "revive_si": "2026-10-01 si LEAS-7477 sigue «En préstamo»",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sigue en «Equipo devuelto» sin nota desde el 18/09: sale en «Préstamo fuera de plazo»"
+   }
   },
   {
    "id": "7529-dos-tecnicos-25",
@@ -5164,7 +5204,11 @@
    "porque": "Gonzalo (vía panel, 24/09 09:52) en LEAS-7527: «Solo hay 2 técnicos reparando»",
    "quien": "Gonzalo",
    "cuando": "2026-09-24 09:52",
-   "revive_si": "2026-10-01 si LEAS-7527 sigue en cola sin arrancar"
+   "revive_si": "2026-10-01 si LEAS-7527 sigue en cola sin arrancar",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "el padre LEAS-7527 sigue en cola sin nota: va citado en su punto de «Reparación fuera de plazo»"
+   }
   },
   {
    "id": "7599-consulta-borja-25",
@@ -5196,7 +5240,11 @@
    "porque": "Isaac (vía panel, 24/09 09:23) en el padre LEAS-7687: «aun no se ha enviado manipulo de sustitucion xq habia otras incidencias mas urgentes»",
    "quien": "Isaac",
    "cuando": "2026-09-24 09:23",
-   "revive_si": "2026-10-01 si LEAS-7690 sigue en «Solicitado»"
+   "revive_si": "2026-10-01 si LEAS-7690 sigue en «Solicitado»",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "la sustitución sigue en «Solicitado»: va citada en el punto de LEAS-7687 en «Sin recoger»"
+   }
   },
   {
    "id": "vario-codigos-servicio-25",
@@ -5448,7 +5496,11 @@
    "porque": "Escribo a Arturo para que me diga sobre lo que le comenté el otro día, en cuanto me de respuesta actualizo.",
    "quien": "Cristina",
    "cuando": "2026-09-28T11:44",
-   "revive_si": "2026-10-01 si no hay nota de contenido posterior"
+   "revive_si": "2026-10-01 si no hay nota de contenido posterior",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sin nota desde el 23/09: sale en «Presupuestos sin respuesta»"
+   }
   },
   {
    "id": "7706-noaplica-28",
@@ -5490,7 +5542,11 @@
    "porque": "esto no aplica: LEAS-7777",
    "quien": "Borja",
    "cuando": "2026-09-28T14:38",
-   "revive_si": "2026-10-01 si LEAS-7777 sigue sin nota de contenido (Isaac 14:49: «mañana que esta Luismi hablaremos con el»)"
+   "revive_si": "2026-10-01 si LEAS-7777 sigue sin nota de contenido (Isaac 14:49: «mañana que esta Luismi hablaremos con el»)",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "LEAS-7777 sin nota desde el 28/09 y Sin Vello pide hoy a las 09:49 la sustitución: sale en WhatsApp"
+   }
   },
   {
    "id": "7731-noaplica-28",
@@ -5504,7 +5560,11 @@
    "porque": "SAle una consola de sustitución hoy mismo",
    "quien": "Borja",
    "cuando": "2026-09-28T14:25",
-   "revive_si": "2026-10-01 si la SRF (DHL Express JJD014600012806139783) no consta entregada en Roma: el 30/09 a las 10:20 estaba en tránsito (salida de Barcelona a las 06:13, entrega prevista el 30/09)."
+   "revive_si": "2026-10-01 si la SRF (DHL Express JJD014600012806139783) no consta entregada en Roma: el 30/09 a las 10:20 estaba en tránsito (salida de Barcelona a las 06:13, entrega prevista el 30/09).",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "la consola salió el 28/09 y está en Milán (DHL, 01/10 09:39): va citada en el punto de LEAS-7730"
+   }
   },
   {
    "id": "7418-serie-gonzalo-28",
@@ -5532,7 +5592,11 @@
    "porque": "Se espera a que el cliente apruebe el presupuesto, el leas es el siguiente: LEAS-7748",
    "quien": "Gonzalo",
    "cuando": "2026-09-28T18:01",
-   "revive_si": "2026-10-01 si LEAS-7748 sigue sin nota de contenido (espera al cliente: 3 días laborables)"
+   "revive_si": "2026-10-01 si LEAS-7748 sigue sin nota de contenido (espera al cliente: 3 días laborables)",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "sin respuesta del cliente ni nota desde el 25/09: sale en WhatsApp"
+   }
   },
   {
    "id": "globo-h00677-7781-28",
@@ -5697,7 +5761,11 @@
    "porque": "Mañana va a carlos al mediodia (Carlos Mora en su grupo a las 17:08: «Me acercaré mañana al medio día»)",
    "quien": "Gonzalo",
    "cuando": "2026-09-29T17:08",
-   "revive_si": "2026-10-01: si no hay nota de la visita del 30/09"
+   "revive_si": "2026-10-01: si no hay nota de la visita del 30/09",
+   "revivido": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "Carlos Mora iba el 30/09 y no hay nota desde el 29/09: sale en «Técnico externo»"
+   }
   },
   {
    "id": "7520-se-pregunta-recoger-29",
@@ -5775,7 +5843,11 @@
    "porque": "esto no aplica: esta ya asignado para hacerse hoy",
    "quien": "Borja",
    "cuando": "2026-09-30T10:54",
-   "revive_si": "2026-10-01: si no hay nota de la reparación hecha hoy"
+   "revive_si": "2026-10-01: si no hay nota de la reparación hecha hoy",
+   "caducado": {
+    "cuando": "2026-10-01T11:09",
+    "porque": "hecho: LEAS-7618 pasó hoy a las 10:22 a «Presupuesto preparado pendiente de enviar»"
+   }
   },
   {
    "id": "7737-noaplica-30",
@@ -5789,6 +5861,45 @@
    "quien": "Cristina",
    "cuando": "2026-09-30T13:56",
    "revive_si": "2026-10-05: si el cliente no ha contestado a la propuesta de aplazar el pago y no hay nota de contenido posterior"
+  },
+  {
+   "id": "7768-noaplica-01",
+   "que": "LEAS-7768 Elha Pintor Felo Monzón · sustitución que llegó rota",
+   "ambito": {
+    "leas": "LEAS-7768",
+    "centro": "Elha Pintor Felo Monzon",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "esto no aplica: les llegó ayer 30-09 pero la carcasa de la consola les llegó rajada, se les dice que la prueben para confirmar si todo está ok",
+   "quien": "Cristina",
+   "cuando": "2026-10-01T10:40",
+   "revive_si": "2026-10-06: si no hay nota de cómo funciona la sustitución ni se ha recogido la averiada (LEAS-4908)"
+  },
+  {
+   "id": "7803-noaplica-01",
+   "que": "LEAS-7803 SinVello Arrecife · caso por WhatsApp sin nota",
+   "ambito": {
+    "leas": "LEAS-7803",
+    "centro": "SinVello Arrecife Lanzarote",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "esto no aplica: Se les dice lo que costaría desplazamiento de un técnico 600 euros, y mandar sustitución más caro, se le propone mandar material y que si conocen a algún técnico de confianza; comenta que se lo preguntará al franquiciado",
+   "quien": "Cristina",
+   "cuando": "2026-10-01T10:48",
+   "revive_si": "2026-10-06: espera al cliente; vuelve si no contesta el franquiciado y no hay nota posterior"
+  },
+  {
+   "id": "7585-noaplica-01",
+   "que": "LEAS-7585 Elha Médico Vicente Reyes · CTT sin recoger",
+   "ambito": {
+    "leas": "LEAS-7585",
+    "centro": "Elha Médico Vicente Reyes",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: Se reclama a la empresa de transporte por medio de email",
+   "quien": "Cristina",
+   "cuando": "2026-10-01T11:05",
+   "revive_si": "2026-10-06: si CTT sigue sin recibirlo y no hay nota posterior"
   }
  ],
  "enlaces": [
