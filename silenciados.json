@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-01T13:26",
+ "actualizado": "2026-10-01T16:19",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5959,6 +5959,34 @@
    "quien": "Borja",
    "cuando": "2026-10-01T11:50",
    "revive_si": "Ignacio vuelve a preguntar algo de la matriz y no se le contesta en el día"
+  },
+  {
+   "id": "7775-noaplica-01",
+   "que": "LEAS-7775 · Dermasana Princesa · la consola 91096 figura prestada también en LEAS-7475 (Albufera)",
+   "ambito": {
+    "leas": "LEAS-7775",
+    "centro": "Dermasana Princesa",
+    "cliente": "Dermasana",
+    "tipo": "serie"
+   },
+   "porque": "aclarado",
+   "quien": "Borja",
+   "cuando": "2026-10-01T15:45",
+   "revive_si": "2026-10-06: si el 10199 de LEAS-7775 o de LEAS-7475 sigue con la misma consola 91096 y no hay nota que lo explique"
+  },
+  {
+   "id": "7824-noaplica-01",
+   "que": "LEAS-7824 · Elha Obispo · el caso va por el chat y el ticket estaba sin asignar ni nota",
+   "ambito": {
+    "leas": "LEAS-7824",
+    "centro": "Elha Obispo",
+    "cliente": "Elha",
+    "tipo": "sin-ticket-chat"
+   },
+   "porque": "listo",
+   "quien": "Borja",
+   "cuando": "2026-10-01T15:46",
+   "revive_si": "2026-10-06: si sigue en «Pendiente recogida» sin nota de contenido ni tracking"
   }
  ],
  "enlaces": [
