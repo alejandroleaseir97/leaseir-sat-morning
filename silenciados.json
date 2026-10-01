@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-01T11:09",
+ "actualizado": "2026-10-01T11:20",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -4865,7 +4865,7 @@
    "hora": "11:05",
    "revive_si": "2026-10-01 si LEAS-7408 sigue «En prestamo» sin que conste la entrega de la averiada.",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "LEAS-7408 sigue «En préstamo» sin nota desde el 17/09: sale en «Préstamo fuera de plazo»"
    }
   },
@@ -4899,7 +4899,7 @@
    "hora": "10:37",
    "revive_si": "2026-10-01 si LEAS-7420 sigue en «Inspeccion de salida» sin fecha de recogida escrita en el ticket. Es una espera, cinco dias laborables.",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sigue en «Inspección de salida» sin nota desde el 24/09: sale en «Terminado pero sin cerrar»"
    }
   },
@@ -4918,7 +4918,7 @@
    "hora": "10:36",
    "revive_si": "2026-10-01 si LEAS-6765 sigue en «Inspeccion de salida» sin la confirmacion de Chus escrita. Es una espera a alguien de dentro, cinco dias laborables.",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sigue en «Inspección de salida» sin nota de contenido desde el 17/09: sale en «Terminado pero sin cerrar»"
    }
   },
@@ -4970,7 +4970,7 @@
    "cuando": "2026-09-24T14:56",
    "revive_si": "Es un hecho: el cliente recogió y pagó (Isaac, 13:54). Vuelve solo si el ticket sigue abierto el 2026-10-01.",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sigue «Devuelto a cliente» sin finalizar: sale en «Terminado pero sin cerrar»"
    }
   },
@@ -4988,7 +4988,7 @@
    "cuando": "2026-09-24T14:56",
    "revive_si": "Es una espera a la cola de taller: aparta el punto cinco días laborables. Vuelve el 2026-10-01 si sigue en «En cola taller» sin nota de contenido.",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sigue «En cola taller» sin nota desde el 24/09 (reasignado a Iván hoy a las 10:01): sale en «Reparación fuera de plazo»"
    }
   },
@@ -5024,7 +5024,7 @@
    "cuando": "2026-09-24T16:10",
    "revive_si": "Es una espera a la entrega del equipo reparado. Vuelve el 2026-10-01 si la sustitución sigue en «Solicitado» sin centro.",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sigue en «Solicitado» sin una nota y con el padre cerrado: sale en «Subtarea viva con el padre cerrado»"
    }
   },
@@ -5042,7 +5042,7 @@
    "cuando": "2026-09-24T16:16",
    "revive_si": "Es un hecho: tiene técnico desde las 14:07. Vuelve el 2026-10-01 si sigue en «En cola taller» sin nota de contenido.",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sigue «Devuelto a cliente» sin finalizar; última nota de Fran del 28/09: sale en «Terminado pero sin cerrar»"
    }
   },
@@ -5134,7 +5134,7 @@
    "cuando": "2026-09-24 14:05",
    "revive_si": "2026-10-01: si CTT sigue sin recibirlo",
    "caducado": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "hecho: LEAS-7695 pasó hoy a las 10:29 a «Pendiente confirmación presupuesto»"
    }
   },
@@ -5170,7 +5170,7 @@
    "cuando": "2026-09-23 17:50",
    "revive_si": "2026-10-01 si LEAS-7509 sigue «En préstamo»: espera a que llegue el láser, 5 días laborables",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sigue en «Gestionada recogida» sin nota desde el 18/09: sale en «Préstamo fuera de plazo»"
    }
   },
@@ -5188,7 +5188,7 @@
    "cuando": "2026-09-24 14:18",
    "revive_si": "2026-10-01 si LEAS-7477 sigue «En préstamo»",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sigue en «Equipo devuelto» sin nota desde el 18/09: sale en «Préstamo fuera de plazo»"
    }
   },
@@ -5206,7 +5206,7 @@
    "cuando": "2026-09-24 09:52",
    "revive_si": "2026-10-01 si LEAS-7527 sigue en cola sin arrancar",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "el padre LEAS-7527 sigue en cola sin nota: va citado en su punto de «Reparación fuera de plazo»"
    }
   },
@@ -5242,7 +5242,7 @@
    "cuando": "2026-09-24 09:23",
    "revive_si": "2026-10-01 si LEAS-7690 sigue en «Solicitado»",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "la sustitución sigue en «Solicitado»: va citada en el punto de LEAS-7687 en «Sin recoger»"
    }
   },
@@ -5498,7 +5498,7 @@
    "cuando": "2026-09-28T11:44",
    "revive_si": "2026-10-01 si no hay nota de contenido posterior",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sin nota desde el 23/09: sale en «Presupuestos sin respuesta»"
    }
   },
@@ -5544,7 +5544,7 @@
    "cuando": "2026-09-28T14:38",
    "revive_si": "2026-10-01 si LEAS-7777 sigue sin nota de contenido (Isaac 14:49: «mañana que esta Luismi hablaremos con el»)",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "LEAS-7777 sin nota desde el 28/09 y Sin Vello pide hoy a las 09:49 la sustitución: sale en WhatsApp"
    }
   },
@@ -5562,7 +5562,7 @@
    "cuando": "2026-09-28T14:25",
    "revive_si": "2026-10-01 si la SRF (DHL Express JJD014600012806139783) no consta entregada en Roma: el 30/09 a las 10:20 estaba en tránsito (salida de Barcelona a las 06:13, entrega prevista el 30/09).",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "la consola salió el 28/09 y está en Milán (DHL, 01/10 09:39): va citada en el punto de LEAS-7730"
    }
   },
@@ -5594,7 +5594,7 @@
    "cuando": "2026-09-28T18:01",
    "revive_si": "2026-10-01 si LEAS-7748 sigue sin nota de contenido (espera al cliente: 3 días laborables)",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "sin respuesta del cliente ni nota desde el 25/09: sale en WhatsApp"
    }
   },
@@ -5763,7 +5763,7 @@
    "cuando": "2026-09-29T17:08",
    "revive_si": "2026-10-01: si no hay nota de la visita del 30/09",
    "revivido": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "Carlos Mora iba el 30/09 y no hay nota desde el 29/09: sale en «Técnico externo»"
    }
   },
@@ -5845,7 +5845,7 @@
    "cuando": "2026-09-30T10:54",
    "revive_si": "2026-10-01: si no hay nota de la reparación hecha hoy",
    "caducado": {
-    "cuando": "2026-10-01T11:09",
+    "cuando": "2026-10-01T11:20",
     "porque": "hecho: LEAS-7618 pasó hoy a las 10:22 a «Presupuesto preparado pendiente de enviar»"
    }
   },
