@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-01T19:13",
+ "actualizado": "2026-10-01T19:17",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5987,6 +5987,20 @@
    "quien": "Borja",
    "cuando": "2026-10-01T15:46",
    "revive_si": "2026-10-06: si sigue en «Pendiente recogida» sin nota de contenido ni tracking"
+  },
+  {
+   "id": "voltaire-nota-01",
+   "que": "Smart Duck Paris 11 Voltaire · sin ticket · código del préstamo y manípulo C03290/H03290",
+   "ambito": {
+    "leas": null,
+    "centro": "Smart Duck Paris 11 Voltaire",
+    "cliente": "Smart Duck",
+    "tipo": "sin-ticket"
+   },
+   "porque": "Solucionado, no hace falta ticket",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-01T17:05",
+   "revive_si": "2026-10-08: si Katy vuelve a pedir la reparación del C03290/H03290 en el grupo"
   }
  ],
  "enlaces": [
