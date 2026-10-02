@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-02T16:01",
+ "actualizado": "2026-10-02T16:38",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6308,6 +6308,20 @@
    "quien": "Borja",
    "cuando": "2026-10-02T15:47",
    "revive_si": "2026-10-05: si no hay recogida pedida ni nota de contenido posterior (lo comprometido es recoger el lunes)"
+  },
+  {
+   "id": "7851-serie-gonzalo-0210",
+   "que": "LEAS-7851 · serie prestada C03314/H03314 no consta en el Inmovilizado",
+   "ambito": {
+    "leas": "LEAS-7851",
+    "centro": "Smart duck voltaire",
+    "cliente": "Smart Duck",
+    "tipo": "serie"
+   },
+   "porque": "La consola es suya, la han movido ellos, Smartduck, es suya de sustitución y ellos mueven los equipos",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-02T16:01",
+   "revive_si": "si la serie cambia en el 10199/10200 o aparece una ficha C03314 en el Inmovilizado"
   }
  ],
  "enlaces": [
