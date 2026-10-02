@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-02T08:44",
+ "actualizado": "2026-10-02T10:25",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6035,6 +6035,71 @@
    "quien": "Gonzalo",
    "cuando": "2026-10-01T17:05",
    "revive_si": "2026-10-08: si Katy vuelve a pedir la reparación del C03290/H03290 en el grupo"
+  },
+  {
+   "id": "7647-espera-03-02",
+   "que": "LEAS-7647 Elha Rambla Catalunya · técnico externo sin noticias",
+   "ambito": {
+    "leas": "LEAS-7647",
+    "centro": "Elha rambla Catalunya",
+    "tipo": "externo-sin-nota"
+   },
+   "porque": "Si pone 02/10 al mediodia, pues hay que esperar hasta el dia 03 para volver a preguntar",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-02T09:48",
+   "revive_si": "2026-10-05: si no hay nota de la visita de Carlos Mora"
+  },
+  {
+   "id": "7726-asignada-02",
+   "que": "LEAS-7726 L Medical (G-Point) · reparación fuera de plazo",
+   "ambito": {
+    "leas": "LEAS-7726",
+    "centro": "L Medical (G-Point)",
+    "tipo": "repara"
+   },
+   "porque": "Está asignada para su reparación",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-02T09:47",
+   "revive_si": "2026-10-07: si sigue en «Esperando inicio reparación» sin nota de contenido"
+  },
+  {
+   "id": "7758-parte-02",
+   "que": "LEAS-7758 CVL Mallorca · técnico externo (GEE) sin parte",
+   "ambito": {
+    "leas": "LEAS-7758",
+    "centro": "CVL Distribuidor Aparatología",
+    "tipo": "externo"
+   },
+   "porque": "Se les pide parte de nuevo (y correo a GEE de las 09:46: «Tenemos parte?»)",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-02T09:46",
+   "revive_si": "2026-10-09: si GEE no ha mandado el parte (espera a un tercero, 5 días laborables)"
+  },
+  {
+   "id": "7791-transito-02",
+   "que": "LEAS-7791 Centro Unico Tiburtina · averiada en «Pendiente recogida»",
+   "ambito": {
+    "leas": "LEAS-7791",
+    "centro": "Centro Unico Tirburtina",
+    "tipo": "ruta"
+   },
+   "porque": "Está en transito, a no ser que este en el mismo sitio 2 dias no hay que hacer aviso, está viajando normalmente",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-02T09:53",
+   "revive_si": "2026-10-06: si la averiada no ha llegado a taller (DHL Express 4794970375 en la terminal de Gijón el 02/10 a las 09:57)"
+  },
+  {
+   "id": "7829-corregido-02",
+   "que": "LEAS-7829 Laser Factory Castelldefels · C00410/H00410 también en LEAS-7543",
+   "ambito": {
+    "leas": "LEAS-7829",
+    "centro": "Laser Factory Castelldefels",
+    "tipo": "serie"
+   },
+   "porque": "Ya está corregido (LEAS-7543 cerrado)",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-02T09:48",
+   "revive_si": "2026-10-09: si la misma serie vuelve a salir en dos préstamos abiertos"
   }
  ],
  "enlaces": [
