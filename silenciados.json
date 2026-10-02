@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-02T16:38",
+ "actualizado": "2026-10-02T20:50",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5453,7 +5453,8 @@
    "porque": "Esperamos a que nos digan para poder recogerlos todos",
    "quien": "Gonzalo",
    "cuando": "2026-09-25T12:20",
-   "revive_si": "2026-10-02 si Óscar no ha contestado y nadie lo ha retomado"
+   "revive_si": "2026-10-02 si Óscar no ha contestado y nadie lo ha retomado",
+   "revivido": "2026-10-02T20:50: vencía hoy y no hay mensaje de Óscar en SAT Centri Unico ni en Centri Unico Italia desde el 28/09 (WhatsApp sin releer). Sale en «Para el lunes»."
   },
   {
    "id": "7731-nota-panel-25",
@@ -6322,6 +6323,48 @@
    "quien": "Gonzalo",
    "cuando": "2026-10-02T16:01",
    "revive_si": "si la serie cambia en el 10199/10200 o aparece una ficha C03314 en el Inmovilizado"
+  },
+  {
+   "id": "corpodem-enlace-gonzalo-0210",
+   "que": "Corpodem (Smart Duck, Francia) · sustitución single con portes a su cargo, que no constaba en Jira",
+   "ambito": {
+    "leas": null,
+    "centro": "Corpodem",
+    "cliente": "Smart Duck",
+    "tipo": "sin-ticket telegram"
+   },
+   "porque": "Gonzalo (vía panel, 17:00) lo enlazó a LEAS-7861: «La recogen ellos»",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-02T17:00",
+   "revive_si": "2026-10-07: si LEAS-7861 sigue en «Gestionado transporte» sin nota de que la recogieron"
+  },
+  {
+   "id": "7852-telegram-gonzalo-0210",
+   "que": "LEAS-7852 · Elha Girona · el correo a Carlos Mora con el asunto de otro ticket y el umbilical sin fecha en el ticket",
+   "ambito": {
+    "leas": "LEAS-7852",
+    "centro": "Elha C/Bcn",
+    "cliente": "Elha",
+    "tipo": "telegram"
+   },
+   "porque": "El umbilical saldrá cuando tengamos stock que tenemos 0 en estos momentos",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-02T16:59",
+   "revive_si": "2026-10-07: si sigue sin nota de que salió el umbilical"
+  },
+  {
+   "id": "7817-wapp-gonzalo-0210",
+   "que": "LEAS-7817 · Epil Point Caserta · Sincronis pregunta si se programa la intervención la semana que viene",
+   "ambito": {
+    "leas": "LEAS-7817",
+    "centro": "Epil Point Caserta",
+    "cliente": "Epil Point",
+    "tipo": "wapp"
+   },
+   "porque": "No ha llegado el material, llega la proxima semana, sin problema, tienen sust allí",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-02T16:39",
+   "revive_si": "2026-10-09: si no hay nota de que llegó el material o de que fue el técnico"
   }
  ],
  "enlaces": [
