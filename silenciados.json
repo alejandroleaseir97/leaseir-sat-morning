@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-02T10:25",
+ "actualizado": "2026-10-02T13:05",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6100,6 +6100,149 @@
    "quien": "Gonzalo",
    "cuando": "2026-10-02T09:48",
    "revive_si": "2026-10-09: si la misma serie vuelve a salir en dos préstamos abiertos"
+  },
+  {
+   "id": "7821-noaplica-02-1030",
+   "que": "LEAS-7821 · SinVello Sanlucar de Barrameda",
+   "ambito": {
+    "leas": "LEAS-7821",
+    "centro": "SinVello Sanlucar de Barrameda",
+    "tipo": "ruta"
+   },
+   "porque": "enviado y actualizado jira",
+   "quien": "Borja",
+   "cuando": "2026-10-02T10:30",
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "7780-noaplica-02-1026",
+   "que": "LEAS-7780 · Elha Majadahonda",
+   "ambito": {
+    "leas": "LEAS-7780",
+    "centro": "Elha Majadahonda",
+    "tipo": "externo"
+   },
+   "porque": "Sigue en el mismo punto porque no se pudo mandar el material por falta de stock, en cuanto se tenga se mandará-",
+   "quien": "Cristina",
+   "cuando": "2026-10-02T10:26",
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "7756-noaplica-02-1105",
+   "que": "LEAS-7756 · Mercedes Gamaza Laser y Spa ( 30754 / 91080 )",
+   "ambito": {
+    "leas": "LEAS-7756",
+    "centro": "Mercedes Gamaza Laser y Spa ( 30754 / 91080 )",
+    "tipo": "ruta"
+   },
+   "porque": "ya le ha n llegado queda pdte recoger su equipo esta habaldo con ella",
+   "quien": "Borja",
+   "cuando": "2026-10-02T11:05",
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "7755-noaplica-02-1028",
+   "que": "LEAS-7755 · BiNatural ",
+   "ambito": {
+    "leas": "LEAS-7755",
+    "centro": "BiNatural ",
+    "tipo": "repara"
+   },
+   "porque": "en cuanto se liberen técnicos se asigna ,hay bastante volumen en taller y pocos técnicos.",
+   "quien": "Cristina",
+   "cuando": "2026-10-02T10:28",
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "7741-noaplica-02-1057",
+   "que": "LEAS-7741 · BiNatural ",
+   "ambito": {
+    "leas": "LEAS-7741",
+    "centro": "BiNatural ",
+    "tipo": "repara"
+   },
+   "porque": "Seguimos con mucho volumen en taller, en cuanto se vayan liberando se asignan técnicos",
+   "quien": "Cristina",
+   "cuando": "2026-10-02T10:57",
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "7682-noaplica-02-1139",
+   "que": "LEAS-7682 · Malie Estetica Avanzada",
+   "ambito": {
+    "leas": "LEAS-7682",
+    "centro": "Malie Estetica Avanzada",
+    "tipo": "prestamo"
+   },
+   "porque": "Nos indican que se puede recoger el martes en horario del centro comercial",
+   "quien": "Cristina",
+   "cuando": "2026-10-02T11:39",
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "7420-noaplica-02-1109",
+   "que": "LEAS-7420 · Medical & Aesthetics Solutions, Inc - Adolfo Panamá",
+   "ambito": {
+    "leas": "LEAS-7420",
+    "centro": "Medical & Aesthetics Solutions, Inc - Adolfo Panamá",
+    "tipo": "cerrar"
+   },
+   "porque": "Sigue en el mismo punto anterior",
+   "quien": "Cristina",
+   "cuando": "2026-10-02T11:09",
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "7375-noaplica-02-1029",
+   "que": "LEAS-7375 · Cleanbody CC La Villa ( 30267 )",
+   "ambito": {
+    "leas": "LEAS-7375",
+    "centro": "Cleanbody CC La Villa ( 30267 )",
+    "tipo": "prestamo"
+   },
+   "porque": "Seguimos con mucho volumen de trabajo se va asignando según se va liberando.",
+   "quien": "Cristina",
+   "cuando": "2026-10-02T10:29",
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "6907-noaplica-02-1030",
+   "que": "LEAS-6907 · Apain Estetika ( AHR0071)",
+   "ambito": {
+    "leas": "LEAS-6907",
+    "centro": "Apain Estetika ( AHR0071)",
+    "tipo": "presu"
+   },
+   "porque": "Me comentó Arturo que intentaría volver a llamarlo ya que le llamó en varias ocasiones y no consiguió contactar con ellos.",
+   "quien": "Cristina",
+   "cuando": "2026-10-02T10:30",
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "6906-noaplica-02-1141",
+   "que": "LEAS-6906 · Daniel JAramillo Holea",
+   "ambito": {
+    "leas": "LEAS-6906",
+    "centro": "Daniel JAramillo Holea",
+    "tipo": "presu"
+   },
+   "porque": "Le pregunto a Borja ya que no estoy en el chat con el cliente, me comenta que seguimos sin saber nada.",
+   "quien": "Cristina",
+   "cuando": "2026-10-02T11:41",
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "6765-noaplica-02-1056",
+   "que": "LEAS-6765 · Bella Forme",
+   "ambito": {
+    "leas": "LEAS-6765",
+    "centro": "Bella Forme",
+    "tipo": "cerrar"
+   },
+   "porque": "Está preparada y lista para salir esperado a que la recojan",
+   "quien": "Cristina",
+   "cuando": "2026-10-02T10:56",
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
   }
  ],
  "enlaces": [
