@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-02T13:35",
+ "actualizado": "2026-10-02T16:01",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6256,6 +6256,58 @@
    "quien": "Borja",
    "cuando": "2026-10-02T13:13",
    "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+  },
+  {
+   "id": "7714-noaplica-02-1542",
+   "que": "LEAS-7714 · Oksana Sagan · recogida parada (regla 15)",
+   "ambito": {
+    "leas": "LEAS-7714",
+    "centro": "Oksana Sagan",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: la semana que viene habrá disponibles",
+   "quien": "Borja",
+   "cuando": "2026-10-02T15:42",
+   "revive_si": "2026-10-07: si sigue en «Pendiente recogida» sin sustitución enviada y sin nota de contenido posterior"
+  },
+  {
+   "id": "7753-noaplica-02-1542",
+   "que": "LEAS-7753 · Sin Vello Pozuelo · recogida parada (regla 15)",
+   "ambito": {
+    "leas": "LEAS-7753",
+    "centro": "Sin Vello Pozuelo",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: ESPERAR POR SUST",
+   "quien": "Borja",
+   "cuando": "2026-10-02T15:42",
+   "revive_si": "2026-10-07: si sigue en «Pendiente recogida» y LEAS-7774 sigue en «Solicitado» sin nota de contenido posterior"
+  },
+  {
+   "id": "4908-noaplica-02-1543",
+   "que": "LEAS-4908 · Elha Pintor Felo Monzon · recogida parada (regla 15)",
+   "ambito": {
+    "leas": "LEAS-4908",
+    "centro": "Elha Pintor Felo Monzon",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: cuando avisen recogeremos",
+   "quien": "Borja",
+   "cuando": "2026-10-02T15:43",
+   "revive_si": "2026-10-06: si sigue en «Pendiente recogida» sin aviso de Elha ni nota de contenido posterior"
+  },
+  {
+   "id": "7828-noaplica-02-1547",
+   "que": "LEAS-7828 · Laser Factory Castelldefels · recogida parada (regla 15)",
+   "ambito": {
+    "leas": "LEAS-7828",
+    "centro": "Laser Factory Castelldefels",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: lo estan probando si todo va bien ser recogerá el lunes",
+   "quien": "Borja",
+   "cuando": "2026-10-02T15:47",
+   "revive_si": "2026-10-05: si no hay recogida pedida ni nota de contenido posterior (lo comprometido es recoger el lunes)"
   }
  ],
  "enlaces": [
