@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-01T20:38",
+ "actualizado": "2026-10-02T08:16",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5354,7 +5354,12 @@
    "porque": "no hay nada que resolver aqui",
    "quien": "Borja",
    "cuando": "2026-09-25T14:08",
-   "revive_si": "2026-10-02 si la sustitución sigue en préstamo sin nota de contenido"
+   "revive_si": "2026-10-02 si la sustitución sigue en préstamo sin nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-02",
+    "hora": "08:16",
+    "motivo": "Vencía el 02/10 y sigue en préstamo sin nota de contenido."
+   }
   },
   {
    "id": "7375-noaplica-25",
@@ -5368,7 +5373,12 @@
    "porque": "va por maritimo con BPR aun tardara unos dias en llegar a la isla",
    "quien": "Borja",
    "cuando": "2026-09-25T14:17",
-   "revive_si": "2026-10-02 si su láser no ha llegado y no hay nota"
+   "revive_si": "2026-10-02 si su láser no ha llegado y no hay nota",
+   "revivido": {
+    "cuando": "2026-10-02",
+    "hora": "08:16",
+    "motivo": "Vencía el 02/10 y sin nota de que el láser haya llegado; el padre LEAS-7374 está resuelto."
+   }
   },
   {
    "id": "7715-noaplica-25",
@@ -5400,7 +5410,8 @@
    "porque": "Manda Gonzalo etiqueta de recogida",
    "quien": "Cristina",
    "cuando": "2026-09-25T15:41",
-   "revive_si": "2026-10-02 si sigue en «Pendiente recogida» sin nota de contenido"
+   "revive_si": "2026-10-02 si sigue en «Pendiente recogida» sin nota de contenido",
+   "caducado": "2026-10-02 08:16: ya no está en «Pendiente recogida»: pasó a «En cola taller»"
   },
   {
    "id": "gigli-noaplica-25",
@@ -5701,7 +5712,12 @@
    "porque": "seguimos esperando",
    "quien": "Borja",
    "cuando": "2026-09-29T11:10",
-   "revive_si": "2026-10-02 si no hay respuesta del cliente ni nota de contenido"
+   "revive_si": "2026-10-02 si no hay respuesta del cliente ni nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-02",
+    "hora": "08:16",
+    "motivo": "Vencía el 02/10 y sin respuesta del cliente ni nota desde el 29/09."
+   }
   },
   {
    "id": "7698-espera-clienta-29",
@@ -5729,7 +5745,8 @@
    "porque": "Se le ha pasado, el ticket es el LEAS-7748, sin respuesta todavia",
    "quien": "Gonzalo",
    "cuando": "2026-09-29T09:49",
-   "revive_si": "2026-10-02 si el cliente no ha contestado y LEAS-7748 no tiene nota de contenido"
+   "revive_si": "2026-10-02 si el cliente no ha contestado y LEAS-7748 no tiene nota de contenido",
+   "caducado": "2026-10-02 08:16: LEAS-7748 tiene nota de Borja del 01/10 a las 15:51"
   },
   {
    "id": "7741-noaplica-cristina-29",
@@ -5742,7 +5759,12 @@
    "porque": "esto no aplica: En cuanto se liberen técnicos en taller se asignará uno.",
    "quien": "Cristina",
    "cuando": "2026-09-29T16:57",
-   "revive_si": "2026-10-02: espera interna sin fecha; vuelve si a esa fecha sigue sin técnico ni nota de contenido"
+   "revive_si": "2026-10-02: espera interna sin fecha; vuelve si a esa fecha sigue sin técnico ni nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-02",
+    "hora": "08:16",
+    "motivo": "Vencía el 02/10 y sigue en «Pendiente asignar técnico» sin técnico ni nota de contenido."
+   }
   },
   {
    "id": "7572-se-recupera-29",
@@ -5785,7 +5807,8 @@
    "porque": "Se pregunta si se puede recoger",
    "quien": "Gonzalo",
    "cuando": "2026-09-29T17:35",
-   "revive_si": "2026-10-02: espera al cliente; vuelve si sigue sin transportista ni tracking"
+   "revive_si": "2026-10-02: espera al cliente; vuelve si sigue sin transportista ni tracking",
+   "caducado": "2026-10-02 08:16: tiene tracking de DHL Express en el 11420"
   },
   {
    "id": "7583-enviada-caracciolo-29",
@@ -5798,7 +5821,8 @@
    "porque": "Se ha enviado a la dirección correcta, es que ayer vino de fábrica con el umbilical roto (DHL JJD00006336051119243001)",
    "quien": "Gonzalo",
    "cuando": "2026-09-29T17:46",
-   "revive_si": "2026-10-02: si el estado sigue en «Esperando inicio reparación» sin nota o el préstamo LEAS-7584 sin recoger"
+   "revive_si": "2026-10-02: si el estado sigue en «Esperando inicio reparación» sin nota o el préstamo LEAS-7584 sin recoger",
+   "caducado": "2026-10-02 08:16: pasó a «Devuelto a cliente»"
   },
   {
    "id": "7758-cita-corregida-29",
@@ -5811,7 +5835,12 @@
    "porque": "Cita corregida (10144 = jueves 01/10 13:44)",
    "quien": "Gonzalo",
    "cuando": "2026-09-29T18:00",
-   "revive_si": "2026-10-02: si la visita del 01/10 no consta hecha ni reprogramada"
+   "revive_si": "2026-10-02: si la visita del 01/10 no consta hecha ni reprogramada",
+   "revivido": {
+    "cuando": "2026-10-02",
+    "hora": "08:16",
+    "motivo": "Vencía el 02/10 y la visita del 01/10 no consta hecha ni reprogramada."
+   }
   },
   {
    "id": "7726-se-pregunta-recoger-29",
@@ -5824,7 +5853,12 @@
    "porque": "Se pregunta si se puede recoger",
    "quien": "Gonzalo",
    "cuando": "2026-09-29T18:17",
-   "revive_si": "2026-10-02: espera al cliente; vuelve si sigue sin recogida ni nota de contenido"
+   "revive_si": "2026-10-02: espera al cliente; vuelve si sigue sin recogida ni nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-02",
+    "hora": "08:16",
+    "motivo": "Vencía el 02/10 y sin recogida ni nota de contenido desde el 29/09."
+   }
   },
   {
    "id": "7673-noaplica-30",
