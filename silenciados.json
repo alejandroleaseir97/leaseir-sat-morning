@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T16:21",
+ "actualizado": "2026-10-05T18:48",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6476,6 +6476,146 @@
    "quien": "Borja",
    "cuando": "2026-10-05T15:52",
    "revive_si": "2026-10-08: si sigue en «Esperando respuesta cliente a presupuesto» sin nota de contenido posterior (espera de presupuesto: 3 días laborables)"
+  },
+  {
+   "id": "7682-noaplica-05-1658",
+   "que": "LEAS-7682 · Malie Estética Avanzada · sustitución 90127 / SUSTDUAL005 de más de diez días",
+   "ambito": {
+    "leas": "LEAS-7682",
+    "centro": "Malie Estetica Avanzada",
+    "cliente": null,
+    "tipo": "prestamo"
+   },
+   "porque": "Hasta el martes no recoge DHL",
+   "quien": "Cristina",
+   "cuando": "2026-10-05T16:58",
+   "revive_si": "2026-10-07: si la sustitución sigue «En préstamo» sin recoger (DHL recogía el martes 06/10)"
+  },
+  {
+   "id": "7728-noaplica-05-1640",
+   "que": "LEAS-7728 · SinVello Algeciras · sustitución H01032 de más de diez días",
+   "ambito": {
+    "leas": "LEAS-7728",
+    "centro": "SinVello Algeciras",
+    "cliente": null,
+    "tipo": "prestamo"
+   },
+   "porque": "Luismi comentó que hoy le tenía que llamar el franquiciado para decirle sobre el presupuesto, esperaremos hoy y mañana confirmaremos con él",
+   "quien": "Cristina",
+   "cuando": "2026-10-05T16:40",
+   "revive_si": "2026-10-07: si no hay respuesta al presupuesto de LEAS-7724 y la sustitución sigue en el centro"
+  },
+  {
+   "id": "getafe-nota-05-1737",
+   "que": "Dermasana Getafe · «viene MRW a recoger pero no tengo nada pendiente»",
+   "ambito": {
+    "leas": null,
+    "centro": "Dermasana Getafe",
+    "cliente": null,
+    "tipo": "sin-ticket-wapp"
+   },
+   "porque": "Nada, no se ha pedido recogida ahora se hacen por CTT, borrar incidenia",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T17:37",
+   "revive_si": "Si el centro vuelve a avisar de un transportista que va a recoger sin nada pendiente."
+  },
+  {
+   "id": "bellaforme-nota-05-1737",
+   "que": "Bella Forme (Marruecos) · factura igual que la suya y tres pedales en factura aparte",
+   "ambito": {
+    "leas": null,
+    "centro": "Bella Forme (Marruecos)",
+    "cliente": null,
+    "tipo": "sin-ticket-wapp"
+   },
+   "porque": "Contestado",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T17:37",
+   "revive_si": "Si Bella Forme vuelve a preguntar algo sin respuesta (a las 18:09 mandaron las proformas firmadas y piden un solo palé)."
+  },
+  {
+   "id": "palermo-00611-nota-05-1744",
+   "que": "Centri Unico Palermo · manípulo H00611 · DDT para retirarlo",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico Palermo",
+    "cliente": null,
+    "tipo": "epil-sin-ticket"
+   },
+   "porque": "Se les ha dado , no  es averia",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T17:44",
+   "revive_si": "2026-10-12: si el manípulo 00611 sigue sin recoger."
+  },
+  {
+   "id": "caliports-nota-05-1818",
+   "que": "Centri Unico · inventario de los Caliports",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico · inventario",
+    "cliente": null,
+    "tipo": "epil-sin-ticket"
+   },
+   "porque": "En espera",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T18:18",
+   "revive_si": "2026-10-12: si sigue sin inventario de los Caliports y no hay nada nuevo en «SAT Centri Unico»."
+  },
+  {
+   "id": "7808-serie-nota-05-1743",
+   "que": "LEAS-7808 · Sin Vello Fuengirola · SUSTDUAL043 no consta en el Inmovilizado",
+   "ambito": {
+    "leas": "LEAS-7808",
+    "centro": "Sin Vello Fuengirola",
+    "cliente": null,
+    "tipo": "serie"
+   },
+   "porque": "Está bien ya que está en el grupo de FOTOS DE EQUIPOS",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T17:43",
+   "revive_si": "Cuando la SUSTDUAL043 tenga ficha en el Inmovilizado (queda en «Airtable · para revisar tú»), o si la sustitución cambia de serie."
+  },
+  {
+   "id": "7438-nota-05-1725",
+   "que": "LEAS-7438 · Centri Unico Globo · presupuesto del H00674 mandado por correo y sin aceptar",
+   "ambito": {
+    "leas": "LEAS-7438",
+    "centro": "Centri Unico Globo",
+    "cliente": null,
+    "tipo": "presu chat-telegram"
+   },
+   "porque": "No ha podido responder en el dia",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T17:25",
+   "revive_si": "2026-10-08: si Globo no ha aceptado el presupuesto y no hay nota de contenido posterior"
+  },
+  {
+   "id": "7474-nota-05-1739",
+   "que": "LEAS-7474 · Dermasana Albufera · reparación fuera de plazo esperando diodo y umbilical",
+   "ambito": {
+    "leas": "LEAS-7474",
+    "centro": "Dermasana Albufera",
+    "cliente": null,
+    "tipo": "repara-sla"
+   },
+   "porque": "No tenemos umbilicales",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T17:39",
+   "revive_si": "2026-10-12: si sigue sin umbilical y sin nota nueva"
+  },
+  {
+   "id": "7616-nota-05-1818",
+   "que": "LEAS-7616 · Laser Factory Figueres · «cuándo va a llegar»",
+   "ambito": {
+    "leas": "LEAS-7616",
+    "centro": "Laser Factory Ample figueres",
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "Ya les he respondido, tenemos a los técnicos con muchas incidencias cada uno",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T18:18",
+   "revive_si": "2026-10-12: si sigue en «En cola taller» y Laser Factory vuelve a preguntar sin fecha"
   }
  ],
  "enlaces": [
@@ -7101,6 +7241,13 @@
    "quien": "Isaac",
    "cuando": "2026-09-18T13:22",
    "aplicado": false
+  },
+  {
+   "idPunto": "LEAS-7325",
+   "a": "Chus",
+   "quien": "Cristina",
+   "cuando": "2026-10-05T16:58",
+   "aplicado": true
   }
  ],
  "que_es_esto_traspasos": "Traspasos de puntos SIN ticket. No hay Jira donde escribirlos, así que se guardan aquí y cada pasada los vuelca al objeto TRASPASOS del panel del equipo con la clave del punto (idPunto = bloque__bloque|primeros 44 caracteres). Así el reparto se aplica solo y nadie tiene que pegar líneas en el grupo de la herramienta. Si el destino está en FUERA, el panel lo vuelve a repartir por la cadena."
