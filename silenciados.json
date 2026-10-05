@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T10:04",
+ "actualizado": "2026-10-05T10:37",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1448,7 +1448,7 @@
    "cuando": "2026-09-10",
    "revive_si": "El cliente acepta el presupuesto o devuelve la sustitución.",
    "revivido": {
-    "cuando": "2026-10-05T10:04",
+    "cuando": "2026-10-05T10:37",
     "motivo": "Alejandro, 05/10: preguntar por todas las sustituciones que llevan más de diez días en el cliente. Sale en `prestamo`."
    }
   },
@@ -5081,7 +5081,7 @@
    "cuando": "2026-09-24T15:31",
    "revive_si": "Es un hecho: el préstamo está cedido como demo con autorización. Vuelve si Smart Duck o Corpoderm reclaman el equipo, o el 2026-10-08 si sigue abierto sin nota.",
    "revivido": {
-    "cuando": "2026-10-05T10:04",
+    "cuando": "2026-10-05T10:37",
     "motivo": "Alejandro, 05/10: preguntar por todas las sustituciones que llevan más de diez días en el cliente. Sale en `prestamo`."
    }
   },
@@ -5883,7 +5883,7 @@
    "cuando": "2026-09-30T11:06",
    "revive_si": "2026-10-05: si DHL sigue sin recogerla y no hay nota de contenido posterior",
    "revivido": {
-    "cuando": "2026-10-05T10:04",
+    "cuando": "2026-10-05T10:37",
     "motivo": "Su revive_si vencía el 05/10 y no hay nota de contenido posterior; el DHL Express del 11420 no da resultados hoy."
    }
   },
@@ -6193,7 +6193,7 @@
    "cuando": "2026-10-02T11:39",
    "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
    "revivido": {
-    "cuando": "2026-10-05T10:04",
+    "cuando": "2026-10-05T10:37",
     "motivo": "Alejandro, 05/10: preguntar por todas las sustituciones que llevan más de diez días en el cliente. Sale en `prestamo`."
    }
   },
@@ -6223,7 +6223,7 @@
    "cuando": "2026-10-02T10:29",
    "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
    "revivido": {
-    "cuando": "2026-10-05T10:04",
+    "cuando": "2026-10-05T10:37",
     "motivo": "Alejandro, 05/10: preguntar por todas las sustituciones que llevan más de diez días en el cliente. Sale en `prestamo`."
    }
   },
