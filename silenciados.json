@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T10:37",
+ "actualizado": "2026-10-05T13:20",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5556,7 +5556,8 @@
    "porque": "esta de reparto. las sustis de Epil Se seulen quedar en el mismo centro hasta que se vuelven a necesitar",
    "quien": "Borja",
    "cuando": "2026-09-28T12:54",
-   "revive_si": "2026-10-05 si LEAS-7270 sigue sin finalizar"
+   "revive_si": "2026-10-05 si LEAS-7270 sigue sin finalizar",
+   "caducado": "2026-10-05T13:20 · el ticket ya está cerrado"
   },
   {
    "id": "7530-noaplica-28",
@@ -5638,7 +5639,8 @@
    "porque": "Se envia material y se avisa a técnico LEAS-7781",
    "quien": "Gonzalo",
    "cuando": "2026-09-28T18:01",
-   "revive_si": "2026-10-05 si LEAS-7781 sigue sin nota de contenido"
+   "revive_si": "2026-10-05 si LEAS-7781 sigue sin nota de contenido",
+   "caducado": "2026-10-05T13:20 · hay nota de contenido posterior (Gonzalo, 02/10: «Van el lunes»)"
   },
   {
    "id": "elha-12oct-noaplica-28",
@@ -6061,7 +6063,8 @@
    "porque": "Si pone 02/10 al mediodia, pues hay que esperar hasta el dia 03 para volver a preguntar",
    "quien": "Gonzalo",
    "cuando": "2026-10-02T09:48",
-   "revive_si": "2026-10-05: si no hay nota de la visita de Carlos Mora"
+   "revive_si": "2026-10-05: si no hay nota de la visita de Carlos Mora",
+   "caducado": "2026-10-05T13:20 · el ticket ya está cerrado"
   },
   {
    "id": "7726-asignada-02",
@@ -6329,7 +6332,8 @@
    "porque": "esto no aplica: lo estan probando si todo va bien ser recogerá el lunes",
    "quien": "Borja",
    "cuando": "2026-10-02T15:47",
-   "revive_si": "2026-10-05: si no hay recogida pedida ni nota de contenido posterior (lo comprometido es recoger el lunes)"
+   "revive_si": "2026-10-05: si no hay recogida pedida ni nota de contenido posterior (lo comprometido es recoger el lunes)",
+   "caducado": "2026-10-05T13:20 · la recogida está pedida para hoy (Gonzalo, 03/10 10:47)"
   },
   {
    "id": "7851-serie-gonzalo-0210",
@@ -6386,6 +6390,48 @@
    "quien": "Gonzalo",
    "cuando": "2026-10-02T16:39",
    "revive_si": "2026-10-09: si no hay nota de que llegó el material o de que fue el técnico"
+  },
+  {
+   "id": "7759-noaplica-05-1212",
+   "que": "LEAS-7759 · Dermasana Princesa · el manípulo prometido «en cuanto salga» (wapp)",
+   "ambito": {
+    "leas": "LEAS-7759",
+    "centro": "Dermasana Princesa",
+    "cliente": "Dermasana",
+    "tipo": "wapp"
+   },
+   "porque": "tienen sustitucion LEAS-7775",
+   "quien": "Borja",
+   "cuando": "2026-10-05T12:12",
+   "revive_si": "2026-10-09: si la sustitución LEAS-7775 vuelve o el ticket sigue sin nota de contenido"
+  },
+  {
+   "id": "7687-noaplica-05-1231",
+   "que": "LEAS-7687 · SinVello Valladolid · recogida parada sin sustitución",
+   "ambito": {
+    "leas": "LEAS-7687",
+    "centro": "SinVello Valladolid",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "se manda hoy la SUTDUAL010",
+   "quien": "Borja",
+   "cuando": "2026-10-05T12:31",
+   "revive_si": "2026-10-07: si la sustitución LEAS-7690 no consta enviada o la averiada sigue sin recogida pedida"
+  },
+  {
+   "id": "7271-noaplica-05-1308",
+   "que": "LEAS-7271 · Epil Point Lecce · sustitución SUSTQUAD028 con más de diez días en el centro",
+   "ambito": {
+    "leas": "LEAS-7271",
+    "centro": "Epil Point Lecce",
+    "cliente": "Epil Point",
+    "tipo": "prestamo"
+   },
+   "porque": "las sustituciones se suelen quedar en los mismos centros de epil point hasta que se necesitan otra vez",
+   "quien": "Borja",
+   "cuando": "2026-10-05T13:08",
+   "revive_si": "2026-10-06: regla de las sustis de diez días (Alejandro, 05/10): vuelve mañana salvo que Alejandro decida que las de Epil Point no cuentan"
   }
  ],
  "enlaces": [
