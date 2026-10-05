@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T13:20",
+ "actualizado": "2026-10-05T16:05",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -5917,7 +5917,8 @@
    "porque": "esto no aplica: Les parecía caro y pidieron pagarlo en varias veces o poner ellos el técnico, Isaac les puso: especto a lo que hablamos por teléfono, podemos aplazar el pa…",
    "quien": "Cristina",
    "cuando": "2026-09-30T13:56",
-   "revive_si": "2026-10-05: si el cliente no ha contestado a la propuesta de aplazar el pago y no hay nota de contenido posterior"
+   "revive_si": "2026-10-05: si el cliente no ha contestado a la propuesta de aplazar el pago y no hay nota de contenido posterior",
+   "revivido": "2026-10-05: el revive_si (hoy) se cumple: el cliente no ha contestado a la propuesta de pago y no hay nota de contenido desde el 24/09. Sale en `presu` con LEAS-7611."
   },
   {
    "id": "7768-noaplica-01",
@@ -5969,7 +5970,8 @@
    "porque": "esto no aplica: Sincronis confirma envío material y coordinaran la asistencia.",
    "quien": "Cristina",
    "cuando": "2026-10-01T11:47",
-   "revive_si": "2026-10-05: si no hay nota de que fue el técnico (Sincronis la programaba para el 02/10)"
+   "revive_si": "2026-10-05: si no hay nota de que fue el técnico (Sincronis la programaba para el 02/10)",
+   "caducado": "2026-10-05: lo sustituye 7817-wapp-gonzalo-0210 (material la semana que viene, revive el 09/10)."
   },
   {
    "id": "7607-noaplica-01",
@@ -6432,6 +6434,34 @@
    "quien": "Borja",
    "cuando": "2026-10-05T13:08",
    "revive_si": "2026-10-06: regla de las sustis de diez días (Alejandro, 05/10): vuelve mañana salvo que Alejandro decida que las de Epil Point no cuentan"
+  },
+  {
+   "id": "7408-noaplica-05-1317",
+   "que": "LEAS-7408 · Elha Sta Teresa · sustitución SUSTMHR013 con más de diez días en el centro",
+   "ambito": {
+    "leas": "LEAS-7408",
+    "centro": "Elha Sta teresa",
+    "cliente": "Elha",
+    "tipo": "prestamo"
+   },
+   "porque": "recogida y de reparto en asturias para hoy",
+   "quien": "Borja",
+   "cuando": "2026-10-05T13:17",
+   "revive_si": "2026-10-06: si sigue en «Gestionada recogida» sin pasar a «Equipo devuelto»"
+  },
+  {
+   "id": "7386-noaplica-05-1517",
+   "que": "LEAS-7386 · Belenus (Chile, H00545) · presupuesto del cambio de puntera y zafiro",
+   "ambito": {
+    "leas": "LEAS-7386",
+    "centro": "Belenus",
+    "cliente": "Clínica Belenús",
+    "tipo": "chat-telegram"
+   },
+   "porque": "enviado nuevo presupeusto",
+   "quien": "Borja",
+   "cuando": "2026-10-05T15:17",
+   "revive_si": "2026-10-08: si Belenus no ha contestado al presupuesto nuevo y no hay nota de contenido posterior"
   }
  ],
  "enlaces": [
