@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-02T20:50",
+ "actualizado": "2026-10-05T10:04",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1446,7 +1446,11 @@
    "porque": "Borja lo contestó desde el panel a las 09:38: «no aceptan presupuesto . de momento se quedan la sustitución». El préstamo sigue abierto a propósito.",
    "quien": "Borja",
    "cuando": "2026-09-10",
-   "revive_si": "El cliente acepta el presupuesto o devuelve la sustitución."
+   "revive_si": "El cliente acepta el presupuesto o devuelve la sustitución.",
+   "revivido": {
+    "cuando": "2026-10-05T10:04",
+    "motivo": "Alejandro, 05/10: preguntar por todas las sustituciones que llevan más de diez días en el cliente. Sale en `prestamo`."
+   }
   },
   {
    "id": "7520-valvulas-tension",
@@ -5075,7 +5079,11 @@
    "porque": "lo usa corpoderm de demo con autorización de Oliver",
    "quien": "Borja",
    "cuando": "2026-09-24T15:31",
-   "revive_si": "Es un hecho: el préstamo está cedido como demo con autorización. Vuelve si Smart Duck o Corpoderm reclaman el equipo, o el 2026-10-08 si sigue abierto sin nota."
+   "revive_si": "Es un hecho: el préstamo está cedido como demo con autorización. Vuelve si Smart Duck o Corpoderm reclaman el equipo, o el 2026-10-08 si sigue abierto sin nota.",
+   "revivido": {
+    "cuando": "2026-10-05T10:04",
+    "motivo": "Alejandro, 05/10: preguntar por todas las sustituciones que llevan más de diez días en el cliente. Sale en `prestamo`."
+   }
   },
   {
    "id": "7343-reparto-barcelona-24",
@@ -5533,7 +5541,8 @@
    "porque": "ya esta en gijon pasara en breve a taller",
    "quien": "Borja",
    "cuando": "2026-09-28T12:53",
-   "revive_si": "2026-10-05 si el padre LEAS-7695 no ha entrado en taller"
+   "revive_si": "2026-10-05 si el padre LEAS-7695 no ha entrado en taller",
+   "caducado": "el 2026-10-05: el padre LEAS-7695 ya pasó por taller y está «Devuelto a cliente»"
   },
   {
    "id": "7270-noaplica-28",
@@ -5872,7 +5881,11 @@
    "porque": "esto no aplica: ha reclanado isaac esta mañana",
    "quien": "Borja",
    "cuando": "2026-09-30T11:06",
-   "revive_si": "2026-10-05: si DHL sigue sin recogerla y no hay nota de contenido posterior"
+   "revive_si": "2026-10-05: si DHL sigue sin recogerla y no hay nota de contenido posterior",
+   "revivido": {
+    "cuando": "2026-10-05T10:04",
+    "motivo": "Su revive_si vencía el 05/10 y no hay nota de contenido posterior; el DHL Express del 11420 no da resultados hoy."
+   }
   },
   {
    "id": "7618-noaplica-30",
@@ -6178,7 +6191,11 @@
    "porque": "Nos indican que se puede recoger el martes en horario del centro comercial",
    "quien": "Cristina",
    "cuando": "2026-10-02T11:39",
-   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "revivido": {
+    "cuando": "2026-10-05T10:04",
+    "motivo": "Alejandro, 05/10: preguntar por todas las sustituciones que llevan más de diez días en el cliente. Sale en `prestamo`."
+   }
   },
   {
    "id": "7420-noaplica-02-1109",
@@ -6204,7 +6221,11 @@
    "porque": "Seguimos con mucho volumen de trabajo se va asignando según se va liberando.",
    "quien": "Cristina",
    "cuando": "2026-10-02T10:29",
-   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "revivido": {
+    "cuando": "2026-10-05T10:04",
+    "motivo": "Alejandro, 05/10: preguntar por todas las sustituciones que llevan más de diez días en el cliente. Sale en `prestamo`."
+   }
   },
   {
    "id": "6907-noaplica-02-1030",
