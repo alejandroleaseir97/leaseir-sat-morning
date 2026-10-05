@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T18:48",
+ "actualizado": "2026-10-05T20:31",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6616,6 +6616,48 @@
    "quien": "Gonzalo",
    "cuando": "2026-10-05T18:18",
    "revive_si": "2026-10-12: si sigue en «En cola taller» y Laser Factory vuelve a preguntar sin fecha"
+  },
+  {
+   "id": "7740-nota-05-1943",
+   "que": "LEAS-7740 · Laser Factory Terrassa · la recogida fue a Figueres",
+   "ambito": {
+    "leas": "LEAS-7740",
+    "centro": "Laser Factory Terrassa",
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "lo ha gestionado Gonzalo cambiando la recogida",
+   "quien": "Isaac",
+   "cuando": "2026-10-05T19:43",
+   "revive_si": "2026-10-07: si el cabezal de Terrassa sigue sin recoger y sin nota nueva"
+  },
+  {
+   "id": "naturaless-nota-05-1936",
+   "que": "Naturaless (Medellín, Colombia) · sin ticket · pedal sin enviar",
+   "ambito": {
+    "leas": null,
+    "centro": "Naturaless",
+    "cliente": null,
+    "tipo": "sin-ticket telegram"
+   },
+   "porque": "se va enviar el material que ya esta pagado",
+   "quien": "Isaac",
+   "cuando": "2026-10-05T19:36",
+   "revive_si": "2026-10-08: si en ENVIOS no consta que haya salido"
+  },
+  {
+   "id": "radiante-enlace-05-1839",
+   "que": "Radiante Avilés (Paulina) · sin ticket · la SRF devuelta no funciona",
+   "ambito": {
+    "leas": "LEAS-7891",
+    "centro": "Radiante Avilés",
+    "cliente": null,
+    "tipo": "sin-ticket telegram"
+   },
+   "porque": "Gonzalo abrió LEAS-7891 a las 18:39 (Pendiente recogida) con la sustitución LEAS-7892; Isaac se lo pasó a Gonzalo a las 19:35",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T18:39",
+   "revive_si": "2026-10-08: si LEAS-7891 sigue sin recoger y sin nota de contenido"
   }
  ],
  "enlaces": [
@@ -7033,6 +7075,14 @@
    "vinculado_a": "epil · Epil Point Messina (MHR 91385) · sin ticket",
    "quien": "Gonzalo",
    "cuando": "2026-09-29T17:05"
+  },
+  {
+   "centro": "Paula Estetica, estetica radiante",
+   "cliente": null,
+   "leas": "LEAS-7891",
+   "vinculado_a": "telegram · Radiante Avilés (Paulina) · sin ticket",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-05T18:39"
   }
  ],
  "que_es_esto_enlaces": "Enlaces aprendidos: centro -> ticket. Cuando un mensaje del chat nombra el centro pero no el LEAS ni la serie, se mira aqui ANTES de darlo por huerfano. Se anade uno cada vez que un tecnico elige un candidato o corrige un enlace. Aqui no se guardan conversaciones de clientes, solo el enlace.",
@@ -7248,6 +7298,22 @@
    "quien": "Cristina",
    "cuando": "2026-10-05T16:58",
    "aplicado": true
+  },
+  {
+   "punto": "wapp · Dermasana Alcobendas · sin ticket",
+   "a": "Gonzalo",
+   "de": "Isaac",
+   "quien": "Isaac",
+   "cuando": "2026-10-05T19:49+02:00",
+   "porque": "vía panel"
+  },
+  {
+   "punto": "telegram · Radiante Avilés (Paulina) · sin ticket",
+   "a": "Gonzalo",
+   "de": "Isaac",
+   "quien": "Isaac",
+   "cuando": "2026-10-05T19:35+02:00",
+   "porque": "vía panel"
   }
  ],
  "que_es_esto_traspasos": "Traspasos de puntos SIN ticket. No hay Jira donde escribirlos, así que se guardan aquí y cada pasada los vuelca al objeto TRASPASOS del panel del equipo con la clave del punto (idPunto = bloque__bloque|primeros 44 caracteres). Así el reparto se aplica solo y nadie tiene que pegar líneas en el grupo de la herramienta. Si el destino está en FUERA, el panel lo vuelve a repartir por la cadena."
