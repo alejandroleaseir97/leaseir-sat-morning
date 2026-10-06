@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-06T18:51",
+ "actualizado": "2026-10-06T20:34",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6890,6 +6890,20 @@
    "quien": "Gonzalo",
    "cuando": "2026-10-06T16:31",
    "revive_si": "2026-10-13: si DHL sigue sin recogerlo"
+  },
+  {
+   "id": "leas7699-respondido-0610-1916",
+   "que": "LEAS-7699 · SinVello Alcorcón · SinVello discute la tarifa del presupuesto (100 vs 120 €/h)",
+   "ambito": {
+    "leas": "LEAS-7699",
+    "centro": "SinVello Alcorcón",
+    "cliente": "SinVello",
+    "tipo": "chat"
+   },
+   "porque": "Presupuesto modificado (Isaac, correo de las 19:16)",
+   "quien": "Isaac",
+   "cuando": "2026-10-06T19:16",
+   "revive_si": "si SinVello vuelve a protestar el presupuesto"
   }
  ],
  "enlaces": [
