@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-06T15:55",
+ "actualizado": "2026-10-06T16:31",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6736,6 +6736,62 @@
    "quien": "Borja",
    "cuando": "2026-10-06T11:46",
    "revive_si": "2026-10-08: si Sincronis no ha ido el miércoles 07/10 y no hay nota nueva"
+  },
+  {
+   "id": "leas7853-noaplica-0610-1601",
+   "que": "LEAS-7853 · Tobas GmbH (Swiss Beauty Point) · pieza de mano retenida en aduanas (UPS) sin llegar a taller",
+   "ambito": {
+    "leas": "LEAS-7853",
+    "centro": "Tobas GmbH (Swiss Beauty Point)",
+    "cliente": "Tobas GmbH",
+    "tipo": "ruta"
+   },
+   "porque": "esta enviado desde primera hora",
+   "quien": "Borja",
+   "cuando": "2026-10-06T16:01",
+   "revive_si": "2026-10-09: si la pieza de UPS 1Z8E3255DK11244897 no ha llegado a Gijón"
+  },
+  {
+   "id": "leas7503-noaplica-0610-1602",
+   "que": "LEAS-7503 · LEASEIR · pistola 40481 en «Inspección de salida» con el SLA reventado",
+   "ambito": {
+    "leas": "LEAS-7503",
+    "centro": "LEASEIR",
+    "cliente": "Leaseir",
+    "tipo": "repara"
+   },
+   "porque": "es una peiza de sustitución . esta libre en taller para ser usada",
+   "quien": "Borja",
+   "cuando": "2026-10-06T16:02",
+   "revive_si": "2026-10-13: si sigue en «Inspección de salida» sin nota de contenido"
+  },
+  {
+   "id": "leas7408-noaplica-0610-1603",
+   "que": "LEAS-7408 · Elha Sta Teresa · sustitución SUSTMHR013 fuera desde el 28/08 y en «Gestionada recogida»",
+   "ambito": {
+    "leas": "LEAS-7408",
+    "centro": "Elha Sta Teresa",
+    "cliente": "Elha",
+    "tipo": "prestamo"
+   },
+   "porque": "mandaron el equipo que no era - se le manda de vuelta para recoger la sust y se les cobran los portes",
+   "quien": "Borja",
+   "cuando": "2026-10-06T16:03",
+   "revive_si": "2026-10-09: si la SUSTMHR013 no ha vuelto a Gijón y no hay nota nueva"
+  },
+  {
+   "id": "leas7660-noaplica-0610-1604",
+   "que": "LEAS-7660 · SinVello A Coruña · sustitución H00340 fuera desde el 17/09 esperando que salga lo suyo (LEAS-7658)",
+   "ambito": {
+    "leas": "LEAS-7660",
+    "centro": "SinVello A Coruña",
+    "cliente": "SinVello",
+    "tipo": "prestamo"
+   },
+   "porque": "sale hoy no ha luegar a esta peticion aun",
+   "quien": "Borja",
+   "cuando": "2026-10-06T16:04",
+   "revive_si": "2026-10-09: si LEAS-7658 no ha salido o la H00340 sigue sin recogida pedida"
   }
  ],
  "enlaces": [
