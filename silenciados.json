@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-06T16:42",
+ "actualizado": "2026-10-06T18:51",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6792,6 +6792,104 @@
    "quien": "Borja",
    "cuando": "2026-10-06T16:04",
    "revive_si": "2026-10-09: si LEAS-7658 no ha salido o la H00340 sigue sin recogida pedida"
+  },
+  {
+   "id": "leas6765-noaplica-0610-1654",
+   "que": "LEAS-6765 · Bella Forme (Marruecos) · palé único pedido el 05/10 sin respuesta",
+   "ambito": {
+    "leas": "LEAS-6765",
+    "centro": "Bella Forme",
+    "cliente": "Bella Forme",
+    "tipo": "wapp"
+   },
+   "porque": "sigue en el mismo punto",
+   "quien": "Cristina",
+   "cuando": "2026-10-06T16:54",
+   "revive_si": "2026-10-09: si el equipo no ha salido y no hay nota nueva"
+  },
+  {
+   "id": "centriunico-00611-nota-0610-1631",
+   "que": "Centri Unico Italia · sin ticket · aviso de recogida del manípulo 00611 (14:32)",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico Italia",
+    "cliente": "Centri Unico",
+    "tipo": "sin-ticket"
+   },
+   "porque": "Lo querian mover a centros unico Buenos aires, no es incidencia",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-06T16:31",
+   "revive_si": "nunca: no es incidencia"
+  },
+  {
+   "id": "leas7895-nota-0610-1802",
+   "que": "LEAS-7895 · Marvena (Bulgaria) · tracking 9402551981 en el chat y no en el ticket",
+   "ambito": {
+    "leas": "LEAS-7895",
+    "centro": "Marvena Bulgaria",
+    "cliente": "Marvena",
+    "tipo": "chat"
+   },
+   "porque": "Actualizadoo",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-06T18:02",
+   "revive_si": "si la pieza no llega o el ticket no se mueve en 5 días laborables (2026-10-13)"
+  },
+  {
+   "id": "leas7698-espera-0610-1632",
+   "que": "LEAS-7698 · Bianca House of Beauty · en «Abierto» sin técnico esperando a la clienta",
+   "ambito": {
+    "leas": "LEAS-7698",
+    "centro": "Bianca House of Beauty",
+    "cliente": "Bianca",
+    "tipo": "nadie"
+   },
+   "porque": "No ha actualizaciones",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-06T16:32",
+   "revive_si": "2026-10-13: espera del cliente; vuelve si sigue sin nota de contenido"
+  },
+  {
+   "id": "leas7798-espera-0610-1801",
+   "que": "LEAS-7798 · Epil Point Messina · con el técnico externo desde el 29/09",
+   "ambito": {
+    "leas": "LEAS-7798",
+    "centro": "Epil Point Messina",
+    "cliente": "Epil Point",
+    "tipo": "externo"
+   },
+   "porque": "Esperando parte",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-06T18:01",
+   "revive_si": "2026-10-13: si no ha llegado el parte del técnico"
+  },
+  {
+   "id": "leas7839-espera-0610-1631",
+   "que": "LEAS-7839 · Belenus (Chile) · recogida con solo etiqueta DHL desde el 01/10",
+   "ambito": {
+    "leas": "LEAS-7839",
+    "centro": "Belenus",
+    "cliente": "Belenus",
+    "tipo": "ruta"
+   },
+   "porque": "Tiene que llegar desde Chile. tarda semanas",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-06T16:31",
+   "revive_si": "2026-10-13: si DHL sigue sin recogerlo"
+  },
+  {
+   "id": "leas7846-espera-0610-1631",
+   "que": "LEAS-7846 · Belenus (Chile) · recogida con solo etiqueta DHL desde el 02/10",
+   "ambito": {
+    "leas": "LEAS-7846",
+    "centro": "Belenus",
+    "cliente": "Belenus",
+    "tipo": "ruta"
+   },
+   "porque": "Tiene que llegar desde Chile. tarda semanas",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-06T16:31",
+   "revive_si": "2026-10-13: si DHL sigue sin recogerlo"
   }
  ],
  "enlaces": [
