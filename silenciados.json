@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-06T10:42",
+ "actualizado": "2026-10-06T13:10",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6722,6 +6722,20 @@
    "quien": "Gonzalo",
    "cuando": "2026-10-05T18:39",
    "revive_si": "2026-10-08: si LEAS-7891 sigue sin recoger y sin nota de contenido"
+  },
+  {
+   "id": "leas7889-noaplica-0610-1146",
+   "que": "LEAS-7889 · Epil Point Marano · fecha de Sincronis sin apuntar",
+   "ambito": {
+    "leas": "LEAS-7889",
+    "centro": "Epil Point Marano",
+    "cliente": "Epil Point",
+    "tipo": "telegram chat externo"
+   },
+   "porque": "listo",
+   "quien": "Borja",
+   "cuando": "2026-10-06T11:46",
+   "revive_si": "2026-10-08: si Sincronis no ha ido el miércoles 07/10 y no hay nota nueva"
   }
  ],
  "enlaces": [
