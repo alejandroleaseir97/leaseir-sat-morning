@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-07T13:25",
+ "actualizado": "2026-10-07T15:48",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6664,7 +6664,8 @@
    "porque": "No ha podido responder en el dia",
    "quien": "Gonzalo",
    "cuando": "2026-10-05T17:25",
-   "revive_si": "2026-10-08: si Globo no ha aceptado el presupuesto y no hay nota de contenido posterior"
+   "revive_si": "2026-10-08: si Globo no ha aceptado el presupuesto y no hay nota de contenido posterior",
+   "caducado": "2026-10-07 15:48: el hecho que esperaba ya ocurrió: Globo aceptó el presupuesto y el ticket pasó a reparación y a «Inspección de salida» (07/10 12:48). Lo nuevo es el umbilical roto tras la reparación (Jonathan, 15:05)."
   },
   {
    "id": "7474-nota-05-1739",
