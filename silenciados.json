@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-07T16:36",
+ "actualizado": "2026-10-07T18:32",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6976,6 +6976,174 @@
    "quien": "Isaac",
    "cuando": "2026-10-07T11:50",
    "revive_si": "2026-10-14: si DHL sigue en «Recogida en trámite» y no hay nota nueva"
+  },
+  {
+   "id": "7720-noaplica-07-1644",
+   "que": "LEAS-7720 (SinVello Mairena): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7720",
+    "centro": "SinVello Mairena",
+    "cliente": "SinVello",
+    "tipo": "prestamo"
+   },
+   "porque": "mandada etiqueta de recogida de la sustitución que da fallo",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T16:44",
+   "revive_si": "2026-10-12: si la sustitución sigue «En préstamo»/«Gestionada recogida» sin constar recogida"
+  },
+  {
+   "id": "7682-noaplica-07-1658",
+   "que": "LEAS-7682 (Malie Estética Avanzada): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7682",
+    "centro": "Malie Estética Avanzada",
+    "cliente": "Malie",
+    "tipo": "prestamo"
+   },
+   "porque": "Equipo recogido el 07/10/2026 a las 12:36",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T16:58",
+   "revive_si": "2026-10-09: si la sustitución no consta en taller ni cerrada"
+  },
+  {
+   "id": "7188-noaplica-07-1654",
+   "que": "LEAS-7188 (Centro Unico Boccea): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7188",
+    "centro": "Centro Unico Boccea",
+    "cliente": "Centri Unico",
+    "tipo": "repara"
+   },
+   "porque": "Pregunto a los chicos para confirmar si se prepara el presupuesto",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T16:54",
+   "revive_si": "2026-10-12: si sigue en «En preparación presupuesto» sin nota de contenido"
+  },
+  {
+   "id": "7607-noaplica-07-1654",
+   "que": "LEAS-7607 (Centro Unico Roma Est): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7607",
+    "centro": "Centro Unico Roma Est",
+    "cliente": "Centri Unico",
+    "tipo": "repara"
+   },
+   "porque": "Consulto con los chicos si todo está ok para darle salida",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T16:54",
+   "revive_si": "2026-10-12: si sigue en «En reparación» sin nota de contenido ni salida"
+  },
+  {
+   "id": "7423-noaplica-07-1709",
+   "que": "LEAS-7423 (Radiante Avilés): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7423",
+    "centro": "Radiante Avilés",
+    "cliente": "Radiante",
+    "tipo": "repara"
+   },
+   "porque": "ya tiene técnico asignado para reparación",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T17:09",
+   "revive_si": "2026-10-14: si sigue en «En preparación presupuesto» sin nota de contenido"
+  },
+  {
+   "id": "7570-noaplica-07-1710",
+   "que": "LEAS-7570 (Elha Pisa): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7570",
+    "centro": "Elha Pisa",
+    "cliente": "Elha",
+    "tipo": "prestamo"
+   },
+   "porque": "ya dejó Isaac anotado que estamos a falta de umbilicales, en cuanto se disponga de ellos se realizará la reparación",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T17:10",
+   "revive_si": "2026-10-14: espera de material; vuelve si la sustitución sigue en préstamo sin nota nueva"
+  },
+  {
+   "id": "7573-noaplica-07-1711",
+   "que": "LEAS-7573 (Elha Laser Center Milano (Carducci)): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7573",
+    "centro": "Elha Laser Center Milano (Carducci)",
+    "cliente": "Elha",
+    "tipo": "prestamo"
+   },
+   "porque": "Equipo recogido hoy con entrega prevista mañana día 8",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T17:11",
+   "revive_si": "2026-10-09: si el equipo de LEAS-7458 no consta llegado a Gijón"
+  },
+  {
+   "id": "7605-noaplica-07-1730",
+   "que": "LEAS-7605 (SinVello Jerez): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7605",
+    "centro": "SinVello Jerez",
+    "cliente": "SinVello",
+    "tipo": "prestamo"
+   },
+   "porque": "Se reclama a CTT ya que desde el día 1 aparece Pendiente de recepción en CTT Express",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T17:30",
+   "revive_si": "2026-10-12: si CTT no ha contestado o la sustitución no consta en taller"
+  },
+  {
+   "id": "7475-noaplica-07-1736",
+   "que": "LEAS-7475 (Dermasana Albufera): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7475",
+    "centro": "Dermasana Albufera",
+    "cliente": "Dermasana",
+    "tipo": "prestamo"
+   },
+   "porque": "en cuanto se disponga de material se iniciará la reparación",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T17:36",
+   "revive_si": "2026-10-09: el equipo LEAS-7474 ya salió (OUT 16:04); vuelve si la sustitución no está pedida a recoger cuando llegue"
+  },
+  {
+   "id": "7621-noaplica-07-1744",
+   "que": "LEAS-7621 (Clinic and Esthetic): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7621",
+    "centro": "Clinic and Esthetic",
+    "cliente": "Clinic and Esthetic",
+    "tipo": "prestamo"
+   },
+   "porque": "tracking del envío de la consola reparada puesto en Jira",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T17:44",
+   "revive_si": "2026-10-12: si la sustitución AHR0082 sigue en préstamo sin recogida"
+  },
+  {
+   "id": "lmedical-noaplica-07-1737",
+   "que": "sin ticket (L Medical (G-Point)): punto del panel",
+   "ambito": {
+    "leas": null,
+    "centro": "L Medical (G-Point)",
+    "cliente": "L Medical",
+    "tipo": "sin-ticket"
+   },
+   "porque": "no aplica (desde el panel, worker de notas): el código total de la MHP30546 que no se mantiene",
+   "quien": "Cristina",
+   "cuando": "2026-10-07T17:37",
+   "revive_si": "2026-10-14: si el cliente vuelve a pedir el código en el grupo"
+  },
+  {
+   "id": "7658-envio-gonzalo-07-1659",
+   "que": "LEAS-7658 (SinVello A Coruña): punto del panel",
+   "ambito": {
+    "leas": "LEAS-7658",
+    "centro": "SinVello A Coruña",
+    "cliente": "SinVello",
+    "tipo": "envio"
+   },
+   "porque": "Está bien, fíjate en la calle, no en los demás, gracias",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-07T16:59",
+   "revive_si": "solo si la dirección del envío cambia de calle respecto al campo 10138"
   }
  ],
  "enlaces": [
