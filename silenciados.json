@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-07T18:32",
+ "actualizado": "2026-10-07T20:28",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7144,6 +7144,62 @@
    "quien": "Gonzalo",
    "cuando": "2026-10-07T16:59",
    "revive_si": "solo si la dirección del envío cambia de calle respecto al campo 10138"
+  },
+  {
+   "id": "6906-presu-isaac-07-1954",
+   "que": "LEAS-6906 (MEDYBEAUTY, Daniel Jaramillo): presupuesto sin respuesta",
+   "ambito": {
+    "leas": "LEAS-6906",
+    "centro": "Daniel JAramillo Holea",
+    "cliente": "MEDYBEAUTY",
+    "tipo": "presu"
+   },
+   "porque": "esto esta en manos de David",
+   "quien": "Isaac",
+   "cuando": "2026-10-07T19:54",
+   "revive_si": "2026-10-13 si sigue en estado de presupuesto sin nota de contenido (espera: 3 días laborables; el 12/10 es festivo)"
+  },
+  {
+   "id": "6907-presu-isaac-07-1948",
+   "que": "LEAS-6907 (Apain Estetika AHR0071): presupuesto sin enviar",
+   "ambito": {
+    "leas": "LEAS-6907",
+    "centro": "Apain Estetika ( AHR0071)",
+    "cliente": "Apain Estetika",
+    "tipo": "presu"
+   },
+   "porque": "aun no se nada de ella, avise a Arturo para que hablara con ella",
+   "quien": "Isaac",
+   "cuando": "2026-10-07T19:48",
+   "revive_si": "2026-10-13 si sigue sin enviar o sin respuesta (reclamación: 3 días laborables; el 12/10 es festivo)"
+  },
+  {
+   "id": "7674-prestamo-isaac-07-1947",
+   "que": "LEAS-7674 (Natur Belle Vomero): préstamo fuera de plazo con el equipo retenido en DHL",
+   "ambito": {
+    "leas": "LEAS-7674",
+    "centro": "Natur Belle Vomero SRF0028",
+    "cliente": "Natur Belle",
+    "tipo": "prestamo"
+   },
+   "porque": "volvere a reclamar a DHL, no se las veces que he reclamado",
+   "quien": "Isaac",
+   "cuando": "2026-10-07T19:47",
+   "revive_si": "2026-10-15 si LEAS-7673 no ha llegado a Gijón (espera del transportista: 5 días laborables)"
+  },
+  {
+   "id": "7644-prestamo-isaac-07-1947",
+   "que": "LEAS-7644 (Malie Morea Pamplona): sustitución en recogida",
+   "ambito": {
+    "leas": "LEAS-7644",
+    "centro": "Malie morea Pamplona Centro Comercial La Morea",
+    "cliente": "Malie",
+    "tipo": "prestamo"
+   },
+   "porque": "ya llego a gijon, mañana se hace la entrada",
+   "quien": "Isaac",
+   "cuando": "2026-10-07T19:47",
+   "revive_si": "2026-10-09 si la sustitución sigue en «Gestionada recogida» sin entrada en taller"
   }
  ],
  "enlaces": [
