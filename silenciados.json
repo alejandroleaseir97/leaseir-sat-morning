@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-07T15:52",
+ "actualizado": "2026-10-07T16:36",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6457,7 +6457,8 @@
    "porque": "No ha llegado el material, llega la proxima semana, sin problema, tienen sust allí",
    "quien": "Gonzalo",
    "cuando": "2026-10-02T16:39",
-   "revive_si": "2026-10-09: si no hay nota de que llegó el material o de que fue el técnico"
+   "revive_si": "2026-10-09: si no hay nota de que llegó el material o de que fue el técnico",
+   "caducado": "2026-10-07 16:36: el hecho que esperaba ya ocurrió: el técnico de Sincronis fue hoy a Caserta (Epil Point, 16:16), aunque lo dejó provisional sin tornillos. Lo nuevo va en `wapp`."
   },
   {
    "id": "7759-noaplica-05-1212",
