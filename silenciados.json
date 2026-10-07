@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-07T10:20",
+ "actualizado": "2026-10-07T13:06",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6960,6 +6960,20 @@
    "quien": "Gonzalo",
    "cuando": "2026-10-07T10:17",
    "revive_si": "solo si cambia la serie prestada del ticket o Alejandro corrige el Inmovilizado; el desajuste de Airtable va a «Airtable · para revisar tú»"
+  },
+  {
+   "id": "leas7756-reclamada-0710-1150",
+   "que": "LEAS-7756 · Mercedes Gamaza · recogida DHL Parcel parada desde el 02/10",
+   "ambito": {
+    "leas": "LEAS-7756",
+    "centro": "Mercedes Gamaza",
+    "cliente": "Mercedes Gamaza",
+    "tipo": "ruta transporte"
+   },
+   "porque": "envio un correo al comercial para agilizar la recogida (y correo de Isaac a DHL a las 11:58)",
+   "quien": "Isaac",
+   "cuando": "2026-10-07T11:50",
+   "revive_si": "2026-10-14: si DHL sigue en «Recogida en trámite» y no hay nota nueva"
   }
  ],
  "enlaces": [
