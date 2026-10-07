@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-06T20:34",
+ "actualizado": "2026-10-07T10:20",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6127,7 +6127,8 @@
    "porque": "Está asignada para su reparación",
    "quien": "Gonzalo",
    "cuando": "2026-10-02T09:47",
-   "revive_si": "2026-10-07: si sigue en «Esperando inicio reparación» sin nota de contenido"
+   "revive_si": "2026-10-07: si sigue en «Esperando inicio reparación» sin nota de contenido",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "7758-parte-02",
@@ -6183,7 +6184,8 @@
    "porque": "enviado y actualizado jira",
    "quien": "Borja",
    "cuando": "2026-10-02T10:30",
-   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "caducado": "2026-10-07: el equipo llegó a taller: «Pendiente asignar técnico» desde el 05/10"
   },
   {
    "id": "7780-noaplica-02-1026",
@@ -6209,7 +6211,8 @@
    "porque": "ya le ha n llegado queda pdte recoger su equipo esta habaldo con ella",
    "quien": "Borja",
    "cuando": "2026-10-02T11:05",
-   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "7755-noaplica-02-1028",
@@ -6295,7 +6298,8 @@
    "porque": "Me comentó Arturo que intentaría volver a llamarlo ya que le llamó en varias ocasiones y no consiguió contactar con ellos.",
    "quien": "Cristina",
    "cuando": "2026-10-02T10:30",
-   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "6906-noaplica-02-1141",
@@ -6308,7 +6312,8 @@
    "porque": "Le pregunto a Borja ya que no estoy en el chat con el cliente, me comenta que seguimos sin saber nada.",
    "quien": "Cristina",
    "cuando": "2026-10-02T11:41",
-   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "6765-noaplica-02-1056",
@@ -6334,7 +6339,8 @@
    "porque": "reclamado una vez mas",
    "quien": "Borja",
    "cuando": "2026-10-02T13:13",
-   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-07: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "7714-noaplica-02-1542",
@@ -6347,7 +6353,8 @@
    "porque": "esto no aplica: la semana que viene habrá disponibles",
    "quien": "Borja",
    "cuando": "2026-10-02T15:42",
-   "revive_si": "2026-10-07: si sigue en «Pendiente recogida» sin sustitución enviada y sin nota de contenido posterior"
+   "revive_si": "2026-10-07: si sigue en «Pendiente recogida» sin sustitución enviada y sin nota de contenido posterior",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "7753-noaplica-02-1542",
@@ -6360,7 +6367,8 @@
    "porque": "esto no aplica: ESPERAR POR SUST",
    "quien": "Borja",
    "cuando": "2026-10-02T15:42",
-   "revive_si": "2026-10-07: si sigue en «Pendiente recogida» y LEAS-7774 sigue en «Solicitado» sin nota de contenido posterior"
+   "revive_si": "2026-10-07: si sigue en «Pendiente recogida» y LEAS-7774 sigue en «Solicitado» sin nota de contenido posterior",
+   "caducado": "2026-10-07: sustituido por la nota de espera de Isaac del 05/10 («seguimos esperando por sust»), que lo aparta hasta el 12/10"
   },
   {
    "id": "4908-noaplica-02-1543",
@@ -6419,7 +6427,8 @@
    "porque": "Gonzalo (vía panel, 17:00) lo enlazó a LEAS-7861: «La recogen ellos»",
    "quien": "Gonzalo",
    "cuando": "2026-10-02T17:00",
-   "revive_si": "2026-10-07: si LEAS-7861 sigue en «Gestionado transporte» sin nota de que la recogieron"
+   "revive_si": "2026-10-07: si LEAS-7861 sigue en «Gestionado transporte» sin nota de que la recogieron",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "7852-telegram-gonzalo-0210",
@@ -6433,7 +6442,8 @@
    "porque": "El umbilical saldrá cuando tengamos stock que tenemos 0 en estos momentos",
    "quien": "Gonzalo",
    "cuando": "2026-10-02T16:59",
-   "revive_si": "2026-10-07: si sigue sin nota de que salió el umbilical"
+   "revive_si": "2026-10-07: si sigue sin nota de que salió el umbilical",
+   "caducado": "2026-10-07: LEAS-7852 está cerrado"
   },
   {
    "id": "7817-wapp-gonzalo-0210",
@@ -6475,7 +6485,8 @@
    "porque": "se manda hoy la SUTDUAL010",
    "quien": "Borja",
    "cuando": "2026-10-05T12:31",
-   "revive_si": "2026-10-07: si la sustitución LEAS-7690 no consta enviada o la averiada sigue sin recogida pedida"
+   "revive_si": "2026-10-07: si la sustitución LEAS-7690 no consta enviada o la averiada sigue sin recogida pedida",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "7271-noaplica-05-1308",
@@ -6553,7 +6564,8 @@
    "porque": "Hasta el martes no recoge DHL",
    "quien": "Cristina",
    "cuando": "2026-10-05T16:58",
-   "revive_si": "2026-10-07: si la sustitución sigue «En préstamo» sin recoger (DHL recogía el martes 06/10)"
+   "revive_si": "2026-10-07: si la sustitución sigue «En préstamo» sin recoger (DHL recogía el martes 06/10)",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "7728-noaplica-05-1640",
@@ -6567,7 +6579,8 @@
    "porque": "Luismi comentó que hoy le tenía que llamar el franquiciado para decirle sobre el presupuesto, esperaremos hoy y mañana confirmaremos con él",
    "quien": "Cristina",
    "cuando": "2026-10-05T16:40",
-   "revive_si": "2026-10-07: si no hay respuesta al presupuesto de LEAS-7724 y la sustitución sigue en el centro"
+   "revive_si": "2026-10-07: si no hay respuesta al presupuesto de LEAS-7724 y la sustitución sigue en el centro",
+   "revivido": "2026-10-07: vencía hoy y no hay nota de contenido posterior; el punto sale en la pasada de las 9:30"
   },
   {
    "id": "getafe-nota-05-1737",
@@ -6693,7 +6706,8 @@
    "porque": "lo ha gestionado Gonzalo cambiando la recogida",
    "quien": "Isaac",
    "cuando": "2026-10-05T19:43",
-   "revive_si": "2026-10-07: si el cabezal de Terrassa sigue sin recoger y sin nota nueva"
+   "revive_si": "2026-10-07: si el cabezal de Terrassa sigue sin recoger y sin nota nueva",
+   "caducado": "2026-10-07: la pieza de Terrassa va hoy en reparto a Gijón (CTT …081623, 08:53)"
   },
   {
    "id": "naturaless-nota-05-1936",
@@ -6904,6 +6918,48 @@
    "quien": "Isaac",
    "cuando": "2026-10-06T19:16",
    "revive_si": "si SinVello vuelve a protestar el presupuesto"
+  },
+  {
+   "id": "7753-espera-05-1020",
+   "que": "LEAS-7753 (SinVello Pozuelo) en «Pendiente recogida» esperando a que haya sustitución (LEAS-7774 en «Solicitado»)",
+   "ambito": {
+    "leas": "LEAS-7753",
+    "centro": "Sin Vello Pozuelo",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "seguimos esperando por sust",
+   "quien": "Isaac",
+   "cuando": "2026-10-05T10:20",
+   "revive_si": "2026-10-12: si sigue en «Pendiente recogida» sin sustitución enviada y sin nota de contenido posterior"
+  },
+  {
+   "id": "7325-noaplica-07-0838",
+   "que": "LEAS-7325 (MedQuant, Moscú) en «Gestionado transporte» esperando a que reúnan el equipo y el permiso de exportación",
+   "ambito": {
+    "leas": "LEAS-7325",
+    "centro": "MedQuant",
+    "cliente": "MedQuant",
+    "tipo": "ruta"
+   },
+   "porque": "repreguntamos en el chat a ver si nos dan mas información",
+   "quien": "Borja",
+   "cuando": "2026-10-07T08:38",
+   "revive_si": "2026-10-14: si sigue en «Gestionado transporte» sin nota de contenido nueva (espera de un tercero, 5 días laborables)"
+  },
+  {
+   "id": "7775-gonzalo-07-1017",
+   "que": "LEAS-7775 (Dermasana Princesa): la consola prestada 91119 figura en el Inmovilizado como Traditional Renting de Segovia y Callejo",
+   "ambito": {
+    "leas": "LEAS-7775",
+    "centro": "Dermasana Princesa",
+    "cliente": "Dermasana",
+    "tipo": "serie"
+   },
+   "porque": "Está todo bien, no vuelvas a abrir este caso, que se abre cada poco",
+   "quien": "Gonzalo",
+   "cuando": "2026-10-07T10:17",
+   "revive_si": "solo si cambia la serie prestada del ticket o Alejandro corrige el Inmovilizado; el desajuste de Airtable va a «Airtable · para revisar tú»"
   }
  ],
  "enlaces": [
