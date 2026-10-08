@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-08T13:20",
+ "actualizado": "2026-10-08T15:51",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7262,6 +7262,48 @@
    "quien": "Borja",
    "cuando": "2026-10-08T12:27",
    "revive_si": "2026-10-15 si sigue en «Pendiente recogida» sin aviso de Epil Point ni nota de contenido posterior (espera de terceros: 5 días laborables)"
+  },
+  {
+   "id": "7753-noaplica-borja-08-1356",
+   "que": "LEAS-7753 (SinVello Pozuelo): acepta reparación in situ / recogida parada",
+   "ambito": {
+    "leas": "LEAS-7753",
+    "centro": "SinVello Pozuelo",
+    "cliente": "SinVello",
+    "tipo": "wapp|ruta"
+   },
+   "porque": "esto no aplica: todo aclarado",
+   "quien": "Borja",
+   "cuando": "2026-10-08T13:56",
+   "revive_si": "2026-10-15 si sigue en «Pendiente recogida» sin nota de contenido posterior (ni reparación in situ apuntada ni recogida)"
+  },
+  {
+   "id": "7834-nota-isaac-08-1325",
+   "que": "LEAS-7834 (Sincronis pide tracking del repuesto)",
+   "ambito": {
+    "leas": "LEAS-7834",
+    "centro": "Cliente Italia Oliver",
+    "cliente": "Sincronis",
+    "tipo": "telegram"
+   },
+   "porque": "se avisa a Sincronis y el material esta en camino, cuando este alli el tecnico nos tiene que avisar para que le ayudemos",
+   "quien": "Isaac",
+   "cuando": "2026-10-08T13:25",
+   "revive_si": "2026-10-15 si Sincronis vuelve a pedir el tracking o el material no ha llegado (espera de terceros: 5 días laborables)"
+  },
+  {
+   "id": "7876-nota-borja-08-1347",
+   "que": "LEAS-7876 (Centri Unico I Gigli, fecha del técnico)",
+   "ambito": {
+    "leas": "LEAS-7876",
+    "centro": "Centri Unico I Gigli",
+    "cliente": "Centri Unico",
+    "tipo": "telegram"
+   },
+   "porque": "sale hoy material para firenze, avisadas en el chat",
+   "quien": "Borja",
+   "cuando": "2026-10-08T13:47",
+   "revive_si": "2026-10-15 si el centro vuelve a preguntar por el técnico sin fecha apuntada"
   }
  ],
  "enlaces": [
