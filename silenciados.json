@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-08T10:27",
+ "actualizado": "2026-10-08T13:20",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7234,6 +7234,34 @@
    "quien": "Isaac",
    "cuando": "2026-10-08T09:59",
    "revive_si": "2026-10-15 si Sincronis no ha dado fecha de vuelta y no hay nota de contenido posterior (espera del técnico externo: 5 días laborables)"
+  },
+  {
+   "id": "7870-noaplica-borja-08-1219",
+   "que": "LEAS-7870 (Smart Duck Lyon): recogida parada (regla 15)",
+   "ambito": {
+    "leas": "LEAS-7870",
+    "centro": "Smart Duck Lyon",
+    "cliente": "Smart Duck",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: las sustitucion esta metida en Jira y el tracking tb , no entiendo la petición",
+   "quien": "Borja",
+   "cuando": "2026-10-08T12:19",
+   "revive_si": "2026-10-13 si la averiada sigue en «Pendiente recogida» sin tracking de recogida ni nota de contenido posterior (el 12/10 es festivo)"
+  },
+  {
+   "id": "7805-espera-borja-08-1227",
+   "que": "LEAS-7805 (Epil Point Vomero, MHR 90674): recogida parada",
+   "ambito": {
+    "leas": "LEAS-7805",
+    "centro": "Epil Point Vomero",
+    "cliente": "Epil Point",
+    "tipo": "ruta"
+   },
+   "porque": "van a mover un equipo que llegó a Appia para poder recoger este . Cuando lo tengan en su central nos avisan para recogerlo",
+   "quien": "Borja",
+   "cuando": "2026-10-08T12:27",
+   "revive_si": "2026-10-15 si sigue en «Pendiente recogida» sin aviso de Epil Point ni nota de contenido posterior (espera de terceros: 5 días laborables)"
   }
  ],
  "enlaces": [
