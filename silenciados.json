@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-07T20:28",
+ "actualizado": "2026-10-08T10:27",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6100,7 +6100,8 @@
    "porque": "Solucionado, no hace falta ticket",
    "quien": "Gonzalo",
    "cuando": "2026-10-01T17:05",
-   "revive_si": "2026-10-08: si Katy vuelve a pedir la reparación del C03290/H03290 en el grupo"
+   "revive_si": "2026-10-08: si Katy vuelve a pedir la reparación del C03290/H03290 en el grupo",
+   "caducado": "2026-10-08: Katy no ha vuelto a pedir la reparación del C03290/H03290 (Smart Duck Technical Service sin mensajes desde el 07/10 16:12)"
   },
   {
    "id": "7647-espera-03-02",
@@ -6537,7 +6538,8 @@
    "porque": "enviado nuevo presupeusto",
    "quien": "Borja",
    "cuando": "2026-10-05T15:17",
-   "revive_si": "2026-10-08: si Belenus no ha contestado al presupuesto nuevo y no hay nota de contenido posterior"
+   "revive_si": "2026-10-08: si Belenus no ha contestado al presupuesto nuevo y no hay nota de contenido posterior",
+   "caducado": "2026-10-08: el presupuesto nuevo se envió el 05/10; la espera de presupuesto cuenta 5 días laborables desde la nota de contenido: vuelve el 12/10 si no hay respuesta"
   },
   {
    "id": "7823-noaplica-05-1552",
@@ -6551,7 +6553,8 @@
    "porque": "apuntado en el caso",
    "quien": "Borja",
    "cuando": "2026-10-05T15:52",
-   "revive_si": "2026-10-08: si sigue en «Esperando respuesta cliente a presupuesto» sin nota de contenido posterior (espera de presupuesto: 3 días laborables)"
+   "revive_si": "2026-10-08: si sigue en «Esperando respuesta cliente a presupuesto» sin nota de contenido posterior (espera de presupuesto: 3 días laborables)",
+   "caducado": "2026-10-08: sustitución en espera de etiquetas; sale en `presu` si el 09/10 sigue sin nota"
   },
   {
    "id": "7682-noaplica-05-1658",
@@ -6723,7 +6726,8 @@
    "porque": "se va enviar el material que ya esta pagado",
    "quien": "Isaac",
    "cuando": "2026-10-05T19:36",
-   "revive_si": "2026-10-08: si en ENVIOS no consta que haya salido"
+   "revive_si": "2026-10-08: si en ENVIOS no consta que haya salido",
+   "caducado": "2026-10-08: no hay mensajes nuevos de Naturaless en los grupos leídos hoy; se vuelve a mirar ENVIOS en la pasada de las 12:30"
   },
   {
    "id": "radiante-enlace-05-1839",
@@ -6737,7 +6741,8 @@
    "porque": "Gonzalo abrió LEAS-7891 a las 18:39 (Pendiente recogida) con la sustitución LEAS-7892; Isaac se lo pasó a Gonzalo a las 19:35",
    "quien": "Gonzalo",
    "cuando": "2026-10-05T18:39",
-   "revive_si": "2026-10-08: si LEAS-7891 sigue sin recoger y sin nota de contenido"
+   "revive_si": "2026-10-08: si LEAS-7891 sigue sin recoger y sin nota de contenido",
+   "revivido": "2026-10-08: LEAS-7891 sigue en «Pendiente recogida» sin nota de contenido: sale en `ruta` (regla 15)"
   },
   {
    "id": "leas7889-noaplica-0610-1146",
@@ -6751,7 +6756,8 @@
    "porque": "listo",
    "quien": "Borja",
    "cuando": "2026-10-06T11:46",
-   "revive_si": "2026-10-08: si Sincronis no ha ido el miércoles 07/10 y no hay nota nueva"
+   "revive_si": "2026-10-08: si Sincronis no ha ido el miércoles 07/10 y no hay nota nueva",
+   "caducado": "2026-10-08: el 10144 de LEAS-7889 tiene cita el 09/10 a las 14:53 (fecha cerrada)"
   },
   {
    "id": "leas7853-noaplica-0610-1601",
@@ -7200,6 +7206,34 @@
    "quien": "Isaac",
    "cuando": "2026-10-07T19:47",
    "revive_si": "2026-10-09 si la sustitución sigue en «Gestionada recogida» sin entrada en taller"
+  },
+  {
+   "id": "7572-prestamo-isaac-08-0949",
+   "que": "LEAS-7572 (SUSTAHRD005): préstamo fuera de plazo con la recogida anulada por DHL",
+   "ambito": {
+    "leas": "LEAS-7572",
+    "centro": null,
+    "cliente": null,
+    "tipo": "prestamo"
+   },
+   "porque": "hable esta semana con la clinica de Pamplona y las pase las etiquetas para recogida, DHL anulo la recogida no sabemos xq, se habla con Dhl para que la active y con la clinica de Pamplona.",
+   "quien": "Isaac",
+   "cuando": "2026-10-08T09:49",
+   "revive_si": "2026-10-15 si la sustitución sigue sin recoger (espera del transportista: 5 días laborables)"
+  },
+  {
+   "id": "7817-externo-isaac-08-0959",
+   "que": "LEAS-7817 (Epil Point Caserta): reparación provisional, el técnico de Sincronis tiene que volver",
+   "ambito": {
+    "leas": "LEAS-7817",
+    "centro": "Epil Point Caserta",
+    "cliente": "Epil Point Italia",
+    "tipo": "wapp externo"
+   },
+   "porque": "segun comenta Gonzalo el tecnico tiene que volver xq los tornilos no valian",
+   "quien": "Isaac",
+   "cuando": "2026-10-08T09:59",
+   "revive_si": "2026-10-15 si Sincronis no ha dado fecha de vuelta y no hay nota de contenido posterior (espera del técnico externo: 5 días laborables)"
   }
  ],
  "enlaces": [
