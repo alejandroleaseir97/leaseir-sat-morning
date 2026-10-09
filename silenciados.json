@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-08T21:30",
+ "actualizado": "2026-10-09T10:12",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6199,7 +6199,8 @@
    "porque": "Sigue en el mismo punto porque no se pudo mandar el material por falta de stock, en cuanto se tenga se mandará-",
    "quien": "Cristina",
    "cuando": "2026-10-02T10:26",
-   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "caducado": "2026-10-09 10:12: hay notas de contenido posteriores (Borja, 08/10 14:14: material entregado y avisado Innet)"
   },
   {
    "id": "7756-noaplica-02-1105",
@@ -6226,7 +6227,8 @@
    "porque": "en cuanto se liberen técnicos se asigna ,hay bastante volumen en taller y pocos técnicos.",
    "quien": "Cristina",
    "cuando": "2026-10-02T10:28",
-   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "revivido": "2026-10-09 10:12: sigue en «Pendiente asignar técnico» sin técnico y sin nota de contenido desde el 02/10"
   },
   {
    "id": "7741-noaplica-02-1057",
@@ -6239,7 +6241,8 @@
    "porque": "Seguimos con mucho volumen en taller, en cuanto se vayan liberando se asignan técnicos",
    "quien": "Cristina",
    "cuando": "2026-10-02T10:57",
-   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "caducado": "2026-10-09 10:12: el trabajo se hizo (Jonathan, 07/10) y está en «Inspección de salida»"
   },
   {
    "id": "7682-noaplica-02-1139",
@@ -6269,7 +6272,8 @@
    "porque": "Sigue en el mismo punto anterior",
    "quien": "Cristina",
    "cuando": "2026-10-02T11:09",
-   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "revivido": "2026-10-09 10:12: sigue en «Inspección de salida» sin recoger y sin nota nueva"
   },
   {
    "id": "7375-noaplica-02-1029",
@@ -6327,7 +6331,8 @@
    "porque": "Está preparada y lista para salir esperado a que la recojan",
    "quien": "Cristina",
    "cuando": "2026-10-02T10:56",
-   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)"
+   "revive_si": "2026-10-09: si sigue igual y no hay una nota de contenido nueva (espera de «esto no aplica» del 02/10)",
+   "revivido": "2026-10-09 10:12: sigue en «Inspección de salida» sin salir y sin nota nueva"
   },
   {
    "id": "6198-noaplica-02-1313",
@@ -6473,7 +6478,8 @@
    "porque": "tienen sustitucion LEAS-7775",
    "quien": "Borja",
    "cuando": "2026-10-05T12:12",
-   "revive_si": "2026-10-09: si la sustitución LEAS-7775 vuelve o el ticket sigue sin nota de contenido"
+   "revive_si": "2026-10-09: si la sustitución LEAS-7775 vuelve o el ticket sigue sin nota de contenido",
+   "revivido": "2026-10-09 10:12: sigue en «Pendiente confirmación presupuesto» sin nota de contenido"
   },
   {
    "id": "7687-noaplica-05-1231",
@@ -6771,7 +6777,8 @@
    "porque": "esta enviado desde primera hora",
    "quien": "Borja",
    "cuando": "2026-10-06T16:01",
-   "revive_si": "2026-10-09: si la pieza de UPS 1Z8E3255DK11244897 no ha llegado a Gijón"
+   "revive_si": "2026-10-09: si la pieza de UPS 1Z8E3255DK11244897 no ha llegado a Gijón",
+   "revivido": "2026-10-09 10:12: UPS 1Z8E3255DK11244897 no ha llegado a Gijón: retenido en aduanas desde el 07/10"
   },
   {
    "id": "leas7503-noaplica-0610-1602",
@@ -6799,7 +6806,8 @@
    "porque": "mandaron el equipo que no era - se le manda de vuelta para recoger la sust y se les cobran los portes",
    "quien": "Borja",
    "cuando": "2026-10-06T16:03",
-   "revive_si": "2026-10-09: si la SUSTMHR013 no ha vuelto a Gijón y no hay nota nueva"
+   "revive_si": "2026-10-09: si la SUSTMHR013 no ha vuelto a Gijón y no hay nota nueva",
+   "caducado": "2026-10-09 10:12: Borja apuntó el 08/10 la devolución (DHL JJD00006336051125553001) y la proforma de portes"
   },
   {
    "id": "leas7660-noaplica-0610-1604",
@@ -6813,7 +6821,8 @@
    "porque": "sale hoy no ha luegar a esta peticion aun",
    "quien": "Borja",
    "cuando": "2026-10-06T16:04",
-   "revive_si": "2026-10-09: si LEAS-7658 no ha salido o la H00340 sigue sin recogida pedida"
+   "revive_si": "2026-10-09: si LEAS-7658 no ha salido o la H00340 sigue sin recogida pedida",
+   "caducado": "2026-10-09 10:12: LEAS-7658 ya salió (cerrado) y la sustitución está en «Gestionada recogida»"
   },
   {
    "id": "leas6765-noaplica-0610-1654",
@@ -6827,7 +6836,8 @@
    "porque": "sigue en el mismo punto",
    "quien": "Cristina",
    "cuando": "2026-10-06T16:54",
-   "revive_si": "2026-10-09: si el equipo no ha salido y no hay nota nueva"
+   "revive_si": "2026-10-09: si el equipo no ha salido y no hay nota nueva",
+   "revivido": "2026-10-09 10:12: el equipo no ha salido y no hay nota nueva"
   },
   {
    "id": "centriunico-00611-nota-0610-1631",
@@ -7009,7 +7019,8 @@
    "porque": "Equipo recogido el 07/10/2026 a las 12:36",
    "quien": "Cristina",
    "cuando": "2026-10-07T16:58",
-   "revive_si": "2026-10-09: si la sustitución no consta en taller ni cerrada"
+   "revive_si": "2026-10-09: si la sustitución no consta en taller ni cerrada",
+   "revivido": "2026-10-09 10:12: la sustitución sigue «En préstamo», sin entrada en taller ni tracking de vuelta"
   },
   {
    "id": "7188-noaplica-07-1654",
@@ -7079,7 +7090,8 @@
    "porque": "Equipo recogido hoy con entrega prevista mañana día 8",
    "quien": "Cristina",
    "cuando": "2026-10-07T17:11",
-   "revive_si": "2026-10-09: si el equipo de LEAS-7458 no consta llegado a Gijón"
+   "revive_si": "2026-10-09: si el equipo de LEAS-7458 no consta llegado a Gijón",
+   "caducado": "2026-10-09 10:12: el equipo de LEAS-7458 llegó a Gijón el 08/10 a las 15:01 (DHL Express JJD014600012820472744)"
   },
   {
    "id": "7605-noaplica-07-1730",
@@ -7107,7 +7119,8 @@
    "porque": "en cuanto se disponga de material se iniciará la reparación",
    "quien": "Cristina",
    "cuando": "2026-10-07T17:36",
-   "revive_si": "2026-10-09: el equipo LEAS-7474 ya salió (OUT 16:04); vuelve si la sustitución no está pedida a recoger cuando llegue"
+   "revive_si": "2026-10-09: el equipo LEAS-7474 ya salió (OUT 16:04); vuelve si la sustitución no está pedida a recoger cuando llegue",
+   "revivido": "2026-10-09 10:12: la sustitución sigue «En préstamo» y no consta pedida la recogida"
   },
   {
    "id": "7621-noaplica-07-1744",
@@ -7205,7 +7218,8 @@
    "porque": "ya llego a gijon, mañana se hace la entrada",
    "quien": "Isaac",
    "cuando": "2026-10-07T19:47",
-   "revive_si": "2026-10-09 si la sustitución sigue en «Gestionada recogida» sin entrada en taller"
+   "revive_si": "2026-10-09 si la sustitución sigue en «Gestionada recogida» sin entrada en taller",
+   "caducado": "2026-10-09 10:12: la sustitución llegó a Gijón y el ticket está en «Equipo devuelto»"
   },
   {
    "id": "7572-prestamo-isaac-08-0949",
@@ -7304,6 +7318,20 @@
    "quien": "Borja",
    "cuando": "2026-10-08T13:47",
    "revive_si": "2026-10-15 si el centro vuelve a preguntar por el técnico sin fecha apuntada"
+  },
+  {
+   "id": "7860-noaplica-borja-09-0938",
+   "que": "LEAS-7860 · Epil Point Roma Eur",
+   "ambito": {
+    "leas": "LEAS-7860",
+    "centro": "Epil Point Roma Eur",
+    "cliente": "Epil Point Italia",
+    "tipo": "telegram"
+   },
+   "porque": "listo",
+   "quien": "Borja",
+   "cuando": "2026-10-09T09:38",
+   "revive_si": "2026-10-16: si se reabre o Epil Point vuelve a avisar del fallo de temperatura en Roma Eur"
   }
  ],
  "enlaces": [
