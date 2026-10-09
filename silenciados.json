@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-09T11:48",
+ "actualizado": "2026-10-09T13:15",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7332,6 +7332,90 @@
    "quien": "Borja",
    "cuando": "2026-10-09T09:38",
    "revive_si": "2026-10-16: si se reabre o Epil Point vuelve a avisar del fallo de temperatura en Roma Eur"
+  },
+  {
+   "id": "7863-noaplica-cristina-09-1040",
+   "que": "LEAS-7863 · Corpoderm (subtarea de LEAS-7861)",
+   "ambito": {
+    "leas": "LEAS-7863",
+    "centro": "Corpoderm (subtarea de LEAS-7861)",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "en cuanto se liberen de trabajo los técnicos en taller se irá asignando",
+   "quien": "Cristina",
+   "cuando": "2026-10-09T10:40",
+   "revive_si": "2026-10-14: si sigue en «Esperando respuesta cliente a presupuesto» sin nota de contenido"
+  },
+  {
+   "id": "7755-noaplica-cristina-09-1043",
+   "que": "LEAS-7755 · BiNatural (Polonia)",
+   "ambito": {
+    "leas": "LEAS-7755",
+    "centro": "BiNatural (Polonia)",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "sigue en el mismo punto, en cuanto se liberen técnico se asignará",
+   "quien": "Cristina",
+   "cuando": "2026-10-09T10:43",
+   "revive_si": "2026-10-16: si sigue en «Pendiente asignar técnico» sin técnico"
+  },
+  {
+   "id": "6765-noaplica-cristina-09-1049",
+   "que": "LEAS-6765 · Bella Forme (Marruecos)",
+   "ambito": {
+    "leas": "LEAS-6765",
+    "centro": "Bella Forme (Marruecos)",
+    "cliente": "",
+    "tipo": "cerrar"
+   },
+   "porque": "Es equipo medico y para aduanas hay movida asi que lo ultimo que se es que tiene que gestionar papeleo calidad",
+   "quien": "Cristina",
+   "cuando": "2026-10-09T10:49",
+   "revive_si": "2026-10-16: si sigue en «Inspección de salida» sin nota nueva"
+  },
+  {
+   "id": "7682-noaplica-cristina-09-1105",
+   "que": "LEAS-7682 · Malie Estética Avanzada",
+   "ambito": {
+    "leas": "LEAS-7682",
+    "centro": "Malie Estética Avanzada",
+    "cliente": "",
+    "tipo": "prestamo"
+   },
+   "porque": "llegó ya la sustitución y hay entrada en fotos",
+   "quien": "Cristina",
+   "cuando": "2026-10-09T11:05",
+   "revive_si": "2026-10-16: si se reabre"
+  },
+  {
+   "id": "7848-noaplica-cristina-09-1202",
+   "que": "LEAS-7848 · L-Medical (G-Point) Bulgaria",
+   "ambito": {
+    "leas": "LEAS-7848",
+    "centro": "L-Medical (G-Point) Bulgaria",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "recogida gestionada",
+   "quien": "Cristina",
+   "cuando": "2026-10-09T12:02",
+   "revive_si": "2026-10-14: si sigue en «Gestionado transporte» sin llegar a taller"
+  },
+  {
+   "id": "7728-noaplica-cristina-09-1208",
+   "que": "LEAS-7728 · SinVello Algeciras (sustitución)",
+   "ambito": {
+    "leas": "LEAS-7728",
+    "centro": "SinVello Algeciras (sustitución)",
+    "cliente": "",
+    "tipo": "prestamo"
+   },
+   "porque": "sale hoy",
+   "quien": "Cristina",
+   "cuando": "2026-10-09T12:08",
+   "revive_si": "2026-10-13: si LEAS-7724 no ha salido o la sustitución sigue en préstamo sin recogida pedida"
   }
  ],
  "enlaces": [
@@ -7994,6 +8078,105 @@
    "a": "Gonzalo",
    "quien": "Borja",
    "cuando": "2026-10-06T09:33",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7850",
+   "a": "Isaac",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7935",
+   "a": "Chus",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7791",
+   "a": "Borja",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7781",
+   "a": "Cristina",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7886",
+   "a": "Isaac",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7726",
+   "a": "Chus",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7897",
+   "a": "Isaac",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7820",
+   "a": "Chus",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7298",
+   "a": "Borja",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7646",
+   "a": "Cristina",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7848",
+   "a": "Cristina",
+   "de": "Gonzalo",
+   "quien": "Alejandro",
+   "cuando": "2026-10-09T11:02",
+   "porque": "vía panel (reparto de la carga de Gonzalo)",
    "aplicado": true
   }
  ],
