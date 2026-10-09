@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-09T13:15",
+ "actualizado": "2026-10-09T16:02",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7416,6 +7416,20 @@
    "quien": "Cristina",
    "cuando": "2026-10-09T12:08",
    "revive_si": "2026-10-13: si LEAS-7724 no ha salido o la sustitución sigue en préstamo sin recogida pedida"
+  },
+  {
+   "id": "7853-noaplica-borja-09-1418",
+   "que": "LEAS-7853 · Tobas GmbH (Swich Beauty)",
+   "ambito": {
+    "leas": "LEAS-7853",
+    "centro": "Tobas GmbH (Swich Beauty)",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "enviado a aduanas",
+   "quien": "Borja",
+   "cuando": "2026-10-09T14:18",
+   "revive_si": "2026-10-14: si la pieza de UPS 1Z8E3255DK11244897 sigue sin llegar a Gijón"
   }
  ],
  "enlaces": [
@@ -8177,6 +8191,15 @@
    "quien": "Alejandro",
    "cuando": "2026-10-09T11:02",
    "porque": "vía panel (reparto de la carga de Gonzalo)",
+   "aplicado": true
+  },
+  {
+   "idPunto": "LEAS-7791",
+   "a": "Gonzalo",
+   "de": "Borja",
+   "quien": "Borja",
+   "cuando": "2026-10-09T14:59",
+   "porque": "vía panel",
    "aplicado": true
   }
  ],
