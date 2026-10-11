@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-09T18:49",
+ "actualizado": "2026-10-11T09:59",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7430,6 +7430,48 @@
    "quien": "Borja",
    "cuando": "2026-10-09T14:18",
    "revive_si": "2026-10-14: si la pieza de UPS 1Z8E3255DK11244897 sigue sin llegar a Gijón"
+  },
+  {
+   "id": "7646-espera-isaac-09-1946",
+   "que": "LEAS-7646 · Clínica MED Barcelona (sustitución)",
+   "ambito": {
+    "leas": "LEAS-7646",
+    "centro": "Clínica MED Barcelona (sustitución)",
+    "cliente": "",
+    "tipo": "prestamo"
+   },
+   "porque": "siguen sin darnos respuesta de la devolución de sust, el martes lo hablamos en la oficina",
+   "quien": "Isaac",
+   "cuando": "2026-10-09T19:46",
+   "revive_si": "2026-10-14: si no hay nota nueva tras hablarlo en la oficina"
+  },
+  {
+   "id": "7298-espera-isaac-09-1936",
+   "que": "LEAS-7298 · MEDYBEAUTY (comprobación de cobro)",
+   "ambito": {
+    "leas": "LEAS-7298",
+    "centro": "MEDYBEAUTY (comprobación de cobro)",
+    "cliente": "",
+    "tipo": "parado"
+   },
+   "porque": "ha estado fuera de",
+   "quien": "Isaac",
+   "cuando": "2026-10-09T19:36",
+   "revive_si": "2026-10-16: si sigue en «Solicitado» sin respuesta de David"
+  },
+  {
+   "id": "7932-nota-isaac-09-1907",
+   "que": "LEAS-7932 · Ideal Nichelino",
+   "ambito": {
+    "leas": "LEAS-7932",
+    "centro": "Ideal Nichelino",
+    "cliente": "",
+    "tipo": "telegram"
+   },
+   "porque": "cambio a enviado tecnico xq ya quedo con la clienta para cuando llegue el material",
+   "quien": "Isaac",
+   "cuando": "2026-10-09T19:07",
+   "revive_si": "2026-10-15: si el umbilical no ha salido el martes 13/10 o el técnico no ha ido"
   }
  ],
  "enlaces": [
