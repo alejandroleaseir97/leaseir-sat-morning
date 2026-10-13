@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-13T10:57",
+ "actualizado": "2026-10-13T13:12",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7589,6 +7589,62 @@
    "quien": "Borja",
    "cuando": "2026-10-12T09:18",
    "revive_si": "2026-10-20: si sigue abierto sin cerrar"
+  },
+  {
+   "id": "7943-noaplica-borja-13-1120",
+   "que": "LEAS-7943 · Con Diodo (Nacho)",
+   "ambito": {
+    "leas": "LEAS-7943",
+    "centro": "Con Diodo (Nacho)",
+    "cliente": "",
+    "tipo": "telegram"
+   },
+   "porque": "esto no aplica: esta aceptado y asignado",
+   "quien": "Borja",
+   "cuando": "2026-10-13T11:20",
+   "revive_si": "2026-10-20: si no se ha cambiado el umbilical de la 40003"
+  },
+  {
+   "id": "7687-noaplica-borja-13-1132",
+   "que": "LEAS-7687 · SinVello Valladolid",
+   "ambito": {
+    "leas": "LEAS-7687",
+    "centro": "SinVello Valladolid",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: avanzado",
+   "quien": "Borja",
+   "cuando": "2026-10-13T11:32",
+   "revive_si": "2026-10-16: si sigue en «Pendiente asignar técnico» sin nota"
+  },
+  {
+   "id": "7828-noaplica-borja-13-1222",
+   "que": "LEAS-7828 · Laser Factory Castelldefels",
+   "ambito": {
+    "leas": "LEAS-7828",
+    "centro": "Laser Factory Castelldefels",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: si esta pdte de asignar esta en taller",
+   "quien": "Borja",
+   "cuando": "2026-10-13T12:22",
+   "revive_si": "2026-10-16: si sigue sin técnico"
+  },
+  {
+   "id": "7616-noaplica-borja-13-1223",
+   "que": "LEAS-7616 · Laser Factory Ample Figueres",
+   "ambito": {
+    "leas": "LEAS-7616",
+    "centro": "Laser Factory Ample Figueres",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: sale hoy",
+   "quien": "Borja",
+   "cuando": "2026-10-13T12:23",
+   "revive_si": "2026-10-14: si no ha salido"
   }
  ],
  "enlaces": [
