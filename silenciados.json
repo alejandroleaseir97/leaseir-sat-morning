@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-11T09:59",
+ "actualizado": "2026-10-13T10:57",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6142,7 +6142,8 @@
    "porque": "Se les pide parte de nuevo (y correo a GEE de las 09:46: «Tenemos parte?»)",
    "quien": "Gonzalo",
    "cuando": "2026-10-02T09:46",
-   "revive_si": "2026-10-09: si GEE no ha mandado el parte (espera a un tercero, 5 días laborables)"
+   "revive_si": "2026-10-09: si GEE no ha mandado el parte (espera a un tercero, 5 días laborables)",
+   "caducado": "2026-10-13 10:57: ticket cerrado"
   },
   {
    "id": "7791-transito-02",
@@ -6632,7 +6633,8 @@
    "porque": "Se les ha dado , no  es averia",
    "quien": "Gonzalo",
    "cuando": "2026-10-05T17:44",
-   "revive_si": "2026-10-12: si el manípulo 00611 sigue sin recoger."
+   "revive_si": "2026-10-12: si el manípulo 00611 sigue sin recoger.",
+   "caducado": "2026-10-13 10:57: LEAS-7416 y LEAS-7418 (Palermo) cerrados el 12/10"
   },
   {
    "id": "caliports-nota-05-1818",
@@ -6646,7 +6648,8 @@
    "porque": "En espera",
    "quien": "Gonzalo",
    "cuando": "2026-10-05T18:18",
-   "revive_si": "2026-10-12: si sigue sin inventario de los Caliports y no hay nada nuevo en «SAT Centri Unico»."
+   "revive_si": "2026-10-12: si sigue sin inventario de los Caliports y no hay nada nuevo en «SAT Centri Unico».",
+   "revivido": "2026-10-13 10:57: Óscar pidió el 12/10 11:54 un Caliport para el H00368 y Borja lo prometió para el 13/10"
   },
   {
    "id": "7808-serie-nota-05-1743",
@@ -6689,7 +6692,8 @@
    "porque": "No tenemos umbilicales",
    "quien": "Gonzalo",
    "cuando": "2026-10-05T17:39",
-   "revive_si": "2026-10-12: si sigue sin umbilical y sin nota nueva"
+   "revive_si": "2026-10-12: si sigue sin umbilical y sin nota nueva",
+   "caducado": "2026-10-13 10:57: ticket cerrado"
   },
   {
    "id": "7616-nota-05-1818",
@@ -6792,7 +6796,8 @@
    "porque": "es una peiza de sustitución . esta libre en taller para ser usada",
    "quien": "Borja",
    "cuando": "2026-10-06T16:02",
-   "revive_si": "2026-10-13: si sigue en «Inspección de salida» sin nota de contenido"
+   "revive_si": "2026-10-13: si sigue en «Inspección de salida» sin nota de contenido",
+   "caducado": "2026-10-13 10:57: ticket cerrado"
   },
   {
    "id": "leas7408-noaplica-0610-1603",
@@ -6865,7 +6870,8 @@
    "porque": "Actualizadoo",
    "quien": "Gonzalo",
    "cuando": "2026-10-06T18:02",
-   "revive_si": "si la pieza no llega o el ticket no se mueve en 5 días laborables (2026-10-13)"
+   "revive_si": "si la pieza no llega o el ticket no se mueve en 5 días laborables (2026-10-13)",
+   "caducado": "2026-10-13 10:57: la pieza llegó a la terminal de DHL de Gijón el 13/10 a las 10:27"
   },
   {
    "id": "leas7698-espera-0610-1632",
@@ -6893,7 +6899,8 @@
    "porque": "Esperando parte",
    "quien": "Gonzalo",
    "cuando": "2026-10-06T18:01",
-   "revive_si": "2026-10-13: si no ha llegado el parte del técnico"
+   "revive_si": "2026-10-13: si no ha llegado el parte del técnico",
+   "caducado": "2026-10-13 10:57: ticket cerrado"
   },
   {
    "id": "leas7839-espera-0610-1631",
@@ -6907,7 +6914,8 @@
    "porque": "Tiene que llegar desde Chile. tarda semanas",
    "quien": "Gonzalo",
    "cuando": "2026-10-06T16:31",
-   "revive_si": "2026-10-13: si DHL sigue sin recogerlo"
+   "revive_si": "2026-10-13: si DHL sigue sin recogerlo",
+   "caducado": "2026-10-13 10:57: DHL lo recogió en Santiago de Chile el 06/10; en tránsito, entrega prevista el 14/10"
   },
   {
    "id": "leas7846-espera-0610-1631",
@@ -6921,7 +6929,8 @@
    "porque": "Tiene que llegar desde Chile. tarda semanas",
    "quien": "Gonzalo",
    "cuando": "2026-10-06T16:31",
-   "revive_si": "2026-10-13: si DHL sigue sin recogerlo"
+   "revive_si": "2026-10-13: si DHL sigue sin recogerlo",
+   "caducado": "2026-10-13 10:57: DHL lo recogió en Santiago de Chile el 06/10; en tránsito, entrega prevista el 14/10"
   },
   {
    "id": "leas7699-respondido-0610-1916",
@@ -6949,7 +6958,8 @@
    "porque": "seguimos esperando por sust",
    "quien": "Isaac",
    "cuando": "2026-10-05T10:20",
-   "revive_si": "2026-10-12: si sigue en «Pendiente recogida» sin sustitución enviada y sin nota de contenido posterior"
+   "revive_si": "2026-10-12: si sigue en «Pendiente recogida» sin sustitución enviada y sin nota de contenido posterior",
+   "caducado": "2026-10-13 10:57: sustituido por el «esto no aplica» de Borja del 12/10 09:18"
   },
   {
    "id": "7325-noaplica-07-0838",
@@ -6991,7 +7001,8 @@
    "porque": "envio un correo al comercial para agilizar la recogida (y correo de Isaac a DHL a las 11:58)",
    "quien": "Isaac",
    "cuando": "2026-10-07T11:50",
-   "revive_si": "2026-10-14: si DHL sigue en «Recogida en trámite» y no hay nota nueva"
+   "revive_si": "2026-10-14: si DHL sigue en «Recogida en trámite» y no hay nota nueva",
+   "caducado": "2026-10-13 10:57: DHL Parcel lo entregó en Asturias el 09/10 a las 16:28"
   },
   {
    "id": "7720-noaplica-07-1644",
@@ -7005,7 +7016,8 @@
    "porque": "mandada etiqueta de recogida de la sustitución que da fallo",
    "quien": "Cristina",
    "cuando": "2026-10-07T16:44",
-   "revive_si": "2026-10-12: si la sustitución sigue «En préstamo»/«Gestionada recogida» sin constar recogida"
+   "revive_si": "2026-10-12: si la sustitución sigue «En préstamo»/«Gestionada recogida» sin constar recogida",
+   "caducado": "2026-10-13 10:57: sustituido por el «esto no aplica» de Borja del 12/10 12:52"
   },
   {
    "id": "7682-noaplica-07-1658",
@@ -7034,7 +7046,8 @@
    "porque": "Pregunto a los chicos para confirmar si se prepara el presupuesto",
    "quien": "Cristina",
    "cuando": "2026-10-07T16:54",
-   "revive_si": "2026-10-12: si sigue en «En preparación presupuesto» sin nota de contenido"
+   "revive_si": "2026-10-12: si sigue en «En preparación presupuesto» sin nota de contenido",
+   "revivido": "2026-10-13 10:57: sigue en «En preparación presupuesto» sin nota de contenido"
   },
   {
    "id": "7607-noaplica-07-1654",
@@ -7048,7 +7061,8 @@
    "porque": "Consulto con los chicos si todo está ok para darle salida",
    "quien": "Cristina",
    "cuando": "2026-10-07T16:54",
-   "revive_si": "2026-10-12: si sigue en «En reparación» sin nota de contenido ni salida"
+   "revive_si": "2026-10-12: si sigue en «En reparación» sin nota de contenido ni salida",
+   "revivido": "2026-10-13 10:57: sigue en «En reparación» sin nota de contenido ni salida"
   },
   {
    "id": "7423-noaplica-07-1709",
@@ -7105,7 +7119,8 @@
    "porque": "Se reclama a CTT ya que desde el día 1 aparece Pendiente de recepción en CTT Express",
    "quien": "Cristina",
    "cuando": "2026-10-07T17:30",
-   "revive_si": "2026-10-12: si CTT no ha contestado o la sustitución no consta en taller"
+   "revive_si": "2026-10-12: si CTT no ha contestado o la sustitución no consta en taller",
+   "caducado": "2026-10-13 10:57: ticket cerrado"
   },
   {
    "id": "7475-noaplica-07-1736",
@@ -7190,7 +7205,8 @@
    "porque": "aun no se nada de ella, avise a Arturo para que hablara con ella",
    "quien": "Isaac",
    "cuando": "2026-10-07T19:48",
-   "revive_si": "2026-10-13 si sigue sin enviar o sin respuesta (reclamación: 3 días laborables; el 12/10 es festivo)"
+   "revive_si": "2026-10-13 si sigue sin enviar o sin respuesta (reclamación: 3 días laborables; el 12/10 es festivo)",
+   "revivido": "2026-10-13 10:57: sigue sin enviar y sin respuesta"
   },
   {
    "id": "7674-prestamo-isaac-07-1947",
@@ -7261,7 +7277,8 @@
    "porque": "esto no aplica: las sustitucion esta metida en Jira y el tracking tb , no entiendo la petición",
    "quien": "Borja",
    "cuando": "2026-10-08T12:19",
-   "revive_si": "2026-10-13 si la averiada sigue en «Pendiente recogida» sin tracking de recogida ni nota de contenido posterior (el 12/10 es festivo)"
+   "revive_si": "2026-10-13 si la averiada sigue en «Pendiente recogida» sin tracking de recogida ni nota de contenido posterior (el 12/10 es festivo)",
+   "revivido": "2026-10-13 10:57: la averiada sigue en «Pendiente recogida» sin tracking de recogida ni nota de contenido"
   },
   {
    "id": "7805-espera-borja-08-1227",
@@ -7331,7 +7348,8 @@
    "porque": "listo",
    "quien": "Borja",
    "cuando": "2026-10-09T09:38",
-   "revive_si": "2026-10-16: si se reabre o Epil Point vuelve a avisar del fallo de temperatura en Roma Eur"
+   "revive_si": "2026-10-16: si se reabre o Epil Point vuelve a avisar del fallo de temperatura en Roma Eur",
+   "revivido": "2026-10-13 10:57: Sincronis mandó el 12/10 08:53 el informe de intervención sin resolver y pide un LEAS nuevo"
   },
   {
    "id": "7863-noaplica-cristina-09-1040",
@@ -7415,7 +7433,8 @@
    "porque": "sale hoy",
    "quien": "Cristina",
    "cuando": "2026-10-09T12:08",
-   "revive_si": "2026-10-13: si LEAS-7724 no ha salido o la sustitución sigue en préstamo sin recogida pedida"
+   "revive_si": "2026-10-13: si LEAS-7724 no ha salido o la sustitución sigue en préstamo sin recogida pedida",
+   "revivido": "2026-10-13 10:57: LEAS-7724 sigue en «Inspección de salida»: no ha salido"
   },
   {
    "id": "7853-noaplica-borja-09-1418",
@@ -7472,6 +7491,104 @@
    "quien": "Isaac",
    "cuando": "2026-10-09T19:07",
    "revive_si": "2026-10-15: si el umbilical no ha salido el martes 13/10 o el técnico no ha ido"
+  },
+  {
+   "id": "deseja-manual-codigo-12",
+   "que": "Deseja (Lituania): Arturas preguntó el 06/10 13:15 cómo se activa el código por consola",
+   "ambito": {
+    "leas": null,
+    "centro": "Deseja",
+    "cliente": "Deseja",
+    "tipo": "sin-ticket"
+   },
+   "porque": "esto no aplica a ningun ticket solo era un consulta y ya se le paso la inf",
+   "quien": "Borja",
+   "cuando": "2026-10-12T09:44",
+   "revive_si": "solo si Arturas vuelve a preguntar por el código sin respuesta"
+  },
+  {
+   "id": "7660-noaplica-borja-12-1042",
+   "que": "LEAS-7660 · SinVello A Coruña (sustitución)",
+   "ambito": {
+    "leas": "LEAS-7660",
+    "centro": "SinVello A Coruña",
+    "cliente": "SinVello",
+    "tipo": "maps"
+   },
+   "porque": "esta toda la info en el caso ., no necesita link de ubicacion un caso de sustitucion",
+   "quien": "Borja",
+   "cuando": "2026-10-12T10:42",
+   "revive_si": "2026-10-27: solo si se pide de nuevo un link en una sustitución"
+  },
+  {
+   "id": "7720-noaplica-borja-12-1252",
+   "que": "LEAS-7720 · SinVello Mairena (sustitución)",
+   "ambito": {
+    "leas": "LEAS-7720",
+    "centro": "SinVello Mairena",
+    "cliente": "SinVello",
+    "tipo": "maps"
+   },
+   "porque": "las sustituciones no tienen ubicacion",
+   "quien": "Borja",
+   "cuando": "2026-10-12T12:52",
+   "revive_si": "2026-10-27: solo si se pide de nuevo un link en una sustitución"
+  },
+  {
+   "id": "7649-noaplica-borja-12-1233",
+   "que": "LEAS-7649 · Smart Duck Asnières (sustitución)",
+   "ambito": {
+    "leas": "LEAS-7649",
+    "centro": "smartduck Asnieres sur Seine",
+    "cliente": "Smart Duck",
+    "tipo": "maps"
+   },
+   "porque": "no hace flata link de ubicacion m es el mismo del padre LEAS-7618",
+   "quien": "Borja",
+   "cuando": "2026-10-12T12:33",
+   "revive_si": "2026-10-27: solo si se pide de nuevo un link en una sustitución"
+  },
+  {
+   "id": "7961-noaplica-borja-12-1059",
+   "que": "LEAS-7961 · Elha Valladolid",
+   "ambito": {
+    "leas": "LEAS-7961",
+    "centro": "Elha Valladolid",
+    "cliente": "Elha",
+    "tipo": "wapp ruta"
+   },
+   "porque": "actualizado",
+   "quien": "Borja",
+   "cuando": "2026-10-12T10:59",
+   "revive_si": "2026-10-15: si sigue en «Pendiente recogida» sin recoger (etiqueta CTT 0033260047079700009605 del 13/10)"
+  },
+  {
+   "id": "7940-noaplica-borja-12-0959",
+   "que": "LEAS-7940 · Vario Health (Letonia)",
+   "ambito": {
+    "leas": "LEAS-7940",
+    "centro": "Vario health",
+    "cliente": "Vario",
+    "tipo": "wapp"
+   },
+   "porque": "actualizado",
+   "quien": "Borja",
+   "cuando": "2026-10-12T09:59",
+   "revive_si": "2026-10-16: si Vario dice que no le ha llegado el envío CTT 0033260033269700313811"
+  },
+  {
+   "id": "7753-noaplica-borja-12-0918",
+   "que": "LEAS-7753 · Sin Vello Pozuelo (maletín por error)",
+   "ambito": {
+    "leas": "LEAS-7753",
+    "centro": "Sin Vello Pozuelo",
+    "cliente": "SinVello",
+    "tipo": "ruta wapp parado"
+   },
+   "porque": "Cierra esto . no hay caso sin vello, se mando un maletin por error . Esta todo aclarado con sin vello por tfno",
+   "quien": "Borja",
+   "cuando": "2026-10-12T09:18",
+   "revive_si": "2026-10-20: si sigue abierto sin cerrar"
   }
  ],
  "enlaces": [
