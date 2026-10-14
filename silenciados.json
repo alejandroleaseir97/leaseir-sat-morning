@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-13T20:24",
+ "actualizado": "2026-10-14T10:17",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7687,6 +7687,34 @@
    "quien": "Borja",
    "cuando": "2026-10-13T14:18",
    "revive_si": "2026-10-16: si sigue en «En reparación» sin nota"
+  },
+  {
+   "id": "7764-noaplica-borja-14-0913",
+   "que": "LEAS-7764 · Clínica Ónix 8",
+   "ambito": {
+    "leas": "LEAS-7764",
+    "centro": "Clínica Ónix 8",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: ya s eha recogido",
+   "quien": "Borja",
+   "cuando": "2026-10-14T09:13",
+   "revive_si": "2026-10-19: si sigue en «Gestionado transporte» sin llegar a taller"
+  },
+  {
+   "id": "7960-noaplica-cristina-14-1014",
+   "que": "LEAS-7960 · Elha Pisuerga",
+   "ambito": {
+    "leas": "LEAS-7960",
+    "centro": "Elha Pisuerga",
+    "cliente": "",
+    "tipo": "medias"
+   },
+   "porque": "esto no aplica: va Carlos Mora",
+   "quien": "Cristina",
+   "cuando": "2026-10-14T10:14",
+   "revive_si": "2026-10-28: fecha del técnico (10144); si sigue sin nota después"
   }
  ],
  "enlaces": [
