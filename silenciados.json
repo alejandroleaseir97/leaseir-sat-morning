@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-14T10:17",
+ "actualizado": "2026-10-14T13:29",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7715,6 +7715,76 @@
    "quien": "Cristina",
    "cuando": "2026-10-14T10:14",
    "revive_si": "2026-10-28: fecha del técnico (10144); si sigue sin nota después"
+  },
+  {
+   "id": "7975-noaplica-cristina-14-1017",
+   "que": "LEAS-7975 · SinVello A Coruña",
+   "ambito": {
+    "leas": "LEAS-7975",
+    "centro": "SinVello A Coruña",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "esto no aplica: Hoy sacamos sustitución y traemos el equipo a taller, ys que aún limpiando las conexiones bien sigue apareciendo el stop",
+   "quien": "Cristina",
+   "cuando": "2026-10-14T10:17",
+   "revive_si": "2026-10-16: si la sustitución LEAS-7981 sigue en «Solicitado»"
+  },
+  {
+   "id": "7724-noaplica-cristina-14-1021",
+   "que": "LEAS-7724 · SinVello Algeciras",
+   "ambito": {
+    "leas": "LEAS-7724",
+    "centro": "SinVello Algeciras",
+    "cliente": "",
+    "tipo": "cerrar"
+   },
+   "porque": "esto no aplica: Finalmente sale hoy día 14/10",
+   "quien": "Cristina",
+   "cuando": "2026-10-14T10:21",
+   "revive_si": "2026-10-16: si sigue en «Inspección de salida»"
+  },
+  {
+   "id": "7741-noaplica-cristina-14-1035",
+   "que": "LEAS-7741 · BiNatural (Polonia)",
+   "ambito": {
+    "leas": "LEAS-7741",
+    "centro": "BiNatural",
+    "cliente": "",
+    "tipo": "cerrar"
+   },
+   "porque": "esto no aplica: está a falta de un papel para poder sacarlo",
+   "quien": "Cristina",
+   "cuando": "2026-10-14T10:35",
+   "revive_si": "2026-10-21: si sigue en «Inspección de salida» sin nota (espera de un papel, 5 laborables)"
+  },
+  {
+   "id": "7607-noaplica-cristina-14-1111",
+   "que": "LEAS-7607 · Centri Unico Roma Est (FS0023)",
+   "ambito": {
+    "leas": "LEAS-7607",
+    "centro": "Centro Unico Roma Est",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: sigue en reparación",
+   "quien": "Cristina",
+   "cuando": "2026-10-14T11:11",
+   "revive_si": "2026-10-19: si sigue en reparación sin nota de contenido"
+  },
+  {
+   "id": "7311-noaplica-cristina-14-1113",
+   "que": "LEAS-7311 · Elha Pisa",
+   "ambito": {
+    "leas": "LEAS-7311",
+    "centro": "Elha Pisa",
+    "cliente": "",
+    "tipo": "cerrar"
+   },
+   "porque": "esto no aplica: Llegó hoy el manipulo a Italia, aún no salió a reparto a el centro",
+   "quien": "Cristina",
+   "cuando": "2026-10-14T11:13",
+   "revive_si": "2026-10-16: si sigue en «Devuelto a cliente» sin cerrar"
   }
  ],
  "enlaces": [
