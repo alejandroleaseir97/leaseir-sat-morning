@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-15T15:35",
+ "actualizado": "2026-10-15T16:31",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7933,6 +7933,90 @@
    "quien": "Borja",
    "cuando": "2026-10-15T14:18",
    "revive_si": "si se reabre (el manípulo llega a taller)"
+  },
+  {
+   "id": "7804-noaplica-cristina-15-1535",
+   "que": "LEAS-7804 · SinVello Sant Cugat",
+   "ambito": {
+    "leas": "LEAS-7804",
+    "centro": "SinVello Sant Cugat",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: en cuanto se libere algún técnico se asignará",
+   "quien": "Cristina",
+   "cuando": "2026-10-15T15:35",
+   "revive_si": "2026-10-22: si sigue sin técnico asignado"
+  },
+  {
+   "id": "7925-noaplica-cristina-15-1534",
+   "que": "LEAS-7925 · Elha Napols",
+   "ambito": {
+    "leas": "LEAS-7925",
+    "centro": "Elha Napols",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: se consulta si han podido poner el tornillo o necesitan asistencia técnica",
+   "quien": "Cristina",
+   "cuando": "2026-10-15T15:34",
+   "revive_si": "2026-10-20: si Elha no ha contestado o no hay nota"
+  },
+  {
+   "id": "7882-noaplica-cristina-15-1531",
+   "que": "LEAS-7882 · Elha Martín el Humano",
+   "ambito": {
+    "leas": "LEAS-7882",
+    "centro": "Elha Martín el Humano",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "no aplica",
+   "quien": "Cristina",
+   "cuando": "2026-10-15T15:31",
+   "revive_si": "2026-10-20: si sigue sin nota de contenido"
+  },
+  {
+   "id": "7891-noaplica-cristina-15-1543",
+   "que": "LEAS-7891 · Paula Estética (Estética Radiante)",
+   "ambito": {
+    "leas": "LEAS-7891",
+    "centro": "Paula Estética (Estética Radiante)",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: Consulto con Isaac ya que es el últmo comentario de él",
+   "quien": "Cristina",
+   "cuando": "2026-10-15T15:43",
+   "revive_si": "2026-10-20: si sigue sin nota de contenido"
+  },
+  {
+   "id": "7821-noaplica-cristina-15-1547",
+   "que": "LEAS-7821 · SinVello Sanlúcar de Barrameda",
+   "ambito": {
+    "leas": "LEAS-7821",
+    "centro": "SinVello Sanlúcar de Barrameda",
+    "cliente": "",
+    "tipo": "cerrar"
+   },
+   "porque": "esto no aplica: Han entregado hoy día 15, consulto si todo está ok",
+   "quien": "Cristina",
+   "cuando": "2026-10-15T15:47",
+   "revive_si": "2026-10-20: si sigue sin finalizar"
+  },
+  {
+   "id": "7897-noaplica-borja-15-1607",
+   "que": "LEAS-7897 · Marvena (Sofía, Bulgaria)",
+   "ambito": {
+    "leas": "LEAS-7897",
+    "centro": "Marvena (Sofía, Bulgaria)",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: han pasado solo dos dias, no me parece prudente atosigar a los dos dias con lo mismo. preguntamos el viernes",
+   "quien": "Borja",
+   "cuando": "2026-10-15T16:07",
+   "revive_si": "2026-10-16: si el viernes no se ha preguntado o sigue sin recoger"
   }
  ],
  "enlaces": [
