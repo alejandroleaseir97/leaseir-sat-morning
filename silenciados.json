@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-14T20:47",
+ "actualizado": "2026-10-15T10:15",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -6707,7 +6707,8 @@
    "porque": "Ya les he respondido, tenemos a los técnicos con muchas incidencias cada uno",
    "quien": "Gonzalo",
    "cuando": "2026-10-05T18:18",
-   "revive_si": "2026-10-12: si sigue en «En cola taller» y Laser Factory vuelve a preguntar sin fecha"
+   "revive_si": "2026-10-12: si sigue en «En cola taller» y Laser Factory vuelve a preguntar sin fecha",
+   "caducado": "2026-10-15T10:15: ya salió de taller («Devuelto a cliente»)"
   },
   {
    "id": "7740-nota-05-1943",
@@ -6885,7 +6886,8 @@
    "porque": "No ha actualizaciones",
    "quien": "Gonzalo",
    "cuando": "2026-10-06T16:32",
-   "revive_si": "2026-10-13: espera del cliente; vuelve si sigue sin nota de contenido"
+   "revive_si": "2026-10-13: espera del cliente; vuelve si sigue sin nota de contenido",
+   "revivido": "2026-10-15T10:15: sigue sin nota de contenido desde el 06/10"
   },
   {
    "id": "leas7798-espera-0610-1801",
@@ -6973,7 +6975,8 @@
    "porque": "repreguntamos en el chat a ver si nos dan mas información",
    "quien": "Borja",
    "cuando": "2026-10-07T08:38",
-   "revive_si": "2026-10-14: si sigue en «Gestionado transporte» sin nota de contenido nueva (espera de un tercero, 5 días laborables)"
+   "revive_si": "2026-10-14: si sigue en «Gestionado transporte» sin nota de contenido nueva (espera de un tercero, 5 días laborables)",
+   "revivido": "2026-10-15T10:15: sigue en «Gestionado transporte» sin nota de contenido desde el 25/09"
   },
   {
    "id": "7775-gonzalo-07-1017",
@@ -7076,7 +7079,8 @@
    "porque": "ya tiene técnico asignado para reparación",
    "quien": "Cristina",
    "cuando": "2026-10-07T17:09",
-   "revive_si": "2026-10-14: si sigue en «En preparación presupuesto» sin nota de contenido"
+   "revive_si": "2026-10-14: si sigue en «En preparación presupuesto» sin nota de contenido",
+   "revivido": "2026-10-15T10:15: sigue en «En preparación presupuesto» sin nota de contenido desde el 01/10"
   },
   {
    "id": "7570-noaplica-07-1710",
@@ -7090,7 +7094,8 @@
    "porque": "ya dejó Isaac anotado que estamos a falta de umbilicales, en cuanto se disponga de ellos se realizará la reparación",
    "quien": "Cristina",
    "cuando": "2026-10-07T17:10",
-   "revive_si": "2026-10-14: espera de material; vuelve si la sustitución sigue en préstamo sin nota nueva"
+   "revive_si": "2026-10-14: espera de material; vuelve si la sustitución sigue en préstamo sin nota nueva",
+   "revivido": "2026-10-15T10:15: la sustitución sigue en préstamo sin nota nueva desde el 07/10"
   },
   {
    "id": "7573-noaplica-07-1711",
@@ -7149,7 +7154,8 @@
    "porque": "tracking del envío de la consola reparada puesto en Jira",
    "quien": "Cristina",
    "cuando": "2026-10-07T17:44",
-   "revive_si": "2026-10-12: si la sustitución AHR0082 sigue en préstamo sin recogida"
+   "revive_si": "2026-10-12: si la sustitución AHR0082 sigue en préstamo sin recogida",
+   "revivido": "2026-10-15T10:15: la AHR0082 sigue en préstamo sin recogida"
   },
   {
    "id": "lmedical-noaplica-07-1737",
@@ -7191,7 +7197,8 @@
    "porque": "esto esta en manos de David",
    "quien": "Isaac",
    "cuando": "2026-10-07T19:54",
-   "revive_si": "2026-10-13 si sigue en estado de presupuesto sin nota de contenido (espera: 3 días laborables; el 12/10 es festivo)"
+   "revive_si": "2026-10-13 si sigue en estado de presupuesto sin nota de contenido (espera: 3 días laborables; el 12/10 es festivo)",
+   "revivido": "2026-10-15T10:15: sigue en «Pendiente confirmación presupuesto»; último recordatorio el 09/10"
   },
   {
    "id": "6907-presu-isaac-07-1948",
@@ -7220,7 +7227,8 @@
    "porque": "volvere a reclamar a DHL, no se las veces que he reclamado",
    "quien": "Isaac",
    "cuando": "2026-10-07T19:47",
-   "revive_si": "2026-10-15 si LEAS-7673 no ha llegado a Gijón (espera del transportista: 5 días laborables)"
+   "revive_si": "2026-10-15 si LEAS-7673 no ha llegado a Gijón (espera del transportista: 5 días laborables)",
+   "revivido": "2026-10-15T10:15: LEAS-7673 aún no ha llegado a Gijón (en Madrid el 15/10 a las 06:20): el punto sale en su principal"
   },
   {
    "id": "7644-prestamo-isaac-07-1947",
@@ -7249,7 +7257,8 @@
    "porque": "hable esta semana con la clinica de Pamplona y las pase las etiquetas para recogida, DHL anulo la recogida no sabemos xq, se habla con Dhl para que la active y con la clinica de Pamplona.",
    "quien": "Isaac",
    "cuando": "2026-10-08T09:49",
-   "revive_si": "2026-10-15 si la sustitución sigue sin recoger (espera del transportista: 5 días laborables)"
+   "revive_si": "2026-10-15 si la sustitución sigue sin recoger (espera del transportista: 5 días laborables)",
+   "revivido": "2026-10-15T10:15: la sustitución sigue sin recoger"
   },
   {
    "id": "7817-externo-isaac-08-0959",
@@ -7292,7 +7301,8 @@
    "porque": "van a mover un equipo que llegó a Appia para poder recoger este . Cuando lo tengan en su central nos avisan para recogerlo",
    "quien": "Borja",
    "cuando": "2026-10-08T12:27",
-   "revive_si": "2026-10-15 si sigue en «Pendiente recogida» sin aviso de Epil Point ni nota de contenido posterior (espera de terceros: 5 días laborables)"
+   "revive_si": "2026-10-15 si sigue en «Pendiente recogida» sin aviso de Epil Point ni nota de contenido posterior (espera de terceros: 5 días laborables)",
+   "revivido": "2026-10-15T10:15: sigue en «Pendiente recogida» sin aviso de Epil Point"
   },
   {
    "id": "7753-noaplica-borja-08-1356",
@@ -7334,7 +7344,8 @@
    "porque": "sale hoy material para firenze, avisadas en el chat",
    "quien": "Borja",
    "cuando": "2026-10-08T13:47",
-   "revive_si": "2026-10-15 si el centro vuelve a preguntar por el técnico sin fecha apuntada"
+   "revive_si": "2026-10-15 si el centro vuelve a preguntar por el técnico sin fecha apuntada",
+   "caducado": "2026-10-15T10:15: el punto ya sale en el bloque de Epil Point / Centri Unico"
   },
   {
    "id": "7860-noaplica-borja-09-0938",
@@ -7363,7 +7374,8 @@
    "porque": "en cuanto se liberen de trabajo los técnicos en taller se irá asignando",
    "quien": "Cristina",
    "cuando": "2026-10-09T10:40",
-   "revive_si": "2026-10-14: si sigue en «Esperando respuesta cliente a presupuesto» sin nota de contenido"
+   "revive_si": "2026-10-14: si sigue en «Esperando respuesta cliente a presupuesto» sin nota de contenido",
+   "caducado": "2026-10-15T10:15: ya no está en estado de presupuesto (En préstamo)"
   },
   {
    "id": "7755-noaplica-cristina-09-1043",
@@ -7419,7 +7431,8 @@
    "porque": "recogida gestionada",
    "quien": "Cristina",
    "cuando": "2026-10-09T12:02",
-   "revive_si": "2026-10-14: si sigue en «Gestionado transporte» sin llegar a taller"
+   "revive_si": "2026-10-14: si sigue en «Gestionado transporte» sin llegar a taller",
+   "caducado": "2026-10-15T10:15: tiene nota de contenido posterior (14/10 12:53) y ya está en taller"
   },
   {
    "id": "7728-noaplica-cristina-09-1208",
@@ -7448,7 +7461,8 @@
    "porque": "enviado a aduanas",
    "quien": "Borja",
    "cuando": "2026-10-09T14:18",
-   "revive_si": "2026-10-14: si la pieza de UPS 1Z8E3255DK11244897 sigue sin llegar a Gijón"
+   "revive_si": "2026-10-14: si la pieza de UPS 1Z8E3255DK11244897 sigue sin llegar a Gijón",
+   "caducado": "2026-10-15T10:15: la pieza de UPS está en reparto en Gijón el 15/10 (entrega estimada 09:15-13:15)"
   },
   {
    "id": "7646-espera-isaac-09-1946",
@@ -7462,7 +7476,8 @@
    "porque": "siguen sin darnos respuesta de la devolución de sust, el martes lo hablamos en la oficina",
    "quien": "Isaac",
    "cuando": "2026-10-09T19:46",
-   "revive_si": "2026-10-14: si no hay nota nueva tras hablarlo en la oficina"
+   "revive_si": "2026-10-14: si no hay nota nueva tras hablarlo en la oficina",
+   "revivido": "2026-10-15T10:15: sin nota nueva tras el martes"
   },
   {
    "id": "7298-espera-isaac-09-1936",
@@ -7490,7 +7505,8 @@
    "porque": "cambio a enviado tecnico xq ya quedo con la clienta para cuando llegue el material",
    "quien": "Isaac",
    "cuando": "2026-10-09T19:07",
-   "revive_si": "2026-10-15: si el umbilical no ha salido el martes 13/10 o el técnico no ha ido"
+   "revive_si": "2026-10-15: si el umbilical no ha salido el martes 13/10 o el técnico no ha ido",
+   "revivido": "2026-10-15T10:15: sin fecha del técnico ni nota desde el 09/10"
   },
   {
    "id": "deseja-manual-codigo-12",
@@ -7560,7 +7576,8 @@
    "porque": "actualizado",
    "quien": "Borja",
    "cuando": "2026-10-12T10:59",
-   "revive_si": "2026-10-15: si sigue en «Pendiente recogida» sin recoger (etiqueta CTT 0033260047079700009605 del 13/10)"
+   "revive_si": "2026-10-15: si sigue en «Pendiente recogida» sin recoger (etiqueta CTT 0033260047079700009605 del 13/10)",
+   "caducado": "2026-10-15T10:15: ya no está en «Pendiente recogida»: llegó a taller («Pendiente asignar técnico»)"
   },
   {
    "id": "7940-noaplica-borja-12-0959",
@@ -7644,7 +7661,8 @@
    "porque": "esto no aplica: sale hoy",
    "quien": "Borja",
    "cuando": "2026-10-13T12:23",
-   "revive_si": "2026-10-14: si no ha salido"
+   "revive_si": "2026-10-14: si no ha salido",
+   "caducado": "2026-10-15T10:15: salió el 13/10 («Devuelto a cliente»)"
   },
   {
    "id": "7756-noaplica-borja-13-1320",
@@ -7827,6 +7845,20 @@
    "quien": "Borja",
    "cuando": "2026-10-14T15:04",
    "revive_si": "2026-10-16: si la recogida de mañana no consta hecha"
+  },
+  {
+   "id": "7967-nota-borja-15-1003",
+   "que": "LEAS-7967 · Epil Point (oficinas, SUSTMHR020)",
+   "ambito": {
+    "leas": "LEAS-7967",
+    "centro": "Epil Point Oficinas SUSTMHR020",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "no ha lugar,. la mercanica esta recogida y todo esta apuntado",
+   "quien": "Borja",
+   "cuando": "2026-10-15T10:03",
+   "revive_si": "2026-10-22: si sigue en «Gestionado transporte» sin llegar a taller"
   }
  ],
  "enlaces": [
