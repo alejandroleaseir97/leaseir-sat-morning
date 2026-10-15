@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-15T12:59",
+ "actualizado": "2026-10-15T15:35",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7891,6 +7891,48 @@
    "quien": "Isaac",
    "cuando": "2026-10-15T11:05",
    "revive_si": "2026-10-20: si sigue sin nota de contenido"
+  },
+  {
+   "id": "7789-noaplica-borja-15-1354",
+   "que": "LEAS-7789 · Beleco Fan Mallorca",
+   "ambito": {
+    "leas": "LEAS-7789",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "esto no aplica: es un ticket diferente ,. son temas distintos la pieza con golpe y la consola",
+   "quien": "Borja",
+   "cuando": "2026-10-15T13:54",
+   "revive_si": "2026-10-20: si la consola de sustitución LEAS-8014 no ha salido o la clienta sigue sin respuesta"
+  },
+  {
+   "id": "7922-noaplica-cristina-15-1524",
+   "que": "LEAS-7922 · Elha Logroño",
+   "ambito": {
+    "leas": "LEAS-7922",
+    "centro": "Elha Logroño",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: está esperando inicio de reparación",
+   "quien": "Cristina",
+   "cuando": "2026-10-15T15:24",
+   "revive_si": "2026-10-20: si sigue sin nota de contenido ni técnico"
+  },
+  {
+   "id": "7325-noaplica-borja-15-1418",
+   "que": "LEAS-7325 · MedQuant (Bielorrusia)",
+   "ambito": {
+    "leas": "LEAS-7325",
+    "centro": "MedQuant",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: cerrado",
+   "quien": "Borja",
+   "cuando": "2026-10-15T14:18",
+   "revive_si": "si se reabre (el manípulo llega a taller)"
   }
  ],
  "enlaces": [
