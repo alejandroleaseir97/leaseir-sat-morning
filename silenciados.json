@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-15T10:15",
+ "actualizado": "2026-10-15T12:59",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7591,7 +7591,11 @@
    "porque": "actualizado",
    "quien": "Borja",
    "cuando": "2026-10-12T09:59",
-   "revive_si": "2026-10-16: si Vario dice que no le ha llegado el envío CTT 0033260033269700313811"
+   "revive_si": "2026-10-16: si Vario dice que no le ha llegado el envío CTT 0033260033269700313811",
+   "revivido": {
+    "cuando": "2026-10-15T12:59",
+    "motivo": "Vario avisó hoy a las 12:27 en su grupo de que el paquete CTT lleva parado desde el 09/10: se cumple el revive_si"
+   }
   },
   {
    "id": "7753-noaplica-borja-12-0918",
@@ -7859,6 +7863,34 @@
    "quien": "Borja",
    "cuando": "2026-10-15T10:03",
    "revive_si": "2026-10-22: si sigue en «Gestionado transporte» sin llegar a taller"
+  },
+  {
+   "id": "7673-noaplica-borja-15-1104",
+   "que": "LEAS-7673 · Natur Belle Vomero (SRF0028)",
+   "ambito": {
+    "leas": "LEAS-7673",
+    "centro": "Natur Belle Vomero",
+    "cliente": "Epil Point",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: esta en madrid ya deberian entregar",
+   "quien": "Borja",
+   "cuando": "2026-10-15T11:04",
+   "revive_si": "2026-10-20: si no ha llegado a taller"
+  },
+  {
+   "id": "7878-noaplica-isaac-15-1105",
+   "que": "LEAS-7878 · SinVello Jerez",
+   "ambito": {
+    "leas": "LEAS-7878",
+    "centro": "SinVello Jerez",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: se la asigno a tecnico",
+   "quien": "Isaac",
+   "cuando": "2026-10-15T11:05",
+   "revive_si": "2026-10-20: si sigue sin nota de contenido"
   }
  ],
  "enlaces": [
