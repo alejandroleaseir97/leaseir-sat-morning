@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-15T20:32",
+ "actualizado": "2026-10-16T08:40",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7389,7 +7389,11 @@
    "porque": "sigue en el mismo punto, en cuanto se liberen técnico se asignará",
    "quien": "Cristina",
    "cuando": "2026-10-09T10:43",
-   "revive_si": "2026-10-16: si sigue en «Pendiente asignar técnico» sin técnico"
+   "revive_si": "2026-10-16: si sigue en «Pendiente asignar técnico» sin técnico",
+   "revivido": {
+    "cuando": "2026-10-16T08:40",
+    "motivo": "ya está en «En cola taller» pero sigue sin una sola nota (regla 17)"
+   }
   },
   {
    "id": "6765-noaplica-cristina-09-1049",
@@ -7403,7 +7407,11 @@
    "porque": "Es equipo medico y para aduanas hay movida asi que lo ultimo que se es que tiene que gestionar papeleo calidad",
    "quien": "Cristina",
    "cuando": "2026-10-09T10:49",
-   "revive_si": "2026-10-16: si sigue en «Inspección de salida» sin nota nueva"
+   "revive_si": "2026-10-16: si sigue en «Inspección de salida» sin nota nueva",
+   "revivido": {
+    "cuando": "2026-10-16T08:40",
+    "motivo": "sigue en «Inspección de salida» sin nota nueva"
+   }
   },
   {
    "id": "7682-noaplica-cristina-09-1105",
@@ -7491,7 +7499,11 @@
    "porque": "ha estado fuera de",
    "quien": "Isaac",
    "cuando": "2026-10-09T19:36",
-   "revive_si": "2026-10-16: si sigue en «Solicitado» sin respuesta de David"
+   "revive_si": "2026-10-16: si sigue en «Solicitado» sin respuesta de David",
+   "revivido": {
+    "cuando": "2026-10-16T08:40",
+    "motivo": "sigue en «Solicitado» sin respuesta de David"
+   }
   },
   {
    "id": "7932-nota-isaac-09-1907",
@@ -7637,7 +7649,11 @@
    "porque": "esto no aplica: avanzado",
    "quien": "Borja",
    "cuando": "2026-10-13T11:32",
-   "revive_si": "2026-10-16: si sigue en «Pendiente asignar técnico» sin nota"
+   "revive_si": "2026-10-16: si sigue en «Pendiente asignar técnico» sin nota",
+   "revivido": {
+    "cuando": "2026-10-16T08:40",
+    "motivo": "en «Pendiente confirmación presupuesto», sin nota de contenido desde el 07/10"
+   }
   },
   {
    "id": "7828-noaplica-borja-13-1222",
@@ -7651,7 +7667,8 @@
    "porque": "esto no aplica: si esta pdte de asignar esta en taller",
    "quien": "Borja",
    "cuando": "2026-10-13T12:22",
-   "revive_si": "2026-10-16: si sigue sin técnico"
+   "revive_si": "2026-10-16: si sigue sin técnico",
+   "caducado": "2026-10-16T08:40: ya tiene técnico (Chus); el retraso sale en el punto de Laser Factory (LEAS-7740)"
   },
   {
    "id": "7616-noaplica-borja-13-1223",
@@ -7680,7 +7697,8 @@
    "porque": "esto no aplica: ya estra hecho",
    "quien": "Borja",
    "cuando": "2026-10-13T13:20",
-   "revive_si": "2026-10-16: si sigue sin presupuesto"
+   "revive_si": "2026-10-16: si sigue sin presupuesto",
+   "caducado": "2026-10-16T08:40: ya tiene presupuesto («Presupuesto preparado pendiente de enviar»)"
   },
   {
    "id": "7810-noaplica-borja-13-1355",
@@ -7708,7 +7726,8 @@
    "porque": "esto no aplica: esta en reparacion",
    "quien": "Borja",
    "cuando": "2026-10-13T14:18",
-   "revive_si": "2026-10-16: si sigue en «En reparación» sin nota"
+   "revive_si": "2026-10-16: si sigue en «En reparación» sin nota",
+   "caducado": "2026-10-16T08:40: ya está en «Devuelto a cliente»"
   },
   {
    "id": "7764-noaplica-borja-14-0913",
@@ -7750,7 +7769,11 @@
    "porque": "esto no aplica: Hoy sacamos sustitución y traemos el equipo a taller, ys que aún limpiando las conexiones bien sigue apareciendo el stop",
    "quien": "Cristina",
    "cuando": "2026-10-14T10:17",
-   "revive_si": "2026-10-16: si la sustitución LEAS-7981 sigue en «Solicitado»"
+   "revive_si": "2026-10-16: si la sustitución LEAS-7981 sigue en «Solicitado»",
+   "revivido": {
+    "cuando": "2026-10-16T08:40",
+    "motivo": "la sustitución ya está en préstamo y la averiada sigue sin recoger ni nota"
+   }
   },
   {
    "id": "7724-noaplica-cristina-14-1021",
@@ -7764,7 +7787,8 @@
    "porque": "esto no aplica: Finalmente sale hoy día 14/10",
    "quien": "Cristina",
    "cuando": "2026-10-14T10:21",
-   "revive_si": "2026-10-16: si sigue en «Inspección de salida»"
+   "revive_si": "2026-10-16: si sigue en «Inspección de salida»",
+   "caducado": "2026-10-16T08:40: ya está en «Devuelto a cliente»"
   },
   {
    "id": "7741-noaplica-cristina-14-1035",
@@ -8016,7 +8040,11 @@
    "porque": "esto no aplica: han pasado solo dos dias, no me parece prudente atosigar a los dos dias con lo mismo. preguntamos el viernes",
    "quien": "Borja",
    "cuando": "2026-10-15T16:07",
-   "revive_si": "2026-10-16: si el viernes no se ha preguntado o sigue sin recoger"
+   "revive_si": "2026-10-16: si el viernes no se ha preguntado o sigue sin recoger",
+   "revivido": {
+    "cuando": "2026-10-16T08:40",
+    "motivo": "es viernes y sigue en «Pendiente recogida» sin noticias"
+   }
   }
  ],
  "enlaces": [
