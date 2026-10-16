@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-16T12:08",
+ "actualizado": "2026-10-16T12:52",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8053,6 +8053,188 @@
     "cuando": "2026-10-16T08:40",
     "motivo": "es viernes y sigue en «Pendiente recogida» sin noticias"
    }
+  },
+  {
+   "id": "8017-noaplica-cristina-16-1151",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8017",
+    "centro": "Elha médico Vicente reyes",
+    "cliente": null,
+    "tipo": "medias-sin-comentario"
+   },
+   "porque": "Esto no aplica, ya está en gestión con etiqueta de recogida mandado al centro",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T11:51",
+   "revive_si": "2026-10-20: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7845-noaplica-cristina-16-1125",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7845",
+    "centro": "Elha Villarroel",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "En cuanto se libere Jonathan del trabajo previo que tiene empezará con esta consola",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T11:25",
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7936-noaplica-cristina-16-1148",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7936",
+    "centro": "SinVello Sevilla Este",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "En cuanto se vaya liberando Jonathan de trabajo ira cogiendo lo pendiente que tiene",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T11:48",
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7922-noaplica-cristina-16-1153",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7922",
+    "centro": "Elha Logroño",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "No aplica ya tiene respuesta por parte de Borja",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T11:53",
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7786-noaplica-cristina-16-1156",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7786",
+    "centro": "SinVello Lorca",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "Ya tiene técnico asignado, en cuanto vaya sacando reparaciones irá cogiendo lista de pendientes que tiene",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T11:56",
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7957-noaplica-cristina-16-1158",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7957",
+    "centro": "SinVello Torrelavega",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "No aplica, sigue en el mismo punto, en cuanto se libere volumen de trabajo se irá asignando",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T11:58",
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7423-noaplica-cristina-16-1201",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7423",
+    "centro": "RADIANTE AVILES ( SUST011 SRF-FC)",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "Sigue en el mismo punto, en cuanto el técnico se libere del trabajo actual irá avanzando en lo pendiente",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T12:01",
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7853-noaplica-cristina-16-1207",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7853",
+    "centro": "Tobas GmbH",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "Está en taller ya pendiente de asignar a un técnico, hay mucho volumen de trabajo en cuando se vaya liberando se asignará",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T12:07",
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7893-noaplica-cristina-16-1219",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7893",
+    "centro": "BEAUTY Centre d'estètica 90159 20076",
+    "cliente": null,
+    "tipo": "recogida"
+   },
+   "porque": "No aplica, escribió ayer Isaac que se recogió ayer por la mañana, asique llegará el lunes",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T12:19",
+   "revive_si": "2026-10-20: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7458-noaplica-cristina-16-1221",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7458",
+    "centro": "Elha Laser Center Milano - Carducci",
+    "cliente": null,
+    "tipo": "recogida"
+   },
+   "porque": "Se manda ayer recogida de Pisa a Carrducci de la sustitución",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T12:21",
+   "revive_si": "2026-10-21: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7726-noaplica-cristina-16-1226",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7726",
+    "centro": "L Medical (G-Point)",
+    "cliente": null,
+    "tipo": "recogida"
+   },
+   "porque": "Sigue sin llegar a taller",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T12:26",
+   "revive_si": "2026-10-21: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7974-noaplica-cristina-16-1231",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7974",
+    "centro": "By Beauty  ( AHR0495 )",
+    "cliente": null,
+    "tipo": "recogida"
+   },
+   "porque": "Cambiamos la asistencia por técnica, se pasa nota a GEE hace 3 días y no sabemos cuando se realizará, escribo a GEE para que me informen",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T12:31",
+   "revive_si": "2026-10-21: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7878-noaplica-cristina-16-1233",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7878",
+    "centro": "SinVello Jerez",
+    "cliente": null,
+    "tipo": "reparacion-fuera-de-plazo"
+   },
+   "porque": "técnico asignado, en cuanto se libere Francisco se realizará la reparación",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T12:33",
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
   }
  ],
  "enlaces": [
