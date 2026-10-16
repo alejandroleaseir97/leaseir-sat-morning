@@ -9177,6 +9177,36 @@
     "cuando": "2026-10-16T15:51",
     "motivo": "Distrilaser comunicó su decisión: a la pregunta de Isaac (14:13, «Shall we send you the Caliport for the C00216 laser?») Gravereau Mathieu contestó el 16/10 a las 15:14 en «Distrilaser - Leaseir» «yes please send me to my personal adress». Se cumple «deja_de_aplicar_si»; el punto pasa a pedir el envío del caliport del C00216."
    }
+  },
+  {
+   "id": "distrilaser-c00216-caliport-solicitado-16-1810",
+   "activo": true,
+   "que": "Distrilaser (Francia), C00216: envío del caliport pedido a CALIPORT (bloque wapp, sin ticket)",
+   "estado": "C00216: solicitado a CALIPORT; confirmación de despacho/facturación pendiente; el cliente ya decidió (15:14) y ya se le contestó/transmitió (18:09-18:12): no volver a pedirlo; no afirmar despacho ni entrega; sin dirección personal ni ciudad; C00663 aparte",
+   "quien": "Isaac (CALIPORT 18:09 y 18:10; acuse al cliente 18:12)",
+   "cuando": "2026-10-16T18:12+02:00",
+   "evidencia": "Lectura del usuario a las ~18:35 de WhatsApp «Distrilaser - Leaseir» (petición del cliente 15:14, acuse de Isaac 18:12) y de Telegram CALIPORT (Isaac 18:09 pide el envío para antes del 26/10; 18:10 pregunta por la facturación). Sin confirmación de despacho, tracking, entrega ni facturación.",
+   "autoriza": "Alejandro, 16/10/2026 (corrección de omisión tras la pasada de 18:10)",
+   "aplica_si": [
+    "(?i)distrilaser",
+    "C00216"
+   ],
+   "requerido": [
+    "C00216: solicitado a CALIPORT; confirmación de despacho/facturación pendiente"
+   ],
+   "prohibido": [
+    "(?i)pendiente de decisión",
+    "(?i)pas(ar|arle) la dirección",
+    "(?i)confirmarle el envío",
+    "(?i)\\b(despachado|entregado)\\b",
+    "Saint",
+    "(?i)abrir (el )?ticket"
+   ],
+   "debe_salir": true,
+   "deja_de_aplicar_si": "CALIPORT confirma despacho (tracking) o entrega, o responde sobre la facturación, o se abre ticket del envío: entonces se reescribe con ese dato o activo=false con motivo.",
+   "historial": [
+    "2026-10-16 18:40: fijado tras la pasada de 18:10, que había retirado el punto por el acuse de Isaac."
+   ]
   }
  ],
  "que_es_esto_criticos_seguimiento": "Excepción ACOTADA (16/10/2026, Alejandro, regla 19): críticos abiertos en Jira cuyo «esto no aplica» de hoy descarta la ACCIÓN antigua del punto, no el posible riesgo. Mientras 'activo' sea true el punto sigue saliendo (en 'bloque') con el descarte visible y la caja de críticos lo conserva; el comprobador NO da error por el «no aplica» ni por los silencios listados en 'descartes' (que siguen válidos y no se tocan), y SÍ da error si el punto desaparece, pierde el descarte o vuelve a la acción descartada. Solo cubre los LEAS listados: no es una regla para ignorar «no aplica».",
@@ -9286,9 +9316,10 @@
     "sin_servicio"
    ],
    "descartes": [
-    "8017-noaplica-cristina-16-1151"
+    "8017-noaplica-cristina-16-1151",
+    "8017-noaplica-cristina-16-1737"
    ],
-   "se_descarta": "tratarlo como «sin un solo comentario» (en gestión con etiqueta de recogida enviada)",
+   "se_descarta": "tratarlo como «sin un solo comentario» (en gestión con etiqueta de recogida enviada); repetir la gestión logística ya comentada por Borja (Cristina 17:37)",
    "quien": "Cristina (vía panel, 11:51)",
    "prohibido": [
     "(?i)sin un solo comentario",
