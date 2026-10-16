@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-16T16:33",
+ "actualizado": "2026-10-16T18:29",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8319,6 +8319,20 @@
    "quien": "Cristina",
    "cuando": "2026-10-16T15:23",
    "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto (espera en presu: 3 días laborables)"
+  },
+  {
+   "id": "7975-noaplica-cristina-16-1803",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7975",
+    "centro": "SinVello A Coruña",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: No procede, ya puso comentario Borja de que la recogida está gestionada",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T18:03",
+   "revive_si": "2026-10-21: si sigue en recogida sin llegar a taller y sin nota de contenido nueva, vuelve el punto (espera de transporte)"
   }
  ],
  "enlaces": [
