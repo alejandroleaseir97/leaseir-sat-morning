@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-16T11:03",
+ "actualizado": "2026-10-16T11:39",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8826,5 +8826,36 @@
    "aplicado": true
   }
  ],
- "que_es_esto_traspasos": "Traspasos de puntos SIN ticket. No hay Jira donde escribirlos, así que se guardan aquí y cada pasada los vuelca al objeto TRASPASOS del panel del equipo con la clave del punto (idPunto = bloque__bloque|primeros 44 caracteres). Así el reparto se aplica solo y nadie tiene que pegar líneas en el grupo de la herramienta. Si el destino está en FUERA, el panel lo vuelve a repartir por la cadena."
+ "que_es_esto_traspasos": "Traspasos de puntos SIN ticket. No hay Jira donde escribirlos, así que se guardan aquí y cada pasada los vuelca al objeto TRASPASOS del panel del equipo con la clave del punto (idPunto = bloque__bloque|primeros 44 caracteres). Así el reparto se aplica solo y nadie tiene que pegar líneas en el grupo de la herramienta. Si el destino está en FUERA, el panel lo vuelve a repartir por la cadena.",
+ "que_es_esto_reclasificados": "Regla 20 (16/10/2026): aclaraciones de responsables que cambian la clasificación de un caso. La pasada las incorpora ANTES de regenerar y el comprobador da ERROR si un punto del equipo vuelve a sacar el caso con la clasificación descartada (aplica_si = todas las expresiones; excepto_si = deja pasar, p. ej. una incidencia nueva con su propio LEAS). No silencia otras incidencias del mismo cliente. Solo Alejandro o el responsable que la dio la desactivan (activo:false, con motivo y fecha).",
+ "reclasificados": [
+  {
+   "id": "alteya-ahr-devolucion-fabrica-16-1131",
+   "activo": true,
+   "que": "ALTEYA (Foligno, Italia): AHR en devolución, recogida con etiqueta PRG261015710240 (Etiquetas PRG261015710240.pdf, enviada el 14/10 a las 15:59)",
+   "clasificacion_descartada": "incidencia SAT (punto del bloque «wapp» con «abrir el ticket de la devolución», sin ticket, a nombre de Isaac)",
+   "clasificacion_correcta": "recogida / devolución a fábrica: logística, no incidencia SAT",
+   "porque": "esto no es SAT, es una recogida que va para fabrica. lo he puesto pero sigue saliendo",
+   "quien": "Borja",
+   "cuando": "2026-10-16T11:31",
+   "fuente": "captura de un mensaje de Borja aportada por Alejandro en el chat de la pasada el 16/10 (Alejandro le contestó «voy a ello»). No se leyó el hilo original ni se verificó la imagen; no consta en /notas del worker ni en respuestas del artifact.",
+   "autoriza": "Alejandro, 16/10/2026",
+   "aplica_si": [
+    "(?i)\\balteya\\b",
+    "(?i)PRG261015710240|devoluci|recogida|\\bAHR\\b|sin ticket"
+   ],
+   "excepto_si": [
+    "\\bLEAS-\\d{3,5}\\b"
+   ],
+   "destino": "panel de Alejandro, bloque «transporte» (seguimiento logístico, separado del SAT)",
+   "no_reintroducir": [
+    "recomendar abrir un ticket SAT/de devolución para este AHR",
+    "contarlo como incidencia SAT sin ticket"
+   ],
+   "revisar_si": "si ALTEYA comunica una avería nueva en un equipo que se queda en el cliente: eso sí es SAT y sale con su propio LEAS (excepto_si lo deja pasar)",
+   "historial": "15/10 y 16/10 (08:40-11:03) salió en «wapp» como incidencia SAT sin ticket; reclasificado el 16/10.",
+   "bloque_destino": "transporte",
+   "linea_destino": "ALTEYA (Foligno, Italia) · AHR · **recogida / devolución a fábrica — no es incidencia SAT** (Borja, 16/10 a las 11:31, en la captura que aportaste: «esto no es SAT, es una recogida que va para fabrica. lo he puesto pero sigue saliendo»; contestaste «voy a ello»). Historial que se conserva: Maria Martire avisó en «SAT ITALIA» el 14/10 a las 15:08 de un problema en el botón de encendido; a las 15:31 aclaró que es una devolución («No no se queda en Gijón para un cliente futuro»), y a las 15:59 se le mandó la etiqueta de recogida «Etiquetas PRG261015710240.pdf». Seguimiento logístico: no consta en el panel que la recogida PRG261015710240 se haya hecho (no se ha comprobado en el portal del transportista) y sigue sin número de serie del AHR. Propuesta para valorar: que quien lleve la devolución a fábrica confirme cuándo se recoge y, si fábrica la necesita, la serie del AHR. No se propone abrir ticket SAT. [reclasificado: alteya-ahr-devolucion-fabrica-16-1131]"
+  }
+ ]
 }
