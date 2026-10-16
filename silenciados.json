@@ -9068,8 +9068,12 @@
    "debe_salir": true,
    "deja_de_aplicar_si": "Distrilaser comunica su decisión (qué ofrece o que remite los equipos), se abre ticket por ello, o alguien del equipo confirma expresamente la fecha del 25/10; actualizar entonces el texto y poner activo=false con motivo.",
    "historial": [
-    "2026-10-16 12:08: fijado por petición de Alejandro; sustituye «Contestarle en concreto por el C00663 y el C00216 antes del 25/10»."
-   ]
+    "2026-10-16 12:08: fijado por petición de Alejandro; sustituye «Contestarle en concreto por el C00663 y el C00216 antes del 25/10».",
+    "2026-10-16 13:05: visible también en la portada de Alejandro (Abiertas → «Pendiente de decisión del cliente», plantilla_pend.py), autorizado por Alejandro como corrección de presentación."
+   ],
+   "portada_alejandro": true,
+   "bloque_portada": "wapp",
+   "fuente_portada": "Borja, 16/10 11:59 (lectura verificada de «Control Diario» transmitida por el usuario; no leída en la pasada)"
   }
  ]
 }

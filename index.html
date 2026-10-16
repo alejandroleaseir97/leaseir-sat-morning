@@ -888,6 +888,11 @@ li.crver-li{outline:2px solid var(--accent);outline-offset:-2px}
 .logil{padding:11px 16px;font-size:13px;line-height:1.55;color:var(--ink-soft);border-top:1px solid var(--divider-soft)}
 .logiid{display:block;margin-top:5px;font-size:11px;color:var(--muted)}
 /*LOGI:CSSFIN*/
+/*PEND:CSS*/
+.pendbox{border-color:var(--divider);border-left-color:var(--muted-2)}
+.pendbox>summary b{color:var(--ink)}
+.pendbox .pendt{color:var(--muted);background:var(--surface-2)}
+/*PEND:CSSFIN*/
 </style>
 </head><body>
 
@@ -1169,6 +1174,7 @@ li.crver-li{outline:2px solid var(--accent);outline-offset:-2px}
 <div id="p-abiertas" class="pane on">
 <div id="critA"></div>
 <div id="logiA"></div>
+<div id="pendA"></div>
 
   <div class="khero">
     <button class="kh1" onclick="abcalc('todo')"><b id="ab-n1">—</b><span>Abiertas ahora</span>
@@ -2235,8 +2241,26 @@ function logiHtml(){
 }
 function pintaLogi(){ const la = document.getElementById('logiA'); if(la){ la.innerHTML = logiHtml(); if(typeof linkTickets === 'function') linkTickets(la); } }
 /*LOGI:FIN*/
+/*PEND:INI*/
+const PEND_FIJ = [{"id": "distrilaser-c00663-c00216-pendiente-decision-16-1159", "bloque": "wapp", "aplica_si": ["distrilaser", "C00663|C00216"], "fuente": "Borja, 16/10 11:59 (lectura verificada de «Control Diario» transmitida por el usuario; no leída en la pasada)"}];
+function pendLs(){
+  const out = [];
+  PEND_FIJ.forEach(c => { const b = (typeof MSG !== 'undefined' && MSG[c.bloque] && MSG[c.bloque].l) || [];
+    b.forEach(l => { if(c.aplica_si.every(p => new RegExp(p, 'i').test(l))) out.push([c, l]); }); });
+  return out;
+}
+function pendHtml(){
+  const ls = pendLs(); if(!ls.length) return '';
+  const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/\*\*([^*]+)\*\*/g,'<b>$1</b>');
+  return '<details class="critbox pendbox"><summary><b>Pendiente de decisión del cliente: '+ls.length+' caso'+(ls.length===1?'':'s')+'</b>'
+    + '<span class="crcats"><span class="crt pendt">⏳ en seguimiento, sin ticket todavía</span></span><span class="crver">ver detalle</span></summary>'
+    + '<div class="crnota">La misma entrada que ve el equipo, sin cambios. No está resuelto ni se pide abrir ticket hasta que el cliente decida.</div>'
+    + ls.map(([c,l]) => '<div class="logil">'+esc(l)+'<span class="logiid">Fuente: '+esc(c.fuente)+' · caso fijado <code>'+esc(c.id)+'</code></span></div>').join('') + '</details>';
+}
+function pintaPend(){ const p = document.getElementById('pendA'); if(p){ p.innerHTML = pendHtml(); } }
+/*PEND:FIN*/
 function renderInterno(){
-  try{ const ca = document.getElementById('critA'); if(ca){ ca.innerHTML = critHtml(); linkTickets(ca); } }catch(e){ console.error('criticos', e); } try{ pintaLogi(); }catch(e){ console.error('logistica', e); }
+  try{ const ca = document.getElementById('critA'); if(ca){ ca.innerHTML = critHtml(); linkTickets(ca); } }catch(e){ console.error('criticos', e); } try{ pintaLogi(); }catch(e){ console.error('logistica', e); } try{ pintaPend(); }catch(e){ console.error('pendientes', e); }
   const c = document.getElementById('blks'); if(!c) return;
   let h = '';
   ORDEN.forEach(k => {
@@ -3062,7 +3086,7 @@ function abcalc(id){
 }
 try{ pintarAbiertas(); }catch(e){ console.error('abiertas', e); }
 try{ pintarFuentes(); }catch(e){ console.error('fuentes', e); }
-try{ const ca = document.getElementById('critA'); if(ca){ ca.innerHTML = critHtml(); linkTickets(ca); } }catch(e){ console.error('criticos', e); } try{ pintaLogi(); }catch(e){ console.error('logistica', e); }
+try{ const ca = document.getElementById('critA'); if(ca){ ca.innerHTML = critHtml(); linkTickets(ca); } }catch(e){ console.error('criticos', e); } try{ pintaLogi(); }catch(e){ console.error('logistica', e); } try{ pintaPend(); }catch(e){ console.error('pendientes', e); }
 
 // ═══ DIODOS: reparaciones con «Diodo nuevo» y vuelta del mismo manípulo en < 6 meses ═══
 // DIODOS lo reescribe la pasada de las 9:30 de los lunes (Jira: 10815 = "Diodo nuevo", 10150 Handpiece, 10186 salida, 10247 técnico taller).
