@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-16T11:48",
+ "actualizado": "2026-10-16T12:08",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8856,6 +8856,38 @@
    "historial": "15/10 y 16/10 (08:40-11:03) salió en «wapp» como incidencia SAT sin ticket; reclasificado el 16/10. 16/10 11:39: la línea se guardó en MSG.transporte, que el panel de Alejandro no pinta en ninguna pestaña (Alejandro no la encontró); 16/10 11:48: se hace visible en la portada.",
    "bloque_destino": "transporte",
    "linea_destino": "ALTEYA (Foligno, Italia) · AHR · **recogida / devolución a fábrica — no es incidencia SAT** (Borja, 16/10 a las 11:31, en la captura que aportaste: «esto no es SAT, es una recogida que va para fabrica. lo he puesto pero sigue saliendo»; contestaste «voy a ello»). Historial que se conserva: Maria Martire avisó en «SAT ITALIA» el 14/10 a las 15:08 de un problema en el botón de encendido; a las 15:31 aclaró que es una devolución («No no se queda en Gijón para un cliente futuro»), y a las 15:59 se le mandó la etiqueta de recogida «Etiquetas PRG261015710240.pdf». Seguimiento logístico: no consta en el panel que la recogida PRG261015710240 se haya hecho (no se ha comprobado en el portal del transportista) y sigue sin número de serie del AHR. Propuesta para valorar: que quien lleve la devolución a fábrica confirme cuándo se recoge y, si fábrica la necesita, la serie del AHR. No se propone abrir ticket SAT. [reclasificado: alteya-ahr-devolucion-fabrica-16-1131]"
+  }
+ ],
+ "que_es_esto_casos_fijados": "Estado fijado a mano para UN caso concreto (no es regla general). Cada pasada debe mantener el texto con el estado indicado mientras 'activo' sea true; el comprobador da error si la línea desaparece, pierde el estado o vuelve a un texto descartado. Se quita (activo=false, con motivo y fecha en historial) solo cuando se cumple 'deja_de_aplicar_si' con evidencia.",
+ "casos_fijados": [
+  {
+   "id": "distrilaser-c00663-c00216-pendiente-decision-16-1159",
+   "activo": true,
+   "que": "Distrilaser (Francia), códigos C00663 y C00216 (bloque wapp, sin ticket)",
+   "estado": "pendiente de decisión de Distrilaser sobre qué ofrece a su cliente o si remite los equipos a Leaseir; sin pedir abrir ticket todavía; no marcar resuelto ni quitar seguimiento; no inferir qué opción corresponde a cada código; 25/10 solo como referencia por confirmar",
+   "quien": "Borja (Control Diario 11:45 y 11:59), a pregunta de Alejandro (11:53)",
+   "cuando": "2026-10-16T11:59+02:00",
+   "evidencia": "Lectura verificada del grupo «SAT Leaseir - Herramienta Control Diario» del 16/10 hecha por otra tarea y transmitida por el usuario (no leída directamente en esta pasada). 11:45 Borja: opciones dadas, se abrirá ticket cuando decidan actuar. 11:53 Alejandro pregunta si se aclaró qué aplica a C00663/C00216 y si deben decidir antes del 25/10. 11:59 Borja: «corrcto tienen que decidir ellos que le ofrecen a su cliente o si nos los remiten a nosotros como ahcen otras veces». El 25/10 no queda confirmado expresamente.",
+   "autoriza": "Alejandro, 16/10/2026 (corrección acotada solo a este caso)",
+   "aplica_si": [
+    "(?i)distrilaser",
+    "C00663|C00216"
+   ],
+   "requerido": [
+    "(?i)pendiente de decisión de Distrilaser",
+    "25/10[^.·]*por confirmar"
+   ],
+   "prohibido": [
+    "(?i)contestarle en concreto",
+    "(?i)abr(ir|an) (un |el )?ticket (ya|ahora|de|para)",
+    "(?i)(vence|vencimiento|plazo)[^.·]{0,15}25/10",
+    "(?i)resuelto"
+   ],
+   "debe_salir": true,
+   "deja_de_aplicar_si": "Distrilaser comunica su decisión (qué ofrece o que remite los equipos), se abre ticket por ello, o alguien del equipo confirma expresamente la fecha del 25/10; actualizar entonces el texto y poner activo=false con motivo.",
+   "historial": [
+    "2026-10-16 12:08: fijado por petición de Alejandro; sustituye «Contestarle en concreto por el C00663 y el C00216 antes del 25/10»."
+   ]
   }
  ]
 }
