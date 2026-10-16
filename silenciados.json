@@ -9267,6 +9267,36 @@
     "(?i)ya (se )?ha (sido )?recogid",
     "(?i)(se ha|ya est[aá]) reparad"
    ]
+  },
+  {
+   "id": "critico-8023-sin-servicio-16",
+   "activo": true,
+   "leas": "LEAS-8023",
+   "bloque": "wapp",
+   "tipos": [
+    "sin_servicio"
+   ],
+   "descartes": [
+    "8023-noaplica-cristina-16-1521"
+   ],
+   "se_descarta": "contestar y decidir la sustitución desde el panel (Cristina consulta a Luismi si persiste el error o el centro funciona)",
+   "quien": "Cristina (vía panel, 15:21)",
+   "cuando": "2026-10-16T16:15+02:00",
+   "evidencia": "Relectura de Jira por el usuario el 16/10 a las 16:08: estado Abierto, bloqueante Sí, sin asignado individual, grupo Control de calidad; comentario de Cristina vía panel 15:21:45 registrado con la cuenta puente de Alejandro Vicente. Transmitido en el chat de la corrección.",
+   "autoriza": "Alejandro, 16/10/2026 (corrección limitada a LEAS-8023; no restaura otros casos)",
+   "requerido": [
+    "Impacto pendiente de confirmar; Cristina consultando a Luismi; Jira abierto y bloqueante",
+    "Cristina \\(vía panel, 16/10 \\d\\d:\\d\\d",
+    "(?i)seguimiento crítico abierto",
+    "cuenta puente de Alejandro Vicente"
+   ],
+   "prohibido": [
+    "(?i)centro (est[aá] )?parado",
+    "(?i)sin servicio confirmad",
+    "(?i)es el manípulo",
+    "(?i)contestarles"
+   ],
+   "deja_de_aplicar_si": "Luismi/SAT confirman el impacto (entonces se reescribe con ese dato) o Jira lo cierra; también si SAT/Calidad descarta expresamente el impacto. Entonces activo=false con motivo y fecha."
   }
  ]
 }
