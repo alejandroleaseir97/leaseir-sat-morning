@@ -9075,5 +9075,123 @@
    "bloque_portada": "wapp",
    "fuente_portada": "Borja, 16/10 11:59 (lectura verificada de «Control Diario» transmitida por el usuario; no leída en la pasada)"
   }
+ ],
+ "que_es_esto_criticos_seguimiento": "Excepción ACOTADA (16/10/2026, Alejandro, regla 19): críticos abiertos en Jira cuyo «esto no aplica» de hoy descarta la ACCIÓN antigua del punto, no el posible riesgo. Mientras 'activo' sea true el punto sigue saliendo (en 'bloque') con el descarte visible y la caja de críticos lo conserva; el comprobador NO da error por el «no aplica» ni por los silencios listados en 'descartes' (que siguen válidos y no se tocan), y SÍ da error si el punto desaparece, pierde el descarte o vuelve a la acción descartada. Solo cubre los LEAS listados: no es una regla para ignorar «no aplica».",
+ "criticos_seguimiento": [
+  {
+   "activo": true,
+   "autoriza": "Alejandro, 16/10/2026 (corrección operativa acotada a estos cuatro críticos; regla 19)",
+   "cuando": "2026-10-16T13:20+02:00",
+   "evidencia": "Lectura de Jira por el conector autorizado hecha por el usuario el 16/10/2026 (comentarios completos: 7893=4, 7922=4, 7878=3, 8017=1; los cuatro siguen en statusCategory «En curso»), transmitida en el chat de la corrección. Las notas «esto no aplica» las registra Jira con la cuenta puente de Alejandro Vicente, pero el contenido atribuye la decisión a Cristina: autor técnico = puente del panel; decisión = Cristina.",
+   "deja_de_aplicar_si": "Jira lo da por cerrado (statusCategory done), o SAT/Calidad descarta expresamente el posible riesgo/sin servicio/reincidencia (no basta un «no aplica» sobre la acción del punto). Entonces activo=false con motivo y fecha.",
+   "requerido": [
+    "(?i)descartad|no aplica",
+    "Cristina \\(vía panel, 16/10 \\d\\d:\\d\\d",
+    "(?i)seguimiento crítico abierto",
+    "cuenta puente de Alejandro Vicente"
+   ],
+   "id": "critico-7893-seguridad-16",
+   "leas": "LEAS-7893",
+   "bloque": "ruta",
+   "tipos": [
+    "seguridad"
+   ],
+   "descartes": [
+    "7893-noaplica-cristina-16-1219"
+   ],
+   "se_descarta": "volver a pedir la recogida (recogido el 15/10 por la mañana en Barcelona, según Isaac)",
+   "quien": "Cristina (vía panel, 12:19)",
+   "prohibido": [
+    "(?i)(pedir|confirmar|gestionar) (la )?recogida",
+    "(?i)confirmar con el transportista"
+   ]
+  },
+  {
+   "activo": true,
+   "autoriza": "Alejandro, 16/10/2026 (corrección operativa acotada a estos cuatro críticos; regla 19)",
+   "cuando": "2026-10-16T13:20+02:00",
+   "evidencia": "Lectura de Jira por el conector autorizado hecha por el usuario el 16/10/2026 (comentarios completos: 7893=4, 7922=4, 7878=3, 8017=1; los cuatro siguen en statusCategory «En curso»), transmitida en el chat de la corrección. Las notas «esto no aplica» las registra Jira con la cuenta puente de Alejandro Vicente, pero el contenido atribuye la decisión a Cristina: autor técnico = puente del panel; decisión = Cristina.",
+   "deja_de_aplicar_si": "Jira lo da por cerrado (statusCategory done), o SAT/Calidad descarta expresamente el posible riesgo/sin servicio/reincidencia (no basta un «no aplica» sobre la acción del punto). Entonces activo=false con motivo y fecha.",
+   "requerido": [
+    "(?i)descartad|no aplica",
+    "Cristina \\(vía panel, 16/10 \\d\\d:\\d\\d",
+    "(?i)seguimiento crítico abierto",
+    "cuenta puente de Alejandro Vicente"
+   ],
+   "id": "critico-7922-sin-servicio-16",
+   "leas": "LEAS-7922",
+   "bloque": "repara",
+   "tipos": [
+    "sin_servicio"
+   ],
+   "descartes": [
+    "7922-noaplica-cristina-16-1153",
+    "7922-noaplica-cristina-15-1524"
+   ],
+   "se_descarta": "pedir otra respuesta (Borja 11:38: «esta en taller y asignado»)",
+   "quien": "Borja (vía panel, 11:38) y Cristina (vía panel, 11:53)",
+   "prohibido": [
+    "(?i)decir si el manípulo est[aá]",
+    "(?i)(pedir|dar) (una )?respuesta",
+    "(?i)contestar"
+   ]
+  },
+  {
+   "activo": true,
+   "autoriza": "Alejandro, 16/10/2026 (corrección operativa acotada a estos cuatro críticos; regla 19)",
+   "cuando": "2026-10-16T13:20+02:00",
+   "evidencia": "Lectura de Jira por el conector autorizado hecha por el usuario el 16/10/2026 (comentarios completos: 7893=4, 7922=4, 7878=3, 8017=1; los cuatro siguen en statusCategory «En curso»), transmitida en el chat de la corrección. Las notas «esto no aplica» las registra Jira con la cuenta puente de Alejandro Vicente, pero el contenido atribuye la decisión a Cristina: autor técnico = puente del panel; decisión = Cristina.",
+   "deja_de_aplicar_si": "Jira lo da por cerrado (statusCategory done), o SAT/Calidad descarta expresamente el posible riesgo/sin servicio/reincidencia (no basta un «no aplica» sobre la acción del punto). Entonces activo=false con motivo y fecha.",
+   "requerido": [
+    "(?i)descartad|no aplica",
+    "Cristina \\(vía panel, 16/10 \\d\\d:\\d\\d",
+    "(?i)seguimiento crítico abierto",
+    "cuenta puente de Alejandro Vicente"
+   ],
+   "id": "critico-7878-reincidencia-16",
+   "leas": "LEAS-7878",
+   "bloque": "repara",
+   "tipos": [
+    "reincidencia"
+   ],
+   "descartes": [
+    "7878-noaplica-cristina-16-1233"
+   ],
+   "se_descarta": "pedir asignación (técnico asignado: Francisco)",
+   "quien": "Cristina (vía panel, 12:33)",
+   "prohibido": [
+    "(?i)sin dueño",
+    "(?i)asignar (un )?(responsable|técnico)"
+   ]
+  },
+  {
+   "activo": true,
+   "autoriza": "Alejandro, 16/10/2026 (corrección operativa acotada a estos cuatro críticos; regla 19)",
+   "cuando": "2026-10-16T13:20+02:00",
+   "evidencia": "Lectura de Jira por el conector autorizado hecha por el usuario el 16/10/2026 (comentarios completos: 7893=4, 7922=4, 7878=3, 8017=1; los cuatro siguen en statusCategory «En curso»), transmitida en el chat de la corrección. Las notas «esto no aplica» las registra Jira con la cuenta puente de Alejandro Vicente, pero el contenido atribuye la decisión a Cristina: autor técnico = puente del panel; decisión = Cristina.",
+   "deja_de_aplicar_si": "Jira lo da por cerrado (statusCategory done), o SAT/Calidad descarta expresamente el posible riesgo/sin servicio/reincidencia (no basta un «no aplica» sobre la acción del punto). Entonces activo=false con motivo y fecha.",
+   "requerido": [
+    "(?i)descartad|no aplica",
+    "Cristina \\(vía panel, 16/10 \\d\\d:\\d\\d",
+    "(?i)seguimiento crítico abierto",
+    "cuenta puente de Alejandro Vicente"
+   ],
+   "id": "critico-8017-sin-servicio-16",
+   "leas": "LEAS-8017",
+   "bloque": "ruta",
+   "tipos": [
+    "sin_servicio"
+   ],
+   "descartes": [
+    "8017-noaplica-cristina-16-1151"
+   ],
+   "se_descarta": "tratarlo como «sin un solo comentario» (en gestión con etiqueta de recogida enviada)",
+   "quien": "Cristina (vía panel, 11:51)",
+   "prohibido": [
+    "(?i)sin un solo comentario",
+    "(?i)ya (se )?ha (sido )?recogid",
+    "(?i)(se ha|ya est[aá]) reparad"
+   ]
+  }
  ]
 }
