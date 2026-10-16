@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-16T12:58",
+ "actualizado": "2026-10-16T15:51",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8235,6 +8235,76 @@
    "quien": "Cristina",
    "cuando": "2026-10-16T12:33",
    "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7740-noaplica-borja-16-1338",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7740",
+    "centro": "Laser Factory - Terrassa",
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "esto no aplica: sake repoarada hoy",
+   "quien": "Borja",
+   "cuando": "2026-10-16T13:38",
+   "revive_si": "2026-10-20: si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7420-noaplica-cristina-16-1515",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7420",
+    "centro": "Medical & Aesthetics Solutions, Inc - Adolfo Panamá",
+    "cliente": null,
+    "tipo": "cerrar"
+   },
+   "porque": "esto no aplica: No aplica",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T15:15",
+   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "8023-noaplica-cristina-16-1521",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8023",
+    "centro": "SinVello Andujar",
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "esto no aplica: Consultamos con Luismi ya que desde que se abrió el ticket hasta ahora no comentaron nada por el grupo, se pide que nos de información de si persiste el error o está funcionando el centro",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T15:21",
+   "revive_si": "2026-10-19: si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7824-noaplica-cristina-16-1543",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7824",
+    "centro": "Elha Obispo",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: sustitución entregada desde el dia 13, la recogida del equipo del centro sale con incidencia asique preguntamos si llegó a pasar DHL por el centro para reclamarlo",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T15:43",
+   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7866-noaplica-cristina-16-1527",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7866",
+    "centro": "Kilenci AHR0245",
+    "cliente": null,
+    "tipo": "externo"
+   },
+   "porque": "esto no aplica: No tenemos fecha de cuando irá Carlos asique le escribo para que confirme",
+   "quien": "Cristina",
+   "cuando": "2026-10-16T15:27",
+   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto"
   }
  ],
  "enlaces": [
@@ -9044,7 +9114,7 @@
  "casos_fijados": [
   {
    "id": "distrilaser-c00663-c00216-pendiente-decision-16-1159",
-   "activo": true,
+   "activo": false,
    "que": "Distrilaser (Francia), códigos C00663 y C00216 (bloque wapp, sin ticket)",
    "estado": "pendiente de decisión de Distrilaser sobre qué ofrece a su cliente o si remite los equipos a Leaseir; sin pedir abrir ticket todavía; no marcar resuelto ni quitar seguimiento; no inferir qué opción corresponde a cada código; 25/10 solo como referencia por confirmar",
    "quien": "Borja (Control Diario 11:45 y 11:59), a pregunta de Alejandro (11:53)",
@@ -9069,11 +9139,16 @@
    "deja_de_aplicar_si": "Distrilaser comunica su decisión (qué ofrece o que remite los equipos), se abre ticket por ello, o alguien del equipo confirma expresamente la fecha del 25/10; actualizar entonces el texto y poner activo=false con motivo.",
    "historial": [
     "2026-10-16 12:08: fijado por petición de Alejandro; sustituye «Contestarle en concreto por el C00663 y el C00216 antes del 25/10».",
-    "2026-10-16 13:05: visible también en la portada de Alejandro (Abiertas → «Pendiente de decisión del cliente», plantilla_pend.py), autorizado por Alejandro como corrección de presentación."
+    "2026-10-16 13:05: visible también en la portada de Alejandro (Abiertas → «Pendiente de decisión del cliente», plantilla_pend.py), autorizado por Alejandro como corrección de presentación.",
+    "2026-10-16 15:51: activo=false (pasada de las 15:10): el cliente decidió a las 15:14."
    ],
    "portada_alejandro": true,
    "bloque_portada": "wapp",
-   "fuente_portada": "Borja, 16/10 11:59 (lectura verificada de «Control Diario» transmitida por el usuario; no leída en la pasada)"
+   "fuente_portada": "Borja, 16/10 11:59 (lectura verificada de «Control Diario» transmitida por el usuario; no leída en la pasada)",
+   "desactivado": {
+    "cuando": "2026-10-16T15:51",
+    "motivo": "Distrilaser comunicó su decisión: a la pregunta de Isaac (14:13, «Shall we send you the Caliport for the C00216 laser?») Gravereau Mathieu contestó el 16/10 a las 15:14 en «Distrilaser - Leaseir» «yes please send me to my personal adress». Se cumple «deja_de_aplicar_si»; el punto pasa a pedir el envío del caliport del C00216."
+   }
   }
  ],
  "que_es_esto_criticos_seguimiento": "Excepción ACOTADA (16/10/2026, Alejandro, regla 19): críticos abiertos en Jira cuyo «esto no aplica» de hoy descarta la ACCIÓN antigua del punto, no el posible riesgo. Mientras 'activo' sea true el punto sigue saliendo (en 'bloque') con el descarte visible y la caja de críticos lo conserva; el comprobador NO da error por el «no aplica» ni por los silencios listados en 'descartes' (que siguen válidos y no se tocan), y SÍ da error si el punto desaparece, pierde el descarte o vuelve a la acción descartada. Solo cubre los LEAS listados: no es una regla para ignorar «no aplica».",
