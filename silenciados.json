@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-16T18:29",
+ "actualizado": "2026-10-19T10:07",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7741,7 +7741,11 @@
    "porque": "esto no aplica: ya s eha recogido",
    "quien": "Borja",
    "cuando": "2026-10-14T09:13",
-   "revive_si": "2026-10-19: si sigue en «Gestionado transporte» sin llegar a taller"
+   "revive_si": "2026-10-19: si sigue en «Gestionado transporte» sin llegar a taller",
+   "revivido": {
+    "cuando": "2026-10-19T10:07",
+    "motivo": "regla 17: revive_si vencido (2026-10-19), sigue abierto sin nota de contenido posterior"
+   }
   },
   {
    "id": "7960-noaplica-cristina-14-1014",
@@ -7816,7 +7820,11 @@
    "porque": "esto no aplica: sigue en reparación",
    "quien": "Cristina",
    "cuando": "2026-10-14T11:11",
-   "revive_si": "2026-10-19: si sigue en reparación sin nota de contenido"
+   "revive_si": "2026-10-19: si sigue en reparación sin nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-19T10:07",
+    "motivo": "revive_si 19/10 vencido; sigue en reparación sin nota de contenido (sale en epil)"
+   }
   },
   {
    "id": "7311-noaplica-cristina-14-1113",
@@ -7844,7 +7852,11 @@
    "porque": "esto no aplica: modificado numero de serie",
    "quien": "Borja",
    "cuando": "2026-10-14T14:51",
-   "revive_si": "2026-10-19: si la pieza que llegó sigue sin cuadrar con el ticket"
+   "revive_si": "2026-10-19: si la pieza que llegó sigue sin cuadrar con el ticket",
+   "revivido": {
+    "cuando": "2026-10-19T10:07",
+    "motivo": "regla 17: revive_si vencido (2026-10-19), sigue abierto sin nota de contenido posterior"
+   }
   },
   {
    "id": "7872-noaplica-borja-14-1451",
@@ -7872,7 +7884,11 @@
    "porque": "esto no aplica: pedida recogida , contestat tiene que contestar smartduck no nosotros",
    "quien": "Borja",
    "cuando": "2026-10-14T15:04",
-   "revive_si": "2026-10-16: si la recogida de mañana no consta hecha"
+   "revive_si": "2026-10-16: si la recogida de mañana no consta hecha",
+   "revivido": {
+    "cuando": "2026-10-19T10:07",
+    "motivo": "regla 17: revive_si vencido (2026-10-16), sigue abierto sin nota de contenido posterior"
+   }
   },
   {
    "id": "7967-nota-borja-15-1003",
