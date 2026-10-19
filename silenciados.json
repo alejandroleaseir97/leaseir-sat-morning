@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-19T16:36",
+ "actualizado": "2026-10-19T18:38",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8349,6 +8349,76 @@
    "quien": "Cristina",
    "cuando": "2026-10-16T18:03",
    "revive_si": "2026-10-21: si sigue en recogida sin llegar a taller y sin nota de contenido nueva, vuelve el punto (espera de transporte)"
+  },
+  {
+   "id": "7839-noaplica-cristina-19-1735",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7839",
+    "centro": "Belenus (Chile)",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: Se asignará y reparará según se vaya liberando hay mucho trabajo en taller y se va asignando y reparando según llegada",
+   "quien": "Cristina",
+   "cuando": "2026-10-19T17:35",
+   "revive_si": "2026-10-26: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7846-noaplica-cristina-19-1735",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7846",
+    "centro": "Belenus (Chile)",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: Se asignará y reparará según se vayan liberando los técnicos hay mucho volumen de trabajo en taller",
+   "quien": "Cristina",
+   "cuando": "2026-10-19T17:35",
+   "revive_si": "2026-10-26: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7848-noaplica-cristina-19-1741",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7848",
+    "centro": "L Medical (G-Point)",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: En cuanto se vayan liberando los técnicos se asignará, hay mucho volumen de trabajo en taller",
+   "quien": "Cristina",
+   "cuando": "2026-10-19T17:41",
+   "revive_si": "2026-10-26: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7895-noaplica-cristina-19-1742",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7895",
+    "centro": "Marvena (Bulgaria)",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: En cuanto se vayan liberando los técnicos se irán asignando, hay mucho volumen de trabajo en el taller",
+   "quien": "Cristina",
+   "cuando": "2026-10-19T17:42",
+   "revive_si": "2026-10-26: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7903-noaplica-cristina-19-1750",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7903",
+    "centro": "SinVello San Sebastián",
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "esto no aplica: no aplica",
+   "quien": "Cristina",
+   "cuando": "2026-10-19T17:50",
+   "revive_si": "2026-10-21: si SinVello confirma que la caja sigue en el centro o no hay nota de contenido nueva, vuelve el punto"
   }
  ],
  "enlaces": [
