@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-20T10:33",
+ "actualizado": "2026-10-20T13:01",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8439,6 +8439,104 @@
    "quien": "Cristina",
    "cuando": "2026-10-19T17:50",
    "revive_si": "2026-10-21: si SinVello confirma que la caja sigue en el centro o no hay nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7673-noaplica-borja-20-1052",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7673",
+    "centro": "Natur Belle Vomero (SRF00028)",
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "esto no aplica: sale reparada hoy",
+   "quien": "Borja",
+   "cuando": "2026-10-20T10:52",
+   "revive_si": "2026-10-21: si no ha salido de taller (sin OUT ni nota), vuelve el punto"
+  },
+  {
+   "id": "7890-noaplica-cristina-20-1238",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7890",
+    "centro": "SinVello Sants",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: tiene técnico asignado ya en cuanto se vaya liberando Fran de trabajo irá cogiendo lo pendiente que tiene",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T12:38",
+   "revive_si": "2026-10-27: si sigue sin reparar y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7904-noaplica-cristina-20-1246",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7904",
+    "centro": "Dermasana Calle Alcalá",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: hay mucho volumen de trabajo en taller, en cuanto se vayan liberando se irá asignando",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T12:46",
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7886-noaplica-cristina-20-1259",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7886",
+    "centro": "Dermoscan (Alemania)",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: en cuanto se vayan liberando los técnico en taller se asignará, hay mucho volumen de trabajo.",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T12:59",
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7810-noaplica-cristina-20-1259",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7810",
+    "centro": "Centro Unico Rende",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "sto no aplica: PAra SRF no tenemos como cerrar los casos",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T12:59",
+   "revive_si": "2026-10-27: si sigue abierto y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7949-noaplica-cristina-20-1238",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7949",
+    "centro": "SinVello Ibarruri",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: en cuanto se vayan liberando los técnicos se irá asignando",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T12:38",
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7950-noaplica-cristina-20-1238",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7950",
+    "centro": "SinVello República Argentina",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: en cuanto se vayan liberando los técnico se irá asignando trabajo",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T12:38",
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
   }
  ],
  "enlaces": [
@@ -9346,7 +9444,7 @@
    ]
   },
   {
-   "activo": true,
+   "activo": false,
    "autoriza": "Alejandro, 16/10/2026 (corrección operativa acotada a estos cuatro críticos; regla 19)",
    "cuando": "2026-10-16T13:20+02:00",
    "evidencia": "Lectura de Jira por el conector autorizado hecha por el usuario el 16/10/2026 (comentarios completos: 7893=4, 7922=4, 7878=3, 8017=1; los cuatro siguen en statusCategory «En curso»), transmitida en el chat de la corrección. Las notas «esto no aplica» las registra Jira con la cuenta puente de Alejandro Vicente, pero el contenido atribuye la decisión a Cristina: autor técnico = puente del panel; decisión = Cristina.",
@@ -9373,7 +9471,11 @@
     "(?i)decir si el manípulo est[aá]",
     "(?i)(pedir|dar) (una )?respuesta",
     "(?i)contestar"
-   ]
+   ],
+   "desactivado": {
+    "cuando": "2026-10-20T13:01",
+    "porque": "Jira lo da por cerrado: «Resuelto» el 20/10 a las 13:00 (el equipo llegó al centro a las 12:00)"
+   }
   },
   {
    "activo": true,
