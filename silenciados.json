@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-20T13:01",
+ "actualizado": "2026-10-20T15:45",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8537,6 +8537,104 @@
    "quien": "Cristina",
    "cuando": "2026-10-20T12:38",
    "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7923-noaplica-borja-20-1543",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7923",
+    "centro": "Clínica Tres Palacios",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: esta gestionada la recogida y el equipo de sust entregado.",
+   "quien": "Borja",
+   "cuando": "2026-10-20T15:43",
+   "revive_si": "2026-10-23: si sigue en «Gestionado transporte» sin llegar a taller, vuelve el punto"
+  },
+  {
+   "id": "4908-noaplica-cristina-20-1419",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-4908",
+    "centro": "Elha Pintor Felo Monzón",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: Consulto con Benjamín para que me de mas información de cuando llegará el equipo a Leaseir",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T14:19",
+   "revive_si": "2026-10-23: si sigue en «Gestionado transporte» sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7690-noaplica-cristina-20-1427",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7690",
+    "centro": "SinVello Valladolid (sustitución)",
+    "cliente": null,
+    "tipo": "maps"
+   },
+   "porque": "esto no aplica: No aplica, el link de la recogida de la sustitución está en el leas de la sustitución",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T14:27",
+   "revive_si": "2026-10-27: si sigue en recogida sin moverse, vuelve el punto"
+  },
+  {
+   "id": "7881-noaplica-cristina-20-1302",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7881",
+    "centro": "Blanca (Medsystems)",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: En cuanto se vayan liberando los técnicos se irán asignando, hay mucho volumen de trabajo en taller",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T13:02",
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7943-noaplica-cristina-20-1303",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7943",
+    "centro": "Condiodo Nacho",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: en cuanto se vayan liberando los técnicos se irá asignando, hay mucho volumen de trabajo en taller",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T13:03",
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7891-noaplica-cristina-20-1411",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7891",
+    "centro": "Paula Estética (Radiante)",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: no aplica",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T14:11",
+   "revive_si": "2026-10-23: si sigue sin presupuesto y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "8018-noaplica-cristina-20-1413",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8018",
+    "centro": "Elha Vic",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "No aplica, está pendiente de asignar t",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T14:13",
+   "revive_si": "2026-10-23: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
   }
  ],
  "enlaces": [
