@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-19T18:38",
+ "actualizado": "2026-10-20T10:33",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7316,7 +7316,11 @@
    "porque": "esto no aplica: todo aclarado",
    "quien": "Borja",
    "cuando": "2026-10-08T13:56",
-   "revive_si": "2026-10-15 si sigue en «Pendiente recogida» sin nota de contenido posterior (ni reparación in situ apuntada ni recogida)"
+   "revive_si": "2026-10-15 si sigue en «Pendiente recogida» sin nota de contenido posterior (ni reparación in situ apuntada ni recogida)",
+   "revivido": {
+    "cuando": "2026-10-20T10:33",
+    "porque": "revive_si con fecha 2026-10-20 cumplida: sigue abierto y sin nota de contenido posterior"
+   }
   },
   {
    "id": "7834-nota-isaac-08-1325",
@@ -7621,7 +7625,11 @@
    "porque": "Cierra esto . no hay caso sin vello, se mando un maletin por error . Esta todo aclarado con sin vello por tfno",
    "quien": "Borja",
    "cuando": "2026-10-12T09:18",
-   "revive_si": "2026-10-20: si sigue abierto sin cerrar"
+   "revive_si": "2026-10-20: si sigue abierto sin cerrar",
+   "revivido": {
+    "cuando": "2026-10-20T10:33",
+    "porque": "revive_si con fecha 2026-10-20 cumplida: sigue abierto y sin nota de contenido posterior"
+   }
   },
   {
    "id": "7943-noaplica-borja-13-1120",
@@ -7712,7 +7720,11 @@
    "porque": "esto no aplica: PAra SRF no tenemos como cerrar los casos",
    "quien": "Borja",
    "cuando": "2026-10-13T13:55",
-   "revive_si": "2026-10-20: si sigue en «En reparación» sin nota"
+   "revive_si": "2026-10-20: si sigue en «En reparación» sin nota",
+   "revivido": {
+    "cuando": "2026-10-20T10:33",
+    "porque": "revive_si con fecha 2026-10-20 cumplida: sigue abierto y sin nota de contenido posterior"
+   }
   },
   {
    "id": "7856-noaplica-borja-13-1418",
@@ -7948,7 +7960,11 @@
    "porque": "esto no aplica: es un ticket diferente ,. son temas distintos la pieza con golpe y la consola",
    "quien": "Borja",
    "cuando": "2026-10-15T13:54",
-   "revive_si": "2026-10-20: si la consola de sustitución LEAS-8014 no ha salido o la clienta sigue sin respuesta"
+   "revive_si": "2026-10-20: si la consola de sustitución LEAS-8014 no ha salido o la clienta sigue sin respuesta",
+   "revivido": {
+    "cuando": "2026-10-20T10:33",
+    "porque": "revive_si con fecha 2026-10-20 cumplida: sigue abierto y sin nota de contenido posterior"
+   }
   },
   {
    "id": "7922-noaplica-cristina-15-1524",
@@ -8036,7 +8052,11 @@
    "porque": "esto no aplica: Consulto con Isaac ya que es el últmo comentario de él",
    "quien": "Cristina",
    "cuando": "2026-10-15T15:43",
-   "revive_si": "2026-10-20: si sigue sin nota de contenido"
+   "revive_si": "2026-10-20: si sigue sin nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-20T10:33",
+    "porque": "revive_si con fecha 2026-10-20 cumplida: sigue abierto y sin nota de contenido posterior"
+   }
   },
   {
    "id": "7821-noaplica-cristina-15-1547",
