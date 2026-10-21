@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-21T13:01",
+ "actualizado": "2026-10-21T21:03",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8705,6 +8705,62 @@
    "quien": "Isaac",
    "cuando": "2026-10-20T19:30",
    "revive_si": "2026-10-23: espera del cliente (presupuesto); si sigue sin aceptar, vuelve"
+  },
+  {
+   "id": "7978-noaplica-cristina-21-1629",
+   "que": "Belenus Chile (H00308) retenido en Vitoria",
+   "ambito": {
+    "leas": "LEAS-7978",
+    "centro": null,
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "Reclamado a DHL ya que aparece retenido sin comentarios",
+   "quien": "Cristina (vía panel, 16:29)",
+   "cuando": "2026-10-21T16:29",
+   "revive_si": "2026-10-28: si el H00308 sigue retenido en Vitoria y no hay nota de contenido posterior"
+  },
+  {
+   "id": "7961-noaplica-cristina-21-1446",
+   "que": "Elha Valladolid en reparación",
+   "ambito": {
+    "leas": "LEAS-7961",
+    "centro": null,
+    "cliente": null,
+    "tipo": "telegram"
+   },
+   "porque": "encontraron de donde viene el error, han econtrado señales de humedad dentro del sensor del TIP, van a cambiarle el buffer",
+   "quien": "Cristina (vía panel, 14:46)",
+   "cuando": "2026-10-21T14:46",
+   "revive_si": "2026-10-28: si sigue en «En reparación» sin nota de contenido posterior"
+  },
+  {
+   "id": "7820-noaplica-cristina-21-1521",
+   "que": "Juan Casasnovas (Florida) con técnico externo",
+   "ambito": {
+    "leas": "LEAS-7820",
+    "centro": null,
+    "cliente": null,
+    "tipo": "externo"
+   },
+   "porque": "presupuesto aceptado y en marcha el técnico",
+   "quien": "Cristina (vía panel, 15:21)",
+   "cuando": "2026-10-21T15:21",
+   "revive_si": "2026-10-28: si sigue en «Enviado a técnico externo» sin fecha ni resultado"
+  },
+  {
+   "id": "6765-noaplica-cristina-21-1507",
+   "que": "Bella Forme (Marruecos) terminado y sin enviar",
+   "ambito": {
+    "leas": "LEAS-6765",
+    "centro": null,
+    "cliente": null,
+    "tipo": "cerrar"
+   },
+   "porque": "Se mandan en el grupo la factura (SInv26-202601990) y las medidas del palé (70 × 67 × 147 cm).",
+   "quien": "Cristina (vía panel, 15:07)",
+   "cuando": "2026-10-21T15:07",
+   "revive_si": "2026-10-28: si sigue en «Inspección de salida» sin nota de contenido posterior"
   }
  ],
  "enlaces": [
