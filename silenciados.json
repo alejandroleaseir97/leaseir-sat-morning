@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-20T21:13",
+ "actualizado": "2026-10-21T10:12",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8228,7 +8228,11 @@
    "porque": "Se manda ayer recogida de Pisa a Carrducci de la sustitución",
    "quien": "Cristina",
    "cuando": "2026-10-16T12:21",
-   "revive_si": "2026-10-21: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-21: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-21T10:12",
+    "porque": "revive_si con fecha 2026-10-21 cumplida: sigue abierto, igual y sin nota de contenido posterior (regla 17)"
+   }
   },
   {
    "id": "7726-noaplica-cristina-16-1226",
@@ -8242,7 +8246,11 @@
    "porque": "Sigue sin llegar a taller",
    "quien": "Cristina",
    "cuando": "2026-10-16T12:26",
-   "revive_si": "2026-10-21: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-21: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-21T10:12",
+    "porque": "revive_si con fecha 2026-10-21 cumplida: sigue abierto, igual y sin nota de contenido posterior (regla 17)"
+   }
   },
   {
    "id": "7974-noaplica-cristina-16-1231",
@@ -8298,7 +8306,11 @@
    "porque": "esto no aplica: No aplica",
    "quien": "Cristina",
    "cuando": "2026-10-16T15:15",
-   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-21T10:12",
+    "porque": "revive_si con fecha 2026-10-21 cumplida: sigue abierto, igual y sin nota de contenido posterior (regla 17)"
+   }
   },
   {
    "id": "8023-noaplica-cristina-16-1521",
@@ -8326,7 +8338,11 @@
    "porque": "esto no aplica: sustitución entregada desde el dia 13, la recogida del equipo del centro sale con incidencia asique preguntamos si llegó a pasar DHL por el centro para reclamarlo",
    "quien": "Cristina",
    "cuando": "2026-10-16T15:43",
-   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-21T10:12",
+    "porque": "revive_si con fecha 2026-10-21 cumplida: sigue abierto, igual y sin nota de contenido posterior (regla 17)"
+   }
   },
   {
    "id": "7866-noaplica-cristina-16-1527",
@@ -8340,7 +8356,11 @@
    "porque": "esto no aplica: No tenemos fecha de cuando irá Carlos asique le escribo para que confirme",
    "quien": "Cristina",
    "cuando": "2026-10-16T15:27",
-   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-21T10:12",
+    "porque": "revive_si con fecha 2026-10-21 cumplida: sigue abierto, igual y sin nota de contenido posterior (regla 17)"
+   }
   },
   {
    "id": "6907-noaplica-cristina-16-1523",
@@ -8354,7 +8374,11 @@
    "porque": "esto no aplica: A la espera de que confirme Arturo si habló con la clienta",
    "quien": "Cristina",
    "cuando": "2026-10-16T15:23",
-   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto (espera en presu: 3 días laborables)"
+   "revive_si": "2026-10-21: si sigue igual y sin nota de contenido nueva, vuelve el punto (espera en presu: 3 días laborables)",
+   "revivido": {
+    "cuando": "2026-10-21T10:12",
+    "porque": "revive_si con fecha 2026-10-21 cumplida: sigue abierto, igual y sin nota de contenido posterior (regla 17)"
+   }
   },
   {
    "id": "7975-noaplica-cristina-16-1803",
@@ -8368,7 +8392,11 @@
    "porque": "esto no aplica: No procede, ya puso comentario Borja de que la recogida está gestionada",
    "quien": "Cristina",
    "cuando": "2026-10-16T18:03",
-   "revive_si": "2026-10-21: si sigue en recogida sin llegar a taller y sin nota de contenido nueva, vuelve el punto (espera de transporte)"
+   "revive_si": "2026-10-21: si sigue en recogida sin llegar a taller y sin nota de contenido nueva, vuelve el punto (espera de transporte)",
+   "revivido": {
+    "cuando": "2026-10-21T10:12",
+    "porque": "revive_si con fecha 2026-10-21 cumplida: sigue abierto, igual y sin nota de contenido posterior (regla 17)"
+   }
   },
   {
    "id": "7839-noaplica-cristina-19-1735",
@@ -8635,6 +8663,48 @@
    "quien": "Cristina",
    "cuando": "2026-10-20T14:13",
    "revive_si": "2026-10-23: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+  },
+  {
+   "id": "7753-noaplica-cristina-20-1712",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7753",
+    "centro": "Sin Vello Pozuelo",
+    "cliente": null,
+    "tipo": "externo"
+   },
+   "porque": "Finalmente aceptan presupuesto para que asista un técnico, modificamos la asistencia, y mandamos material que saldrá el viernes ya que no hay stock",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T17:12",
+   "revive_si": "2026-10-26: si el material no ha salido el viernes 23/10 o no consta la asistencia del técnico"
+  },
+  {
+   "id": "7789-noaplica-cristina-20-1811",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7789",
+    "centro": "Beleco Fan  Mallorca HP40580",
+    "cliente": null,
+    "tipo": "presu"
+   },
+   "porque": "Se consulta de nuevo ya que se pasó el presupuesto por Whatsapp y no dieron respuesta",
+   "quien": "Cristina",
+   "cuando": "2026-10-20T18:11",
+   "revive_si": "2026-10-23: reclamación de presupuesto (3 días laborables); si sigue sin aceptar ni proforma, vuelve"
+  },
+  {
+   "id": "8013-noaplica-isaac-20-1930",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8013",
+    "centro": "Beleco Fan  Mallorca",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "tienen que aceptar el presupuesto para q…",
+   "quien": "Isaac",
+   "cuando": "2026-10-20T19:30",
+   "revive_si": "2026-10-23: espera del cliente (presupuesto); si sigue sin aceptar, vuelve"
   }
  ],
  "enlaces": [
