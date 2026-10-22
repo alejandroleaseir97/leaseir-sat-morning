@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-21T21:03",
+ "actualizado": "2026-10-22T10:08",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7818,7 +7818,11 @@
    "porque": "esto no aplica: está a falta de un papel para poder sacarlo",
    "quien": "Cristina",
    "cuando": "2026-10-14T10:35",
-   "revive_si": "2026-10-21: si sigue en «Inspección de salida» sin nota (espera de un papel, 5 laborables)"
+   "revive_si": "2026-10-21: si sigue en «Inspección de salida» sin nota (espera de un papel, 5 laborables)",
+   "revivido": {
+    "cuando": "2026-10-22T10:08",
+    "porque": "revive_si 2026-10-21 cumplido: sigue en «Devuelto a cliente» sin nota de contenido posterior"
+   }
   },
   {
    "id": "7607-noaplica-cristina-14-1111",
@@ -7914,7 +7918,11 @@
    "porque": "no ha lugar,. la mercanica esta recogida y todo esta apuntado",
    "quien": "Borja",
    "cuando": "2026-10-15T10:03",
-   "revive_si": "2026-10-22: si sigue en «Gestionado transporte» sin llegar a taller"
+   "revive_si": "2026-10-22: si sigue en «Gestionado transporte» sin llegar a taller",
+   "caducado": {
+    "cuando": "2026-10-22T10:08",
+    "porque": "el hecho que esperaba ya ocurrió: llegó a taller el 16/10 (nota de Ernesto); sale ahora por atascado en «Pendiente asignar técnico»"
+   }
   },
   {
    "id": "7673-noaplica-borja-15-1104",
@@ -7928,7 +7936,11 @@
    "porque": "esto no aplica: esta en madrid ya deberian entregar",
    "quien": "Borja",
    "cuando": "2026-10-15T11:04",
-   "revive_si": "2026-10-20: si no ha llegado a taller"
+   "revive_si": "2026-10-20: si no ha llegado a taller",
+   "caducado": {
+    "cuando": "2026-10-22T10:08",
+    "porque": "el hecho ocurrió: llegó a taller (reparada el 19/10)"
+   }
   },
   {
    "id": "7878-noaplica-isaac-15-1105",
@@ -8010,7 +8022,11 @@
    "porque": "esto no aplica: en cuanto se libere algún técnico se asignará",
    "quien": "Cristina",
    "cuando": "2026-10-15T15:35",
-   "revive_si": "2026-10-22: si sigue sin técnico asignado"
+   "revive_si": "2026-10-22: si sigue sin técnico asignado",
+   "revivido": {
+    "cuando": "2026-10-22T10:08",
+    "porque": "revive_si 2026-10-22 (hoy) y atascado (regla 17): sigue en «Pendiente confirmación presupuesto» sin nota de contenido desde el 08/10"
+   }
   },
   {
    "id": "7925-noaplica-cristina-15-1534",
@@ -8466,7 +8482,11 @@
    "porque": "esto no aplica: no aplica",
    "quien": "Cristina",
    "cuando": "2026-10-19T17:50",
-   "revive_si": "2026-10-21: si SinVello confirma que la caja sigue en el centro o no hay nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-21: si SinVello confirma que la caja sigue en el centro o no hay nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-22T10:08",
+    "porque": "revive_si 2026-10-21 cumplido: sigue en «Solicitado» sin una sola nota y con el padre cerrado"
+   }
   },
   {
    "id": "7673-noaplica-borja-20-1052",
@@ -8480,7 +8500,11 @@
    "porque": "esto no aplica: sale reparada hoy",
    "quien": "Borja",
    "cuando": "2026-10-20T10:52",
-   "revive_si": "2026-10-21: si no ha salido de taller (sin OUT ni nota), vuelve el punto"
+   "revive_si": "2026-10-21: si no ha salido de taller (sin OUT ni nota), vuelve el punto",
+   "caducado": {
+    "cuando": "2026-10-22T10:08",
+    "porque": "el hecho ocurrió: SRF00028 OUT el 20/10 14:11 en «Fotos equipos»; sale ahora porque el ticket sigue en «En cola taller»"
+   }
   },
   {
    "id": "7890-noaplica-cristina-20-1238",
