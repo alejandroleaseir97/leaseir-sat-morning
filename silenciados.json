@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-23T09:19",
+ "actualizado": "2026-10-23T09:30",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8176,7 +8176,7 @@
    "cuando": "2026-10-16T11:56",
    "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-23T09:19",
+    "cuando": "2026-10-23T09:30",
     "porque": "revive_si 2026-10-23 cumplido: sigue en «Pendiente confirmación presupuesto» sin nota de contenido nueva"
    }
   },
@@ -8208,7 +8208,7 @@
    "cuando": "2026-10-16T12:01",
    "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-23T09:19",
+    "cuando": "2026-10-23T09:30",
     "porque": "revive_si 2026-10-23 cumplido: sigue en «En preparación presupuesto» sin nota de contenido nueva"
    }
   },
@@ -8226,7 +8226,7 @@
    "cuando": "2026-10-16T12:07",
    "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-23T09:19",
+    "cuando": "2026-10-23T09:30",
     "porque": "revive_si 2026-10-23 cumplido: sigue en «Inspección de salida» sin nota de contenido nueva"
    }
   },
@@ -8616,7 +8616,7 @@
    "cuando": "2026-10-20T15:43",
    "revive_si": "2026-10-23: si sigue en «Gestionado transporte» sin llegar a taller, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-23T09:19",
+    "cuando": "2026-10-23T09:30",
     "porque": "revive_si 2026-10-23 cumplido: sigue en «Gestionado transporte» sin llegar a taller"
    }
   },
@@ -8634,7 +8634,7 @@
    "cuando": "2026-10-20T14:19",
    "revive_si": "2026-10-23: si sigue en «Gestionado transporte» sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-23T09:19",
+    "cuando": "2026-10-23T09:30",
     "porque": "revive_si 2026-10-23 cumplido: sigue en «Gestionado transporte» sin nota de contenido nueva"
    }
   },
@@ -8694,7 +8694,7 @@
    "cuando": "2026-10-20T14:11",
    "revive_si": "2026-10-23: si sigue sin presupuesto y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-23T09:19",
+    "cuando": "2026-10-23T09:30",
     "porque": "revive_si 2026-10-23 cumplido: sigue sin presupuesto y sin nota de contenido nueva"
    }
   },
@@ -8712,7 +8712,7 @@
    "cuando": "2026-10-20T14:13",
    "revive_si": "2026-10-23: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-23T09:19",
+    "cuando": "2026-10-23T09:30",
     "porque": "revive_si 2026-10-23 cumplido: sigue sin técnico y sin nota de contenido nueva"
    }
   },
@@ -8744,7 +8744,7 @@
    "cuando": "2026-10-20T18:11",
    "revive_si": "2026-10-23: reclamación de presupuesto (3 días laborables); si sigue sin aceptar ni proforma, vuelve",
    "revivido": {
-    "cuando": "2026-10-23T09:19",
+    "cuando": "2026-10-23T09:30",
     "porque": "revive_si 2026-10-23 cumplido: sigue sin aceptar ni proforma"
    }
   },
@@ -8762,7 +8762,7 @@
    "cuando": "2026-10-20T19:30",
    "revive_si": "2026-10-23: espera del cliente (presupuesto); si sigue sin aceptar, vuelve",
    "revivido": {
-    "cuando": "2026-10-23T09:19",
+    "cuando": "2026-10-23T09:30",
     "porque": "revive_si 2026-10-23 cumplido: sigue en «Gestionado transporte» sin nota"
    }
   },
