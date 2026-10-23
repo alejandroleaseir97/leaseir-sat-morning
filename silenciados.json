@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-22T12:59",
+ "actualizado": "2026-10-23T09:16",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8174,7 +8174,11 @@
    "porque": "Ya tiene técnico asignado, en cuanto vaya sacando reparaciones irá cogiendo lista de pendientes que tiene",
    "quien": "Cristina",
    "cuando": "2026-10-16T11:56",
-   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-23T09:16",
+    "porque": "revive_si 2026-10-23 cumplido: sigue en «Pendiente confirmación presupuesto» sin nota de contenido nueva"
+   }
   },
   {
    "id": "7957-noaplica-cristina-16-1158",
@@ -8202,7 +8206,11 @@
    "porque": "Sigue en el mismo punto, en cuanto el técnico se libere del trabajo actual irá avanzando en lo pendiente",
    "quien": "Cristina",
    "cuando": "2026-10-16T12:01",
-   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-23T09:16",
+    "porque": "revive_si 2026-10-23 cumplido: sigue en «En preparación presupuesto» sin nota de contenido nueva"
+   }
   },
   {
    "id": "7853-noaplica-cristina-16-1207",
@@ -8216,7 +8224,11 @@
    "porque": "Está en taller ya pendiente de asignar a un técnico, hay mucho volumen de trabajo en cuando se vaya liberando se asignará",
    "quien": "Cristina",
    "cuando": "2026-10-16T12:07",
-   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-23: espera (equipo/taller/transporte); si sigue igual y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-23T09:16",
+    "porque": "revive_si 2026-10-23 cumplido: sigue en «Inspección de salida» sin nota de contenido nueva"
+   }
   },
   {
    "id": "7893-noaplica-cristina-16-1219",
@@ -8602,7 +8614,11 @@
    "porque": "esto no aplica: esta gestionada la recogida y el equipo de sust entregado.",
    "quien": "Borja",
    "cuando": "2026-10-20T15:43",
-   "revive_si": "2026-10-23: si sigue en «Gestionado transporte» sin llegar a taller, vuelve el punto"
+   "revive_si": "2026-10-23: si sigue en «Gestionado transporte» sin llegar a taller, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-23T09:16",
+    "porque": "revive_si 2026-10-23 cumplido: sigue en «Gestionado transporte» sin llegar a taller"
+   }
   },
   {
    "id": "4908-noaplica-cristina-20-1419",
@@ -8616,7 +8632,11 @@
    "porque": "esto no aplica: Consulto con Benjamín para que me de mas información de cuando llegará el equipo a Leaseir",
    "quien": "Cristina",
    "cuando": "2026-10-20T14:19",
-   "revive_si": "2026-10-23: si sigue en «Gestionado transporte» sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-23: si sigue en «Gestionado transporte» sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-23T09:16",
+    "porque": "revive_si 2026-10-23 cumplido: sigue en «Gestionado transporte» sin nota de contenido nueva"
+   }
   },
   {
    "id": "7690-noaplica-cristina-20-1427",
@@ -8672,7 +8692,11 @@
    "porque": "esto no aplica: no aplica",
    "quien": "Cristina",
    "cuando": "2026-10-20T14:11",
-   "revive_si": "2026-10-23: si sigue sin presupuesto y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-23: si sigue sin presupuesto y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-23T09:16",
+    "porque": "revive_si 2026-10-23 cumplido: sigue sin presupuesto y sin nota de contenido nueva"
+   }
   },
   {
    "id": "8018-noaplica-cristina-20-1413",
@@ -8686,7 +8710,11 @@
    "porque": "No aplica, está pendiente de asignar t",
    "quien": "Cristina",
    "cuando": "2026-10-20T14:13",
-   "revive_si": "2026-10-23: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-23: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-23T09:16",
+    "porque": "revive_si 2026-10-23 cumplido: sigue sin técnico y sin nota de contenido nueva"
+   }
   },
   {
    "id": "7753-noaplica-cristina-20-1712",
@@ -8714,7 +8742,11 @@
    "porque": "Se consulta de nuevo ya que se pasó el presupuesto por Whatsapp y no dieron respuesta",
    "quien": "Cristina",
    "cuando": "2026-10-20T18:11",
-   "revive_si": "2026-10-23: reclamación de presupuesto (3 días laborables); si sigue sin aceptar ni proforma, vuelve"
+   "revive_si": "2026-10-23: reclamación de presupuesto (3 días laborables); si sigue sin aceptar ni proforma, vuelve",
+   "revivido": {
+    "cuando": "2026-10-23T09:16",
+    "porque": "revive_si 2026-10-23 cumplido: sigue sin aceptar ni proforma"
+   }
   },
   {
    "id": "8013-noaplica-isaac-20-1930",
@@ -8728,7 +8760,11 @@
    "porque": "tienen que aceptar el presupuesto para q…",
    "quien": "Isaac",
    "cuando": "2026-10-20T19:30",
-   "revive_si": "2026-10-23: espera del cliente (presupuesto); si sigue sin aceptar, vuelve"
+   "revive_si": "2026-10-23: espera del cliente (presupuesto); si sigue sin aceptar, vuelve",
+   "revivido": {
+    "cuando": "2026-10-23T09:16",
+    "porque": "revive_si 2026-10-23 cumplido: sigue en «Gestionado transporte» sin nota"
+   }
   },
   {
    "id": "7978-noaplica-cristina-21-1629",
@@ -8785,6 +8821,90 @@
    "quien": "Cristina (vía panel, 15:07)",
    "cuando": "2026-10-21T15:07",
    "revive_si": "2026-10-28: si sigue en «Inspección de salida» sin nota de contenido posterior"
+  },
+  {
+   "id": "8089-noaplica-borja-22-1351",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8089",
+    "centro": null,
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "entregada sust, recogida la averiada, todo apuntado",
+   "quien": "Borja (vía panel, 13:51)",
+   "cuando": "2026-10-22T13:51",
+   "revive_si": "2026-10-28: si no ha llegado a taller o sigue sin nota de contenido"
+  },
+  {
+   "id": "7741-noaplica-borja-22-1559",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7741",
+    "centro": null,
+    "cliente": null,
+    "tipo": "cerrar"
+   },
+   "porque": "salió, está el tracking de salida y se puede comprobar",
+   "quien": "Borja (vía panel, 15:59)",
+   "cuando": "2026-10-22T15:59",
+   "revive_si": "2026-10-30: si sigue en «Devuelto a cliente» sin finalizar"
+  },
+  {
+   "id": "8109-noaplica-cristina-22-1708",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8109",
+    "centro": null,
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "no aplica (el ticket pasó a «Pendiente recogida» a las 17:07)",
+   "quien": "Cristina (vía panel, 17:08)",
+   "cuando": "2026-10-22T17:08",
+   "revive_si": "2026-10-28: si vuelve a haber en el chat algo que no esté en el ticket"
+  },
+  {
+   "id": "8110-noaplica-cristina-22-1710",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8110",
+    "centro": null,
+    "cliente": null,
+    "tipo": "epil"
+   },
+   "porque": "El técnico podría ir el lunes. ya está avisado el centro, la sustitución aparece que fue recogida ya por DHL",
+   "quien": "Cristina (vía panel, 17:10)",
+   "cuando": "2026-10-22T17:10",
+   "revive_si": "2026-10-26: si el lunes no va el técnico o la sustitución no ha llegado"
+  },
+  {
+   "id": "7673-noaplica-cristina-22-1711",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7673",
+    "centro": null,
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "consultando con Ernesto si sigue en taller o si salió",
+   "quien": "Cristina (vía panel, 17:11)",
+   "cuando": "2026-10-22T17:11",
+   "revive_si": "2026-10-27: si sigue «En cola taller» sin nota de contenido"
+  },
+  {
+   "id": "7759-noaplica-cristina-22-1713",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7759",
+    "centro": null,
+    "cliente": null,
+    "tipo": "presu"
+   },
+   "porque": "Javier respondió al correo Hacemos cambio de stack",
+   "quien": "Cristina (vía panel, 17:13)",
+   "cuando": "2026-10-22T17:13",
+   "revive_si": "2026-10-28: si el presupuesto aceptado no ha pasado a reparación"
   }
  ],
  "enlaces": [
