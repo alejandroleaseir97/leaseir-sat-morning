@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-23T09:30",
+ "actualizado": "2026-10-23T12:52",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8905,6 +8905,90 @@
    "quien": "Cristina (vía panel, 17:13)",
    "cuando": "2026-10-22T17:13",
    "revive_si": "2026-10-28: si el presupuesto aceptado no ha pasado a reparación"
+  },
+  {
+   "id": "8097-noaplica-cristina-23-1012",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8097",
+    "centro": null,
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "Se manda material hoy asique escribimos a Konexa para que cuente con ello ya que esta semana que entra no podrían asistir",
+   "quien": "Cristina (vía panel, 10:12)",
+   "cuando": "2026-10-23T10:12",
+   "revive_si": "2026-10-27: si el umbilical no ha salido con tracking o Konexa no ha dado fecha"
+  },
+  {
+   "id": "8096-noaplica-cristina-23-1152",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8096",
+    "centro": null,
+    "cliente": null,
+    "tipo": "externo"
+   },
+   "porque": "La intervención está programada para el lunes",
+   "quien": "Cristina (vía panel, 11:52)",
+   "cuando": "2026-10-23T11:52",
+   "revive_si": "2026-10-27: si el lunes 26/10 no consta la intervención"
+  },
+  {
+   "id": "7824-noaplica-cristina-23-1037",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7824",
+    "centro": null,
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "En cuanto se vayan liberando los técnicos se asignará, hay mucho volumen de trabajo en taller",
+   "quien": "Cristina (vía panel, 10:37)",
+   "cuando": "2026-10-23T10:37",
+   "revive_si": "2026-10-30: si sigue sin técnico asignado"
+  },
+  {
+   "id": "8033-noaplica-borja-23-1250",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8033",
+    "centro": null,
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "de reparto",
+   "quien": "Borja (vía panel, 12:50)",
+   "cuando": "2026-10-23T12:50",
+   "revive_si": "2026-10-27: si no ha llegado a taller"
+  },
+  {
+   "id": "7870-noaplica-borja-23-1247",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7870",
+    "centro": null,
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "en proceso de entrada en breve en jira",
+   "quien": "Borja (vía panel, 12:47)",
+   "cuando": "2026-10-23T12:47",
+   "revive_si": "2026-10-27: si sigue sin técnico ni nota de contenido"
+  },
+  {
+   "id": "8044-noaplica-borja-23-1247",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8044",
+    "centro": null,
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "entregado ahora se actualizara el jira",
+   "quien": "Borja (vía panel, 12:47)",
+   "cuando": "2026-10-23T12:47",
+   "revive_si": "2026-10-27: si sigue en «Gestionado transporte»"
   }
  ],
  "enlaces": [
