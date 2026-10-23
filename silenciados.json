@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-23T15:37",
+ "actualizado": "2026-10-23T16:43",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9101,6 +9101,90 @@
    "quien": "Borja (vía panel, 12:56)",
    "cuando": "2026-10-23T12:56",
    "revive_si": "2026-10-27: si no se ha recogido por UPS"
+  },
+  {
+   "id": "7904-noaplica-cristina-23-1627",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7904",
+    "centro": null,
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "no aplica (Borja le contestó al centro a las 16:02 «estara para la semana que viene»)",
+   "quien": "Cristina (vía panel, 16:27)",
+   "cuando": "2026-10-23T16:27",
+   "revive_si": "2026-10-27: si la C00166 sigue sin entrar en reparación"
+  },
+  {
+   "id": "8134-noaplica-cristina-23-1552",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8134",
+    "centro": "Epil Point Pomezia",
+    "cliente": null,
+    "tipo": "epil"
+   },
+   "porque": "no aplica (a las 15:57 Cristina le dijo a Epil que manden ellos el cable si pueden)",
+   "quien": "Cristina (vía panel, 15:52)",
+   "cuando": "2026-10-23T15:52",
+   "revive_si": "2026-10-26: si Pomezia sigue sin cable ni videollamada"
+  },
+  {
+   "id": "8058-noaplica-cristina-23-1632",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8058",
+    "centro": null,
+    "cliente": null,
+    "tipo": "externo"
+   },
+   "porque": "Se consulta con Caypri para ver que día irán a la intervención",
+   "quien": "Cristina (vía panel, 16:32)",
+   "cuando": "2026-10-23T16:32",
+   "revive_si": "2026-10-28: si Caypri no ha dado fecha"
+  },
+  {
+   "id": "7996-noaplica-cristina-23-1632",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7996",
+    "centro": null,
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "no aplica, ya dijo Isaac que en cuanto pueda y se libere se pone con ella",
+   "quien": "Cristina (vía panel, 16:32)",
+   "cuando": "2026-10-23T16:32",
+   "revive_si": "2026-10-28: si sigue sin entrar en reparación"
+  },
+  {
+   "id": "7866-noaplica-cristina-23-1635",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7866",
+    "centro": null,
+    "cliente": null,
+    "tipo": "externo"
+   },
+   "porque": "en principio Carlos nos dijo que iría el viernes 23",
+   "quien": "Cristina (vía panel, 16:35)",
+   "cuando": "2026-10-23T16:35",
+   "revive_si": "2026-10-26: si no consta la visita de Carlos Mora"
+  },
+  {
+   "id": "vic-h00416-ticket-23-1600",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8145",
+    "centro": "Laser Factory Vic",
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "abierto LEAS-8145 (Chus, 16:00): se envía material y se avisa a Carlos Mora; Cristina (vía panel, 16:29) enlazó el punto",
+   "quien": "Cristina (vía panel, 16:29)",
+   "cuando": "2026-10-23T16:29",
+   "revive_si": "2026-10-27: si no consta fecha de Carlos Mora en LEAS-8145"
   }
  ],
  "enlaces": [
