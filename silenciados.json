@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-23T12:52",
+ "actualizado": "2026-10-23T15:37",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8989,6 +8989,118 @@
    "quien": "Borja (vía panel, 12:47)",
    "cuando": "2026-10-23T12:47",
    "revive_si": "2026-10-27: si sigue en «Gestionado transporte»"
+  },
+  {
+   "id": "8098-noaplica-borja-23-1339",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8098",
+    "centro": null,
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "pedida recogida, instalada sust",
+   "quien": "Borja (vía panel, 13:39)",
+   "cuando": "2026-10-23T13:39",
+   "revive_si": "2026-10-27: si la recogida sigue sin hacerse"
+  },
+  {
+   "id": "7890-noaplica-borja-23-1349",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7890",
+    "centro": null,
+    "cliente": null,
+    "tipo": "wapp"
+   },
+   "porque": "listo",
+   "quien": "Borja (vía panel, 13:49)",
+   "cuando": "2026-10-23T13:49",
+   "revive_si": "2026-10-27: si no ha entrado en reparación"
+  },
+  {
+   "id": "8060-noaplica-borja-23-1252",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8060",
+    "centro": null,
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "no les hacia falta la consola y así se dijo ayer, tiene pieza de mano de sustitución",
+   "quien": "Borja (vía panel, 12:52)",
+   "cuando": "2026-10-23T12:52",
+   "revive_si": "2026-10-27: si sigue sin llegar a taller"
+  },
+  {
+   "id": "7923-noaplica-borja-23-1254",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7923",
+    "centro": null,
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "ya está en taller",
+   "quien": "Borja (vía panel, 12:54)",
+   "cuando": "2026-10-23T12:54",
+   "revive_si": "2026-10-27: si sigue sin técnico ni nota de contenido"
+  },
+  {
+   "id": "7967-noaplica-borja-23-1328",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7967",
+    "centro": null,
+    "cliente": null,
+    "tipo": "epil"
+   },
+   "porque": "en reparacion",
+   "quien": "Borja (vía panel, 13:28)",
+   "cuando": "2026-10-23T13:28",
+   "revive_si": "2026-10-27: si sigue sin nota de contenido"
+  },
+  {
+   "id": "7850-noaplica-borja-23-1329",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7850",
+    "centro": null,
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "esta aceptado el presupuesto y pagado y en cola de reparacion",
+   "quien": "Borja (vía panel, 13:29)",
+   "cuando": "2026-10-23T13:29",
+   "revive_si": "2026-10-28: si no ha entrado en reparación"
+  },
+  {
+   "id": "7891-noaplica-borja-23-1309",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7891",
+    "centro": null,
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "cambiado",
+   "quien": "Borja (vía panel, 13:09)",
+   "cuando": "2026-10-23T13:09",
+   "revive_si": "2026-10-27: si sigue sin nota de contenido"
+  },
+  {
+   "id": "7853-noaplica-borja-23-1256",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7853",
+    "centro": null,
+    "cliente": null,
+    "tipo": "cerrar"
+   },
+   "porque": "tiene que enviar Thobas etiqueta de recogida por UPS",
+   "quien": "Borja (vía panel, 12:56)",
+   "cuando": "2026-10-23T12:56",
+   "revive_si": "2026-10-27: si no se ha recogido por UPS"
   }
  ],
  "enlaces": [
@@ -9958,7 +10070,7 @@
    ]
   },
   {
-   "activo": true,
+   "activo": false,
    "autoriza": "Alejandro, 16/10/2026 (corrección operativa acotada a estos cuatro críticos; regla 19)",
    "cuando": "2026-10-16T13:20+02:00",
    "evidencia": "Lectura de Jira por el conector autorizado hecha por el usuario el 16/10/2026 (comentarios completos: 7893=4, 7922=4, 7878=3, 8017=1; los cuatro siguen en statusCategory «En curso»), transmitida en el chat de la corrección. Las notas «esto no aplica» las registra Jira con la cuenta puente de Alejandro Vicente, pero el contenido atribuye la decisión a Cristina: autor técnico = puente del panel; decisión = Cristina.",
@@ -9985,7 +10097,8 @@
     "(?i)sin un solo comentario",
     "(?i)ya (se )?ha (sido )?recogid",
     "(?i)(se ha|ya est[aá]) reparad"
-   ]
+   ],
+   "cerrado": "2026-10-23: Jira lo da por cerrado (Finalizada); deja de aplicar según su deja_de_aplicar_si"
   },
   {
    "id": "critico-8023-sin-servicio-16",
