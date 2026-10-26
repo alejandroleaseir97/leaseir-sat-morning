@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-26T15:37",
+ "actualizado": "2026-10-26T16:08",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9347,6 +9347,76 @@
    "quien": "Cristina (vía panel, 14:30)",
    "cuando": "2026-10-26T14:30",
    "revive_si": "2026-11-03: si DHL sigue sin recoger la SRF10016 y no hay nota de contenido (espera a un tercero, 5 días laborables)"
+  },
+  {
+   "id": "7822-borja-correo-26-1509",
+   "que": "explicación del responsable (correo)",
+   "ambito": {
+    "leas": "LEAS-7822",
+    "centro": "Smart Duck Portet",
+    "cliente": "Smart Duck",
+    "tipo": "externo"
+   },
+   "porque": "Reparado y tienen que llevarlo corpoderm ya esta aprobado el presupuesto con ellos. SOlo queda esperar, van lentos",
+   "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
+   "cuando": "2026-10-26T15:09",
+   "revive_si": "2026-11-03: si Corpoderm no lo ha devuelto y no hay nota de contenido nueva (espera a un tercero, 5 días laborables)"
+  },
+  {
+   "id": "7810-borja-correo-26-1509",
+   "que": "explicación del responsable (correo)",
+   "ambito": {
+    "leas": "LEAS-7810",
+    "centro": "Centro Unico Rende",
+    "cliente": "Unico Italia",
+    "tipo": "repara"
+   },
+   "porque": "Hoy llegó el material , avisado técnico ya no hace falta sustitución (sin reparación terminada acreditada)",
+   "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
+   "cuando": "2026-10-26T15:09",
+   "revive_si": "2026-10-29: si no consta la reparación terminada ni la fecha del técnico"
+  },
+  {
+   "id": "7756-borja-correo-26-1509",
+   "que": "explicación del responsable (correo)",
+   "ambito": {
+    "leas": "LEAS-7756",
+    "centro": "Mercedes Gamaza Laser y Spa",
+    "cliente": null,
+    "tipo": "cerrar prestamo"
+   },
+   "porque": "HOy por la mañana aún no habian entregado ., Aun llegando hoy deberiamos dejar que la clienta lo pruebe uno o dos dias , hubo lio con ella (sin entrega confirmada; propuesta de probar la reparada 1-2 días antes de retirar el sustituto)",
+   "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
+   "cuando": "2026-10-26T15:09",
+   "revive_si": "2026-10-28: si sigue sin confirmarse la entrega de la reparada o, entregada, han pasado los 1-2 días de prueba sin pedir la recogida del sustituto"
+  },
+  {
+   "id": "7855-borja-correo-26-1509",
+   "que": "explicación del responsable (correo)",
+   "ambito": {
+    "leas": "LEAS-7855",
+    "centro": "Mercedes Gamaza Laser y Spa",
+    "cliente": null,
+    "tipo": "prestamo"
+   },
+   "porque": "Sustituto de LEAS-7756: no se retira hasta que la clienta pruebe la reparada uno o dos días (la entrega de la reparada no estaba confirmada esta mañana)",
+   "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
+   "cuando": "2026-10-26T15:09",
+   "revive_si": "2026-10-28: si la reparada ya está entregada y probada y no se ha pedido la recogida del sustituto"
+  },
+  {
+   "id": "8013-borja-correo-26-1509",
+   "que": "explicación del responsable (correo)",
+   "ambito": {
+    "leas": "LEAS-8013",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "PEdida la recogida a taller hoy . tardará unos dias en llegar desde Mallorca (recogida solicitada; el correo no acredita la recogida física)",
+   "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
+   "cuando": "2026-10-26T15:09",
+   "revive_si": "2026-10-29: si no consta la recogida física ni la llegada a Gijón"
   }
  ],
  "enlaces": [
