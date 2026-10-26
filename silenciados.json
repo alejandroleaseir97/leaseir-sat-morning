@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-26T10:05",
+ "actualizado": "2026-10-26T13:07",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9277,6 +9277,34 @@
    "quien": "Cristina (vía panel, 17:00)",
    "cuando": "2026-10-23T17:00",
    "revive_si": "2026-10-28: si sigue sin material ni fecha de técnico"
+  },
+  {
+   "id": "7957-noaplica-cristina-26-1038",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7957",
+    "centro": "SinVello Torrelavega",
+    "cliente": "Sin Vello",
+    "tipo": "presu"
+   },
+   "porque": "Nos informa Luismi que en cuanto le manden el comprobante nos lo hace llegar (el ticket ya está en «Esperando inicio reparación»)",
+   "quien": "Cristina (vía panel, 10:38)",
+   "cuando": "2026-10-26T10:38",
+   "revive_si": "2026-11-03: si sigue sin llegar el comprobante de SinVello y no hay nota de contenido"
+  },
+  {
+   "id": "8134-noaplica-cristina-26-1058",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8134",
+    "centro": "Epil Point Pomezia",
+    "cliente": null,
+    "tipo": "epil"
+   },
+   "porque": "El cable lo mandaron internamente y solucionado, sobre la pieza de mano hacen videollamada con Chus",
+   "quien": "Cristina (vía panel, 10:58)",
+   "cuando": "2026-10-26T10:58",
+   "revive_si": "2026-11-03: si no consta el resultado de la videollamada ni qué se hace con la pieza de mano (Epil pidió su recogida a las 10:33)"
   }
  ],
  "enlaces": [
