@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-26T13:07",
+ "actualizado": "2026-10-26T15:37",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9305,6 +9305,48 @@
    "quien": "Cristina (vía panel, 10:58)",
    "cuando": "2026-10-26T10:58",
    "revive_si": "2026-11-03: si no consta el resultado de la videollamada ni qué se hace con la pieza de mano (Epil pidió su recogida a las 10:33)"
+  },
+  {
+   "id": "8102-noaplica-borja-26-1312",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-8102",
+    "centro": "Pro Laser Tenerife",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "recogida y en camino a GIjon . solos e puede consutlkar por mail no hay tracking",
+   "quien": "Borja (vía panel, 13:12)",
+   "cuando": "2026-10-26T13:12",
+   "revive_si": "2026-11-03: si no ha llegado a Gijón y no hay nota de contenido (espera a BPR, 5 días laborables)"
+  },
+  {
+   "id": "7789-noaplica-cristina-26-1419",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7789",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": null,
+    "tipo": "presu"
+   },
+   "porque": "Tienen que aceptar el presuesto y otra proforma de un presupuesto que pidió David para ver si el seguro les cambia el diodo y ahora han pedido de un informe ..pero no sabemos hasta que punto se puede hacer",
+   "quien": "Cristina (vía panel, 14:19)",
+   "cuando": "2026-10-26T14:19",
+   "revive_si": "2026-10-29: si sigue sin aceptar el presupuesto y no hay nota de contenido (presu, 3 días laborables); la decisión del informe para el seguro es de Alejandro"
+  },
+  {
+   "id": "7730-noaplica-cristina-26-1430",
+   "que": "esto no aplica (vía panel)",
+   "ambito": {
+    "leas": "LEAS-7730",
+    "centro": "Centri Unico Euroma2",
+    "cliente": null,
+    "tipo": "epil"
+   },
+   "porque": "colapsada por huelga",
+   "quien": "Cristina (vía panel, 14:30)",
+   "cuando": "2026-10-26T14:30",
+   "revive_si": "2026-11-03: si DHL sigue sin recoger la SRF10016 y no hay nota de contenido (espera a un tercero, 5 días laborables)"
   }
  ],
  "enlaces": [
