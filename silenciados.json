@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-26T20:22",
+ "actualizado": "2026-10-27T09:46",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8550,7 +8550,11 @@
    "porque": "esto no aplica: tiene técnico asignado ya en cuanto se vaya liberando Fran de trabajo irá cogiendo lo pendiente que tiene",
    "quien": "Cristina",
    "cuando": "2026-10-20T12:38",
-   "revive_si": "2026-10-27: si sigue sin reparar y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-27: si sigue sin reparar y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sigue sin reparar y sin nota de contenido desde el 22/10"
+   }
   },
   {
    "id": "7904-noaplica-cristina-20-1246",
@@ -8564,7 +8568,11 @@
    "porque": "esto no aplica: hay mucho volumen de trabajo en taller, en cuanto se vayan liberando se irá asignando",
    "quien": "Cristina",
    "cuando": "2026-10-20T12:46",
-   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: la C00166 sigue «En cola taller» sin nota de contenido"
+   }
   },
   {
    "id": "7886-noaplica-cristina-20-1259",
@@ -8578,7 +8586,11 @@
    "porque": "esto no aplica: en cuanto se vayan liberando los técnico en taller se asignará, hay mucho volumen de trabajo.",
    "quien": "Cristina",
    "cuando": "2026-10-20T12:59",
-   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sigue «En cola taller» sin nota de contenido desde el 15/10"
+   }
   },
   {
    "id": "7810-noaplica-cristina-20-1259",
@@ -8592,7 +8604,11 @@
    "porque": "sto no aplica: PAra SRF no tenemos como cerrar los casos",
    "quien": "Cristina",
    "cuando": "2026-10-20T12:59",
-   "revive_si": "2026-10-27: si sigue abierto y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-27: si sigue abierto y sin nota de contenido nueva, vuelve el punto",
+   "caducado": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "lo sustituye el silencio del correo de Borja del 26/10 (revive el 29/10)"
+   }
   },
   {
    "id": "7949-noaplica-cristina-20-1238",
@@ -8606,7 +8622,11 @@
    "porque": "esto no aplica: en cuanto se vayan liberando los técnicos se irá asignando",
    "quien": "Cristina",
    "cuando": "2026-10-20T12:38",
-   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sigue sin presupuesto ni nota de contenido desde el 15/10"
+   }
   },
   {
    "id": "7950-noaplica-cristina-20-1238",
@@ -8620,7 +8640,11 @@
    "porque": "esto no aplica: en cuanto se vayan liberando los técnico se irá asignando trabajo",
    "quien": "Cristina",
    "cuando": "2026-10-20T12:38",
-   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sin asignar y sin nota de contenido desde el 22/10"
+   }
   },
   {
    "id": "7923-noaplica-borja-20-1543",
@@ -8684,7 +8708,11 @@
    "porque": "esto no aplica: En cuanto se vayan liberando los técnicos se irán asignando, hay mucho volumen de trabajo en taller",
    "quien": "Cristina",
    "cuando": "2026-10-20T13:02",
-   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sigue sin enviar el presupuesto y sin nota de contenido desde el 15/10"
+   }
   },
   {
    "id": "7943-noaplica-cristina-20-1303",
@@ -8698,7 +8726,11 @@
    "porque": "esto no aplica: en cuanto se vayan liberando los técnicos se irá asignando, hay mucho volumen de trabajo en taller",
    "quien": "Cristina",
    "cuando": "2026-10-20T13:03",
-   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto"
+   "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sigue sin presupuesto ni nota de contenido desde el 15/10"
+   }
   },
   {
    "id": "7891-noaplica-cristina-20-1411",
@@ -8918,7 +8950,11 @@
    "porque": "consultando con Ernesto si sigue en taller o si salió",
    "quien": "Cristina (vía panel, 17:11)",
    "cuando": "2026-10-22T17:11",
-   "revive_si": "2026-10-27: si sigue «En cola taller» sin nota de contenido"
+   "revive_si": "2026-10-27: si sigue «En cola taller» sin nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sigue «En cola taller» sin nota de contenido desde el 19/10 (atascado, regla 17)"
+   }
   },
   {
    "id": "7759-noaplica-cristina-22-1713",
@@ -8946,7 +8982,11 @@
    "porque": "Se manda material hoy asique escribimos a Konexa para que cuente con ello ya que esta semana que entra no podrían asistir",
    "quien": "Cristina (vía panel, 10:12)",
    "cuando": "2026-10-23T10:12",
-   "revive_si": "2026-10-27: si el umbilical no ha salido con tracking o Konexa no ha dado fecha"
+   "revive_si": "2026-10-27: si el umbilical no ha salido con tracking o Konexa no ha dado fecha",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: no consta el tracking del umbilical ni la fecha de Konexa"
+   }
   },
   {
    "id": "8096-noaplica-cristina-23-1152",
@@ -8960,7 +9000,11 @@
    "porque": "La intervención está programada para el lunes",
    "quien": "Cristina (vía panel, 11:52)",
    "cuando": "2026-10-23T11:52",
-   "revive_si": "2026-10-27: si el lunes 26/10 no consta la intervención"
+   "revive_si": "2026-10-27: si el lunes 26/10 no consta la intervención",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: Caypri dio la incidencia por cerrada el lunes 26/10 y el ticket no lo recoge (punto en `telegram`)"
+   }
   },
   {
    "id": "7824-noaplica-cristina-23-1037",
@@ -8988,7 +9032,11 @@
    "porque": "de reparto",
    "quien": "Borja (vía panel, 12:50)",
    "cuando": "2026-10-23T12:50",
-   "revive_si": "2026-10-27: si no ha llegado a taller"
+   "revive_si": "2026-10-27: si no ha llegado a taller",
+   "caducado": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "el hecho que esperaba ocurrió: llegó a taller (Ernesto, 26/10: «Humedad puntera»)"
+   }
   },
   {
    "id": "7870-noaplica-borja-23-1247",
@@ -9002,7 +9050,11 @@
    "porque": "en proceso de entrada en breve en jira",
    "quien": "Borja (vía panel, 12:47)",
    "cuando": "2026-10-23T12:47",
-   "revive_si": "2026-10-27: si sigue sin técnico ni nota de contenido"
+   "revive_si": "2026-10-27: si sigue sin técnico ni nota de contenido",
+   "caducado": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "el hecho que esperaba ocurrió: entrada en taller con nota de Ernesto (23/10, «Optica reventada»)"
+   }
   },
   {
    "id": "8044-noaplica-borja-23-1247",
@@ -9016,7 +9068,11 @@
    "porque": "entregado ahora se actualizara el jira",
    "quien": "Borja (vía panel, 12:47)",
    "cuando": "2026-10-23T12:47",
-   "revive_si": "2026-10-27: si sigue en «Gestionado transporte»"
+   "revive_si": "2026-10-27: si sigue en «Gestionado transporte»",
+   "caducado": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "el hecho que esperaba ocurrió: ya no está en «Gestionado transporte» (en taller, «Pendiente asignar técnico»)"
+   }
   },
   {
    "id": "8098-noaplica-borja-23-1339",
@@ -9030,7 +9086,11 @@
    "porque": "pedida recogida, instalada sust",
    "quien": "Borja (vía panel, 13:39)",
    "cuando": "2026-10-23T13:39",
-   "revive_si": "2026-10-27: si la recogida sigue sin hacerse"
+   "revive_si": "2026-10-27: si la recogida sigue sin hacerse",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: DHL sigue sin recoger (Grabado, sin recoger desde el 23/10)"
+   }
   },
   {
    "id": "7890-noaplica-borja-23-1349",
@@ -9044,7 +9104,11 @@
    "porque": "listo",
    "quien": "Borja (vía panel, 13:49)",
    "cuando": "2026-10-23T13:49",
-   "revive_si": "2026-10-27: si no ha entrado en reparación"
+   "revive_si": "2026-10-27: si no ha entrado en reparación",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sigue «En reparación» sin nota de contenido desde el 22/10"
+   }
   },
   {
    "id": "8060-noaplica-borja-23-1252",
@@ -9058,7 +9122,11 @@
    "porque": "no les hacia falta la consola y así se dijo ayer, tiene pieza de mano de sustitución",
    "quien": "Borja (vía panel, 12:52)",
    "cuando": "2026-10-23T12:52",
-   "revive_si": "2026-10-27: si sigue sin llegar a taller"
+   "revive_si": "2026-10-27: si sigue sin llegar a taller",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: en taller pero sin técnico ni nota de contenido desde el 22/10"
+   }
   },
   {
    "id": "7923-noaplica-borja-23-1254",
@@ -9072,7 +9140,11 @@
    "porque": "ya está en taller",
    "quien": "Borja (vía panel, 12:54)",
    "cuando": "2026-10-23T12:54",
-   "revive_si": "2026-10-27: si sigue sin técnico ni nota de contenido"
+   "revive_si": "2026-10-27: si sigue sin técnico ni nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sigue sin técnico ni nota de contenido"
+   }
   },
   {
    "id": "7967-noaplica-borja-23-1328",
@@ -9086,7 +9158,11 @@
    "porque": "en reparacion",
    "quien": "Borja (vía panel, 13:28)",
    "cuando": "2026-10-23T13:28",
-   "revive_si": "2026-10-27: si sigue sin nota de contenido"
+   "revive_si": "2026-10-27: si sigue sin nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sin nota de contenido desde el 22/10"
+   }
   },
   {
    "id": "7850-noaplica-borja-23-1329",
@@ -9114,7 +9190,11 @@
    "porque": "cambiado",
    "quien": "Borja (vía panel, 13:09)",
    "cuando": "2026-10-23T13:09",
-   "revive_si": "2026-10-27: si sigue sin nota de contenido"
+   "revive_si": "2026-10-27: si sigue sin nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: sin nota de contenido desde el 08/10"
+   }
   },
   {
    "id": "7853-noaplica-borja-23-1256",
@@ -9128,7 +9208,11 @@
    "porque": "tiene que enviar Thobas etiqueta de recogida por UPS",
    "quien": "Borja (vía panel, 12:56)",
    "cuando": "2026-10-23T12:56",
-   "revive_si": "2026-10-27: si no se ha recogido por UPS"
+   "revive_si": "2026-10-27: si no se ha recogido por UPS",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: no consta la etiqueta ni la recogida de UPS (atascado)"
+   }
   },
   {
    "id": "7904-noaplica-cristina-23-1627",
@@ -9142,7 +9226,11 @@
    "porque": "no aplica (Borja le contestó al centro a las 16:02 «estara para la semana que viene»)",
    "quien": "Cristina (vía panel, 16:27)",
    "cuando": "2026-10-23T16:27",
-   "revive_si": "2026-10-27: si la C00166 sigue sin entrar en reparación"
+   "revive_si": "2026-10-27: si la C00166 sigue sin entrar en reparación",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: la C00166 sigue sin entrar en reparación"
+   }
   },
   {
    "id": "8134-noaplica-cristina-23-1552",
@@ -9220,7 +9308,11 @@
    "porque": "abierto LEAS-8145 (Chus, 16:00): se envía material y se avisa a Carlos Mora; Cristina (vía panel, 16:29) enlazó el punto",
    "quien": "Cristina (vía panel, 16:29)",
    "cuando": "2026-10-23T16:29",
-   "revive_si": "2026-10-27: si no consta fecha de Carlos Mora en LEAS-8145"
+   "revive_si": "2026-10-27: si no consta fecha de Carlos Mora en LEAS-8145",
+   "caducado": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "el hecho que esperaba ocurrió: LEAS-8145 tiene fecha de Carlos Mora en el 10144 (26/10)"
+   }
   },
   {
    "id": "7777-noaplica-cristina-23-1653",
@@ -9248,7 +9340,11 @@
    "porque": "el equipo está en tránsito, aún no llegó al centro",
    "quien": "Cristina (vía panel, 16:54)",
    "cuando": "2026-10-23T16:54",
-   "revive_si": "2026-10-27: si no consta la entrega ni la recogida de la sustitución LEAS-7863"
+   "revive_si": "2026-10-27: si no consta la entrega ni la recogida de la sustitución LEAS-7863",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: no consta la entrega del H00853 ni la recogida de la sustitución LEAS-7863"
+   }
   },
   {
    "id": "7935-noaplica-cristina-23-1659",
@@ -9262,7 +9358,11 @@
    "porque": "Generada la etiqueta, DHL todavía no a recogido",
    "quien": "Cristina (vía panel, 16:59)",
    "cuando": "2026-10-23T16:59",
-   "revive_si": "2026-10-27: si DHL sigue sin recoger"
+   "revive_si": "2026-10-27: si DHL sigue sin recoger",
+   "revivido": {
+    "cuando": "2026-10-27T09:46",
+    "motivo": "vencía hoy: DHL sigue sin recoger (Grabado, sin recoger desde el 23/10)"
+   }
   },
   {
    "id": "8069-noaplica-cristina-23-1700",
