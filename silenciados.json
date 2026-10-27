@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-27T09:46",
+ "actualizado": "2026-10-27T11:31",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8552,7 +8552,7 @@
    "cuando": "2026-10-20T12:38",
    "revive_si": "2026-10-27: si sigue sin reparar y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sigue sin reparar y sin nota de contenido desde el 22/10"
    }
   },
@@ -8570,7 +8570,7 @@
    "cuando": "2026-10-20T12:46",
    "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: la C00166 sigue «En cola taller» sin nota de contenido"
    }
   },
@@ -8588,7 +8588,7 @@
    "cuando": "2026-10-20T12:59",
    "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sigue «En cola taller» sin nota de contenido desde el 15/10"
    }
   },
@@ -8606,7 +8606,7 @@
    "cuando": "2026-10-20T12:59",
    "revive_si": "2026-10-27: si sigue abierto y sin nota de contenido nueva, vuelve el punto",
    "caducado": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "lo sustituye el silencio del correo de Borja del 26/10 (revive el 29/10)"
    }
   },
@@ -8624,7 +8624,7 @@
    "cuando": "2026-10-20T12:38",
    "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sigue sin presupuesto ni nota de contenido desde el 15/10"
    }
   },
@@ -8642,7 +8642,7 @@
    "cuando": "2026-10-20T12:38",
    "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sin asignar y sin nota de contenido desde el 22/10"
    }
   },
@@ -8710,7 +8710,7 @@
    "cuando": "2026-10-20T13:02",
    "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sigue sin enviar el presupuesto y sin nota de contenido desde el 15/10"
    }
   },
@@ -8728,7 +8728,7 @@
    "cuando": "2026-10-20T13:03",
    "revive_si": "2026-10-27: si sigue sin técnico y sin nota de contenido nueva, vuelve el punto",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sigue sin presupuesto ni nota de contenido desde el 15/10"
    }
   },
@@ -8952,7 +8952,7 @@
    "cuando": "2026-10-22T17:11",
    "revive_si": "2026-10-27: si sigue «En cola taller» sin nota de contenido",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sigue «En cola taller» sin nota de contenido desde el 19/10 (atascado, regla 17)"
    }
   },
@@ -8984,7 +8984,7 @@
    "cuando": "2026-10-23T10:12",
    "revive_si": "2026-10-27: si el umbilical no ha salido con tracking o Konexa no ha dado fecha",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: no consta el tracking del umbilical ni la fecha de Konexa"
    }
   },
@@ -9002,7 +9002,7 @@
    "cuando": "2026-10-23T11:52",
    "revive_si": "2026-10-27: si el lunes 26/10 no consta la intervención",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: Caypri dio la incidencia por cerrada el lunes 26/10 y el ticket no lo recoge (punto en `telegram`)"
    }
   },
@@ -9034,7 +9034,7 @@
    "cuando": "2026-10-23T12:50",
    "revive_si": "2026-10-27: si no ha llegado a taller",
    "caducado": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "el hecho que esperaba ocurrió: llegó a taller (Ernesto, 26/10: «Humedad puntera»)"
    }
   },
@@ -9052,7 +9052,7 @@
    "cuando": "2026-10-23T12:47",
    "revive_si": "2026-10-27: si sigue sin técnico ni nota de contenido",
    "caducado": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "el hecho que esperaba ocurrió: entrada en taller con nota de Ernesto (23/10, «Optica reventada»)"
    }
   },
@@ -9070,7 +9070,7 @@
    "cuando": "2026-10-23T12:47",
    "revive_si": "2026-10-27: si sigue en «Gestionado transporte»",
    "caducado": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "el hecho que esperaba ocurrió: ya no está en «Gestionado transporte» (en taller, «Pendiente asignar técnico»)"
    }
   },
@@ -9088,7 +9088,7 @@
    "cuando": "2026-10-23T13:39",
    "revive_si": "2026-10-27: si la recogida sigue sin hacerse",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: DHL sigue sin recoger (Grabado, sin recoger desde el 23/10)"
    }
   },
@@ -9106,7 +9106,7 @@
    "cuando": "2026-10-23T13:49",
    "revive_si": "2026-10-27: si no ha entrado en reparación",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sigue «En reparación» sin nota de contenido desde el 22/10"
    }
   },
@@ -9124,7 +9124,7 @@
    "cuando": "2026-10-23T12:52",
    "revive_si": "2026-10-27: si sigue sin llegar a taller",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: en taller pero sin técnico ni nota de contenido desde el 22/10"
    }
   },
@@ -9142,7 +9142,7 @@
    "cuando": "2026-10-23T12:54",
    "revive_si": "2026-10-27: si sigue sin técnico ni nota de contenido",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sigue sin técnico ni nota de contenido"
    }
   },
@@ -9160,7 +9160,7 @@
    "cuando": "2026-10-23T13:28",
    "revive_si": "2026-10-27: si sigue sin nota de contenido",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sin nota de contenido desde el 22/10"
    }
   },
@@ -9192,7 +9192,7 @@
    "cuando": "2026-10-23T13:09",
    "revive_si": "2026-10-27: si sigue sin nota de contenido",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: sin nota de contenido desde el 08/10"
    }
   },
@@ -9210,7 +9210,7 @@
    "cuando": "2026-10-23T12:56",
    "revive_si": "2026-10-27: si no se ha recogido por UPS",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: no consta la etiqueta ni la recogida de UPS (atascado)"
    }
   },
@@ -9228,7 +9228,7 @@
    "cuando": "2026-10-23T16:27",
    "revive_si": "2026-10-27: si la C00166 sigue sin entrar en reparación",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: la C00166 sigue sin entrar en reparación"
    }
   },
@@ -9310,7 +9310,7 @@
    "cuando": "2026-10-23T16:29",
    "revive_si": "2026-10-27: si no consta fecha de Carlos Mora en LEAS-8145",
    "caducado": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "el hecho que esperaba ocurrió: LEAS-8145 tiene fecha de Carlos Mora en el 10144 (26/10)"
    }
   },
@@ -9342,7 +9342,7 @@
    "cuando": "2026-10-23T16:54",
    "revive_si": "2026-10-27: si no consta la entrega ni la recogida de la sustitución LEAS-7863",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: no consta la entrega del H00853 ni la recogida de la sustitución LEAS-7863"
    }
   },
@@ -9360,7 +9360,7 @@
    "cuando": "2026-10-23T16:59",
    "revive_si": "2026-10-27: si DHL sigue sin recoger",
    "revivido": {
-    "cuando": "2026-10-27T09:46",
+    "cuando": "2026-10-27T11:31",
     "motivo": "vencía hoy: DHL sigue sin recoger (Grabado, sin recoger desde el 23/10)"
    }
   },
