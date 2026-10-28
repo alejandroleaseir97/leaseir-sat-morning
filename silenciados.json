@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-28T12:52",
+ "actualizado": "2026-10-28T15:29",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9731,6 +9731,76 @@
    "quien": "Isaac (vía panel, 28/10 12:49)",
    "cuando": "2026-10-28T12:49",
    "revive_si": "2026-11-04: si DHL sigue sin recoger en Euroma2"
+  },
+  {
+   "id": "7714-nota-isaac-28-1349",
+   "que": "LEAS-7714: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7714",
+    "centro": "Oksana Sagan",
+    "cliente": "Oksana Sagan",
+    "tipo": "ruta"
+   },
+   "porque": "se ha entregado hoy la sust y vamos a proceder a recoger su SRF",
+   "quien": "Isaac (vía panel, 28/10 13:49)",
+   "cuando": "2026-10-28T13:49",
+   "revive_si": "2026-11-04: si la SRF0037 sigue sin recoger y sin nota nueva"
+  },
+  {
+   "id": "7759-nota-borja-28-1427",
+   "que": "LEAS-7759: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7759",
+    "centro": "Dermasana Princesa",
+    "cliente": "Dermasana",
+    "tipo": "cerrar"
+   },
+   "porque": "en realida quieren una pieza de mano nueva - iremos mandando el equipo",
+   "quien": "Borja (vía panel, 28/10 14:27)",
+   "cuando": "2026-10-28T14:27",
+   "revive_si": "2026-11-04: si el C00374 / H00374 no ha salido a Princesa con tracking"
+  },
+  {
+   "id": "7855-nota-borja-28-1426",
+   "que": "LEAS-7855: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7855",
+    "centro": "Mercedes Gamaza Laser y Spa",
+    "cliente": "Mercedes Gamaza",
+    "tipo": "prestamo"
+   },
+   "porque": "madnad etiqeuta para recoger mañana sustitucion",
+   "quien": "Borja (vía panel, 28/10 14:26)",
+   "cuando": "2026-10-28T14:26",
+   "revive_si": "2026-11-04: si la sustitución SUSTMHR025 / SUSTDUAL003 sigue sin recoger"
+  },
+  {
+   "id": "8058-ctt-ernesto-28-1443",
+   "que": "LEAS-8058: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8058",
+    "centro": "Linia Estetica Lleida",
+    "cliente": "Caypri",
+    "tipo": "telegram"
+   },
+   "porque": "umbilical AHR para Linia Estetica Lleida enviado con CTT (ENVIOS SAT LEASEIR, 14:43)",
+   "quien": "Ernesto (ENVIOS SAT LEASEIR, 28/10 14:43)",
+   "cuando": "2026-10-28T14:43",
+   "revive_si": "2026-11-04: si el técnico de Caypri no ha vuelto a ir con el material"
+  },
+  {
+   "id": "irene-rio-hortega-isaac-28-1347",
+   "que": "Clínica Irene del Río Hortega: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Clínica Irene del Río Hortega",
+    "cliente": "Clínica del Río Hortega",
+    "tipo": "wapp"
+   },
+   "porque": "he preguntado en el chat si el laser sigue fallando (la clínica contestó a las 14:12: «de momento no. Funciona bien.»)",
+   "quien": "Isaac (worker del panel, 28/10 13:47)",
+   "cuando": "2026-10-28T13:47",
+   "revive_si": "2026-11-04: si la clínica vuelve a avisar de la pistola"
   }
  ],
  "enlaces": [
