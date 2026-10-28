@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-28T18:29",
+ "actualizado": "2026-10-28T20:22",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9973,6 +9973,160 @@
    "quien": "Cristina (WhatsApp y Telegram, 28/10 18:12)",
    "cuando": "2026-10-28T18:12",
    "revive_si": "2026-11-04: si el umbilical de Girona no ha llegado o el 00400 no ha llegado a taller"
+  },
+  {
+   "id": "8193-isaac-panel-28-1933",
+   "que": "LEAS-8193: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8193",
+    "centro": "Elha Boltaña",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 19:33): «se les comenta que me avisen cuando podamos recoger la consola»; en el grupo, 19:29: «entonces recogemos la consola»",
+   "quien": "Isaac (vía panel y WhatsApp, 28/10 19:33)",
+   "cuando": "2026-10-28T19:33",
+   "revive_si": "2026-11-04: si la consola 90954 no se ha recogido ni hay nota de contenido"
+  },
+  {
+   "id": "sinvello-sustis-isaac-panel-28-1938",
+   "que": "LEAS-8162: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8162",
+    "centro": "SinVello Laguna de Duero",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 19:38, LEAS-8162): «ya se han mandado varias»; 18:41 etiqueta CTT para mover la sustitución de República a El Pilar",
+   "quien": "Isaac (vía panel, 28/10 19:38)",
+   "cuando": "2026-10-28T19:38",
+   "revive_si": "2026-11-04: si LEAS-8162 o LEAS-8190 siguen sin salir"
+  },
+  {
+   "id": "nervion-isaac-worker-28-1938",
+   "que": "SinVello Nervión: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "SinVello Nervión",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (nota del panel, 19:38): «se lo pongo a ernesto para que lo envie»; 19:39 en ENVIOS SAT LEASEIR: «sin vello nervion … 2 tornillos negros del soporte pistola»",
+   "quien": "Isaac (panel y Telegram, 28/10 19:39)",
+   "cuando": "2026-10-28T19:39",
+   "revive_si": "2026-11-04: si SinVello vuelve a pedir los tornillos"
+  },
+  {
+   "id": "7458-isaac-panel-28-1941",
+   "que": "LEAS-7458: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7458",
+    "centro": "Elha Laser Center Milano Carducci",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (vía panel, 19:41): «hay problemas con las huelgas en italia por esta tardando tanto»",
+   "quien": "Isaac (vía panel, 28/10 19:41)",
+   "cuando": "2026-10-28T19:41",
+   "revive_si": "2026-11-04: si el DHL 2154475831 sigue sin recoger"
+  },
+  {
+   "id": "7972-isaac-panel-28-1943",
+   "que": "LEAS-7972: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7972",
+    "centro": "Centri Unico Rende",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Isaac (vía panel, 19:43): «se ha reclamado a Giuseppe que ya esta el material y de cuando la va hacer»",
+   "quien": "Isaac (vía panel, 28/10 19:43)",
+   "cuando": "2026-10-28T19:43",
+   "revive_si": "2026-11-04: si Giuseppe no ha dado fecha o no ha ido"
+  },
+  {
+   "id": "7949-isaac-panel-28-1944",
+   "que": "LEAS-7949: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7949",
+    "centro": "SinVello Ibárruri",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 19:44): «la tiene Fran»",
+   "quien": "Isaac (vía panel, 28/10 19:44)",
+   "cuando": "2026-10-28T19:44",
+   "revive_si": "2026-11-04: si sigue sin presupuesto"
+  },
+  {
+   "id": "8109-isaac-panel-28-1944",
+   "que": "LEAS-8109: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8109",
+    "centro": "Elha Pg de les Lletres",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 19:44): «se esta reparando»",
+   "quien": "Isaac (vía panel, 28/10 19:44)",
+   "cuando": "2026-10-28T19:44",
+   "revive_si": "2026-11-04: si sigue en reparación sin nota de resultado"
+  },
+  {
+   "id": "8089-isaac-panel-28-1945",
+   "que": "LEAS-8089: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8089",
+    "centro": "SinVello Chamberí",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 19:45): «le comento a Jony que la mire»",
+   "quien": "Isaac (vía panel, 28/10 19:45)",
+   "cuando": "2026-10-28T19:45",
+   "revive_si": "2026-11-04: si sigue sin diagnóstico"
+  },
+  {
+   "id": "7996-isaac-panel-28-1951",
+   "que": "LEAS-7996: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7996",
+    "centro": "Stop Vello",
+    "cliente": "Stop Vello",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 19:51): «asigno a Fran» (asignado a Francisco)",
+   "quien": "Isaac (vía panel, 28/10 19:51)",
+   "cuando": "2026-10-28T19:51",
+   "revive_si": "2026-11-04: si sigue en cola sin entrar en reparación"
+  },
+  {
+   "id": "8097-isaac-panel-28-1954",
+   "que": "LEAS-8097: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8097",
+    "centro": "Elha Dolores Marqués",
+    "cliente": "Elha",
+    "tipo": "externo"
+   },
+   "porque": "Isaac (vía panel, 19:54): «se ha enviado material»",
+   "quien": "Isaac (vía panel, 28/10 19:54)",
+   "cuando": "2026-10-28T19:54",
+   "revive_si": "2026-11-04: si Konexa no ha ido o no hay tracking del material"
+  },
+  {
+   "id": "7866-isaac-panel-28-1959",
+   "que": "LEAS-7866: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7866",
+    "centro": "Kilenci",
+    "cliente": "Kilenci",
+    "tipo": "externo"
+   },
+   "porque": "Isaac (vía panel, 19:59): «reclamo a Carlos por mail» (correo a Carlos Mora a las 19:59: «Esto se hizo?»)",
+   "quien": "Isaac (vía panel y correo, 28/10 19:59)",
+   "cuando": "2026-10-28T19:59",
+   "revive_si": "2026-11-04: si Carlos Mora no confirma la visita"
   }
  ],
  "enlaces": [
