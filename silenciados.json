@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-28T15:29",
+ "actualizado": "2026-10-28T16:27",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9801,6 +9801,160 @@
    "quien": "Isaac (worker del panel, 28/10 13:47)",
    "cuando": "2026-10-28T13:47",
    "revive_si": "2026-11-04: si la clínica vuelve a avisar de la pistola"
+  },
+  {
+   "id": "8060-noaplica-cristina-28-1617",
+   "que": "LEAS-8060: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8060",
+    "centro": "Pantera Sevilla",
+    "cliente": "Pantera",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: en cuanto se liberen técnicos en taller se asignará hay bastante volumen de trabajo",
+   "quien": "Cristina (vía panel, 28/10 16:17)",
+   "cuando": "2026-10-28T16:17",
+   "revive_si": "2026-11-04: si sigue sin técnico"
+  },
+  {
+   "id": "7891-noaplica-cristina-28-1619",
+   "que": "LEAS-7891: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7891",
+    "centro": "Paula Estetica",
+    "cliente": "Paula Estetica",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: esperando inicio de reparación en cuanto el técnico se libere de trabajo",
+   "quien": "Cristina (vía panel, 28/10 16:19)",
+   "cuando": "2026-10-28T16:19",
+   "revive_si": "2026-11-04: si sigue en «Esperando inicio reparación»"
+  },
+  {
+   "id": "7673-noaplica-cristina-28-1621",
+   "que": "LEAS-7673: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7673",
+    "centro": "Natur Belle Vomero",
+    "cliente": "Natur Belle",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: Salió el 20 de octubre",
+   "quien": "Cristina (vía panel, 28/10 16:21)",
+   "cuando": "2026-10-28T16:21",
+   "revive_si": "2026-11-04: si no consta la llegada a Vomero"
+  },
+  {
+   "id": "8123-nota-borja-28-1549",
+   "que": "LEAS-8123: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8123",
+    "centro": "Harmonie",
+    "cliente": "Harmonie",
+    "tipo": "sin-ticket"
+   },
+   "porque": "va a lalvera una sustituciòn pichi directamente mañana jueves",
+   "quien": "Borja (vía panel, 28/10 15:49)",
+   "cuando": "2026-10-28T15:49",
+   "revive_si": "2026-11-04: si la nueva sustitución no ha llegado a Harmonie"
+  },
+  {
+   "id": "7957-noaplica-cristina-28-1559",
+   "que": "LEAS-7957: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7957",
+    "centro": "SinVello Torrelavega",
+    "cliente": "Sin Vello",
+    "tipo": "cerrar"
+   },
+   "porque": "esto no aplica: Informamos a Luismi que han entregado que pida al centro que prueben y si todo esta ok rcogemos sustituicón",
+   "quien": "Cristina (vía panel, 28/10 15:59)",
+   "cuando": "2026-10-28T15:59",
+   "revive_si": "2026-11-04: si sigue en «Devuelto a cliente» sin finalizar"
+  },
+  {
+   "id": "7870-noaplica-cristina-28-1601",
+   "que": "LEAS-7870: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7870",
+    "centro": "Smart Duck Lyon",
+    "cliente": "Smart Duck",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: En cuanto se liberen los técnicos se irá asignando hay bastante lio en taller",
+   "quien": "Cristina (vía panel, 28/10 16:01)",
+   "cuando": "2026-10-28T16:01",
+   "revive_si": "2026-11-04: si sigue sin técnico"
+  },
+  {
+   "id": "8044-noaplica-cristina-28-1603",
+   "que": "LEAS-8044: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8044",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: En cuanto se liberen los técnicos se asignará hay mucho lio en taller",
+   "quien": "Cristina (vía panel, 28/10 16:03)",
+   "cuando": "2026-10-28T16:03",
+   "revive_si": "2026-11-04: si sigue sin técnico"
+  },
+  {
+   "id": "6907-noaplica-cristina-28-1608",
+   "que": "LEAS-6907: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-6907",
+    "centro": "Apain Estetika",
+    "cliente": "Apain Estetika",
+    "tipo": "presu"
+   },
+   "porque": "esto no aplica: pregunto por el grupo para ver si alguno de mis compañeros sabe algo",
+   "quien": "Cristina (vía panel, 28/10 16:08)",
+   "cuando": "2026-10-28T16:08",
+   "revive_si": "2026-11-02: si nadie sabe si la clienta acepta el presupuesto"
+  },
+  {
+   "id": "8120-noaplica-cristina-28-1609",
+   "que": "LEAS-8120: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8120",
+    "centro": "Brull",
+    "cliente": "Brull",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: En cuanto se libere el técnico que tiene asignado este caso irá avanzando hay mucho trabajo en taller",
+   "quien": "Cristina (vía panel, 28/10 16:09)",
+   "cuando": "2026-10-28T16:09",
+   "revive_si": "2026-11-04: si sigue en «Esperando inicio reparación»"
+  },
+  {
+   "id": "7923-noaplica-cristina-28-1610",
+   "que": "LEAS-7923: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7923",
+    "centro": "Clinica Tres Palacios",
+    "cliente": "Clinica Tres Palacios",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: Hay mucho volumen de trabajo en taller se va asignando según se va liberando",
+   "quien": "Cristina (vía panel, 28/10 16:10)",
+   "cuando": "2026-10-28T16:10",
+   "revive_si": "2026-11-04: si sigue sin técnico"
+  },
+  {
+   "id": "7895-noaplica-cristina-28-1611",
+   "que": "LEAS-7895: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7895",
+    "centro": "Marvena Bulgaria",
+    "cliente": "Marvena",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: no aplica",
+   "quien": "Cristina (vía panel, 28/10 16:11)",
+   "cuando": "2026-10-28T16:11",
+   "revive_si": "2026-11-04: si sigue en reparación sin nota"
   }
  ],
  "enlaces": [
