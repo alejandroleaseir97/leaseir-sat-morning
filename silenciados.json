@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-28T10:40",
+ "actualizado": "2026-10-28T12:52",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9661,6 +9661,76 @@
    "quien": "Borja (correo a Alejandro, 26/10 15:09)",
    "cuando": "2026-10-26T15:09",
    "revive_si": "2026-11-04: si la C03045 / H03045 no ha llegado a Gijón"
+  },
+  {
+   "id": "7978-nota-borja-28-1232",
+   "que": "LEAS-7978: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7978",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "ruta"
+   },
+   "porque": "esta de reparto",
+   "quien": "Borja (vía panel, 28/10 12:32)",
+   "cuando": "2026-10-28T12:32",
+   "revive_si": "2026-11-04: si el H00308 no ha llegado a taller (DHL lo da en tránsito en Gijón el 28/10)"
+  },
+  {
+   "id": "8132-nota-borja-28-1233",
+   "que": "LEAS-8132: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8132",
+    "centro": "Belenus",
+    "cliente": "Belenus",
+    "tipo": "ruta"
+   },
+   "porque": "recogido - prevista la entrada en noviembre",
+   "quien": "Borja (vía panel, 28/10 12:33)",
+   "cuando": "2026-10-28T12:33",
+   "revive_si": "2026-11-04: si el H00919 sigue sin llegar y sin nota nueva"
+  },
+  {
+   "id": "8115-nota-isaac-28-1246",
+   "que": "LEAS-8115: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8115",
+    "centro": "Sin Vello Suvelia Milano",
+    "cliente": "Sin Vello",
+    "tipo": "telegram"
+   },
+   "porque": "ya se ha comentado a sincronis que no hace falta enviar material y que pueden ir ya",
+   "quien": "Isaac (vía panel, 28/10 12:46)",
+   "cuando": "2026-10-28T12:46",
+   "revive_si": "2026-11-04: si la intervención de Sincronis no se ha hecho o el centro sigue esperando material"
+  },
+  {
+   "id": "7786-nota-isaac-28-1246",
+   "que": "LEAS-7786: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7786",
+    "centro": "SinVello Lorca",
+    "cliente": "Sin Vello",
+    "tipo": "telegram"
+   },
+   "porque": "sale hoy",
+   "quien": "Isaac (vía panel, 28/10 12:46)",
+   "cuando": "2026-10-28T12:46",
+   "revive_si": "2026-11-04: si LEAS-7786 sigue en «Inspección de salida» sin envío"
+  },
+  {
+   "id": "7730-nota-isaac-28-1249",
+   "que": "LEAS-7730: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7730",
+    "centro": "Unico Euroma2 Roma",
+    "cliente": "Unico Italia",
+    "tipo": "ruta"
+   },
+   "porque": "hay problemas con el transporte en Italia y se esta retrasando todo",
+   "quien": "Isaac (vía panel, 28/10 12:49)",
+   "cuando": "2026-10-28T12:49",
+   "revive_si": "2026-11-04: si DHL sigue sin recoger en Euroma2"
   }
  ],
  "enlaces": [
