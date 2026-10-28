@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-28T16:27",
+ "actualizado": "2026-10-28T16:46",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9526,7 +9526,11 @@
    "porque": "Hoy llegó el material , avisado técnico ya no hace falta sustitución (sin reparación terminada acreditada)",
    "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
    "cuando": "2026-10-26T15:09",
-   "revive_si": "2026-10-29: si no consta la reparación terminada ni la fecha del técnico"
+   "revive_si": "2026-10-29: si no consta la reparación terminada ni la fecha del técnico",
+   "caducado": {
+    "cuando": "2026-10-28T16:46",
+    "motivo": "Alejandro (28/10): el material y la visita de Giuseppe corresponden al LEAS-7972 (manípulo H00563) y no acreditan reparación ni cierre del LEAS-7810 (SRF)"
+   }
   },
   {
    "id": "7756-borja-correo-26-1509",
