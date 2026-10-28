@@ -1,7 +1,7 @@
 {
  "_que_es": "Días LABORABLES en que cada punto ha salido en el panel. El aviso es len(dias): 1 = primera vez, 2 = campana, 3+ = rojo. Lo mantiene la pasada, no el navegador, para que todos vean el mismo número.",
  "_como_se_actualiza": "En la primera pasada de cada día laborable, añadir la fecha de hoy a cada punto que sigue saliendo, y borrar los puntos que ya no salen. Sábados, domingos y los días de 'festivos' NO se añaden.",
- "actualizado": "2026-10-28T09:49",
+ "actualizado": "2026-10-28T10:40",
  "festivos": [
   "2026-01-01",
   "2026-01-06",
@@ -24,18 +24,6 @@
    "2026-10-28"
   ],
   "LEAS-7786": [
-   "2026-10-27",
-   "2026-10-28"
-  ],
-  "LEAS-7730": [
-   "2026-10-15",
-   "2026-10-16",
-   "2026-10-19",
-   "2026-10-20",
-   "2026-10-21",
-   "2026-10-22",
-   "2026-10-23",
-   "2026-10-26",
    "2026-10-27",
    "2026-10-28"
   ],
@@ -67,16 +55,6 @@
    "2026-10-21",
    "2026-10-22",
    "2026-10-23",
-   "2026-10-26",
-   "2026-10-27",
-   "2026-10-28"
-  ],
-  "wapp|Laser Factory Manresa (consola C00400) · sin": [
-   "2026-10-26",
-   "2026-10-27",
-   "2026-10-28"
-  ],
-  "LEAS-8152": [
    "2026-10-26",
    "2026-10-27",
    "2026-10-28"
@@ -123,25 +101,11 @@
    "2026-10-27",
    "2026-10-28"
   ],
-  "LEAS-4908": [
-   "2026-10-23",
-   "2026-10-26",
-   "2026-10-27",
-   "2026-10-28"
-  ],
   "LEAS-8098": [
    "2026-10-27",
    "2026-10-28"
   ],
   "LEAS-7935": [
-   "2026-10-27",
-   "2026-10-28"
-  ],
-  "LEAS-8126": [
-   "2026-10-27",
-   "2026-10-28"
-  ],
-  "LEAS-8119": [
    "2026-10-27",
    "2026-10-28"
   ],

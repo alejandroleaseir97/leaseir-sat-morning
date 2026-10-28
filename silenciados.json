@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-28T09:49",
+ "actualizado": "2026-10-28T10:40",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7773,7 +7773,7 @@
    "cuando": "2026-10-14T10:14",
    "revive_si": "2026-10-28: fecha del técnico (10144); si sigue sin nota después",
    "caducado": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "ticket cerrado (Finalizado técnico externo)"
    }
   },
@@ -8840,7 +8840,7 @@
    "cuando": "2026-10-21T16:29",
    "revive_si": "2026-10-28: si el H00308 sigue retenido en Vitoria y no hay nota de contenido posterior",
    "revivido": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "vencía hoy: el H00308 sigue en Vitoria («En tránsito», último evento 28/10) sin nota de contenido posterior (punto en `ruta`)"
    }
   },
@@ -8858,7 +8858,7 @@
    "cuando": "2026-10-21T14:46",
    "revive_si": "2026-10-28: si sigue en «En reparación» sin nota de contenido posterior",
    "caducado": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "el hecho que esperaba ocurrió: salió de reparación (ahora «Devuelto a cliente»)"
    }
   },
@@ -8876,7 +8876,7 @@
    "cuando": "2026-10-21T15:21",
    "revive_si": "2026-10-28: si sigue en «Enviado a técnico externo» sin fecha ni resultado",
    "caducado": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "el hecho que esperaba ocurrió: el 10144 tiene fecha del técnico (31/10)"
    }
   },
@@ -8894,7 +8894,7 @@
    "cuando": "2026-10-21T15:07",
    "revive_si": "2026-10-28: si sigue en «Inspección de salida» sin nota de contenido posterior",
    "caducado": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "el hecho que esperaba ocurrió: Borja (26/10) «ya lo han recogido hoy»; ahora «Devuelto a cliente»"
    }
   },
@@ -8912,7 +8912,7 @@
    "cuando": "2026-10-22T13:51",
    "revive_si": "2026-10-28: si no ha llegado a taller o sigue sin nota de contenido",
    "revivido": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "vencía hoy: en taller pero sin diagnóstico ni presupuesto desde el 23/10 (punto en `repara`)"
    }
   },
@@ -8944,7 +8944,7 @@
    "cuando": "2026-10-22T17:08",
    "revive_si": "2026-10-28: si vuelve a haber en el chat algo que no esté en el ticket",
    "caducado": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "vencido sin nada nuevo en el chat; el ticket sigue su curso en presupuesto"
    }
   },
@@ -8998,7 +8998,7 @@
    "cuando": "2026-10-22T17:13",
    "revive_si": "2026-10-28: si el presupuesto aceptado no ha pasado a reparación",
    "caducado": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "el hecho que esperaba ocurrió: reparada (C00374 / H00374 OUT el 27/10 en «Fotos equipos»), ahora «Inspección de salida»"
    }
   },
@@ -9210,7 +9210,7 @@
    "cuando": "2026-10-23T13:29",
    "revive_si": "2026-10-28: si no ha entrado en reparación",
    "revivido": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "vencía hoy: sigue «Esperando inicio reparación» (punto en `repara`)"
    }
   },
@@ -9300,7 +9300,7 @@
    "cuando": "2026-10-23T16:32",
    "revive_si": "2026-10-28: si Caypri no ha dado fecha",
    "revivido": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "vencía hoy: Caypri sigue sin fecha; el punto de `telegram` sigue vivo"
    }
   },
@@ -9318,7 +9318,7 @@
    "cuando": "2026-10-23T16:32",
    "revive_si": "2026-10-28: si sigue sin entrar en reparación",
    "revivido": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "vencía hoy: sigue «En cola taller» sin entrar en reparación (punto en `repara`)"
    }
   },
@@ -9372,7 +9372,7 @@
    "cuando": "2026-10-23T16:53",
    "revive_si": "2026-10-28: si sigue sin presupuesto enviado",
    "caducado": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "ticket cerrado (Resuelto el 27/10)"
    }
   },
@@ -9426,7 +9426,7 @@
    "cuando": "2026-10-23T17:00",
    "revive_si": "2026-10-28: si sigue sin material ni fecha de técnico",
    "revivido": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "vencía hoy: sin material ni fecha de técnico (10144 del 19/10, pasado) (punto en `epil`)"
    }
   },
@@ -9542,7 +9542,7 @@
    "cuando": "2026-10-26T15:09",
    "revive_si": "2026-10-28: si sigue sin confirmarse la entrega de la reparada o, entregada, han pasado los 1-2 días de prueba sin pedir la recogida del sustituto",
    "caducado": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "ticket cerrado (Resuelto el 27/10); lo que queda es la sustitución LEAS-7855 (punto en `prestamo`)"
    }
   },
@@ -9560,7 +9560,7 @@
    "cuando": "2026-10-26T15:09",
    "revive_si": "2026-10-28: si la reparada ya está entregada y probada y no se ha pedido la recogida del sustituto",
    "revivido": {
-    "cuando": "2026-10-28T09:49",
+    "cuando": "2026-10-28T10:40",
     "motivo": "vencía hoy: LEAS-7756 resuelto el 27/10 y la sustitución sigue «En préstamo» sin recogida pedida (punto en `prestamo`)"
    }
   },
@@ -9591,6 +9591,76 @@
    "quien": "Isaac (vía panel, 09:28)",
    "cuando": "2026-10-28T09:28",
    "revive_si": "2026-11-02: si LEAS-8000 sigue abierto en «Enviado a técnico externo» sin nota de contenido que diga que la intervención se hizo"
+  },
+  {
+   "id": "8152-nota-isaac-28-1029",
+   "que": "LEAS-8152: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8152",
+    "centro": "SinVello Terrassa",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "ya esta la recogida y esta en transito (27/10 18:57); mando sustitución hoy (28/10 10:29)",
+   "quien": "Isaac (vía panel, 28/10 10:29)",
+   "cuando": "2026-10-28T10:29",
+   "revive_si": "2026-10-30: si LEAS-8157 sigue en «Solicitado» sin salir"
+  },
+  {
+   "id": "manresa-nota-isaac-28-1037",
+   "que": "Laser Factory Manresa: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Laser Factory Manresa",
+    "cliente": "Laser Factory",
+    "tipo": "wapp sin-ticket"
+   },
+   "porque": "ya se ha dicho a cristina que mueva el umbilical a taller",
+   "quien": "Isaac (vía panel, worker, 28/10 10:37)",
+   "cuando": "2026-10-28T10:37",
+   "revive_si": "2026-11-02: si el umbilical no ha llegado a taller o Laser Factory vuelve a preguntar"
+  },
+  {
+   "id": "8126-nota-isaac-27-1901",
+   "que": "LEAS-8126: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8126",
+    "centro": "Avanti Tenerife",
+    "cliente": "Avanti",
+    "tipo": "ruta"
+   },
+   "porque": "se reclama a BPR logistics",
+   "quien": "Isaac (vía panel, 27/10 19:01)",
+   "cuando": "2026-10-27T19:01",
+   "revive_si": "2026-11-02: si sigue sin llegar a taller y sin nota nueva"
+  },
+  {
+   "id": "8119-nota-isaac-27-1901",
+   "que": "LEAS-8119: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8119",
+    "centro": "SinVello Laguna de Duero",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "aun no se ha recogido ya que no hemos podido mandar sustitución",
+   "quien": "Isaac (vía panel, 27/10 19:01)",
+   "cuando": "2026-10-27T19:01",
+   "revive_si": "2026-10-30: si la sustitución LEAS-8162 sigue sin salir (el hecho se sigue en el punto de sustituciones de SinVello)"
+  },
+  {
+   "id": "4908-borja-correo-26-1509",
+   "que": "LEAS-4908: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-4908",
+    "centro": "Elha Pintor Felo Monzón",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "NAda mas que añadir por ahora. Esta de camino tarda 15-20 dias en llegar",
+   "quien": "Borja (correo a Alejandro, 26/10 15:09)",
+   "cuando": "2026-10-26T15:09",
+   "revive_si": "2026-11-04: si la C03045 / H03045 no ha llegado a Gijón"
   }
  ],
  "enlaces": [
