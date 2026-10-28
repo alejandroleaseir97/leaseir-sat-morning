@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-27T20:24",
+ "actualizado": "2026-10-28T09:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -7771,7 +7771,11 @@
    "porque": "esto no aplica: va Carlos Mora",
    "quien": "Cristina",
    "cuando": "2026-10-14T10:14",
-   "revive_si": "2026-10-28: fecha del técnico (10144); si sigue sin nota después"
+   "revive_si": "2026-10-28: fecha del técnico (10144); si sigue sin nota después",
+   "caducado": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "ticket cerrado (Finalizado técnico externo)"
+   }
   },
   {
    "id": "7975-noaplica-cristina-14-1017",
@@ -8834,7 +8838,11 @@
    "porque": "Reclamado a DHL ya que aparece retenido sin comentarios",
    "quien": "Cristina (vía panel, 16:29)",
    "cuando": "2026-10-21T16:29",
-   "revive_si": "2026-10-28: si el H00308 sigue retenido en Vitoria y no hay nota de contenido posterior"
+   "revive_si": "2026-10-28: si el H00308 sigue retenido en Vitoria y no hay nota de contenido posterior",
+   "revivido": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "vencía hoy: el H00308 sigue en Vitoria («En tránsito», último evento 28/10) sin nota de contenido posterior (punto en `ruta`)"
+   }
   },
   {
    "id": "7961-noaplica-cristina-21-1446",
@@ -8848,7 +8856,11 @@
    "porque": "encontraron de donde viene el error, han econtrado señales de humedad dentro del sensor del TIP, van a cambiarle el buffer",
    "quien": "Cristina (vía panel, 14:46)",
    "cuando": "2026-10-21T14:46",
-   "revive_si": "2026-10-28: si sigue en «En reparación» sin nota de contenido posterior"
+   "revive_si": "2026-10-28: si sigue en «En reparación» sin nota de contenido posterior",
+   "caducado": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "el hecho que esperaba ocurrió: salió de reparación (ahora «Devuelto a cliente»)"
+   }
   },
   {
    "id": "7820-noaplica-cristina-21-1521",
@@ -8862,7 +8874,11 @@
    "porque": "presupuesto aceptado y en marcha el técnico",
    "quien": "Cristina (vía panel, 15:21)",
    "cuando": "2026-10-21T15:21",
-   "revive_si": "2026-10-28: si sigue en «Enviado a técnico externo» sin fecha ni resultado"
+   "revive_si": "2026-10-28: si sigue en «Enviado a técnico externo» sin fecha ni resultado",
+   "caducado": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "el hecho que esperaba ocurrió: el 10144 tiene fecha del técnico (31/10)"
+   }
   },
   {
    "id": "6765-noaplica-cristina-21-1507",
@@ -8876,7 +8892,11 @@
    "porque": "Se mandan en el grupo la factura (SInv26-202601990) y las medidas del palé (70 × 67 × 147 cm).",
    "quien": "Cristina (vía panel, 15:07)",
    "cuando": "2026-10-21T15:07",
-   "revive_si": "2026-10-28: si sigue en «Inspección de salida» sin nota de contenido posterior"
+   "revive_si": "2026-10-28: si sigue en «Inspección de salida» sin nota de contenido posterior",
+   "caducado": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "el hecho que esperaba ocurrió: Borja (26/10) «ya lo han recogido hoy»; ahora «Devuelto a cliente»"
+   }
   },
   {
    "id": "8089-noaplica-borja-22-1351",
@@ -8890,7 +8910,11 @@
    "porque": "entregada sust, recogida la averiada, todo apuntado",
    "quien": "Borja (vía panel, 13:51)",
    "cuando": "2026-10-22T13:51",
-   "revive_si": "2026-10-28: si no ha llegado a taller o sigue sin nota de contenido"
+   "revive_si": "2026-10-28: si no ha llegado a taller o sigue sin nota de contenido",
+   "revivido": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "vencía hoy: en taller pero sin diagnóstico ni presupuesto desde el 23/10 (punto en `repara`)"
+   }
   },
   {
    "id": "7741-noaplica-borja-22-1559",
@@ -8918,7 +8942,11 @@
    "porque": "no aplica (el ticket pasó a «Pendiente recogida» a las 17:07)",
    "quien": "Cristina (vía panel, 17:08)",
    "cuando": "2026-10-22T17:08",
-   "revive_si": "2026-10-28: si vuelve a haber en el chat algo que no esté en el ticket"
+   "revive_si": "2026-10-28: si vuelve a haber en el chat algo que no esté en el ticket",
+   "caducado": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "vencido sin nada nuevo en el chat; el ticket sigue su curso en presupuesto"
+   }
   },
   {
    "id": "8110-noaplica-cristina-22-1710",
@@ -8968,7 +8996,11 @@
    "porque": "Javier respondió al correo Hacemos cambio de stack",
    "quien": "Cristina (vía panel, 17:13)",
    "cuando": "2026-10-22T17:13",
-   "revive_si": "2026-10-28: si el presupuesto aceptado no ha pasado a reparación"
+   "revive_si": "2026-10-28: si el presupuesto aceptado no ha pasado a reparación",
+   "caducado": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "el hecho que esperaba ocurrió: reparada (C00374 / H00374 OUT el 27/10 en «Fotos equipos»), ahora «Inspección de salida»"
+   }
   },
   {
    "id": "8097-noaplica-cristina-23-1012",
@@ -9176,7 +9208,11 @@
    "porque": "esta aceptado el presupuesto y pagado y en cola de reparacion",
    "quien": "Borja (vía panel, 13:29)",
    "cuando": "2026-10-23T13:29",
-   "revive_si": "2026-10-28: si no ha entrado en reparación"
+   "revive_si": "2026-10-28: si no ha entrado en reparación",
+   "revivido": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "vencía hoy: sigue «Esperando inicio reparación» (punto en `repara`)"
+   }
   },
   {
    "id": "7891-noaplica-borja-23-1309",
@@ -9262,7 +9298,11 @@
    "porque": "Se consulta con Caypri para ver que día irán a la intervención",
    "quien": "Cristina (vía panel, 16:32)",
    "cuando": "2026-10-23T16:32",
-   "revive_si": "2026-10-28: si Caypri no ha dado fecha"
+   "revive_si": "2026-10-28: si Caypri no ha dado fecha",
+   "revivido": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "vencía hoy: Caypri sigue sin fecha; el punto de `telegram` sigue vivo"
+   }
   },
   {
    "id": "7996-noaplica-cristina-23-1632",
@@ -9276,7 +9316,11 @@
    "porque": "no aplica, ya dijo Isaac que en cuanto pueda y se libere se pone con ella",
    "quien": "Cristina (vía panel, 16:32)",
    "cuando": "2026-10-23T16:32",
-   "revive_si": "2026-10-28: si sigue sin entrar en reparación"
+   "revive_si": "2026-10-28: si sigue sin entrar en reparación",
+   "revivido": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "vencía hoy: sigue «En cola taller» sin entrar en reparación (punto en `repara`)"
+   }
   },
   {
    "id": "7866-noaplica-cristina-23-1635",
@@ -9326,7 +9370,11 @@
    "porque": "el manipulo lo tiene Isaac y avanza como puede",
    "quien": "Cristina (vía panel, 16:53)",
    "cuando": "2026-10-23T16:53",
-   "revive_si": "2026-10-28: si sigue sin presupuesto enviado"
+   "revive_si": "2026-10-28: si sigue sin presupuesto enviado",
+   "caducado": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "ticket cerrado (Resuelto el 27/10)"
+   }
   },
   {
    "id": "7861-noaplica-cristina-23-1654",
@@ -9376,7 +9424,11 @@
    "porque": "No aplica ya escribió Borja",
    "quien": "Cristina (vía panel, 17:00)",
    "cuando": "2026-10-23T17:00",
-   "revive_si": "2026-10-28: si sigue sin material ni fecha de técnico"
+   "revive_si": "2026-10-28: si sigue sin material ni fecha de técnico",
+   "revivido": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "vencía hoy: sin material ni fecha de técnico (10144 del 19/10, pasado) (punto en `epil`)"
+   }
   },
   {
    "id": "7957-noaplica-cristina-26-1038",
@@ -9488,7 +9540,11 @@
    "porque": "HOy por la mañana aún no habian entregado ., Aun llegando hoy deberiamos dejar que la clienta lo pruebe uno o dos dias , hubo lio con ella (sin entrega confirmada; propuesta de probar la reparada 1-2 días antes de retirar el sustituto)",
    "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
    "cuando": "2026-10-26T15:09",
-   "revive_si": "2026-10-28: si sigue sin confirmarse la entrega de la reparada o, entregada, han pasado los 1-2 días de prueba sin pedir la recogida del sustituto"
+   "revive_si": "2026-10-28: si sigue sin confirmarse la entrega de la reparada o, entregada, han pasado los 1-2 días de prueba sin pedir la recogida del sustituto",
+   "caducado": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "ticket cerrado (Resuelto el 27/10); lo que queda es la sustitución LEAS-7855 (punto en `prestamo`)"
+   }
   },
   {
    "id": "7855-borja-correo-26-1509",
@@ -9502,7 +9558,11 @@
    "porque": "Sustituto de LEAS-7756: no se retira hasta que la clienta pruebe la reparada uno o dos días (la entrega de la reparada no estaba confirmada esta mañana)",
    "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
    "cuando": "2026-10-26T15:09",
-   "revive_si": "2026-10-28: si la reparada ya está entregada y probada y no se ha pedido la recogida del sustituto"
+   "revive_si": "2026-10-28: si la reparada ya está entregada y probada y no se ha pedido la recogida del sustituto",
+   "revivido": {
+    "cuando": "2026-10-28T09:49",
+    "motivo": "vencía hoy: LEAS-7756 resuelto el 27/10 y la sustitución sigue «En préstamo» sin recogida pedida (punto en `prestamo`)"
+   }
   },
   {
    "id": "8013-borja-correo-26-1509",
@@ -9517,6 +9577,20 @@
    "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
    "cuando": "2026-10-26T15:09",
    "revive_si": "2026-10-29: si no consta la recogida física ni la llegada a Gijón"
+  },
+  {
+   "id": "8000-nota-isaac-28-0928",
+   "que": "LEAS-8000 · Elha Cartagena (GEE): punto de `telegram` sobre la intervención de GEE",
+   "ambito": {
+    "leas": "LEAS-8000",
+    "centro": "Elha Cartagena",
+    "cliente": "Elha",
+    "tipo": "telegram"
+   },
+   "porque": "ya esta",
+   "quien": "Isaac (vía panel, 09:28)",
+   "cuando": "2026-10-28T09:28",
+   "revive_si": "2026-11-02: si LEAS-8000 sigue abierto en «Enviado a técnico externo» sin nota de contenido que diga que la intervención se hizo"
   }
  ],
  "enlaces": [
