@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-29T12:44",
+ "actualizado": "2026-10-29T15:59",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -10139,6 +10139,258 @@
    "quien": "Isaac (vía panel y correo, 28/10 19:59)",
    "cuando": "2026-10-28T19:59",
    "revive_si": "2026-11-04: si Carlos Mora no confirma la visita"
+  },
+  {
+   "id": "6906-borja-panel-29-1535",
+   "que": "LEAS-6906: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-6906",
+    "centro": "Daniel Jaramillo Holea",
+    "cliente": "Daniel Jaramillo Holea",
+    "tipo": "cerrar"
+   },
+   "porque": "Borja (vía panel, 15:35): «pagdo pero a la espera de que Daniel nos de una dirección de envio»",
+   "quien": "Borja (vía panel, 29/10 15:35)",
+   "cuando": "2026-10-29T15:35",
+   "revive_si": "2026-11-05: si sigue en «Inspección de salida» sin dirección de envío"
+  },
+  {
+   "id": "8065-borja-panel-29-1534",
+   "que": "LEAS-8065: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8065",
+    "centro": "Depilaris",
+    "cliente": "Depilaris",
+    "tipo": "cerrar"
+   },
+   "porque": "Borja (vía panel, 15:34): «sale hoyya hemos recibido confirmación de pago»",
+   "quien": "Borja (vía panel, 29/10 15:34)",
+   "cuando": "2026-10-29T15:34",
+   "revive_si": "2026-11-05: si sigue sin finalizar"
+  },
+  {
+   "id": "8013-borja-panel-29-1522",
+   "que": "LEAS-8013: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8013",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "Beleco Fan",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 15:22): «esta de camno a GIjon» (DHL Parcel en tránsito en Valladolid el 29/10, MCP SAT)",
+   "quien": "Borja (vía panel, 29/10 15:22)",
+   "cuando": "2026-10-29T15:22",
+   "revive_si": "2026-11-05: si no ha llegado a taller"
+  },
+  {
+   "id": "8093-borja-panel-29-1540",
+   "que": "LEAS-8093: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8093",
+    "centro": "Epil Point Bergamo",
+    "cliente": "Epil Point",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 15:40): «reclamada la recogida por mail» (correo de reclamación a DHL a las 15:40)",
+   "quien": "Borja (vía panel y correo, 29/10 15:40)",
+   "cuando": "2026-10-29T15:40",
+   "revive_si": "2026-11-05: si DHL sigue sin recoger"
+  },
+  {
+   "id": "8098-borja-panel-29-1534",
+   "que": "LEAS-8098: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8098",
+    "centro": "Smart Duck Lyon Bellecour",
+    "cliente": "Smart Duck",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 15:34): «Reclamada por segunda vez» (correo a DHL a las 15:33)",
+   "quien": "Borja (vía panel y correo, 29/10 15:34)",
+   "cuando": "2026-10-29T15:34",
+   "revive_si": "2026-11-05: si DHL sigue sin recoger"
+  },
+  {
+   "id": "8164-borja-panel-29-1534",
+   "que": "LEAS-8164: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8164",
+    "centro": "Smart Duck Cannes",
+    "cliente": "Smart Duck",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 15:34): «equipo de sustituciòn en francia , repartiran en breve»",
+   "quien": "Borja (vía panel, 29/10 15:34)",
+   "cuando": "2026-10-29T15:34",
+   "revive_si": "2026-11-05: si la averiada sigue sin recoger"
+  },
+  {
+   "id": "8172-borja-panel-29-1521",
+   "que": "LEAS-8172: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8172",
+    "centro": "SinVello Tomares",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 15:21): «mandamos nueva sustiticoon consola C00503 por express para que les llegue mañana» (DHL Express en ENVIOS a las 14:16; C00503 OUT a las 15:04)",
+   "quien": "Borja (vía panel, 29/10 15:21)",
+   "cuando": "2026-10-29T15:21",
+   "revive_si": "2026-11-05: si la averiada sigue sin recoger"
+  },
+  {
+   "id": "8168-borja-panel-29-1543",
+   "que": "LEAS-8168: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8168",
+    "centro": "Nuria Membrive",
+    "cliente": "Nuria Membrive",
+    "tipo": "nadie"
+   },
+   "porque": "Borja (vía panel, 15:43): «cerrado y resuelto»",
+   "quien": "Borja (vía panel, 29/10 15:43)",
+   "cuando": "2026-10-29T15:43",
+   "revive_si": "2026-11-05: si el ticket sigue abierto"
+  },
+  {
+   "id": "8184-isaac-panel-29-1448",
+   "que": "LEAS-8184: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8184",
+    "centro": "SinVello El Pilar",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 14:48): «ya esta aclarado con Sin Vello»",
+   "quien": "Isaac (vía panel, 29/10 14:48)",
+   "cuando": "2026-10-29T14:48",
+   "revive_si": "2026-11-05: si SinVello vuelve a preguntar"
+  },
+  {
+   "id": "8203-borja-noaplica-29-1521",
+   "que": "LEAS-8203: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8203",
+    "centro": "Elha Sta Eulàlia",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Borja (vía panel, 15:21): «esto no aplica: solucionado»",
+   "quien": "Borja (vía panel, 29/10 15:21)",
+   "cuando": "2026-10-29T15:21",
+   "revive_si": "2026-11-05: si Elha vuelve a pedir el código"
+  },
+  {
+   "id": "zaragoza-tecnico-isaac-29-1448",
+   "que": "Zaragoza: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Zaragoza",
+    "cliente": "Elha",
+    "tipo": "telegram"
+   },
+   "porque": "Isaac (nota del panel, 14:48): «ya esta atendido»",
+   "quien": "Isaac (worker /notas, 29/10 14:48)",
+   "cuando": "2026-10-29T14:48",
+   "revive_si": "2026-11-05: si el técnico de Zaragoza vuelve a pedir hablar con alguien"
+  },
+  {
+   "id": "portadiroma-bs-borja-29-1547",
+   "que": "Porta di Roma: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Porta di Roma",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Borja (nota del panel, 15:47): «enviada sustitución hoy m abierto ticket» (LEAS-8235 / LEAS-8236, DHL Express en ENVIOS a las 14:52; BSSUST012 OUT a las 13:56)",
+   "quien": "Borja (worker /notas, 29/10 15:47)",
+   "cuando": "2026-10-29T15:47",
+   "revive_si": "2026-11-05: si la BS de sustitución no ha llegado al centro"
+  },
+  {
+   "id": "8158-borja-panel-29-1554",
+   "que": "LEAS-8158: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8158",
+    "centro": "SinVello Goya",
+    "cliente": "Sin Vello",
+    "tipo": "externo"
+   },
+   "porque": "Borja (vía panel, 15:54): «preguntado a Innet si han podido pasar» (Innet en WhatsApp a las 15:45: «También está hecho sin vello Goya y Pozuelo»)",
+   "quien": "Borja (vía panel, 29/10 15:54)",
+   "cuando": "2026-10-29T15:54",
+   "revive_si": "2026-11-05: si sigue en «Enviado a técnico externo» sin el resultado de la visita"
+  },
+  {
+   "id": "7879-borja-panel-29-1551",
+   "que": "LEAS-7879: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7879",
+    "centro": "Nantara Laser",
+    "cliente": "Solmanía",
+    "tipo": "presu"
+   },
+   "porque": "Borja (vía panel, 15:51): «DAvid esta negociando con el la combra de un laser. de momento sigue con el alquiler»",
+   "quien": "Borja (vía panel, 29/10 15:51)",
+   "cuando": "2026-10-29T15:51",
+   "revive_si": "2026-11-05: si el presupuesto sigue sin respuesta"
+  },
+  {
+   "id": "8018-borja-panel-29-1550",
+   "que": "LEAS-8018: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8018",
+    "centro": "Elha Vic",
+    "cliente": "Elha",
+    "tipo": "cerrar"
+   },
+   "porque": "Borja (vía panel, 15:50): «sale hoy» (MHP40192 OUT a las 15:40 en «Fotos equipos»)",
+   "quien": "Borja (vía panel, 29/10 15:50)",
+   "cuando": "2026-10-29T15:50",
+   "revive_si": "2026-11-05: si sigue sin finalizar"
+  },
+  {
+   "id": "8025-borja-panel-29-1549",
+   "que": "LEAS-8025: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8025",
+    "centro": "Centro Unico Ostia",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Borja (vía panel, 15:49): «En reparacion y presupeusto aceptado .saldra mañana»",
+   "quien": "Borja (vía panel, 29/10 15:49)",
+   "cuando": "2026-10-29T15:49",
+   "revive_si": "2026-11-05: si el H00240 no ha salido de taller"
+  },
+  {
+   "id": "7967-borja-panel-29-1548",
+   "que": "LEAS-7967: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7967",
+    "centro": "Epil Point Oficinas",
+    "cliente": "Epil Point",
+    "tipo": "repara"
+   },
+   "porque": "Borja (vía panel, 15:48): «ultimas pruebas. saldrá mañana» (Jonathan 14:50: «mañana me pongo con ella»)",
+   "quien": "Borja (vía panel, 29/10 15:48)",
+   "cuando": "2026-10-29T15:48",
+   "revive_si": "2026-11-05: si la SUSTMHR020 no ha salido"
+  },
+  {
+   "id": "7935-borja-panel-29-1547",
+   "que": "LEAS-7935: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7935",
+    "centro": "Centro Unico Roma Est",
+    "cliente": "Unico Italia",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 15:47): «reclamada recogida por mail» (correo de reclamación a DHL a las 15:46)",
+   "quien": "Borja (vía panel y correo, 29/10 15:47)",
+   "cuando": "2026-10-29T15:47",
+   "revive_si": "2026-11-05: si DHL sigue sin recoger"
   }
  ],
  "enlaces": [
@@ -11144,7 +11396,7 @@
   },
   {
    "id": "critico-8023-sin-servicio-16",
-   "activo": true,
+   "activo": false,
    "leas": "LEAS-8023",
    "bloque": "wapp",
    "tipos": [
@@ -11170,7 +11422,11 @@
     "(?i)es el manípulo",
     "(?i)contestarles"
    ],
-   "deja_de_aplicar_si": "Luismi/SAT confirman el impacto (entonces se reescribe con ese dato) o Jira lo cierra; también si SAT/Calidad descarta expresamente el impacto. Entonces activo=false con motivo y fecha."
+   "deja_de_aplicar_si": "Luismi/SAT confirman el impacto (entonces se reescribe con ese dato) o Jira lo cierra; también si SAT/Calidad descarta expresamente el impacto. Entonces activo=false con motivo y fecha.",
+   "cerrado": {
+    "cuando": "2026-10-29T15:59",
+    "motivo": "Jira lo da por cerrado: LEAS-8023 en «Resuelto» (statusCategory done) el jueves 29/10"
+   }
   }
  ]
 }
