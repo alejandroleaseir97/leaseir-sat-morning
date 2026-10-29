@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-28T20:22",
+ "actualizado": "2026-10-29T09:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9470,7 +9470,11 @@
    "porque": "recogida y en camino a GIjon . solos e puede consutlkar por mail no hay tracking",
    "quien": "Borja (vía panel, 13:12)",
    "cuando": "2026-10-26T13:12",
-   "revive_si": "2026-11-03: si no ha llegado a Gijón y no hay nota de contenido (espera a BPR, 5 días laborables)"
+   "revive_si": "2026-11-03: si no ha llegado a Gijón y no hay nota de contenido (espera a BPR, 5 días laborables)",
+   "revivido": {
+    "cuando": "2026-10-29T09:49",
+    "motivo": "hecho nuevo y contrario: la clienta escribió el 28/10 a las 22:15 «aun no lo han recogido» (punto en `ruta`)"
+   }
   },
   {
    "id": "7789-noaplica-cristina-26-1419",
@@ -9484,7 +9488,11 @@
    "porque": "Tienen que aceptar el presuesto y otra proforma de un presupuesto que pidió David para ver si el seguro les cambia el diodo y ahora han pedido de un informe ..pero no sabemos hasta que punto se puede hacer",
    "quien": "Cristina (vía panel, 14:19)",
    "cuando": "2026-10-26T14:19",
-   "revive_si": "2026-10-29: si sigue sin aceptar el presupuesto y no hay nota de contenido (presu, 3 días laborables); la decisión del informe para el seguro es de Alejandro"
+   "revive_si": "2026-10-29: si sigue sin aceptar el presupuesto y no hay nota de contenido (presu, 3 días laborables); la decisión del informe para el seguro es de Alejandro",
+   "revivido": {
+    "cuando": "2026-10-29T09:49",
+    "motivo": "vencía hoy: sigue en «Pendiente confirmación presupuesto» sin nota de contenido posterior (punto en `presu`)"
+   }
   },
   {
    "id": "7730-noaplica-cristina-26-1430",
@@ -9580,7 +9588,11 @@
    "porque": "PEdida la recogida a taller hoy . tardará unos dias en llegar desde Mallorca (recogida solicitada; el correo no acredita la recogida física)",
    "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
    "cuando": "2026-10-26T15:09",
-   "revive_si": "2026-10-29: si no consta la recogida física ni la llegada a Gijón"
+   "revive_si": "2026-10-29: si no consta la recogida física ni la llegada a Gijón",
+   "caducado": {
+    "cuando": "2026-10-29T09:49",
+    "motivo": "el hecho que esperaba ocurrió: DHL Parcel JJD00006076065203308001 recogido el 26/10 y en tránsito en Valladolid el 29/10 (MCP SAT)"
+   }
   },
   {
    "id": "8000-nota-isaac-28-0928",
