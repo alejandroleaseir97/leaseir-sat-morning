@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-29T15:59",
+ "actualizado": "2026-10-29T16:37",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -10391,6 +10391,48 @@
    "quien": "Borja (vía panel y correo, 29/10 15:47)",
    "cuando": "2026-10-29T15:47",
    "revive_si": "2026-11-05: si DHL sigue sin recoger"
+  },
+  {
+   "id": "portugal-00255-chus-29-1614",
+   "que": "SAT Portugal (00255): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "SAT Portugal (00255)",
+    "cliente": "SAT Portugal",
+    "tipo": "wapp"
+   },
+   "porque": "Chus (en «SAT Portugal - Leaseir», 16:14): «Listo, fecha de caliport extendida» tras llamar a la clienta a las 16:00",
+   "quien": "Chus (WhatsApp, 29/10 16:14)",
+   "cuando": "2026-10-29T16:14",
+   "revive_si": "2026-11-05: si Mário vuelve a pedir la fecha del caliport del 00255"
+  },
+  {
+   "id": "lmedical-c00178-borja-29-1556",
+   "que": "L Medical (G-Point): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "L Medical (G-Point)",
+    "cliente": "L Medical",
+    "tipo": "wapp"
+   },
+   "porque": "Borja (nota del panel, 15:56): «No hay ticket. todo solucionado y aclarado»",
+   "quien": "Borja (worker /notas, 29/10 15:56)",
+   "cuando": "2026-10-29T15:56",
+   "revive_si": "2026-11-05: si L Medical vuelve a preguntar por la placa del C00178"
+  },
+  {
+   "id": "8238-alcobendas-borja-29-1605",
+   "que": "LEAS-8238: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8238",
+    "centro": "Dermasana Alcobendas",
+    "cliente": "Dermasana",
+    "tipo": "wapp"
+   },
+   "porque": "Borja (vía panel, 16:05): el punto va con LEAS-8238; a las 16:03 pidió por correo a Innet que pasen a cambiar el umbilical del 40402",
+   "quien": "Borja (vía panel y correo, 29/10 16:05)",
+   "cuando": "2026-10-29T16:05",
+   "revive_si": "2026-11-05: si Innet no ha ido o la clínica vuelve a reclamar"
   }
  ],
  "enlaces": [
