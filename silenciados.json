@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-30T12:49",
+ "actualizado": "2026-10-30T16:05",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -10561,6 +10561,62 @@
    "quien": "Borja (ENVIOS SAT LEASEIR, 30/10 12:19)",
    "cuando": "2026-10-30T12:19",
    "revive_si": "2026-11-04: si la sustitución no ha salido o el centro sigue parado"
+  },
+  {
+   "id": "8170-nota-borja-30-1257",
+   "que": "LEAS-8170: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8170",
+    "centro": "Clinic & Esthetic by Skincare Addict",
+    "cliente": "Clinic & Esthetic",
+    "tipo": "ruta"
+   },
+   "porque": "esta recogido y de reparto",
+   "quien": "Borja (vía panel, 30/10 12:57)",
+   "cuando": "2026-10-30T12:57",
+   "revive_si": "2026-11-06: si la consola AHR00484 no ha llegado a taller"
+  },
+  {
+   "id": "8148-noaplica-cristina-30-1522",
+   "que": "LEAS-8148: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8148",
+    "centro": "Elha Badalona",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: En cuanto se liberen los técnicos se irá asignando, hay mucho volumen de trabajo en taller",
+   "quien": "Cristina (vía panel, 30/10 15:22)",
+   "cuando": "2026-10-30T15:22",
+   "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva"
+  },
+  {
+   "id": "8131-noaplica-cristina-30-1530",
+   "que": "LEAS-8131: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8131",
+    "centro": "Elha Baricentro",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: Se consulta con el centro si han podido poner el tornillo",
+   "quien": "Cristina (vía panel, 30/10 15:30)",
+   "cuando": "2026-10-30T15:30",
+   "revive_si": "2026-11-04: si el centro no ha contestado y sigue sin nota nueva"
+  },
+  {
+   "id": "8150-noaplica-cristina-30-1531",
+   "que": "LEAS-8150: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8150",
+    "centro": "Elha Napols",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: En cuanto se liberen los técnicos de taller se irá asignando, hay mucho volumen de trabajo",
+   "quien": "Cristina (vía panel, 30/10 15:31)",
+   "cuando": "2026-10-30T15:31",
+   "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva"
   }
  ],
  "enlaces": [
