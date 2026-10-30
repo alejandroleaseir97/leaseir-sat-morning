@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-29T20:22",
+ "actualizado": "2026-10-30T09:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -8928,7 +8928,11 @@
    "porque": "salió, está el tracking de salida y se puede comprobar",
    "quien": "Borja (vía panel, 15:59)",
    "cuando": "2026-10-22T15:59",
-   "revive_si": "2026-10-30: si sigue en «Devuelto a cliente» sin finalizar"
+   "revive_si": "2026-10-30: si sigue en «Devuelto a cliente» sin finalizar",
+   "caducado": {
+    "cuando": "2026-10-30T09:49",
+    "motivo": "el ticket LEAS-7741 ya está cerrado"
+   }
   },
   {
    "id": "8109-noaplica-cristina-22-1708",
@@ -9050,7 +9054,11 @@
    "porque": "En cuanto se vayan liberando los técnicos se asignará, hay mucho volumen de trabajo en taller",
    "quien": "Cristina (vía panel, 10:37)",
    "cuando": "2026-10-23T10:37",
-   "revive_si": "2026-10-30: si sigue sin técnico asignado"
+   "revive_si": "2026-10-30: si sigue sin técnico asignado",
+   "revivido": {
+    "cuando": "2026-10-30T09:49",
+    "motivo": "vencía hoy: sigue en «Pendiente asignar técnico» sin técnico (punto en `repara`)"
+   }
   },
   {
    "id": "8033-noaplica-borja-23-1250",
@@ -9620,7 +9628,11 @@
    "porque": "ya esta la recogida y esta en transito (27/10 18:57); mando sustitución hoy (28/10 10:29)",
    "quien": "Isaac (vía panel, 28/10 10:29)",
    "cuando": "2026-10-28T10:29",
-   "revive_si": "2026-10-30: si LEAS-8157 sigue en «Solicitado» sin salir"
+   "revive_si": "2026-10-30: si LEAS-8157 sigue en «Solicitado» sin salir",
+   "revivido": {
+    "cuando": "2026-10-30T09:49",
+    "motivo": "vencía hoy: la sustitución LEAS-8157 sigue en «Solicitado» sin salir (punto en `repara`)"
+   }
   },
   {
    "id": "manresa-nota-isaac-28-1037",
@@ -9662,7 +9674,11 @@
    "porque": "aun no se ha recogido ya que no hemos podido mandar sustitución",
    "quien": "Isaac (vía panel, 27/10 19:01)",
    "cuando": "2026-10-27T19:01",
-   "revive_si": "2026-10-30: si la sustitución LEAS-8162 sigue sin salir (el hecho se sigue en el punto de sustituciones de SinVello)"
+   "revive_si": "2026-10-30: si la sustitución LEAS-8162 sigue sin salir (el hecho se sigue en el punto de sustituciones de SinVello)",
+   "revivido": {
+    "cuando": "2026-10-30T09:49",
+    "motivo": "vencía hoy: la sustitución LEAS-8162 sigue en «Solicitado» sin tracking (punto en `ruta`)"
+   }
   },
   {
    "id": "4908-borja-correo-26-1509",
