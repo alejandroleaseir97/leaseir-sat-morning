@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-30T09:49",
+ "actualizado": "2026-10-30T12:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -10449,6 +10449,118 @@
    "quien": "Borja (vía panel y correo, 29/10 16:05)",
    "cuando": "2026-10-29T16:05",
    "revive_si": "2026-11-05: si Innet no ha ido o la clínica vuelve a reclamar"
+  },
+  {
+   "id": "8221-noaplica-borja-30-1231",
+   "que": "LEAS-8221: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8221",
+    "centro": "Elha Villarroel",
+    "cliente": "Elha",
+    "tipo": "telegram"
+   },
+   "porque": "esto no aplica: https://shipping-tracking.production.cloud2.cttexpress.com/?sc=0033260033269700323927 pantallas",
+   "quien": "Borja (vía panel, 30/10 12:31)",
+   "cuando": "2026-10-30T12:31",
+   "revive_si": "2026-11-06: si las 2 pantallas no han llegado a su destino"
+  },
+  {
+   "id": "8188-noaplica-borja-30-1239",
+   "que": "LEAS-8188: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8188",
+    "centro": "Elha Zambrano",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: preguntado",
+   "quien": "Borja (vía panel, 30/10 12:39)",
+   "cuando": "2026-10-30T12:39",
+   "revive_si": "2026-11-04: si el manípulo 40178 sigue sin recoger y sin nota nueva"
+  },
+  {
+   "id": "7804-nota-isaac-30-1240",
+   "que": "LEAS-7804: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7804",
+    "centro": "SinVello Sant Cugat del Vallès",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "esta en reparación",
+   "quien": "Isaac (vía panel, 30/10 12:40)",
+   "cuando": "2026-10-30T12:40",
+   "revive_si": "2026-11-06: si sigue «En reparación» sin nota de contenido nueva"
+  },
+  {
+   "id": "8142-nota-borja-30-1244",
+   "que": "LEAS-8142: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8142",
+    "centro": "Elha Cartagena",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "reclamada recogida",
+   "quien": "Borja (vía panel, 30/10 12:44)",
+   "cuando": "2026-10-30T12:44",
+   "revive_si": "2026-11-06: si la consola 90628 sigue sin recoger y sin nota nueva"
+  },
+  {
+   "id": "alcala-nota-isaac-30-1235",
+   "que": "Dermasana Alcalá de Henares: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Dermasana Alcalá de Henares",
+    "cliente": "Dermasana",
+    "tipo": "wapp"
+   },
+   "porque": "ya esta resuelto, era ajustar el caliport",
+   "quien": "Isaac (worker /notas, 30/10 12:35)",
+   "cuando": "2026-10-30T12:35",
+   "revive_si": "2026-11-06: si la clínica vuelve a avisar de la misma avería"
+  },
+  {
+   "id": "clinicone-nota-isaac-30-1235",
+   "que": "Clinic One Los Llanos: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Clinic One Los Llanos",
+    "cliente": "Clinic One",
+    "tipo": "wapp"
+   },
+   "porque": "ya se envio y se facturo",
+   "quien": "Isaac (worker /notas, 30/10 12:35)",
+   "cuando": "2026-10-30T12:35",
+   "revive_si": "2026-11-06: si el cliente dice que no ha recibido las gafas"
+  },
+  {
+   "id": "c00676-borja-30-1015",
+   "que": "Centri Unico (C00676, Globo): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico (C00676, Globo)",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Borja les guió a usar la back-up 00368 con el H00676 («Perfetto fatto! Grazie», 10:15); la intervención del SSD va en LEAS-8247",
+   "quien": "Borja (Telegram «Centri Unico Italia - Leaseir», 30/10 10:15)",
+   "cuando": "2026-10-30T10:15",
+   "revive_si": "2026-11-04: si la back-up falla o LEAS-8247 no tiene intervención"
+  },
+  {
+   "id": "campania-h00562-borja-30-1219",
+   "que": "Centri Unico Campania (H00562): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico Campania (H00562)",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "abierto LEAS-8257 (Pendiente recogida) y sustitución H00552 (LEAS-8259) publicada en ENVIOS a las 12:19",
+   "quien": "Borja (ENVIOS SAT LEASEIR, 30/10 12:19)",
+   "cuando": "2026-10-30T12:19",
+   "revive_si": "2026-11-04: si la sustitución no ha salido o el centro sigue parado"
   }
  ],
  "enlaces": [
