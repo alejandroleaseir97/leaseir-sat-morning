@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-30T16:05",
+ "actualizado": "2026-10-30T18:32",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -10617,6 +10617,174 @@
    "quien": "Cristina (vía panel, 30/10 15:31)",
    "cuando": "2026-10-30T15:31",
    "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva"
+  },
+  {
+   "id": "7420-nota-gonzalo-30-1612",
+   "que": "LEAS-7420: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7420",
+    "centro": "Medical & Aesthetics Solutions (Panamá)",
+    "cliente": "Medical & Aesthetics Solutions",
+    "tipo": "cerrar"
+   },
+   "porque": "Esperando información",
+   "quien": "Gonzalo (vía panel, 30/10 16:12)",
+   "cuando": "2026-10-30T16:12",
+   "revive_si": "2026-11-06: si sigue en «Inspección de salida» sin nota de contenido nueva"
+  },
+  {
+   "id": "7824-noaplica-cristina-30-1627",
+   "que": "LEAS-7824: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7824",
+    "centro": "Elha Obispo",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: En cuanto se liberen técnicos de taller se irá asignando, hay mucho volumen de trabajo en taller",
+   "quien": "Cristina (vía panel, 30/10 16:27)",
+   "cuando": "2026-10-30T16:27",
+   "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva"
+  },
+  {
+   "id": "7820-nota-gonzalo-30-1632",
+   "que": "LEAS-7820: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7820",
+    "centro": "Juan Casasnovas (Florida)",
+    "cliente": "Juan Casasnovas",
+    "tipo": "externo"
+   },
+   "porque": "Estamos esperando a más noticias, el lunes de la proxima semana nos dirá mas",
+   "quien": "Gonzalo (vía panel, 30/10 16:32)",
+   "cuando": "2026-10-30T16:32",
+   "revive_si": "2026-11-03: si el distribuidor no ha dado noticias"
+  },
+  {
+   "id": "7886-nota-gonzalo-30-1638",
+   "que": "LEAS-7886: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7886",
+    "centro": "Dermoscan Alemania",
+    "cliente": "Dermoscan",
+    "tipo": "repara"
+   },
+   "porque": "Sigue todavía en cola",
+   "quien": "Gonzalo (vía panel, 30/10 16:38)",
+   "cuando": "2026-10-30T16:38",
+   "revive_si": "2026-11-06: si sigue en cola sin nota de contenido nueva"
+  },
+  {
+   "id": "7904-noaplica-cristina-30-1642",
+   "que": "LEAS-7904: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7904",
+    "centro": "Dermasana Calle Alcalá",
+    "cliente": "Dermasana",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: Se pide que se pongan con el manipulo esta semana que entra",
+   "quien": "Cristina (vía panel, 30/10 16:42)",
+   "cuando": "2026-10-30T16:42",
+   "revive_si": "2026-11-06: si el manípulo sigue sin reparar"
+  },
+  {
+   "id": "8265-enlace-gonzalo-30-1653",
+   "que": "LEAS-8265: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8265",
+    "centro": "Centri Unico Porte dell'Adige",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "punto del panel sin ticket (caliport de Porte dell'Adige), va con LEAS-8265",
+   "quien": "Gonzalo (vía panel, 30/10 16:53)",
+   "cuando": "2026-10-30T16:53",
+   "revive_si": "2026-11-06: si LEAS-8265 sigue sin nota de contenido"
+  },
+  {
+   "id": "martinafranca-nota-gonzalo-30-1702",
+   "que": "Epil Point Martina Franca: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point Martina Franca",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Se les pregunta por ello, no es Temperatura pero Stop 3 (y Epil Point contestó a las 17:40: «the issue in Martina Franca has been resolved»)",
+   "quien": "Gonzalo (vía panel, 30/10 17:02)",
+   "cuando": "2026-10-30T17:02",
+   "revive_si": "2026-11-13: si Epil Point vuelve a reportar el stop en Martina Franca"
+  },
+  {
+   "id": "8171-noaplica-cristina-30-1751",
+   "que": "LEAS-8171: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8171",
+    "centro": "Elha Santa Coloma",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: Se les pide que nos avisen de cuando hablen con el centro para gestionar la recogida de nuevo",
+   "quien": "Cristina (vía panel, 30/10 17:51)",
+   "cuando": "2026-10-30T17:51",
+   "revive_si": "2026-11-04: si Elha no ha contestado y la recogida sigue sin pedir"
+  },
+  {
+   "id": "8176-noaplica-cristina-30-1755",
+   "que": "LEAS-8176: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8176",
+    "centro": "Elha Jaén",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: no aplica",
+   "quien": "Cristina (vía panel, 30/10 17:55)",
+   "cuando": "2026-10-30T17:55",
+   "revive_si": "2026-11-04: si sigue en «Pendiente recogida» sin transporte pedido"
+  },
+  {
+   "id": "8204-noaplica-cristina-30-1756",
+   "que": "LEAS-8204: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8204",
+    "centro": "SinVello Arrecife Lanzarote",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: se pregunta por el grupo si Isaac consultó algo ya que los portes de informaron a Luismi que eran bastante elevados",
+   "quien": "Cristina (vía panel, 30/10 17:56)",
+   "cuando": "2026-10-30T17:56",
+   "revive_si": "2026-11-04: si sigue en «Pendiente recogida» sin transporte pedido"
+  },
+  {
+   "id": "8072-nota-gonzalo-30-1803",
+   "que": "LEAS-8072: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8072",
+    "centro": "Centri Unico Rescaldina",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "El técnico va el 5 de noviembre como ponen por correo",
+   "quien": "Gonzalo (vía panel, 30/10 18:03)",
+   "cuando": "2026-10-30T18:03",
+   "revive_si": "2026-11-06: si no hay nota de la intervención del 05/11"
+  },
+  {
+   "id": "condiodo-nota-isaac-30-1819",
+   "que": "ConDiodo Sat (Centro DJN Diodo): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "ConDiodo Sat (Centro DJN Diodo)",
+    "cliente": "ConDiodo",
+    "tipo": "wapp"
+   },
+   "porque": "ya ha pagado presupuesto, nos pondremos a reparar lo antes posible",
+   "quien": "Isaac (vía panel, 30/10 18:19)",
+   "cuando": "2026-10-30T18:19",
+   "revive_si": "2026-11-06: si el módulo no ha salido reparado"
   }
  ],
  "enlaces": [
