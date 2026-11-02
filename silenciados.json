@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-30T18:32",
+ "actualizado": "2026-11-02T10:05",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9614,7 +9614,11 @@
    "porque": "ya esta",
    "quien": "Isaac (vía panel, 09:28)",
    "cuando": "2026-10-28T09:28",
-   "revive_si": "2026-11-02: si LEAS-8000 sigue abierto en «Enviado a técnico externo» sin nota de contenido que diga que la intervención se hizo"
+   "revive_si": "2026-11-02: si LEAS-8000 sigue abierto en «Enviado a técnico externo» sin nota de contenido que diga que la intervención se hizo",
+   "revivido": {
+    "fecha": "2026-11-02T10:05",
+    "motivo": "el revive_si vencía el 02/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8152-nota-isaac-28-1029",
@@ -9646,7 +9650,11 @@
    "porque": "ya se ha dicho a cristina que mueva el umbilical a taller",
    "quien": "Isaac (vía panel, worker, 28/10 10:37)",
    "cuando": "2026-10-28T10:37",
-   "revive_si": "2026-11-02: si el umbilical no ha llegado a taller o Laser Factory vuelve a preguntar"
+   "revive_si": "2026-11-02: si el umbilical no ha llegado a taller o Laser Factory vuelve a preguntar",
+   "revivido": {
+    "fecha": "2026-11-02T10:05",
+    "motivo": "el revive_si vencía el 02/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8126-nota-isaac-27-1901",
@@ -9660,7 +9668,11 @@
    "porque": "se reclama a BPR logistics",
    "quien": "Isaac (vía panel, 27/10 19:01)",
    "cuando": "2026-10-27T19:01",
-   "revive_si": "2026-11-02: si sigue sin llegar a taller y sin nota nueva"
+   "revive_si": "2026-11-02: si sigue sin llegar a taller y sin nota nueva",
+   "caducado": {
+    "fecha": "2026-11-02T10:05",
+    "motivo": "LEAS-8126 ya está en «En cola taller»: llegó a taller"
+   }
   },
   {
    "id": "8119-nota-isaac-27-1901",
@@ -9944,7 +9956,11 @@
    "porque": "esto no aplica: pregunto por el grupo para ver si alguno de mis compañeros sabe algo",
    "quien": "Cristina (vía panel, 28/10 16:08)",
    "cuando": "2026-10-28T16:08",
-   "revive_si": "2026-11-02: si nadie sabe si la clienta acepta el presupuesto"
+   "revive_si": "2026-11-02: si nadie sabe si la clienta acepta el presupuesto",
+   "revivido": {
+    "fecha": "2026-11-02T10:05",
+    "motivo": "el revive_si vencía el 02/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8120-noaplica-cristina-28-1609",
@@ -10728,7 +10744,11 @@
    "porque": "esto no aplica: Se les pide que nos avisen de cuando hablen con el centro para gestionar la recogida de nuevo",
    "quien": "Cristina (vía panel, 30/10 17:51)",
    "cuando": "2026-10-30T17:51",
-   "revive_si": "2026-11-04: si Elha no ha contestado y la recogida sigue sin pedir"
+   "revive_si": "2026-11-04: si Elha no ha contestado y la recogida sigue sin pedir",
+   "caducado": {
+    "fecha": "2026-11-02T10:05",
+    "motivo": "Elha contestó el viernes 30/10 a las 19:09 («Gestionadla porfa»): el punto vuelve con la recogida pendiente"
+   }
   },
   {
    "id": "8176-noaplica-cristina-30-1755",
@@ -10785,6 +10805,174 @@
    "quien": "Isaac (vía panel, 30/10 18:19)",
    "cuando": "2026-10-30T18:19",
    "revive_si": "2026-11-06: si el módulo no ha salido reparado"
+  },
+  {
+   "id": "8153-nota-isaac-30-1906",
+   "que": "LEAS-8153: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8153",
+    "centro": "SinVello Andújar",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "ha llegado la sust y se ha pedido recogida xq ya esta solucionado, si en este fin de semana falla su equipo anulo la recogida de la sust",
+   "quien": "Isaac (vía panel, 30/10 19:06)",
+   "cuando": "2026-10-30T19:06",
+   "revive_si": "2026-11-09: si la averiada sigue sin recoger y sin nota nueva"
+  },
+  {
+   "id": "8227-nota-isaac-30-1906",
+   "que": "LEAS-8227: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8227",
+    "centro": "Clínica Indalo Santurce",
+    "cliente": "Clínica Indalo",
+    "tipo": "ruta"
+   },
+   "porque": "en cuanto tengamos una sust single o dual libre de LM se la mandara",
+   "quien": "Isaac (vía panel, 30/10 19:06)",
+   "cuando": "2026-10-30T19:06",
+   "revive_si": "2026-11-09: si la sustitución sigue sin salir"
+  },
+  {
+   "id": "7967-nota-isaac-30-1907",
+   "que": "LEAS-7967: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7967",
+    "centro": "Epil Point (SUSTMHR020)",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "hoy se ha enviado para Italia",
+   "quien": "Isaac (vía panel, 30/10 19:07)",
+   "cuando": "2026-10-30T19:07",
+   "revive_si": "2026-11-09: si no consta la entrega en Valle Aurelia"
+  },
+  {
+   "id": "7188-nota-isaac-30-1908",
+   "que": "LEAS-7188: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7188",
+    "centro": "Centro Unico Boccea",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "se la asigno a Fran",
+   "quien": "Isaac (vía panel, 30/10 19:08)",
+   "cuando": "2026-10-30T19:08",
+   "revive_si": "2026-11-09: si sigue en reparación sin nota de contenido nueva"
+  },
+  {
+   "id": "8152-nota-isaac-30-1918",
+   "que": "LEAS-8152: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8152",
+    "centro": "SinVello Terrassa",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "no se ha enviado aun sustitucion",
+   "quien": "Isaac (vía panel, 30/10 19:18)",
+   "cuando": "2026-10-30T19:18",
+   "revive_si": "2026-11-09: si la sustitución sigue sin salir y el presupuesto sin hacer"
+  },
+  {
+   "id": "7881-nota-isaac-30-1920",
+   "que": "LEAS-7881: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7881",
+    "centro": "Blanca (Medsystems, Colombia)",
+    "cliente": "Medsystems",
+    "tipo": "presu"
+   },
+   "porque": "se ha comentado ya el presupuesto, el martes hablo con Borja para ver como esta el tema",
+   "quien": "Isaac (vía panel, 30/10 19:20)",
+   "cuando": "2026-10-30T19:20",
+   "revive_si": "2026-11-04: si no hay nota de lo que hablen el martes"
+  },
+  {
+   "id": "7789-nota-isaac-30-1922",
+   "que": "LEAS-7789: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7789",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "Beleco",
+    "tipo": "presu"
+   },
+   "porque": "siguen sin pagar el presupuesto y nos piden informes que ya se ha comunicado a los jefes y a David",
+   "quien": "Isaac (vía panel, 30/10 19:22)",
+   "cuando": "2026-10-30T19:22",
+   "revive_si": "2026-11-05: si el presupuesto sigue sin pagar y sin nota nueva"
+  },
+  {
+   "id": "8102-nota-isaac-30-1922",
+   "que": "LEAS-8102: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8102",
+    "centro": "Pro Laser Tenerife",
+    "cliente": "Pro Laser",
+    "tipo": "ruta"
+   },
+   "porque": "hemos reclamado recogida pero la clinica esta cerrada xq no esta la clienta hasta el martes",
+   "quien": "Isaac (vía panel, 30/10 19:22)",
+   "cuando": "2026-10-30T19:22",
+   "revive_si": "2026-11-04: si la recogida sigue sin hacer"
+  },
+  {
+   "id": "8214-nota-isaac-30-1924",
+   "que": "LEAS-8214: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8214",
+    "centro": "SinVello Badajoz",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "aun no se ha mandado sustitución",
+   "quien": "Isaac (vía panel, 30/10 19:24)",
+   "cuando": "2026-10-30T19:24",
+   "revive_si": "2026-11-09: si la sustitución sigue sin salir"
+  },
+  {
+   "id": "oscar-palermo-nota-gonzalo-31-1349",
+   "que": "Centri Unico (Oscar Estrada): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico (Oscar Estrada)",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Se pregunta el lunes, en palermo tienen que tener una",
+   "quien": "Gonzalo (vía panel, 31/10 13:49)",
+   "cuando": "2026-10-31T13:49",
+   "revive_si": "2026-11-04: si no hay respuesta sobre la back-up de Palermo"
+  },
+  {
+   "id": "8182-prueba-02-1005",
+   "que": "LEAS-8182: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8182",
+    "centro": "(sin centro)",
+    "cliente": "prueba",
+    "tipo": "repara"
+   },
+   "porque": "ticket de prueba: la avería dice «PRUEBA – NO ES QUEJA REAL – No calienta FC» (creado por Ignacio Ortiz el 27/10); no es una incidencia real",
+   "quien": "pasada de las 9:30 del 02/11 (pendiente de que Alejandro decida si se cancela)",
+   "cuando": "2026-11-02T10:05",
+   "revive_si": "2026-11-16: si sigue abierto"
+  },
+  {
+   "id": "romaest-enlace-gonzalo-30-1841",
+   "que": "LEAS-8268: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8268",
+    "centro": "Centri Unico Roma Est (refrigerante)",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "punto del panel sin ticket, va con LEAS-8268",
+   "quien": "Gonzalo (vía panel, 30/10 18:41)",
+   "cuando": "2026-10-30T18:41",
+   "revive_si": "2026-11-13: si la intervención del 13/11 no está apuntada en LEAS-8268"
   }
  ],
  "enlaces": [
