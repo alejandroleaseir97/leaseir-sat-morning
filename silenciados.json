@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-02T12:46",
+ "actualizado": "2026-11-02T15:46",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -10987,6 +10987,20 @@
    "quien": "Isaac (EPIL POINT LASER SUPPORT, 02/11 11:04 y 12:07)",
    "cuando": "2026-11-02T12:07",
    "revive_si": "2026-11-09: si no consta el envío de las piezas a Monopoli ni de los tornillos a Alessandria"
+  },
+  {
+   "id": "campania-c00282-isaac-02-1323",
+   "que": "Centri Unico Campania (C00282 / H00282): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "",
+    "centro": "Centri Unico Campania (C00282 / H00282)",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Campania (13:17): «siamo in attesa di un gentilissimo riscontro tempestivo»; Isaac (13:23): «dobbiamo ritirare l'H00282»",
+   "quien": "Isaac (Centri Unico Italia - Leaseir, 02/11 13:23)",
+   "cuando": "2026-11-02T13:23",
+   "revive_si": "2026-11-09: si no hay ticket ni recogida pedida del H00282"
   }
  ],
  "enlaces": [
