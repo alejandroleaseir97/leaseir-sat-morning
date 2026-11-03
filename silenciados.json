@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-02T16:56",
+ "actualizado": "2026-11-03T09:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9450,7 +9450,11 @@
    "porque": "Nos informa Luismi que en cuanto le manden el comprobante nos lo hace llegar (el ticket ya está en «Esperando inicio reparación»)",
    "quien": "Cristina (vía panel, 10:38)",
    "cuando": "2026-10-26T10:38",
-   "revive_si": "2026-11-03: si sigue sin llegar el comprobante de SinVello y no hay nota de contenido"
+   "revive_si": "2026-11-03: si sigue sin llegar el comprobante de SinVello y no hay nota de contenido",
+   "caducado": {
+    "fecha": "2026-11-03T09:49",
+    "motivo": "el ticket ya está cerrado"
+   }
   },
   {
    "id": "8134-noaplica-cristina-26-1058",
@@ -9464,7 +9468,11 @@
    "porque": "El cable lo mandaron internamente y solucionado, sobre la pieza de mano hacen videollamada con Chus",
    "quien": "Cristina (vía panel, 10:58)",
    "cuando": "2026-10-26T10:58",
-   "revive_si": "2026-11-03: si no consta el resultado de la videollamada ni qué se hace con la pieza de mano (Epil pidió su recogida a las 10:33)"
+   "revive_si": "2026-11-03: si no consta el resultado de la videollamada ni qué se hace con la pieza de mano (Epil pidió su recogida a las 10:33)",
+   "revivido": {
+    "fecha": "2026-11-03T09:49",
+    "motivo": "el revive_si vencía el 03/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8102-noaplica-borja-26-1312",
@@ -9514,7 +9522,11 @@
    "porque": "colapsada por huelga",
    "quien": "Cristina (vía panel, 14:30)",
    "cuando": "2026-10-26T14:30",
-   "revive_si": "2026-11-03: si DHL sigue sin recoger la SRF10016 y no hay nota de contenido (espera a un tercero, 5 días laborables)"
+   "revive_si": "2026-11-03: si DHL sigue sin recoger la SRF10016 y no hay nota de contenido (espera a un tercero, 5 días laborables)",
+   "caducado": {
+    "fecha": "2026-11-03T09:49",
+    "motivo": "lo sustituye el silencio de Isaac del 28/10 12:49 (revive el 04/11 si DHL sigue sin recoger)"
+   }
   },
   {
    "id": "7822-borja-correo-26-1509",
@@ -9528,7 +9540,11 @@
    "porque": "Reparado y tienen que llevarlo corpoderm ya esta aprobado el presupuesto con ellos. SOlo queda esperar, van lentos",
    "quien": "Borja (correo a Alejandro, 26/10 15:09; incorporado a petición de Alejandro, 16:07)",
    "cuando": "2026-10-26T15:09",
-   "revive_si": "2026-11-03: si Corpoderm no lo ha devuelto y no hay nota de contenido nueva (espera a un tercero, 5 días laborables)"
+   "revive_si": "2026-11-03: si Corpoderm no lo ha devuelto y no hay nota de contenido nueva (espera a un tercero, 5 días laborables)",
+   "caducado": {
+    "fecha": "2026-11-03T09:49",
+    "motivo": "el ticket ya está cerrado"
+   }
   },
   {
    "id": "7810-borja-correo-26-1509",
@@ -10674,7 +10690,11 @@
    "porque": "Estamos esperando a más noticias, el lunes de la proxima semana nos dirá mas",
    "quien": "Gonzalo (vía panel, 30/10 16:32)",
    "cuando": "2026-10-30T16:32",
-   "revive_si": "2026-11-03: si el distribuidor no ha dado noticias"
+   "revive_si": "2026-11-03: si el distribuidor no ha dado noticias",
+   "caducado": {
+    "fecha": "2026-11-03T09:49",
+    "motivo": "el técnico (Terry) dio noticias el 02/11 a las 17:07: ahora falta mandarle instrucciones e informe (punto nuevo en wapp)"
+   }
   },
   {
    "id": "7886-nota-gonzalo-30-1638",
@@ -11001,6 +11021,90 @@
    "quien": "Isaac (Centri Unico Italia - Leaseir, 02/11 13:23)",
    "cuando": "2026-11-02T13:23",
    "revive_si": "2026-11-09: si no hay ticket ni recogida pedida del H00282"
+  },
+  {
+   "id": "7850-nota-gonzalo-02-1946",
+   "que": "LEAS-7850: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7850",
+    "centro": "Smart Duck Voltaire",
+    "cliente": "Smart Duck",
+    "tipo": "repara"
+   },
+   "porque": "Se recuerda a taller",
+   "quien": "Gonzalo (vía panel, 02/11 19:46)",
+   "cuando": "2026-11-02T19:46",
+   "revive_si": "2026-11-09: si sigue sin reparar y sin nota de contenido nueva"
+  },
+  {
+   "id": "8126-nota-gonzalo-02-1942",
+   "que": "LEAS-8126: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8126",
+    "centro": "Avanti Tenerife",
+    "cliente": "Avanti",
+    "tipo": "repara"
+   },
+   "porque": "Ha llegado pero está en cola por falta de técnicos",
+   "quien": "Gonzalo (vía panel, 02/11 19:42)",
+   "cuando": "2026-11-02T19:42",
+   "revive_si": "2026-11-09: si sigue en cola sin diagnóstico"
+  },
+  {
+   "id": "8171-nota-gonzalo-02-1937",
+   "que": "LEAS-8171: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8171",
+    "centro": "Elha Santa Coloma",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Se preguta de nuevo a Elha",
+   "quien": "Gonzalo (vía panel, 02/11 19:37)",
+   "cuando": "2026-11-02T19:37",
+   "revive_si": "2026-11-09: si la recogida sigue sin pedir"
+  },
+  {
+   "id": "8216-nota-gonzalo-02-1938",
+   "que": "LEAS-8216: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8216",
+    "centro": "Laser Factory Manresa",
+    "cliente": "Laser Factory",
+    "tipo": "ruta"
+   },
+   "porque": "Se entrega el miercoles según dhl",
+   "quien": "Gonzalo (vía panel, 02/11 19:38)",
+   "cuando": "2026-11-02T19:38",
+   "revive_si": "2026-11-05: si el umbilical no ha llegado a taller"
+  },
+  {
+   "id": "8110-nota-gonzalo-02-2001",
+   "que": "LEAS-8110: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8110",
+    "centro": "Epil Point Genova",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Se pregunta de nuevo",
+   "quien": "Gonzalo (vía panel, 02/11 20:01)",
+   "cuando": "2026-11-02T20:01",
+   "revive_si": "2026-11-09: si sigue sin nota de contenido nueva"
+  },
+  {
+   "id": "8102-nota-gonzalo-02-2001",
+   "que": "LEAS-8102: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8102",
+    "centro": "Pro Laser Tenerife",
+    "cliente": "Pro Laser",
+    "tipo": "wapp"
+   },
+   "porque": "Se le pregunta para recoger el miercoles (la clienta contestó «ok» a las 21:59 en el grupo)",
+   "quien": "Gonzalo (vía panel, 02/11 20:01)",
+   "cuando": "2026-11-02T20:01",
+   "revive_si": "2026-11-05: si la recogida del miércoles 04/11 no se ha hecho"
   }
  ],
  "enlaces": [
