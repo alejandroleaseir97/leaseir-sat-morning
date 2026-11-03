@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-03T12:49",
+ "actualizado": "2026-11-03T15:32",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11119,6 +11119,118 @@
    "quien": "Isaac (SINVELLO · SEGUIMIENTO SUSTITUCIONES 09:47 e INCIDENCIAS 09:49)",
    "cuando": "2026-11-03T09:47",
    "revive_si": "2026-11-10: si el equipo averiado no ha llegado a taller"
+  },
+  {
+   "id": "esperanza-telegram-borja-03-1312",
+   "que": "Esperanza Láser: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Esperanza Láser",
+    "cliente": "Esperanza Láser",
+    "tipo": "telegram"
+   },
+   "porque": "hable con el comercial y les van a mandar una placa nueva / un laser nuevo queria decir",
+   "quien": "Borja (CARLOS MÉNDEZ - LEASEIR SAT, 12:51 y 13:12)",
+   "cuando": "2026-11-03T13:12",
+   "revive_si": "2026-11-10: si no consta el envío del láser nuevo ni caso abierto"
+  },
+  {
+   "id": "panoptima-telegram-borja-03-1455",
+   "que": "Panoptima Austria: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Panoptima Austria",
+    "cliente": "Panoptima Austria",
+    "tipo": "telegram"
+   },
+   "porque": "Borja le pasó el código 38966289 (14:55) y el cliente contestó «Thanks a lot!» (14:57)",
+   "quien": "Borja (Leaseir - Panoptima Austria, 14:55)",
+   "cuando": "2026-11-03T14:55",
+   "revive_si": "2026-11-10: si el cliente vuelve a pedir el código permanente"
+  },
+  {
+   "id": "marvena-telegram-isaac-03-1453",
+   "que": "LEAS-7895: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7895",
+    "centro": "Marvena Bulgaria",
+    "cliente": "Marvena Bulgaria",
+    "tipo": "telegram"
+   },
+   "porque": "It's now been repaired; please let us know when you'd like us to collect it (recogida propia, el cliente manda etiqueta el 04/11)",
+   "quien": "Isaac (Marvena Bulgaria, 14:53)",
+   "cuando": "2026-11-03T14:53",
+   "revive_si": "2026-11-10: si el H00830 no ha salido"
+  },
+  {
+   "id": "8234-wapp-borja-03-1400",
+   "que": "LEAS-8234: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8234",
+    "centro": "SinVello Tomares",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "reclamada la entrega a Dhl Express",
+   "quien": "Borja (vía panel, 14:00)",
+   "cuando": "2026-11-03T14:00",
+   "revive_si": "2026-11-10: si la sustitución no consta entregada"
+  },
+  {
+   "id": "8199-epil-borja-03-1319",
+   "que": "LEAS-8199: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8199",
+    "centro": "Centro Unico Libia",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Gestionada Recogida - Reclamada en Dhl",
+   "quien": "Borja (vía panel, 13:19)",
+   "cuando": "2026-11-03T13:19",
+   "revive_si": "2026-11-10: si el FC00022 no se ha recogido"
+  },
+  {
+   "id": "7810-epil-borja-03-1343",
+   "que": "LEAS-7810: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7810",
+    "centro": "Centro Unico Rende",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "intento de enterega pero hay grandes problemas para entregart en italia debido a diferentes huelgas y manifestaciones por el transporte",
+   "quien": "Borja (vía panel, 13:43)",
+   "cuando": "2026-11-03T13:43",
+   "revive_si": "2026-11-10: si la SRF no consta entregada"
+  },
+  {
+   "id": "8235-epil-borja-03-1343",
+   "que": "LEAS-8235: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8235",
+    "centro": "Centro Unico Porta di Roma",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "pedida recogida y reclamada",
+   "quien": "Borja (vía panel, 13:43)",
+   "cuando": "2026-11-03T13:43",
+   "revive_si": "2026-11-10: si el BSSUST002 no se ha recogido"
+  },
+  {
+   "id": "8134-epil-borja-03-1433",
+   "que": "LEAS-8134: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8134",
+    "centro": "Epil Point Pomezia",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "traslado interno del manípulo a Nápoles para que lo vea Chus la semana del 23/11; «cerramos el caso y que lo abra si ve algo raro»",
+   "quien": "Cristina (14:24) y Borja (14:33), SAT Leaseir (Interno)",
+   "cuando": "2026-11-03T14:33",
+   "revive_si": "2026-11-10: si el ticket sigue abierto sin nota"
   }
  ],
  "enlaces": [
