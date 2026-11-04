@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-04T12:52",
+ "actualizado": "2026-11-04T15:30",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11489,6 +11489,104 @@
    "quien": "Borja (correo, 04/11 10:09)",
    "cuando": "2026-11-04T10:09",
    "revive_si": "2026-11-09: si Belenus no ha contestado al presupuesto"
+  },
+  {
+   "id": "7759-nota-borja-04-1432",
+   "que": "LEAS-7759: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7759",
+    "centro": "Dermasana Princesa",
+    "cliente": "Dermasana",
+    "tipo": "cerrar"
+   },
+   "porque": "Se ha pedido recogida pero yo les debo una pieza de mano nueva de XCell que pedi en fabrica hace tiempo y aun no han podido fabricarla",
+   "quien": "Borja (Jira, 04/11 14:32)",
+   "cuando": "2026-11-04T14:32",
+   "revive_si": "2026-11-11: si sigue en «Inspección de salida» sin la pieza de mano XCell ni nota nueva"
+  },
+  {
+   "id": "7673-nota-borja-04-1437",
+   "que": "LEAS-7673: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7673",
+    "centro": "Natur Belle Vomero",
+    "cliente": "Natur Belle",
+    "tipo": "cerrar"
+   },
+   "porque": "pedida la recogida de la sust por chat. esperamos respuesta",
+   "quien": "Borja (Jira, 04/11 14:37)",
+   "cuando": "2026-11-04T14:37",
+   "revive_si": "2026-11-11: si la sustitución LEAS-7674 sigue sin recoger y el ticket sin cerrar"
+  },
+  {
+   "id": "7730-nota-borja-04-1434",
+   "que": "LEAS-7730: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7730",
+    "centro": "Unico - Centro C.C. Euroma2 Roma",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "he reclamado un monton de veces de hecho es la segunda etiqueta que genero",
+   "quien": "Borja (Jira, 04/11 14:34)",
+   "cuando": "2026-11-04T14:34",
+   "revive_si": "2026-11-11: si DHL sigue sin recoger"
+  },
+  {
+   "id": "8322-nota-borja-04-1514",
+   "que": "LEAS-8322: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8322",
+    "centro": "Smart Duck Troyes",
+    "cliente": "Smart Duck",
+    "tipo": "wapp"
+   },
+   "porque": "ambas soluciones son complicadas en FRancia sin gastar un dineral . Vamos a investigar cual puede ser el problema para dar una solución definitiva",
+   "quien": "Borja (vía panel, 04/11 15:14)",
+   "cuando": "2026-11-04T15:14",
+   "revive_si": "2026-11-11: si no hay solución ni nota de contenido nueva"
+  },
+  {
+   "id": "8193-nota-borja-04-1524",
+   "que": "LEAS-8193: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8193",
+    "centro": "Elha Boltaña",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Aun no han entregado la caja . Está de reparto",
+   "quien": "Borja (vía panel, 04/11 15:24)",
+   "cuando": "2026-11-04T15:24",
+   "revive_si": "2026-11-11: si la consola 90954 sigue sin recoger"
+  },
+  {
+   "id": "8285-nota-borja-04-1525",
+   "que": "LEAS-8285: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8285",
+    "centro": "SinVello Cartagena",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "se envia hoy sustitución quad H01033",
+   "quien": "Borja (vía panel, 04/11 15:25)",
+   "cuando": "2026-11-04T15:25",
+   "revive_si": "2026-11-11: si la averiada C00403/H00403 sigue sin recoger"
+  },
+  {
+   "id": "8305-nota-borja-04-1527",
+   "que": "LEAS-8305: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8305",
+    "centro": "Malie Urbil",
+    "cliente": "Malie",
+    "tipo": "ruta"
+   },
+   "porque": "A la espera de sustituciones disponibles",
+   "quien": "Borja (vía panel, 04/11 15:27)",
+   "cuando": "2026-11-04T15:27",
+   "revive_si": "2026-11-11: si sigue sin sustitución ni recogida"
   }
  ],
  "enlaces": [
