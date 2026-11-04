@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-03T20:23",
+ "actualizado": "2026-11-04T09:48",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -9720,7 +9720,11 @@
    "porque": "NAda mas que añadir por ahora. Esta de camino tarda 15-20 dias en llegar",
    "quien": "Borja (correo a Alejandro, 26/10 15:09)",
    "cuando": "2026-10-26T15:09",
-   "revive_si": "2026-11-04: si la C03045 / H03045 no ha llegado a Gijón"
+   "revive_si": "2026-11-04: si la C03045 / H03045 no ha llegado a Gijón",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7978-nota-borja-28-1232",
@@ -9734,7 +9738,11 @@
    "porque": "esta de reparto",
    "quien": "Borja (vía panel, 28/10 12:32)",
    "cuando": "2026-10-28T12:32",
-   "revive_si": "2026-11-04: si el H00308 no ha llegado a taller (DHL lo da en tránsito en Gijón el 28/10)"
+   "revive_si": "2026-11-04: si el H00308 no ha llegado a taller (DHL lo da en tránsito en Gijón el 28/10)",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8132-nota-borja-28-1233",
@@ -9748,7 +9756,11 @@
    "porque": "recogido - prevista la entrada en noviembre",
    "quien": "Borja (vía panel, 28/10 12:33)",
    "cuando": "2026-10-28T12:33",
-   "revive_si": "2026-11-04: si el H00919 sigue sin llegar y sin nota nueva"
+   "revive_si": "2026-11-04: si el H00919 sigue sin llegar y sin nota nueva",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8115-nota-isaac-28-1246",
@@ -9762,7 +9774,11 @@
    "porque": "ya se ha comentado a sincronis que no hace falta enviar material y que pueden ir ya",
    "quien": "Isaac (vía panel, 28/10 12:46)",
    "cuando": "2026-10-28T12:46",
-   "revive_si": "2026-11-04: si la intervención de Sincronis no se ha hecho o el centro sigue esperando material"
+   "revive_si": "2026-11-04: si la intervención de Sincronis no se ha hecho o el centro sigue esperando material",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el ticket ya está cerrado (Finalizado técnico externo)"
+   }
   },
   {
    "id": "7786-nota-isaac-28-1246",
@@ -9776,7 +9792,11 @@
    "porque": "sale hoy",
    "quien": "Isaac (vía panel, 28/10 12:46)",
    "cuando": "2026-10-28T12:46",
-   "revive_si": "2026-11-04: si LEAS-7786 sigue en «Inspección de salida» sin envío"
+   "revive_si": "2026-11-04: si LEAS-7786 sigue en «Inspección de salida» sin envío",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el hecho ocurrió: el ticket pasó a «Devuelto a cliente»"
+   }
   },
   {
    "id": "7730-nota-isaac-28-1249",
@@ -9790,7 +9810,11 @@
    "porque": "hay problemas con el transporte en Italia y se esta retrasando todo",
    "quien": "Isaac (vía panel, 28/10 12:49)",
    "cuando": "2026-10-28T12:49",
-   "revive_si": "2026-11-04: si DHL sigue sin recoger en Euroma2"
+   "revive_si": "2026-11-04: si DHL sigue sin recoger en Euroma2",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7714-nota-isaac-28-1349",
@@ -9804,7 +9828,11 @@
    "porque": "se ha entregado hoy la sust y vamos a proceder a recoger su SRF",
    "quien": "Isaac (vía panel, 28/10 13:49)",
    "cuando": "2026-10-28T13:49",
-   "revive_si": "2026-11-04: si la SRF0037 sigue sin recoger y sin nota nueva"
+   "revive_si": "2026-11-04: si la SRF0037 sigue sin recoger y sin nota nueva",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7759-nota-borja-28-1427",
@@ -9818,7 +9846,11 @@
    "porque": "en realida quieren una pieza de mano nueva - iremos mandando el equipo",
    "quien": "Borja (vía panel, 28/10 14:27)",
    "cuando": "2026-10-28T14:27",
-   "revive_si": "2026-11-04: si el C00374 / H00374 no ha salido a Princesa con tracking"
+   "revive_si": "2026-11-04: si el C00374 / H00374 no ha salido a Princesa con tracking",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7855-nota-borja-28-1426",
@@ -9832,7 +9864,11 @@
    "porque": "madnad etiqeuta para recoger mañana sustitucion",
    "quien": "Borja (vía panel, 28/10 14:26)",
    "cuando": "2026-10-28T14:26",
-   "revive_si": "2026-11-04: si la sustitución SUSTMHR025 / SUSTDUAL003 sigue sin recoger"
+   "revive_si": "2026-11-04: si la sustitución SUSTMHR025 / SUSTDUAL003 sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8058-ctt-ernesto-28-1443",
@@ -9846,7 +9882,11 @@
    "porque": "umbilical AHR para Linia Estetica Lleida enviado con CTT (ENVIOS SAT LEASEIR, 14:43)",
    "quien": "Ernesto (ENVIOS SAT LEASEIR, 28/10 14:43)",
    "cuando": "2026-10-28T14:43",
-   "revive_si": "2026-11-04: si el técnico de Caypri no ha vuelto a ir con el material"
+   "revive_si": "2026-11-04: si el técnico de Caypri no ha vuelto a ir con el material",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "irene-rio-hortega-isaac-28-1347",
@@ -9874,7 +9914,11 @@
    "porque": "esto no aplica: en cuanto se liberen técnicos en taller se asignará hay bastante volumen de trabajo",
    "quien": "Cristina (vía panel, 28/10 16:17)",
    "cuando": "2026-10-28T16:17",
-   "revive_si": "2026-11-04: si sigue sin técnico"
+   "revive_si": "2026-11-04: si sigue sin técnico",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7891-noaplica-cristina-28-1619",
@@ -9888,7 +9932,11 @@
    "porque": "esto no aplica: esperando inicio de reparación en cuanto el técnico se libere de trabajo",
    "quien": "Cristina (vía panel, 28/10 16:19)",
    "cuando": "2026-10-28T16:19",
-   "revive_si": "2026-11-04: si sigue en «Esperando inicio reparación»"
+   "revive_si": "2026-11-04: si sigue en «Esperando inicio reparación»",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7673-noaplica-cristina-28-1621",
@@ -9902,7 +9950,11 @@
    "porque": "esto no aplica: Salió el 20 de octubre",
    "quien": "Cristina (vía panel, 28/10 16:21)",
    "cuando": "2026-10-28T16:21",
-   "revive_si": "2026-11-04: si no consta la llegada a Vomero"
+   "revive_si": "2026-11-04: si no consta la llegada a Vomero",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8123-nota-borja-28-1549",
@@ -9916,7 +9968,11 @@
    "porque": "va a lalvera una sustituciòn pichi directamente mañana jueves",
    "quien": "Borja (vía panel, 28/10 15:49)",
    "cuando": "2026-10-28T15:49",
-   "revive_si": "2026-11-04: si la nueva sustitución no ha llegado a Harmonie"
+   "revive_si": "2026-11-04: si la nueva sustitución no ha llegado a Harmonie",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el ticket ya está cerrado"
+   }
   },
   {
    "id": "7957-noaplica-cristina-28-1559",
@@ -9930,7 +9986,11 @@
    "porque": "esto no aplica: Informamos a Luismi que han entregado que pida al centro que prueben y si todo esta ok rcogemos sustituicón",
    "quien": "Cristina (vía panel, 28/10 15:59)",
    "cuando": "2026-10-28T15:59",
-   "revive_si": "2026-11-04: si sigue en «Devuelto a cliente» sin finalizar"
+   "revive_si": "2026-11-04: si sigue en «Devuelto a cliente» sin finalizar",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el ticket ya está cerrado"
+   }
   },
   {
    "id": "7870-noaplica-cristina-28-1601",
@@ -9944,7 +10004,11 @@
    "porque": "esto no aplica: En cuanto se liberen los técnicos se irá asignando hay bastante lio en taller",
    "quien": "Cristina (vía panel, 28/10 16:01)",
    "cuando": "2026-10-28T16:01",
-   "revive_si": "2026-11-04: si sigue sin técnico"
+   "revive_si": "2026-11-04: si sigue sin técnico",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el ticket se movió: está en «Devuelto a cliente»"
+   }
   },
   {
    "id": "8044-noaplica-cristina-28-1603",
@@ -9958,7 +10022,11 @@
    "porque": "esto no aplica: En cuanto se liberen los técnicos se asignará hay mucho lio en taller",
    "quien": "Cristina (vía panel, 28/10 16:03)",
    "cuando": "2026-10-28T16:03",
-   "revive_si": "2026-11-04: si sigue sin técnico"
+   "revive_si": "2026-11-04: si sigue sin técnico",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "6907-noaplica-cristina-28-1608",
@@ -9990,7 +10058,11 @@
    "porque": "esto no aplica: En cuanto se libere el técnico que tiene asignado este caso irá avanzando hay mucho trabajo en taller",
    "quien": "Cristina (vía panel, 28/10 16:09)",
    "cuando": "2026-10-28T16:09",
-   "revive_si": "2026-11-04: si sigue en «Esperando inicio reparación»"
+   "revive_si": "2026-11-04: si sigue en «Esperando inicio reparación»",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el ticket se movió: está en «Devuelto a cliente»"
+   }
   },
   {
    "id": "7923-noaplica-cristina-28-1610",
@@ -10004,7 +10076,11 @@
    "porque": "esto no aplica: Hay mucho volumen de trabajo en taller se va asignando según se va liberando",
    "quien": "Cristina (vía panel, 28/10 16:10)",
    "cuando": "2026-10-28T16:10",
-   "revive_si": "2026-11-04: si sigue sin técnico"
+   "revive_si": "2026-11-04: si sigue sin técnico",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7895-noaplica-cristina-28-1611",
@@ -10018,7 +10094,11 @@
    "porque": "esto no aplica: no aplica",
    "quien": "Cristina (vía panel, 28/10 16:11)",
    "cuando": "2026-10-28T16:11",
-   "revive_si": "2026-11-04: si sigue en reparación sin nota"
+   "revive_si": "2026-11-04: si sigue en reparación sin nota",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el ticket se movió: está en «Inspección de salida»"
+   }
   },
   {
    "id": "laserfactory-girona-manresa-cristina-28-1812",
@@ -10032,7 +10112,11 @@
    "porque": "Cristina contestó en «Sat Laser Factory» (16:22, 17:42-17:50), abrió LEAS-8216 (recogida del 00400 en Manresa, DHL) y LEAS-8218 (Girona H00422) y publicó el umbilical en ENVIOS a las 18:12",
    "quien": "Cristina (WhatsApp y Telegram, 28/10 18:12)",
    "cuando": "2026-10-28T18:12",
-   "revive_si": "2026-11-04: si el umbilical de Girona no ha llegado o el 00400 no ha llegado a taller"
+   "revive_si": "2026-11-04: si el umbilical de Girona no ha llegado o el 00400 no ha llegado a taller",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "LEAS-8218 tiene cita (Isaac, 02/11: jueves a las 16:00) y LEAS-8216 se entrega el 04/11 (silencio de Gonzalo vigente)"
+   }
   },
   {
    "id": "8193-isaac-panel-28-1933",
@@ -10046,7 +10130,11 @@
    "porque": "Isaac (vía panel, 19:33): «se les comenta que me avisen cuando podamos recoger la consola»; en el grupo, 19:29: «entonces recogemos la consola»",
    "quien": "Isaac (vía panel y WhatsApp, 28/10 19:33)",
    "cuando": "2026-10-28T19:33",
-   "revive_si": "2026-11-04: si la consola 90954 no se ha recogido ni hay nota de contenido"
+   "revive_si": "2026-11-04: si la consola 90954 no se ha recogido ni hay nota de contenido",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "sinvello-sustis-isaac-panel-28-1938",
@@ -10060,7 +10148,11 @@
    "porque": "Isaac (vía panel, 19:38, LEAS-8162): «ya se han mandado varias»; 18:41 etiqueta CTT para mover la sustitución de República a El Pilar",
    "quien": "Isaac (vía panel, 28/10 19:38)",
    "cuando": "2026-10-28T19:38",
-   "revive_si": "2026-11-04: si LEAS-8162 o LEAS-8190 siguen sin salir"
+   "revive_si": "2026-11-04: si LEAS-8162 o LEAS-8190 siguen sin salir",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "LEAS-8190 ya está en «Equipo enviado» y LEAS-8162 en «En préstamo»"
+   }
   },
   {
    "id": "nervion-isaac-worker-28-1938",
@@ -10088,7 +10180,11 @@
    "porque": "Isaac (vía panel, 19:41): «hay problemas con las huelgas en italia por esta tardando tanto»",
    "quien": "Isaac (vía panel, 28/10 19:41)",
    "cuando": "2026-10-28T19:41",
-   "revive_si": "2026-11-04: si el DHL 2154475831 sigue sin recoger"
+   "revive_si": "2026-11-04: si el DHL 2154475831 sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7972-isaac-panel-28-1943",
@@ -10102,7 +10198,11 @@
    "porque": "Isaac (vía panel, 19:43): «se ha reclamado a Giuseppe que ya esta el material y de cuando la va hacer»",
    "quien": "Isaac (vía panel, 28/10 19:43)",
    "cuando": "2026-10-28T19:43",
-   "revive_si": "2026-11-04: si Giuseppe no ha dado fecha o no ha ido"
+   "revive_si": "2026-11-04: si Giuseppe no ha dado fecha o no ha ido",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7949-isaac-panel-28-1944",
@@ -10116,7 +10216,11 @@
    "porque": "Isaac (vía panel, 19:44): «la tiene Fran»",
    "quien": "Isaac (vía panel, 28/10 19:44)",
    "cuando": "2026-10-28T19:44",
-   "revive_si": "2026-11-04: si sigue sin presupuesto"
+   "revive_si": "2026-11-04: si sigue sin presupuesto",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el ticket se movió: está en «Devuelto a cliente»"
+   }
   },
   {
    "id": "8109-isaac-panel-28-1944",
@@ -10130,7 +10234,11 @@
    "porque": "Isaac (vía panel, 19:44): «se esta reparando»",
    "quien": "Isaac (vía panel, 28/10 19:44)",
    "cuando": "2026-10-28T19:44",
-   "revive_si": "2026-11-04: si sigue en reparación sin nota de resultado"
+   "revive_si": "2026-11-04: si sigue en reparación sin nota de resultado",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8089-isaac-panel-28-1945",
@@ -10144,7 +10252,11 @@
    "porque": "Isaac (vía panel, 19:45): «le comento a Jony que la mire»",
    "quien": "Isaac (vía panel, 28/10 19:45)",
    "cuando": "2026-10-28T19:45",
-   "revive_si": "2026-11-04: si sigue sin diagnóstico"
+   "revive_si": "2026-11-04: si sigue sin diagnóstico",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7996-isaac-panel-28-1951",
@@ -10158,7 +10270,11 @@
    "porque": "Isaac (vía panel, 19:51): «asigno a Fran» (asignado a Francisco)",
    "quien": "Isaac (vía panel, 28/10 19:51)",
    "cuando": "2026-10-28T19:51",
-   "revive_si": "2026-11-04: si sigue en cola sin entrar en reparación"
+   "revive_si": "2026-11-04: si sigue en cola sin entrar en reparación",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8097-isaac-panel-28-1954",
@@ -10172,7 +10288,11 @@
    "porque": "Isaac (vía panel, 19:54): «se ha enviado material»",
    "quien": "Isaac (vía panel, 28/10 19:54)",
    "cuando": "2026-10-28T19:54",
-   "revive_si": "2026-11-04: si Konexa no ha ido o no hay tracking del material"
+   "revive_si": "2026-11-04: si Konexa no ha ido o no hay tracking del material",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7866-isaac-panel-28-1959",
@@ -10186,7 +10306,11 @@
    "porque": "Isaac (vía panel, 19:59): «reclamo a Carlos por mail» (correo a Carlos Mora a las 19:59: «Esto se hizo?»)",
    "quien": "Isaac (vía panel y correo, 28/10 19:59)",
    "cuando": "2026-10-28T19:59",
-   "revive_si": "2026-11-04: si Carlos Mora no confirma la visita"
+   "revive_si": "2026-11-04: si Carlos Mora no confirma la visita",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "6906-borja-panel-29-1535",
@@ -10508,7 +10632,11 @@
    "porque": "esto no aplica: preguntado",
    "quien": "Borja (vía panel, 30/10 12:39)",
    "cuando": "2026-10-30T12:39",
-   "revive_si": "2026-11-04: si el manípulo 40178 sigue sin recoger y sin nota nueva"
+   "revive_si": "2026-11-04: si el manípulo 40178 sigue sin recoger y sin nota nueva",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7804-nota-isaac-30-1240",
@@ -10578,7 +10706,11 @@
    "porque": "Borja les guió a usar la back-up 00368 con el H00676 («Perfetto fatto! Grazie», 10:15); la intervención del SSD va en LEAS-8247",
    "quien": "Borja (Telegram «Centri Unico Italia - Leaseir», 30/10 10:15)",
    "cuando": "2026-10-30T10:15",
-   "revive_si": "2026-11-04: si la back-up falla o LEAS-8247 no tiene intervención"
+   "revive_si": "2026-11-04: si la back-up falla o LEAS-8247 no tiene intervención",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "LEAS-8247 ya está cerrado (Finalizado técnico externo)"
+   }
   },
   {
    "id": "campania-h00562-borja-30-1219",
@@ -10634,7 +10766,11 @@
    "porque": "esto no aplica: Se consulta con el centro si han podido poner el tornillo",
    "quien": "Cristina (vía panel, 30/10 15:30)",
    "cuando": "2026-10-30T15:30",
-   "revive_si": "2026-11-04: si el centro no ha contestado y sigue sin nota nueva"
+   "revive_si": "2026-11-04: si el centro no ha contestado y sigue sin nota nueva",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8150-noaplica-cristina-30-1531",
@@ -10782,7 +10918,11 @@
    "porque": "esto no aplica: no aplica",
    "quien": "Cristina (vía panel, 30/10 17:55)",
    "cuando": "2026-10-30T17:55",
-   "revive_si": "2026-11-04: si sigue en «Pendiente recogida» sin transporte pedido"
+   "revive_si": "2026-11-04: si sigue en «Pendiente recogida» sin transporte pedido",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8204-noaplica-cristina-30-1756",
@@ -10796,7 +10936,11 @@
    "porque": "esto no aplica: se pregunta por el grupo si Isaac consultó algo ya que los portes de informaron a Luismi que eran bastante elevados",
    "quien": "Cristina (vía panel, 30/10 17:56)",
    "cuando": "2026-10-30T17:56",
-   "revive_si": "2026-11-04: si sigue en «Pendiente recogida» sin transporte pedido"
+   "revive_si": "2026-11-04: si sigue en «Pendiente recogida» sin transporte pedido",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8072-nota-gonzalo-30-1803",
@@ -10908,7 +11052,11 @@
    "porque": "se ha comentado ya el presupuesto, el martes hablo con Borja para ver como esta el tema",
    "quien": "Isaac (vía panel, 30/10 19:20)",
    "cuando": "2026-10-30T19:20",
-   "revive_si": "2026-11-04: si no hay nota de lo que hablen el martes"
+   "revive_si": "2026-11-04: si no hay nota de lo que hablen el martes",
+   "revivido": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "el revive_si vencía hoy 04/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7789-nota-isaac-30-1922",
@@ -10964,7 +11112,11 @@
    "porque": "Se pregunta el lunes, en palermo tienen que tener una",
    "quien": "Gonzalo (vía panel, 31/10 13:49)",
    "cuando": "2026-10-31T13:49",
-   "revive_si": "2026-11-04: si no hay respuesta sobre la back-up de Palermo"
+   "revive_si": "2026-11-04: si no hay respuesta sobre la back-up de Palermo",
+   "caducado": {
+    "fecha": "2026-11-04T09:48",
+    "motivo": "LEAS-8247 (Unico Palermo) ya está cerrado"
+   }
   },
   {
    "id": "8182-prueba-02-1005",
@@ -11263,6 +11415,20 @@
    "quien": "SAT Leaseir Internacional (Reparaciones Leaseir Dermasana Fuenlabrada, 17:06 y 17:17)",
    "cuando": "2026-11-03T17:17",
    "revive_si": "2026-11-04: si el centro sigue sin respuesta definitiva sobre el ruido (promesa de respuesta, regla 12)"
+  },
+  {
+   "id": "8299-noaplica-borja-04-0915",
+   "que": "LEAS-8299: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8299",
+    "centro": "L Medical (G-Point)",
+    "cliente": "L Medical",
+    "tipo": "wapp"
+   },
+   "porque": "El equipo está cambiado hace tiempo . casos comentados",
+   "quien": "Borja (vía panel, 04/11 09:15)",
+   "cuando": "2026-11-04T09:15",
+   "revive_si": "2026-11-11: si L Medical vuelve a pedir la recogida"
   }
  ],
  "enlaces": [
