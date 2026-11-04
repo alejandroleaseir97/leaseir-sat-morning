@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-04T09:48",
+ "actualizado": "2026-11-04T12:52",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11414,7 +11414,11 @@
    "porque": "eso es la nevera que está intentando arrancar … Tantas veces no, lo estoy consultando con mis compañeros",
    "quien": "SAT Leaseir Internacional (Reparaciones Leaseir Dermasana Fuenlabrada, 17:06 y 17:17)",
    "cuando": "2026-11-03T17:17",
-   "revive_si": "2026-11-04: si el centro sigue sin respuesta definitiva sobre el ruido (promesa de respuesta, regla 12)"
+   "revive_si": "2026-11-04: si el centro sigue sin respuesta definitiva sobre el ruido (promesa de respuesta, regla 12)",
+   "revivido": {
+    "fecha": "2026-11-04T12:52",
+    "motivo": "el revive_si vencía hoy 04/11 y a las 12:5x no hay respuesta nuestra al centro: el punto vuelve a salir"
+   }
   },
   {
    "id": "8299-noaplica-borja-04-0915",
@@ -11429,6 +11433,62 @@
    "quien": "Borja (vía panel, 04/11 09:15)",
    "cuando": "2026-11-04T09:15",
    "revive_si": "2026-11-11: si L Medical vuelve a pedir la recogida"
+  },
+  {
+   "id": "7850-nota-gonzalo-04-1115",
+   "que": "LEAS-7850: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7850",
+    "centro": "Smart Duck Voltaire",
+    "cliente": "Smart Duck",
+    "tipo": "wapp"
+   },
+   "porque": "No tenemos técnico para que cambie la puntera, saldrá mañana",
+   "quien": "Gonzalo (vía panel, 04/11 11:15)",
+   "cuando": "2026-11-04T11:15",
+   "revive_si": "2026-11-11: si el H00661 no ha salido y no hay nota de contenido nueva"
+  },
+  {
+   "id": "8234-nota-borja-04-1206",
+   "que": "LEAS-8234: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8234",
+    "centro": "SinVello Tomares",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "equipo entregado",
+   "quien": "Borja (vía panel, 04/11 12:06)",
+   "cuando": "2026-11-04T12:06",
+   "revive_si": "2026-11-11: si Sin Vello vuelve a reclamar la sustitución de Tomares"
+  },
+  {
+   "id": "8188-nota-gonzalo-04-1116",
+   "que": "LEAS-8188: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8188",
+    "centro": "Elha Elh Zambrano",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Esperando a su entrada",
+   "quien": "Gonzalo (vía panel, 04/11 11:16)",
+   "cuando": "2026-11-04T11:16",
+   "revive_si": "2026-11-11: si el 40178 sigue sin entrada en taller"
+  },
+  {
+   "id": "8044-presu-borja-04-1009",
+   "que": "LEAS-8044: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8044",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "presu"
+   },
+   "porque": "Borja mandó el presupuesto de la H00354 a Belenus por correo («LEAS-8044 Belenus H00354», 04/11 10:09)",
+   "quien": "Borja (correo, 04/11 10:09)",
+   "cuando": "2026-11-04T10:09",
+   "revive_si": "2026-11-09: si Belenus no ha contestado al presupuesto"
   }
  ],
  "enlaces": [
