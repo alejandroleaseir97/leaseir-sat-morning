@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-05T09:48",
+ "actualizado": "2026-11-05T12:48",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11681,6 +11681,132 @@
    "quien": "Borja (en «SINVELLO · SEGUIMIENTO SUSTITUCIONES», 05/11 09:05)",
    "cuando": "2026-11-05T09:05",
    "revive_si": "2026-11-12: si Sin Vello vuelve a preguntar por la sustitución"
+  },
+  {
+   "id": "7923-isaac-jira-05-1003",
+   "que": "LEAS-7923: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7923",
+    "centro": "Clínica Tres Palacios",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "Isaac: «se lleva a fabrica para cambio de nevera»",
+   "quien": "Isaac (Jira, 05/11 10:03)",
+   "cuando": "2026-11-05T10:03",
+   "revive_si": "2026-11-12: si no consta el cambio de nevera"
+  },
+  {
+   "id": "8104-gonzalo-jira-05-1019",
+   "que": "LEAS-8104: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8104",
+    "centro": "Pro Laser Tenerife",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo: «La consola se le cayó el interlock, pero hemos sido capaces de reparalo con el cliente»",
+   "quien": "Gonzalo (Jira, 05/11 10:19)",
+   "cuando": "2026-11-05T10:19",
+   "revive_si": "2026-11-12: si la clienta vuelve a escribir"
+  },
+  {
+   "id": "8279-gonzalo-panel-05-1033",
+   "que": "LEAS-8279: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8279",
+    "centro": "Elha Viladecans",
+    "cliente": "Elha",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel): «Se le pregunta a Carlos mora por si tiene umbilicales»",
+   "quien": "Gonzalo (vía panel, 05/11 10:33)",
+   "cuando": "2026-11-05T10:33",
+   "revive_si": "2026-11-12: si no hay fecha de visita"
+  },
+  {
+   "id": "8281-gonzalo-panel-05-1039",
+   "que": "LEAS-8281: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8281",
+    "centro": "Elha Rocafort",
+    "cliente": "Elha",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel): «Ya se ha avisado a carlos mora»; por correo (12:41) le pidió dejar la intervención a la espera",
+   "quien": "Gonzalo (vía panel, 05/11 10:39)",
+   "cuando": "2026-11-05T10:39",
+   "revive_si": "2026-11-12: si sigue sin decidirse la intervención"
+  },
+  {
+   "id": "8238-gonzalo-panel-05-1046",
+   "que": "LEAS-8238: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8238",
+    "centro": "Dermasana Alcobendas",
+    "cliente": "Dermasana",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel): «Se ha avisa a innet»",
+   "quien": "Gonzalo (vía panel, 05/11 10:46)",
+   "cuando": "2026-11-05T10:46",
+   "revive_si": "2026-11-12: si Innet no tiene fecha"
+  },
+  {
+   "id": "7978-jonathan-jira-05-1047",
+   "que": "LEAS-7978: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7978",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "repara"
+   },
+   "porque": "Jonathan apuntó el diagnóstico (prisma dañado por humedad; presupuestar)",
+   "quien": "Jonathan (Jira, 05/11 10:47)",
+   "cuando": "2026-11-05T10:47",
+   "revive_si": "2026-11-12: si no hay presupuesto"
+  },
+  {
+   "id": "8241-gonzalo-panel-05-1150",
+   "que": "LEAS-8241: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8241",
+    "centro": "Elha Laser Center Zaragoza Dato",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel): «Esperamos que nos digan que esté listo para su recogida»",
+   "quien": "Gonzalo (vía panel, 05/11 11:50)",
+   "cuando": "2026-11-05T11:50",
+   "revive_si": "2026-11-12: si Elha no ha dicho que está lista"
+  },
+  {
+   "id": "8176-borja-wapp-05-1052",
+   "que": "LEAS-8176: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8176",
+    "centro": "Elha Jaén",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Elha dijo que se puede recoger (09:45) y Borja mandó la etiqueta (10:52); ya en «Gestionado transporte» con DHL Parcel",
+   "quien": "Borja (en «Incidencias Leaseir/Elha», 05/11 10:52)",
+   "cuando": "2026-11-05T10:52",
+   "revive_si": "2026-11-12: si no ha llegado a taller"
+  },
+  {
+   "id": "8119-jonathan-jira-05-1231",
+   "que": "LEAS-8119: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8119",
+    "centro": "SinVello Laguna de Duero",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Jonathan apuntó el diagnóstico; pasa a «Presupuesto preparado pendiente de enviar»",
+   "quien": "Jonathan (Jira, 05/11 12:31)",
+   "cuando": "2026-11-05T12:31",
+   "revive_si": "2026-11-12: si el presupuesto no se ha enviado"
   }
  ],
  "enlaces": [
@@ -12560,7 +12686,7 @@
  "que_es_esto_criticos_seguimiento": "Excepción ACOTADA (16/10/2026, Alejandro, regla 19): críticos abiertos en Jira cuyo «esto no aplica» de hoy descarta la ACCIÓN antigua del punto, no el posible riesgo. Mientras 'activo' sea true el punto sigue saliendo (en 'bloque') con el descarte visible y la caja de críticos lo conserva; el comprobador NO da error por el «no aplica» ni por los silencios listados en 'descartes' (que siguen válidos y no se tocan), y SÍ da error si el punto desaparece, pierde el descarte o vuelve a la acción descartada. Solo cubre los LEAS listados: no es una regla para ignorar «no aplica».",
  "criticos_seguimiento": [
   {
-   "activo": true,
+   "activo": false,
    "autoriza": "Alejandro, 16/10/2026 (corrección operativa acotada a estos cuatro críticos; regla 19)",
    "cuando": "2026-10-16T13:20+02:00",
    "evidencia": "Lectura de Jira por el conector autorizado hecha por el usuario el 16/10/2026 (comentarios completos: 7893=4, 7922=4, 7878=3, 8017=1; los cuatro siguen en statusCategory «En curso»), transmitida en el chat de la corrección. Las notas «esto no aplica» las registra Jira con la cuenta puente de Alejandro Vicente, pero el contenido atribuye la decisión a Cristina: autor técnico = puente del panel; decisión = Cristina.",
@@ -12585,7 +12711,11 @@
    "prohibido": [
     "(?i)(pedir|confirmar|gestionar) (la )?recogida",
     "(?i)confirmar con el transportista"
-   ]
+   ],
+   "baja": {
+    "fecha": "2026-11-05T12:48",
+    "motivo": "Jira lo da por cerrado: LEAS-7893 pasó a «Resuelto» el 05/11 (Borja)"
+   }
   },
   {
    "activo": false,
