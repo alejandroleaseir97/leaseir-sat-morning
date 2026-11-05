@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-04T20:19",
+ "actualizado": "2026-11-05T09:48",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -10324,7 +10324,11 @@
    "porque": "Borja (vía panel, 15:35): «pagdo pero a la espera de que Daniel nos de una dirección de envio»",
    "quien": "Borja (vía panel, 29/10 15:35)",
    "cuando": "2026-10-29T15:35",
-   "revive_si": "2026-11-05: si sigue en «Inspección de salida» sin dirección de envío"
+   "revive_si": "2026-11-05: si sigue en «Inspección de salida» sin dirección de envío",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8065-borja-panel-29-1534",
@@ -10338,7 +10342,11 @@
    "porque": "Borja (vía panel, 15:34): «sale hoyya hemos recibido confirmación de pago»",
    "quien": "Borja (vía panel, 29/10 15:34)",
    "cuando": "2026-10-29T15:34",
-   "revive_si": "2026-11-05: si sigue sin finalizar"
+   "revive_si": "2026-11-05: si sigue sin finalizar",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8013-borja-panel-29-1522",
@@ -10352,7 +10360,11 @@
    "porque": "Borja (vía panel, 15:22): «esta de camno a GIjon» (DHL Parcel en tránsito en Valladolid el 29/10, MCP SAT)",
    "quien": "Borja (vía panel, 29/10 15:22)",
    "cuando": "2026-10-29T15:22",
-   "revive_si": "2026-11-05: si no ha llegado a taller"
+   "revive_si": "2026-11-05: si no ha llegado a taller",
+   "caducado": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el hecho ocurrió: llegó a taller (Ernesto, 03/11 12:35) y está en «En preparación presupuesto»"
+   }
   },
   {
    "id": "8093-borja-panel-29-1540",
@@ -10366,7 +10378,11 @@
    "porque": "Borja (vía panel, 15:40): «reclamada la recogida por mail» (correo de reclamación a DHL a las 15:40)",
    "quien": "Borja (vía panel y correo, 29/10 15:40)",
    "cuando": "2026-10-29T15:40",
-   "revive_si": "2026-11-05: si DHL sigue sin recoger"
+   "revive_si": "2026-11-05: si DHL sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8098-borja-panel-29-1534",
@@ -10380,7 +10396,11 @@
    "porque": "Borja (vía panel, 15:34): «Reclamada por segunda vez» (correo a DHL a las 15:33)",
    "quien": "Borja (vía panel y correo, 29/10 15:34)",
    "cuando": "2026-10-29T15:34",
-   "revive_si": "2026-11-05: si DHL sigue sin recoger"
+   "revive_si": "2026-11-05: si DHL sigue sin recoger",
+   "caducado": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el hecho ocurrió: Borja (04/11 14:38) «recogida y de camino a taller»"
+   }
   },
   {
    "id": "8164-borja-panel-29-1534",
@@ -10394,7 +10414,11 @@
    "porque": "Borja (vía panel, 15:34): «equipo de sustituciòn en francia , repartiran en breve»",
    "quien": "Borja (vía panel, 29/10 15:34)",
    "cuando": "2026-10-29T15:34",
-   "revive_si": "2026-11-05: si la averiada sigue sin recoger"
+   "revive_si": "2026-11-05: si la averiada sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8172-borja-panel-29-1521",
@@ -10408,7 +10432,11 @@
    "porque": "Borja (vía panel, 15:21): «mandamos nueva sustiticoon consola C00503 por express para que les llegue mañana» (DHL Express en ENVIOS a las 14:16; C00503 OUT a las 15:04)",
    "quien": "Borja (vía panel, 29/10 15:21)",
    "cuando": "2026-10-29T15:21",
-   "revive_si": "2026-11-05: si la averiada sigue sin recoger"
+   "revive_si": "2026-11-05: si la averiada sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8168-borja-panel-29-1543",
@@ -10422,7 +10450,11 @@
    "porque": "Borja (vía panel, 15:43): «cerrado y resuelto»",
    "quien": "Borja (vía panel, 29/10 15:43)",
    "cuando": "2026-10-29T15:43",
-   "revive_si": "2026-11-05: si el ticket sigue abierto"
+   "revive_si": "2026-11-05: si el ticket sigue abierto",
+   "caducado": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el ticket ya está cerrado"
+   }
   },
   {
    "id": "8184-isaac-panel-29-1448",
@@ -10454,7 +10486,11 @@
    "porque": "Borja (vía panel, 15:21): «esto no aplica: solucionado»",
    "quien": "Borja (vía panel, 29/10 15:21)",
    "cuando": "2026-10-29T15:21",
-   "revive_si": "2026-11-05: si Elha vuelve a pedir el código"
+   "revive_si": "2026-11-05: si Elha vuelve a pedir el código",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "zaragoza-tecnico-isaac-29-1448",
@@ -10510,7 +10546,11 @@
    "porque": "Borja (vía panel, 15:51): «DAvid esta negociando con el la combra de un laser. de momento sigue con el alquiler»",
    "quien": "Borja (vía panel, 29/10 15:51)",
    "cuando": "2026-10-29T15:51",
-   "revive_si": "2026-11-05: si el presupuesto sigue sin respuesta"
+   "revive_si": "2026-11-05: si el presupuesto sigue sin respuesta",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8018-borja-panel-29-1550",
@@ -10524,7 +10564,11 @@
    "porque": "Borja (vía panel, 15:50): «sale hoy» (MHP40192 OUT a las 15:40 en «Fotos equipos»)",
    "quien": "Borja (vía panel, 29/10 15:50)",
    "cuando": "2026-10-29T15:50",
-   "revive_si": "2026-11-05: si sigue sin finalizar"
+   "revive_si": "2026-11-05: si sigue sin finalizar",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8025-borja-panel-29-1549",
@@ -10538,7 +10582,11 @@
    "porque": "Borja (vía panel, 15:49): «En reparacion y presupeusto aceptado .saldra mañana»",
    "quien": "Borja (vía panel, 29/10 15:49)",
    "cuando": "2026-10-29T15:49",
-   "revive_si": "2026-11-05: si el H00240 no ha salido de taller"
+   "revive_si": "2026-11-05: si el H00240 no ha salido de taller",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7967-borja-panel-29-1548",
@@ -10552,7 +10600,11 @@
    "porque": "Borja (vía panel, 15:48): «ultimas pruebas. saldrá mañana» (Jonathan 14:50: «mañana me pongo con ella»)",
    "quien": "Borja (vía panel, 29/10 15:48)",
    "cuando": "2026-10-29T15:48",
-   "revive_si": "2026-11-05: si la SUSTMHR020 no ha salido"
+   "revive_si": "2026-11-05: si la SUSTMHR020 no ha salido",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "7935-borja-panel-29-1547",
@@ -10566,7 +10618,11 @@
    "porque": "Borja (vía panel, 15:47): «reclamada recogida por mail» (correo de reclamación a DHL a las 15:46)",
    "quien": "Borja (vía panel y correo, 29/10 15:47)",
    "cuando": "2026-10-29T15:47",
-   "revive_si": "2026-11-05: si DHL sigue sin recoger"
+   "revive_si": "2026-11-05: si DHL sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "portugal-00255-chus-29-1614",
@@ -10608,7 +10664,11 @@
    "porque": "Borja (vía panel, 16:05): el punto va con LEAS-8238; a las 16:03 pidió por correo a Innet que pasen a cambiar el umbilical del 40402",
    "quien": "Borja (vía panel y correo, 29/10 16:05)",
    "cuando": "2026-10-29T16:05",
-   "revive_si": "2026-11-05: si Innet no ha ido o la clínica vuelve a reclamar"
+   "revive_si": "2026-11-05: si Innet no ha ido o la clínica vuelve a reclamar",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8221-noaplica-borja-30-1231",
@@ -11074,7 +11134,11 @@
    "porque": "siguen sin pagar el presupuesto y nos piden informes que ya se ha comunicado a los jefes y a David",
    "quien": "Isaac (vía panel, 30/10 19:22)",
    "cuando": "2026-10-30T19:22",
-   "revive_si": "2026-11-05: si el presupuesto sigue sin pagar y sin nota nueva"
+   "revive_si": "2026-11-05: si el presupuesto sigue sin pagar y sin nota nueva",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8102-nota-isaac-30-1922",
@@ -11088,7 +11152,11 @@
    "porque": "hemos reclamado recogida pero la clinica esta cerrada xq no esta la clienta hasta el martes",
    "quien": "Isaac (vía panel, 30/10 19:22)",
    "cuando": "2026-10-30T19:22",
-   "revive_si": "2026-11-04: si la recogida sigue sin hacer"
+   "revive_si": "2026-11-04: si la recogida sigue sin hacer",
+   "caducado": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "BPR confirmó por correo que recoge el 05/11 y embarca el viernes 06/11 (04/11 17:44 y 18:57)"
+   }
   },
   {
    "id": "8214-nota-isaac-30-1924",
@@ -11232,7 +11300,11 @@
    "porque": "Se entrega el miercoles según dhl",
    "quien": "Gonzalo (vía panel, 02/11 19:38)",
    "cuando": "2026-11-02T19:38",
-   "revive_si": "2026-11-05: si el umbilical no ha llegado a taller"
+   "revive_si": "2026-11-05: si el umbilical no ha llegado a taller",
+   "revivido": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "el revive_si vencía hoy 05/11 y no hay nota de contenido nueva: el punto vuelve a salir"
+   }
   },
   {
    "id": "8110-nota-gonzalo-02-2001",
@@ -11260,7 +11332,11 @@
    "porque": "Se le pregunta para recoger el miercoles (la clienta contestó «ok» a las 21:59 en el grupo)",
    "quien": "Gonzalo (vía panel, 02/11 20:01)",
    "cuando": "2026-11-02T20:01",
-   "revive_si": "2026-11-05: si la recogida del miércoles 04/11 no se ha hecho"
+   "revive_si": "2026-11-05: si la recogida del miércoles 04/11 no se ha hecho",
+   "caducado": {
+    "fecha": "2026-11-05T09:48",
+    "motivo": "BPR confirmó por correo que recoge el 05/11 y embarca el viernes 06/11 (04/11 17:44 y 18:57)"
+   }
   },
   {
    "id": "8286-wapp-isaac-03-0947",
@@ -11591,6 +11667,20 @@
    "quien": "Borja (vía panel, 04/11 15:27)",
    "cuando": "2026-11-04T15:27",
    "revive_si": "2026-11-11: si sigue sin sustitución ni recogida"
+  },
+  {
+   "id": "8285-borja-wapp-05-0905",
+   "que": "LEAS-8285: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8285",
+    "centro": "SinVello Cartagena",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "Borja le pasó a Sin Vello el enlace de seguimiento de CTT de la sustitución («de reparto»)",
+   "quien": "Borja (en «SINVELLO · SEGUIMIENTO SUSTITUCIONES», 05/11 09:05)",
+   "cuando": "2026-11-05T09:05",
+   "revive_si": "2026-11-12: si Sin Vello vuelve a preguntar por la sustitución"
   }
  ],
  "enlaces": [
