@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-05T12:48",
+ "actualizado": "2026-11-05T15:29",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11807,6 +11807,34 @@
    "quien": "Jonathan (Jira, 05/11 12:31)",
    "cuando": "2026-11-05T12:31",
    "revive_si": "2026-11-12: si el presupuesto no se ha enviado"
+  },
+  {
+   "id": "8119-isaac-wapp-05-1254",
+   "que": "LEAS-8119: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8119",
+    "centro": "SinVello Laguna de Duero",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac en «SINVELLO · INCIDENCIAS»: «estoy intentando que salga hoy su laser»; presupuesto E262156 aceptado a las 14:25 y OUT del C00337 / H00337 a las 15:24",
+   "quien": "Isaac (WhatsApp, 05/11 12:54)",
+   "cuando": "2026-11-05T12:54",
+   "revive_si": "2026-11-12: si el centro vuelve a escribir que la sustitución se para"
+  },
+  {
+   "id": "aesthemed-wapp-05-1415",
+   "que": "Aesthemed (Albania): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "",
+    "centro": "Aesthemed (Albania)",
+    "cliente": "Aesthemed",
+    "tipo": "wapp"
+   },
+   "porque": "Contestado en el grupo de 13:08 a 14:15: umbilical con harting a 795 €, Caliport recalibrable sin coste con instrucciones; falta confirmar stock",
+   "quien": "Sat Leaseir Internacional (WhatsApp, 05/11 14:15)",
+   "cuando": "2026-11-05T14:15",
+   "revive_si": "2026-11-12: si no se le ha confirmado el stock del umbilical"
   }
  ],
  "enlaces": [
