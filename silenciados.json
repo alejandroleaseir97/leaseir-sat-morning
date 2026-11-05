@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-05T16:23",
+ "actualizado": "2026-11-05T18:25",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11849,6 +11849,118 @@
    "quien": "Borja (vía panel, 05/11 15:30)",
    "cuando": "2026-11-05T15:30",
    "revive_si": "2026-11-12: si la SRF0037 sigue sin recoger y sin nota de contenido nueva"
+  },
+  {
+   "id": "8360-cristina-noaplica-05-1643",
+   "que": "LEAS-8360: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8360",
+    "centro": "Elha Girona",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Cristina (vía panel, 16:43): «esto no aplica: no aplica»",
+   "quien": "Cristina (vía panel, 05/11 16:43)",
+   "cuando": "2026-11-05T16:43",
+   "revive_si": "2026-11-12: si LEAS-8360 sigue abierto sin nota de contenido nueva"
+  },
+  {
+   "id": "8232-cristina-noaplica-05-1654",
+   "que": "LEAS-8232: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8232",
+    "centro": "SinVello Jerez",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Cristina (vía panel, 16:54): «esto no aplica: Se mueve una sustitución de SIN VELLO Muria a Jeréz»",
+   "quien": "Cristina (vía panel, 05/11 16:54)",
+   "cuando": "2026-11-05T16:54",
+   "revive_si": "2026-11-12: si el 30361 / 90860 sigue sin recoger y sin nota de contenido nueva"
+  },
+  {
+   "id": "8184-isaac-panel-05-1644",
+   "que": "LEAS-8184: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8184",
+    "centro": "SinVello El Pilar",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 16:44): «se ha pasado el presupuesto esta pendiente de aprovacion»",
+   "quien": "Isaac (vía panel, 05/11 16:44)",
+   "cuando": "2026-11-05T16:44",
+   "revive_si": "2026-11-10: si Sin Vello no ha contestado al presupuesto y no hay nota de contenido nueva"
+  },
+  {
+   "id": "8362-isaac-panel-05-1732",
+   "que": "LEAS-8362: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8362",
+    "centro": "Lucem Reus",
+    "cliente": "Lucem Reus",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 17:32): «solicitado tecnico externo»",
+   "quien": "Isaac (vía panel, 05/11 17:32)",
+   "cuando": "2026-11-05T17:32",
+   "revive_si": "2026-11-12: si no consta fecha de visita del técnico ni el presupuesto provisional"
+  },
+  {
+   "id": "fuenlabrada-isaac-worker-05-1659",
+   "que": "Dermasana Fuenlabrada: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Dermasana Fuenlabrada",
+    "cliente": "Dermasana",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (worker, 16:59): «he preguntado en el chat que me digan y abro incidencia»; WhatsApp 17:32: «vale avísame xq si eso abro incidencia y aviso al técnico»",
+   "quien": "Isaac (panel, 05/11 16:59)",
+   "cuando": "2026-11-05T16:59",
+   "revive_si": "2026-11-12: si el centro vuelve a avisar y no hay ticket"
+  },
+  {
+   "id": "8204-isaac-panel-05-1751",
+   "que": "LEAS-8204: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8204",
+    "centro": "Sinvello Arrecife Lanzarote",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (vía panel, 17:51): «he pedido presupuesto a BPR para los movimientos de laser a peninsula a ver si acepta el cliente, estoy ala espera»",
+   "quien": "Isaac (vía panel, 05/11 17:51)",
+   "cuando": "2026-11-05T17:51",
+   "revive_si": "2026-11-12: si el C00617 / H00617 sigue sin recoger y sin nota de contenido nueva"
+  },
+  {
+   "id": "8102-isaac-panel-05-1751",
+   "que": "LEAS-8102: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8102",
+    "centro": "Pro Laser Tenerife",
+    "cliente": "Pro Laser Tenerife",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (vía panel, 17:51): «se ha reclamado Benjamin»",
+   "quien": "Isaac (vía panel, 05/11 17:51)",
+   "cuando": "2026-11-05T17:51",
+   "revive_si": "2026-11-12: si el 91420 / 30859 sigue sin llegar a taller y sin nota de contenido nueva"
+  },
+  {
+   "id": "7972-isaac-panel-05-1758",
+   "que": "LEAS-7972: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7972",
+    "centro": "Centri Unico Rende",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "Isaac (vía panel, 17:58): «reclamo al tecnico»",
+   "quien": "Isaac (vía panel, 05/11 17:58)",
+   "cuando": "2026-11-05T17:58",
+   "revive_si": "2026-11-12: si el técnico externo no ha dado fecha ni resultado"
   }
  ],
  "enlaces": [
