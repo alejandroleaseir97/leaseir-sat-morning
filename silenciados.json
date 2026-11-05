@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-05T18:25",
+ "actualizado": "2026-11-05T20:19",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11961,6 +11961,104 @@
    "quien": "Isaac (vía panel, 05/11 17:58)",
    "cuando": "2026-11-05T17:58",
    "revive_si": "2026-11-12: si el técnico externo no ha dado fecha ni resultado"
+  },
+  {
+   "id": "8203-isaac-panel-05-1826",
+   "que": "LEAS-8203: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8203",
+    "centro": "Elha Sta Eulàlia",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 18:26): «asigno a tecnico»",
+   "quien": "Isaac (vía panel, 05/11 18:26)",
+   "cuando": "2026-11-05T18:26",
+   "revive_si": "2026-11-12: si sigue sin técnico asignado y sin nota de contenido nueva"
+  },
+  {
+   "id": "7855-isaac-panel-05-1829",
+   "que": "LEAS-7855: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7855",
+    "centro": "sustitución SUSTMHR025 / SUSTDUAL003",
+    "cliente": "Elha",
+    "tipo": "prestamo"
+   },
+   "porque": "Isaac (vía panel, 18:29): «mando mail al comercial»",
+   "quien": "Isaac (vía panel, 05/11 18:29)",
+   "cuando": "2026-11-05T18:29",
+   "revive_si": "2026-11-12: si la sustitución sigue sin recoger y sin nota de contenido nueva"
+  },
+  {
+   "id": "8283-gonzalo-panel-05-1951",
+   "que": "LEAS-8283: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8283",
+    "centro": "Elha Vigo",
+    "cliente": "Elha",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (19:50): «Se avisa a GEE»; (vía panel, 19:51): «Avisado a Gee»",
+   "quien": "Gonzalo (vía panel, 05/11 19:51)",
+   "cuando": "2026-11-05T19:51",
+   "revive_si": "2026-11-12: si GEE no ha dado fecha ni resultado"
+  },
+  {
+   "id": "8218-gonzalo-panel-05-1952",
+   "que": "LEAS-8218: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8218",
+    "centro": "Laser Factory Girona",
+    "cliente": "Laser Factory",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel, 19:52): «Se pregunta a carlos»",
+   "quien": "Gonzalo (vía panel, 05/11 19:52)",
+   "cuando": "2026-11-05T19:52",
+   "revive_si": "2026-11-12: si Carlos Mora no ha dado fecha ni resultado"
+  },
+  {
+   "id": "7866-gonzalo-panel-05-1953",
+   "que": "LEAS-7866: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7866",
+    "centro": "Kilenci",
+    "cliente": "Kilenci",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel, 19:53): «Se pregunta a carlos»",
+   "quien": "Gonzalo (vía panel, 05/11 19:53)",
+   "cuando": "2026-11-05T19:53",
+   "revive_si": "2026-11-12: si Carlos Mora no ha dado fecha ni resultado"
+  },
+  {
+   "id": "8132-gonzalo-panel-05-1955",
+   "que": "LEAS-8132: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8132",
+    "centro": "Belenus",
+    "cliente": "Belenus",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 19:55): «Ha entrado el 30 de octubre la pieza de mano, lo pone en el grupo de telegram fotos de equipo»",
+   "quien": "Gonzalo (vía panel, 05/11 19:55)",
+   "cuando": "2026-11-05T19:55",
+   "revive_si": "2026-11-12: si sigue sin repararse y sin nota de contenido nueva"
+  },
+  {
+   "id": "8216-gonzalo-panel-05-1955",
+   "que": "LEAS-8216: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8216",
+    "centro": "Laser Factory Manresa",
+    "cliente": "Laser Factory",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 19:55): «Ha sido entregado a taller el miercoles 4, en cola de taller»",
+   "quien": "Gonzalo (vía panel, 05/11 19:55)",
+   "cuando": "2026-11-05T19:55",
+   "revive_si": "2026-11-12: si sigue sin técnico asignado y sin nota de contenido nueva"
   }
  ],
  "enlaces": [
