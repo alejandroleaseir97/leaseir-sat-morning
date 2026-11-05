@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-05T15:29",
+ "actualizado": "2026-11-05T16:23",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11835,6 +11835,20 @@
    "quien": "Sat Leaseir Internacional (WhatsApp, 05/11 14:15)",
    "cuando": "2026-11-05T14:15",
    "revive_si": "2026-11-12: si no se le ha confirmado el stock del umbilical"
+  },
+  {
+   "id": "7714-borja-panel-05-1530",
+   "que": "LEAS-7714: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7714",
+    "centro": "Oksana Sagan",
+    "cliente": "Oksana Sagan",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 15:30): «reclamado a Maria si podemos recoger y cuando»; Maria en «SAT ITALIA» a las 15:46: «la cliente lo tiene que preparar»",
+   "quien": "Borja (vía panel, 05/11 15:30)",
+   "cuando": "2026-11-05T15:30",
+   "revive_si": "2026-11-12: si la SRF0037 sigue sin recoger y sin nota de contenido nueva"
   }
  ],
  "enlaces": [
