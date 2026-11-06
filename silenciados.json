@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-06T09:49",
+ "actualizado": "2026-11-06T12:45",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -12137,6 +12137,238 @@
    "quien": "Gonzalo (Jira, 06/11 09:42)",
    "cuando": "2026-11-06T09:42",
    "revive_si": "2026-11-11: si la averiada no se ha recogido"
+  },
+  {
+   "id": "8218-gonzalo-panel-06-1116",
+   "que": "LEAS-8218: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8218",
+    "centro": "Laser Factory Girona",
+    "cliente": "Laser Factory",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 11:16): «Carlos va hoy»",
+   "quien": "Gonzalo (vía panel, 06/11 11:16)",
+   "cuando": "2026-11-06T11:16",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8291-gonzalo-panel-06-1015",
+   "que": "LEAS-8291: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8291",
+    "centro": "Doll Beauty Suiza",
+    "cliente": "Doll Beauty",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 10:15): «Estamos esperando a que apruebe el precio orientativo»",
+   "quien": "Gonzalo (vía panel, 06/11 10:15)",
+   "cuando": "2026-11-06T10:15",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8295-gonzalo-panel-06-1015",
+   "que": "LEAS-8295: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8295",
+    "centro": "Elha Pintor Gisbert",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 10:15): «Esperando a que llegue la caja»",
+   "quien": "Gonzalo (vía panel, 06/11 10:15)",
+   "cuando": "2026-11-06T10:15",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8339-gonzalo-panel-06-1031",
+   "que": "LEAS-8339: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": [
+     "LEAS-8339",
+     "LEAS-8341",
+     "LEAS-8343",
+     "LEAS-8349"
+    ],
+    "centro": "Leaseir SAT (sustituciones)",
+    "cliente": "Leaseir",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 10:31): «Como se puede leer en cada una de las incidencias la dirección es…»",
+   "quien": "Gonzalo (vía panel, 06/11 10:31)",
+   "cuando": "2026-11-06T10:31",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8371-gonzalo-panel-06-1013",
+   "que": "LEAS-8371: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8371",
+    "centro": "Dermasana Zubiarte",
+    "cliente": "Dermasana",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 10:13): «Se envia caja para su recogida»",
+   "quien": "Gonzalo (vía panel, 06/11 10:13)",
+   "cuando": "2026-11-06T10:13",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8093-gonzalo-panel-06-1010",
+   "que": "LEAS-8093: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8093",
+    "centro": "Epil Point Bergamo",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 10:10): «Se ha reclamado la recogida, si no vuelven a recoger se pide una nueva»",
+   "quien": "Gonzalo (vía panel, 06/11 10:10)",
+   "cuando": "2026-11-06T10:10",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7935-gonzalo-panel-06-1003",
+   "que": "LEAS-7935: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7935",
+    "centro": "Centro Unico Roma Est",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 10:03): «Ha salido de taller y está en transito»",
+   "quien": "Gonzalo (vía panel, 06/11 10:03)",
+   "cuando": "2026-11-06T10:03",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8236-gonzalo-panel-06-1002",
+   "que": "LEAS-8236: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8236",
+    "centro": "Centro Unico Porta di Roma",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 10:02): «Está en transito la pieza afectada»",
+   "quien": "Gonzalo (vía panel, 06/11 10:02)",
+   "cuando": "2026-11-06T10:02",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7891-gonzalo-panel-06-1116",
+   "que": "LEAS-7891: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7891",
+    "centro": "Paula Estética Radiante",
+    "cliente": "Paula Estética",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 11:16): «Sigue en cola de taller»",
+   "quien": "Gonzalo (vía panel, 06/11 11:16)",
+   "cuando": "2026-11-06T11:16",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7804-gonzalo-panel-06-1039",
+   "que": "LEAS-7804: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7804",
+    "centro": "SinVello Sant Cugat del Vallès",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 10:39): «Se pregunta de nuevo por ello, por si está aprobado el presupuesto»",
+   "quien": "Gonzalo (vía panel, 06/11 10:39)",
+   "cuando": "2026-11-06T10:39",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7824-gonzalo-panel-06-1033",
+   "que": "LEAS-7824: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7824",
+    "centro": "Elha Obispo",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 10:33): «Sigue en cola de taller»",
+   "quien": "Gonzalo (vía panel, 06/11 10:33)",
+   "cuando": "2026-11-06T10:33",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7904-gonzalo-panel-06-1040",
+   "que": "LEAS-7904: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7904",
+    "centro": "Dermasana Calle Alcalá",
+    "cliente": "Dermasana",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 10:40): «Está en cola de taller»",
+   "quien": "Gonzalo (vía panel, 06/11 10:40)",
+   "cuando": "2026-11-06T10:40",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8170-gonzalo-panel-06-1033",
+   "que": "LEAS-8170: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8170",
+    "centro": "Clinic and Esthetic By Skincare Addict",
+    "cliente": "Clinic and Esthetic",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 10:33): «Ha llegado esta semana, Sigue en cola de taller»",
+   "quien": "Gonzalo (vía panel, 06/11 10:33)",
+   "cuando": "2026-11-06T10:33",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8148-gonzalo-panel-06-1041",
+   "que": "LEAS-8148: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8148",
+    "centro": "Elha Badalona",
+    "cliente": "Elha",
+    "tipo": "cerrar"
+   },
+   "porque": "Gonzalo (vía panel, 10:41): «Tiene que salir todavía»",
+   "quien": "Gonzalo (vía panel, 06/11 10:41)",
+   "cuando": "2026-11-06T10:41",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8310-gonzalo-panel-06-1016",
+   "que": "LEAS-8310: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": [
+     "LEAS-8310",
+     "LEAS-8312"
+    ],
+    "centro": "Laser Factory Granollers",
+    "cliente": "Laser Factory",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel, 10:16): «Se va a realizar hoy la visita esperamos al parte de Carlos»",
+   "quien": "Gonzalo (vía panel, 06/11 10:16)",
+   "cuando": "2026-11-06T10:16",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7975-gonzalo-panel-06-1042",
+   "que": "LEAS-7975: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7975",
+    "centro": "SinVello A Coruña",
+    "cliente": "Sin Vello",
+    "tipo": "presu"
+   },
+   "porque": "Gonzalo (vía panel, 10:42): «Se ha enviado el presupuesto ayer, tardarán unos dias en aprobarlo»",
+   "quien": "Gonzalo (vía panel, 06/11 10:42)",
+   "cuando": "2026-11-06T10:42",
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
   }
  ],
  "enlaces": [
