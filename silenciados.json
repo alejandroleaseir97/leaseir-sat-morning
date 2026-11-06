@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-05T20:19",
+ "actualizado": "2026-11-06T09:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -10714,7 +10714,11 @@
    "porque": "esta en reparación",
    "quien": "Isaac (vía panel, 30/10 12:40)",
    "cuando": "2026-10-30T12:40",
-   "revive_si": "2026-11-06: si sigue «En reparación» sin nota de contenido nueva"
+   "revive_si": "2026-11-06: si sigue «En reparación» sin nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-06T09:49",
+    "motivo": "vencía el 06/11 y sigue «En reparación» sin nota de contenido nueva"
+   }
   },
   {
    "id": "8142-nota-borja-30-1244",
@@ -10728,7 +10732,11 @@
    "porque": "reclamada recogida",
    "quien": "Borja (vía panel, 30/10 12:44)",
    "cuando": "2026-10-30T12:44",
-   "revive_si": "2026-11-06: si la consola 90628 sigue sin recoger y sin nota nueva"
+   "revive_si": "2026-11-06: si la consola 90628 sigue sin recoger y sin nota nueva",
+   "caducado": {
+    "fecha": "2026-11-06T09:49",
+    "motivo": "la consola 90628 ya llegó a taller (Ernesto, 05/11 12:01; hoy en presupuesto)"
+   }
   },
   {
    "id": "alcala-nota-isaac-30-1235",
@@ -10802,7 +10810,11 @@
    "porque": "esta recogido y de reparto",
    "quien": "Borja (vía panel, 30/10 12:57)",
    "cuando": "2026-10-30T12:57",
-   "revive_si": "2026-11-06: si la consola AHR00484 no ha llegado a taller"
+   "revive_si": "2026-11-06: si la consola AHR00484 no ha llegado a taller",
+   "caducado": {
+    "fecha": "2026-11-06T09:49",
+    "motivo": "el equipo ya está en «Pendiente asignar técnico»: el punto sigue en repara"
+   }
   },
   {
    "id": "8148-noaplica-cristina-30-1522",
@@ -10816,7 +10828,11 @@
    "porque": "esto no aplica: En cuanto se liberen los técnicos se irá asignando, hay mucho volumen de trabajo en taller",
    "quien": "Cristina (vía panel, 30/10 15:22)",
    "cuando": "2026-10-30T15:22",
-   "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva"
+   "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-06T09:49",
+    "motivo": "hoy 09:00 pasó a «Inspección de salida»: el punto sigue en cerrar"
+   }
   },
   {
    "id": "8131-noaplica-cristina-30-1530",
@@ -10848,7 +10864,11 @@
    "porque": "esto no aplica: En cuanto se liberen los técnicos de taller se irá asignando, hay mucho volumen de trabajo",
    "quien": "Cristina (vía panel, 30/10 15:31)",
    "cuando": "2026-10-30T15:31",
-   "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva"
+   "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-06T09:49",
+    "motivo": "ya está en «Devuelto a cliente» (05/11)"
+   }
   },
   {
    "id": "7420-nota-gonzalo-30-1612",
@@ -10862,7 +10882,11 @@
    "porque": "Esperando información",
    "quien": "Gonzalo (vía panel, 30/10 16:12)",
    "cuando": "2026-10-30T16:12",
-   "revive_si": "2026-11-06: si sigue en «Inspección de salida» sin nota de contenido nueva"
+   "revive_si": "2026-11-06: si sigue en «Inspección de salida» sin nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-06T09:49",
+    "motivo": "vencía el 06/11 y sigue en «Inspección de salida» sin nota nueva"
+   }
   },
   {
    "id": "7824-noaplica-cristina-30-1627",
@@ -10876,7 +10900,11 @@
    "porque": "esto no aplica: En cuanto se liberen técnicos de taller se irá asignando, hay mucho volumen de trabajo en taller",
    "quien": "Cristina (vía panel, 30/10 16:27)",
    "cuando": "2026-10-30T16:27",
-   "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva"
+   "revive_si": "2026-11-06: si sigue sin técnico y sin nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-06T09:49",
+    "motivo": "vencía el 06/11 y sigue en cola sin nota nueva"
+   }
   },
   {
    "id": "7820-nota-gonzalo-30-1632",
@@ -10908,7 +10936,11 @@
    "porque": "Sigue todavía en cola",
    "quien": "Gonzalo (vía panel, 30/10 16:38)",
    "cuando": "2026-10-30T16:38",
-   "revive_si": "2026-11-06: si sigue en cola sin nota de contenido nueva"
+   "revive_si": "2026-11-06: si sigue en cola sin nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-06T09:49",
+    "motivo": "vencía el 06/11 y sigue sin diagnóstico ni presupuesto escrito"
+   }
   },
   {
    "id": "7904-noaplica-cristina-30-1642",
@@ -10922,7 +10954,11 @@
    "porque": "esto no aplica: Se pide que se pongan con el manipulo esta semana que entra",
    "quien": "Cristina (vía panel, 30/10 16:42)",
    "cuando": "2026-10-30T16:42",
-   "revive_si": "2026-11-06: si el manípulo sigue sin reparar"
+   "revive_si": "2026-11-06: si el manípulo sigue sin reparar",
+   "revivido": {
+    "fecha": "2026-11-06T09:49",
+    "motivo": "vencía el 06/11 y el manípulo sigue sin reparar"
+   }
   },
   {
    "id": "8265-enlace-gonzalo-30-1653",
@@ -12059,6 +12095,48 @@
    "quien": "Gonzalo (vía panel, 05/11 19:55)",
    "cuando": "2026-11-05T19:55",
    "revive_si": "2026-11-12: si sigue sin técnico asignado y sin nota de contenido nueva"
+  },
+  {
+   "id": "8164-gonzalo-panel-06-0940",
+   "que": "LEAS-8164: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8164",
+    "centro": "Smart Duck Cannes",
+    "cliente": "Smart Duck",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 09:40): «Se ha pedido ayer la recogida, hay que ver si la recogen hoy»",
+   "quien": "Gonzalo (vía panel, 06/11 09:40)",
+   "cuando": "2026-11-06T09:40",
+   "revive_si": "2026-11-13: si DHL no ha recogido y no hay nota de contenido nueva"
+  },
+  {
+   "id": "8244-gonzalo-panel-06-0944",
+   "que": "LEAS-8244: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8244",
+    "centro": "Belenus",
+    "cliente": "Belenus",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel, 09:44): «Esperando por Stock de material ya que todavía no tenemos»",
+   "quien": "Gonzalo (vía panel, 06/11 09:44)",
+   "cuando": "2026-11-06T09:44",
+   "revive_si": "2026-11-13: si sigue sin material ni nota de contenido nueva"
+  },
+  {
+   "id": "8172-gonzalo-8202-06-0942",
+   "que": "LEAS-8172: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8172",
+    "centro": "SinVello Tomares",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (en LEAS-8202, 09:42): «Reclamada la entrega a Dhl Express y equipo entregado , ayer 05/11 se ha pedido la recogida»",
+   "quien": "Gonzalo (Jira, 06/11 09:42)",
+   "cuando": "2026-11-06T09:42",
+   "revive_si": "2026-11-11: si la averiada no se ha recogido"
   }
  ],
  "enlaces": [
