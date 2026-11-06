@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-06T16:28",
+ "actualizado": "2026-11-06T18:27",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -12383,6 +12383,48 @@
    "quien": "Sat Leaseir Internacional (WhatsApp, 06/11 15:29)",
    "cuando": "2026-11-06T15:29",
    "revive_si": "2026-11-13: si el centro vuelve a pedirlas o no consta el envío"
+  },
+  {
+   "id": "leas-8378-pere3-tecnico-06-1712",
+   "que": "LEAS-8378 Elha Pere III: técnico o taller, ya contestado",
+   "ambito": {
+    "leas": "LEAS-8378",
+    "centro": "Elha Pere III",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 17:12): «Se va a enviar a carlos para que vaya a cambiar termostato y sonda»; Isaac en «Incidencias Leaseir/Elha» (WhatsApp, 17:59): «El gel se congela vamos avisar al tecnico a ver si puede hacer algo alli»",
+   "quien": "Gonzalo (vía panel, 06/11 17:12)",
+   "cuando": "2026-11-06T17:12",
+   "revive_si": "2026-11-13: si no consta la visita de Carlos Mora o Elha vuelve a preguntar"
+  },
+  {
+   "id": "dermasana-albufera-recogida-06-1713",
+   "que": "Dermasana Albufera: recogida en camión, ya hecha",
+   "ambito": {
+    "leas": null,
+    "centro": "Dermasana Albufera",
+    "cliente": "Dermasana",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (nota del panel, 17:13): «La recogida ha sido realizada y ya está en taller»",
+   "quien": "Gonzalo (nota del panel, 06/11 17:13)",
+   "cuando": "2026-11-06T17:13",
+   "revive_si": "2026-11-13: si el equipo no tiene ticket abierto en taller"
+  },
+  {
+   "id": "leas-8033-belenus-presu-06-1722",
+   "que": "LEAS-8033 Belenus Chile: presupuesto, consultado",
+   "ambito": {
+    "leas": "LEAS-8033",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "presu"
+   },
+   "porque": "Cristina (vía panel, 17:22): «Consulto con los chicos por si hubiesen mandado el presupuesto y no lo tenga en conocimiento»",
+   "quien": "Cristina (vía panel, 06/11 17:22)",
+   "cuando": "2026-11-06T17:22",
+   "revive_si": "2026-11-11: si sigue sin constar el envío del presupuesto o la respuesta del cliente"
   }
  ],
  "enlaces": [
