@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-06T15:27",
+ "actualizado": "2026-11-06T16:28",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -12369,6 +12369,20 @@
    "quien": "Gonzalo (vía panel, 06/11 10:42)",
    "cuando": "2026-11-06T10:42",
    "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "lf-mollet-pulseras-06-1529",
+   "que": "Laser Factory Mollet: pulseras de recambio para los manípulos, ya contestado",
+   "ambito": {
+    "leas": null,
+    "centro": "Laser Factory Mollet del Vallès",
+    "cliente": "Laser Factory",
+    "tipo": "wapp"
+   },
+   "porque": "Sat Leaseir Internacional en «Sat Laser Factory» (WhatsApp, 15:29): «Muy buenas si» a la petición de pulseras de las 15:01",
+   "quien": "Sat Leaseir Internacional (WhatsApp, 06/11 15:29)",
+   "cuando": "2026-11-06T15:29",
+   "revive_si": "2026-11-13: si el centro vuelve a pedirlas o no consta el envío"
   }
  ],
  "enlaces": [
