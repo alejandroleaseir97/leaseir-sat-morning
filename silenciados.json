@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-09T15:28",
+ "actualizado": "2026-11-09T16:21",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -12477,6 +12477,20 @@
    "quien": "Cristina (vía panel, 06/11 17:22)",
    "cuando": "2026-11-06T17:22",
    "revive_si": "2026-11-11: si sigue sin constar el envío del presupuesto o la respuesta del cliente"
+  },
+  {
+   "id": "lyon6-borja-wapp-09-1605",
+   "que": "Smart Duck Lyon 6 / Grenoble: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Smart Duck Lyon 6 / Grenoble",
+    "cliente": "Smart Duck",
+    "tipo": "wapp"
+   },
+   "porque": "Borja en «Smart Duck Technical Service» (WhatsApp, 16:05): «this is already done» (cambio H03206/H03204)",
+   "quien": "Borja (WhatsApp, 09/11 16:05)",
+   "cuando": "2026-11-09T16:05",
+   "revive_si": "2026-11-16: si Smart Duck vuelve a pedirlo"
   }
  ],
  "enlaces": [
