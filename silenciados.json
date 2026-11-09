@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-09T18:24",
+ "actualizado": "2026-11-09T20:28",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -12532,6 +12532,90 @@
    "porque": "Gonzalo (vía panel, 18:09): «Al final carlos hizo caso omiso y fue a reparalo»",
    "quien": "Gonzalo (Jira, 09/11 18:09)",
    "cuando": "2026-11-09T18:09",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8415-gonzalo-0911-1911",
+   "que": "LEAS-8415: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8415",
+    "centro": "Sin Vello Aranjuez",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 19:11): punto sin ticket enlazado a LEAS-8415, «se pregunta» (garantía consultada en el grupo interno a las 19:11)",
+   "quien": "Gonzalo (Jira, 09/11 19:11)",
+   "cuando": "2026-11-09T19:11",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8404-gonzalo-0911-1954",
+   "que": "LEAS-8404: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8404",
+    "centro": "Timur / Tegemed",
+    "cliente": "Tegemed",
+    "tipo": "telegram"
+   },
+   "porque": "Gonzalo (vía panel, 19:54): enlaza LEAS-8416, «se envia el material»",
+   "quien": "Gonzalo (Jira, 09/11 19:54)",
+   "cuando": "2026-11-09T19:54",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8384-caen-0911-1928",
+   "que": "LEAS-8384: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8384",
+    "centro": "Smartduck Rennes / Caen",
+    "cliente": "Smart Duck",
+    "tipo": "wapp"
+   },
+   "porque": "Informe de Caen enviado en «Smart Duck Technical Service» (WhatsApp) a las 19:28",
+   "quien": "equipo (WhatsApp, 09/11 19:28)",
+   "cuando": "2026-11-09T19:28",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8013-beleco-0911-2002",
+   "que": "LEAS-8013: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8013",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "Beleco",
+    "tipo": "wapp"
+   },
+   "porque": "Contestado en «Leaseir SAT Beleco Fan Mallorca» (WhatsApp) a las 20:02: «Según dhl llega mañana» con el tracking",
+   "quien": "equipo (WhatsApp, 09/11 20:02)",
+   "cuando": "2026-11-09T20:02",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8214-gonzalo-0911-1958",
+   "que": "LEAS-8214: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8214",
+    "centro": "SinVello Badajoz",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 19:58): «Se revisa mañana para enviar»; en ENVIOS a las 19:57: «SinVello Badajoz Enviar sustitución completa LT»",
+   "quien": "Gonzalo (Jira, 09/11 19:58)",
+   "cuando": "2026-11-09T19:58",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8227-gonzalo-0911-1959",
+   "que": "LEAS-8227: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8227",
+    "centro": "Clínica Indalo Santurce",
+    "cliente": "Clínicas Indalo",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 19:59): «Se revisa en las sust»; en ENVIOS a las 19:59: «Clínica Indalo Santurce enviar sust single/dual LM»",
+   "quien": "Gonzalo (Jira, 09/11 19:59)",
+   "cuando": "2026-11-09T19:59",
    "revive_si": "2026-11-16: si no hay nota de contenido nueva"
   }
  ],
