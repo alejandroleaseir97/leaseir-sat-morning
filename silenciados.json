@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-06T20:21",
+ "actualizado": "2026-11-09T09:58",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11082,7 +11082,11 @@
    "porque": "ha llegado la sust y se ha pedido recogida xq ya esta solucionado, si en este fin de semana falla su equipo anulo la recogida de la sust",
    "quien": "Isaac (vía panel, 30/10 19:06)",
    "cuando": "2026-10-30T19:06",
-   "revive_si": "2026-11-09: si la averiada sigue sin recoger y sin nota nueva"
+   "revive_si": "2026-11-09: si la averiada sigue sin recoger y sin nota nueva",
+   "caducado": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "LEAS-8153 ya está cerrado"
+   }
   },
   {
    "id": "8227-nota-isaac-30-1906",
@@ -11096,7 +11100,11 @@
    "porque": "en cuanto tengamos una sust single o dual libre de LM se la mandara",
    "quien": "Isaac (vía panel, 30/10 19:06)",
    "cuando": "2026-10-30T19:06",
-   "revive_si": "2026-11-09: si la sustitución sigue sin salir"
+   "revive_si": "2026-11-09: si la sustitución sigue sin salir",
+   "revivido": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "vencía el 09/11 y la sustitución LEAS-8229 sigue en «Solicitado»"
+   }
   },
   {
    "id": "7967-nota-isaac-30-1907",
@@ -11110,7 +11118,11 @@
    "porque": "hoy se ha enviado para Italia",
    "quien": "Isaac (vía panel, 30/10 19:07)",
    "cuando": "2026-10-30T19:07",
-   "revive_si": "2026-11-09: si no consta la entrega en Valle Aurelia"
+   "revive_si": "2026-11-09: si no consta la entrega en Valle Aurelia",
+   "revivido": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "vencía el 09/11 y no consta la entrega en Valle Aurelia"
+   }
   },
   {
    "id": "7188-nota-isaac-30-1908",
@@ -11124,7 +11136,11 @@
    "porque": "se la asigno a Fran",
    "quien": "Isaac (vía panel, 30/10 19:08)",
    "cuando": "2026-10-30T19:08",
-   "revive_si": "2026-11-09: si sigue en reparación sin nota de contenido nueva"
+   "revive_si": "2026-11-09: si sigue en reparación sin nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "Francisco (03/11 12:26): «Está siendo actualizada en Fábrica»"
+   }
   },
   {
    "id": "8152-nota-isaac-30-1918",
@@ -11138,7 +11154,11 @@
    "porque": "no se ha enviado aun sustitucion",
    "quien": "Isaac (vía panel, 30/10 19:18)",
    "cuando": "2026-10-30T19:18",
-   "revive_si": "2026-11-09: si la sustitución sigue sin salir y el presupuesto sin hacer"
+   "revive_si": "2026-11-09: si la sustitución sigue sin salir y el presupuesto sin hacer",
+   "caducado": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "presupuesto aceptado por Sin Vello (correo 06/11 13:07) y en reparación"
+   }
   },
   {
    "id": "7881-nota-isaac-30-1920",
@@ -11206,7 +11226,11 @@
    "porque": "aun no se ha mandado sustitución",
    "quien": "Isaac (vía panel, 30/10 19:24)",
    "cuando": "2026-10-30T19:24",
-   "revive_si": "2026-11-09: si la sustitución sigue sin salir"
+   "revive_si": "2026-11-09: si la sustitución sigue sin salir",
+   "revivido": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "vencía el 09/11 y la sustitución LEAS-8231 sigue en «Solicitado»"
+   }
   },
   {
    "id": "oscar-palermo-nota-gonzalo-31-1349",
@@ -11266,7 +11290,11 @@
    "porque": "Monopoli (MHR 40639): «Ask them to put some tape on it and we'll send some parts over, as the umbilical will need replacing» (11:04); Alessandria: «We're going to send some new screws to see if that sorts it out» (12:07, LEAS-8277)",
    "quien": "Isaac (EPIL POINT LASER SUPPORT, 02/11 11:04 y 12:07)",
    "cuando": "2026-11-02T12:07",
-   "revive_si": "2026-11-09: si no consta el envío de las piezas a Monopoli ni de los tornillos a Alessandria"
+   "revive_si": "2026-11-09: si no consta el envío de las piezas a Monopoli ni de los tornillos a Alessandria",
+   "revivido": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "vencía el 09/11 sin constancia del envío a Monopoli"
+   }
   },
   {
    "id": "campania-c00282-isaac-02-1323",
@@ -11280,7 +11308,11 @@
    "porque": "Campania (13:17): «siamo in attesa di un gentilissimo riscontro tempestivo»; Isaac (13:23): «dobbiamo ritirare l'H00282»",
    "quien": "Isaac (Centri Unico Italia - Leaseir, 02/11 13:23)",
    "cuando": "2026-11-02T13:23",
-   "revive_si": "2026-11-09: si no hay ticket ni recogida pedida del H00282"
+   "revive_si": "2026-11-09: si no hay ticket ni recogida pedida del H00282",
+   "revivido": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "vencía el 09/11 y sigue sin ticket del H00282"
+   }
   },
   {
    "id": "7850-nota-gonzalo-02-1946",
@@ -11294,7 +11326,11 @@
    "porque": "Se recuerda a taller",
    "quien": "Gonzalo (vía panel, 02/11 19:46)",
    "cuando": "2026-11-02T19:46",
-   "revive_si": "2026-11-09: si sigue sin reparar y sin nota de contenido nueva"
+   "revive_si": "2026-11-09: si sigue sin reparar y sin nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "LEAS-7850 ya está cerrado"
+   }
   },
   {
    "id": "8126-nota-gonzalo-02-1942",
@@ -11308,7 +11344,11 @@
    "porque": "Ha llegado pero está en cola por falta de técnicos",
    "quien": "Gonzalo (vía panel, 02/11 19:42)",
    "cuando": "2026-11-02T19:42",
-   "revive_si": "2026-11-09: si sigue en cola sin diagnóstico"
+   "revive_si": "2026-11-09: si sigue en cola sin diagnóstico",
+   "caducado": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "diagnóstico de Jonathan del 06/11 12:58; ya en presupuesto"
+   }
   },
   {
    "id": "8171-nota-gonzalo-02-1937",
@@ -11322,7 +11362,11 @@
    "porque": "Se preguta de nuevo a Elha",
    "quien": "Gonzalo (vía panel, 02/11 19:37)",
    "cuando": "2026-11-02T19:37",
-   "revive_si": "2026-11-09: si la recogida sigue sin pedir"
+   "revive_si": "2026-11-09: si la recogida sigue sin pedir",
+   "caducado": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "ya en taller («Esperando inicio reparación»)"
+   }
   },
   {
    "id": "8216-nota-gonzalo-02-1938",
@@ -11354,7 +11398,11 @@
    "porque": "Se pregunta de nuevo",
    "quien": "Gonzalo (vía panel, 02/11 20:01)",
    "cuando": "2026-11-02T20:01",
-   "revive_si": "2026-11-09: si sigue sin nota de contenido nueva"
+   "revive_si": "2026-11-09: si sigue sin nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "vencía el 09/11 sin nota de contenido nueva"
+   }
   },
   {
    "id": "8102-nota-gonzalo-02-2001",
@@ -11604,7 +11652,11 @@
    "porque": "Borja mandó el presupuesto de la H00354 a Belenus por correo («LEAS-8044 Belenus H00354», 04/11 10:09)",
    "quien": "Borja (correo, 04/11 10:09)",
    "cuando": "2026-11-04T10:09",
-   "revive_si": "2026-11-09: si Belenus no ha contestado al presupuesto"
+   "revive_si": "2026-11-09: si Belenus no ha contestado al presupuesto",
+   "revivido": {
+    "fecha": "2026-11-09T09:58",
+    "motivo": "vencía el 09/11 y Belenus no ha contestado"
+   }
   },
   {
    "id": "7759-nota-borja-04-1432",
