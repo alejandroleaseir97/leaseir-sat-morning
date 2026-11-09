@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-09T16:21",
+ "actualizado": "2026-11-09T18:24",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -12491,6 +12491,48 @@
    "quien": "Borja (WhatsApp, 09/11 16:05)",
    "cuando": "2026-11-09T16:05",
    "revive_si": "2026-11-16: si Smart Duck vuelve a pedirlo"
+  },
+  {
+   "id": "8380-gonzalo-0911-1807",
+   "que": "LEAS-8380: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8380",
+    "centro": "Elha Betanzos",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 18:07): «Se les pregunta a Elha si han probado con otro manipulo»; LEAS-8383 cancelada a las 18:06 («El cliente mueve una sust»)",
+   "quien": "Gonzalo (Jira, 09/11 18:07)",
+   "cuando": "2026-11-09T18:07",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8374-gonzalo-0911-1808",
+   "que": "LEAS-8374: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8374",
+    "centro": "Elha Laser Center Cartagena",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 18:08): «Se pregunta a Elha» (WhatsApp 18:08: «se puede recoger»)",
+   "quien": "Gonzalo (Jira, 09/11 18:08)",
+   "cuando": "2026-11-09T18:08",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8281-gonzalo-0911-1809",
+   "que": "LEAS-8281: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8281",
+    "centro": "Elha Rocafort",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 18:09): «Al final carlos hizo caso omiso y fue a reparalo»",
+   "quien": "Gonzalo (Jira, 09/11 18:09)",
+   "cuando": "2026-11-09T18:09",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
   }
  ],
  "enlaces": [
