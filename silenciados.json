@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-10T16:23",
+ "actualizado": "2026-11-10T19:03",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11986,7 +11986,8 @@
    "porque": "Cristina (vía panel, 16:43): «esto no aplica: no aplica»",
    "quien": "Cristina (vía panel, 05/11 16:43)",
    "cuando": "2026-11-05T16:43",
-   "revive_si": "2026-11-12: si LEAS-8360 sigue abierto sin nota de contenido nueva"
+   "revive_si": "2026-11-12: si LEAS-8360 sigue abierto sin nota de contenido nueva",
+   "revivido": "2026-11-10T19:03 · hecho nuevo: hoy a las 15:57 Elha preguntó en «Incidencias Leaseir/Elha» si el 03362 ya está en taller y arreglado, sin respuesta"
   },
   {
    "id": "8232-cristina-noaplica-05-1654",
@@ -13034,6 +13035,76 @@
    "porque": "Gonzalo (vía panel, 15:57): «Corpodem debería de tener por lo menos una pieza de mano en depóstio poer no la han movido, se les ha preguntado pero no contestan»",
    "quien": "Gonzalo (Jira, 10/11 15:57)",
    "cuando": "2026-11-10T15:57",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8311-isaac-1011-1832",
+   "que": "LEAS-8311: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8311",
+    "centro": "Laser Factory Granollers",
+    "cliente": "Laser Factory",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (vía panel, 18:32): «hablo con cliente para mover una sustitución y me dice que no quiere mover ninguna que quiere tener donde estan por si surgen incidencias, la C00400 aun la tiene Joni a ver si la acaba.»",
+   "quien": "Isaac (Jira, 10/11 18:32)",
+   "cuando": "2026-11-10T18:32",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "lf-hospitalet-isaac-1011-1819",
+   "que": "Laser Factory Hospitalet y Terrassa: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Laser Factory Hospitalet y Terrassa",
+    "cliente": "Laser Factory",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (panel, 18:19): «se ha preguntado a I+D que solucion se le puede dar»",
+   "quien": "Isaac (panel, 10/11 18:19)",
+   "cuando": "2026-11-10T18:19",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "globo-isaac-1011-1856",
+   "que": "Centri Unico Globo: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico Globo",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "Isaac (panel, 18:56): «ya esta finalizado por el tecnico»",
+   "quien": "Isaac (panel, 10/11 18:56)",
+   "cuando": "2026-11-10T18:56",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7188-isaac-1011-1858",
+   "que": "LEAS-7188: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7188",
+    "centro": "Centro Unico Boccea",
+    "cliente": "Centri Unico",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 18:58): «se la asigno a Francisco para que la repare»",
+   "quien": "Isaac (Jira, 10/11 18:58)",
+   "cuando": "2026-11-10T18:58",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8211-isaac-1011-1900",
+   "que": "LEAS-8211: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8211",
+    "centro": "Centro Unico Rende",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "Isaac (vía panel, 19:00): «la sustitucion esta en trabnsito y no puedo pedir ninguna recogida de su laser»",
+   "quien": "Isaac (Jira, 10/11 19:00)",
+   "cuando": "2026-11-10T19:00",
    "revive_si": "2026-11-17: si no hay nota de contenido nueva"
   }
  ],
