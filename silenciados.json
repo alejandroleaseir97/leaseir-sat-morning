@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-09T20:28",
+ "actualizado": "2026-11-10T09:44",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11434,7 +11434,11 @@
    "porque": "perfecto genial luismi / andujar dejamos la sust que tienen y asi perfecto (se usa la recogida de LEAS-8153, cancelado a las 09:57)",
    "quien": "Isaac (SINVELLO · SEGUIMIENTO SUSTITUCIONES 09:47 e INCIDENCIAS 09:49)",
    "cuando": "2026-11-03T09:47",
-   "revive_si": "2026-11-10: si el equipo averiado no ha llegado a taller"
+   "revive_si": "2026-11-10: si el equipo averiado no ha llegado a taller",
+   "revivido": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "vencía el 10/11: el equipo de Andújar no consta llegado a taller y el ticket no tiene nota nueva"
+   }
   },
   {
    "id": "esperanza-telegram-borja-03-1312",
@@ -11448,7 +11452,11 @@
    "porque": "hable con el comercial y les van a mandar una placa nueva / un laser nuevo queria decir",
    "quien": "Borja (CARLOS MÉNDEZ - LEASEIR SAT, 12:51 y 13:12)",
    "cuando": "2026-11-03T13:12",
-   "revive_si": "2026-11-10: si no consta el envío del láser nuevo ni caso abierto"
+   "revive_si": "2026-11-10: si no consta el envío del láser nuevo ni caso abierto",
+   "revivido": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "vencía el 10/11: no consta el envío del láser nuevo ni caso abierto"
+   }
   },
   {
    "id": "panoptima-telegram-borja-03-1455",
@@ -11462,7 +11470,11 @@
    "porque": "Borja le pasó el código 38966289 (14:55) y el cliente contestó «Thanks a lot!» (14:57)",
    "quien": "Borja (Leaseir - Panoptima Austria, 14:55)",
    "cuando": "2026-11-03T14:55",
-   "revive_si": "2026-11-10: si el cliente vuelve a pedir el código permanente"
+   "revive_si": "2026-11-10: si el cliente vuelve a pedir el código permanente",
+   "caducado": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "vencía el 10/11 y el cliente no ha vuelto a pedir el código permanente"
+   }
   },
   {
    "id": "marvena-telegram-isaac-03-1453",
@@ -11476,7 +11488,11 @@
    "porque": "It's now been repaired; please let us know when you'd like us to collect it (recogida propia, el cliente manda etiqueta el 04/11)",
    "quien": "Isaac (Marvena Bulgaria, 14:53)",
    "cuando": "2026-11-03T14:53",
-   "revive_si": "2026-11-10: si el H00830 no ha salido"
+   "revive_si": "2026-11-10: si el H00830 no ha salido",
+   "caducado": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "LEAS-7895 está en «Devuelto a cliente»: el H00830 ya salió"
+   }
   },
   {
    "id": "8234-wapp-borja-03-1400",
@@ -11508,7 +11524,11 @@
    "porque": "Gestionada Recogida - Reclamada en Dhl",
    "quien": "Borja (vía panel, 13:19)",
    "cuando": "2026-11-03T13:19",
-   "revive_si": "2026-11-10: si el FC00022 no se ha recogido"
+   "revive_si": "2026-11-10: si el FC00022 no se ha recogido",
+   "revivido": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "vencía el 10/11: el FC00022 sigue «Grabado, sin recoger» en DHL"
+   }
   },
   {
    "id": "7810-epil-borja-03-1343",
@@ -11522,7 +11542,11 @@
    "porque": "intento de enterega pero hay grandes problemas para entregart en italia debido a diferentes huelgas y manifestaciones por el transporte",
    "quien": "Borja (vía panel, 13:43)",
    "cuando": "2026-11-03T13:43",
-   "revive_si": "2026-11-10: si la SRF no consta entregada"
+   "revive_si": "2026-11-10: si la SRF no consta entregada",
+   "caducado": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "LEAS-7810 está cerrado (Finalizada)"
+   }
   },
   {
    "id": "8235-epil-borja-03-1343",
@@ -11536,7 +11560,11 @@
    "porque": "pedida recogida y reclamada",
    "quien": "Borja (vía panel, 13:43)",
    "cuando": "2026-11-03T13:43",
-   "revive_si": "2026-11-10: si el BSSUST002 no se ha recogido"
+   "revive_si": "2026-11-10: si el BSSUST002 no se ha recogido",
+   "caducado": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "Gonzalo (vía panel, 06/11 10:02): «Está en transito la pieza afectada»: el BSSUST002 ya salió"
+   }
   },
   {
    "id": "8134-epil-borja-03-1433",
@@ -11550,7 +11578,11 @@
    "porque": "traslado interno del manípulo a Nápoles para que lo vea Chus la semana del 23/11; «cerramos el caso y que lo abra si ve algo raro»",
    "quien": "Cristina (14:24) y Borja (14:33), SAT Leaseir (Interno)",
    "cuando": "2026-11-03T14:33",
-   "revive_si": "2026-11-10: si el ticket sigue abierto sin nota"
+   "revive_si": "2026-11-10: si el ticket sigue abierto sin nota",
+   "caducado": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "LEAS-8134 está cerrado (Cancelado)"
+   }
   },
   {
    "id": "7820-nota-gonzalo-03-1714",
@@ -11564,7 +11596,11 @@
    "porque": "Esperado respuesta del técnico (a las 18:04-18:08 se le pidió en el grupo un powermeter y el registro de formación; correo de Gonzalo «TRAINING RECORDS» a las 18:08)",
    "quien": "Gonzalo (vía panel, 17:14)",
    "cuando": "2026-11-03T17:14",
-   "revive_si": "2026-11-10: si el técnico no ha dado fecha de intervención"
+   "revive_si": "2026-11-10: si el técnico no ha dado fecha de intervención",
+   "revivido": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "vencía el 10/11: el técnico no ha dado fecha de intervención"
+   }
   },
   {
    "id": "fuenlabrada-wapp-sat-03-1717",
@@ -11978,7 +12014,11 @@
    "porque": "Isaac (vía panel, 16:44): «se ha pasado el presupuesto esta pendiente de aprovacion»",
    "quien": "Isaac (vía panel, 05/11 16:44)",
    "cuando": "2026-11-05T16:44",
-   "revive_si": "2026-11-10: si Sin Vello no ha contestado al presupuesto y no hay nota de contenido nueva"
+   "revive_si": "2026-11-10: si Sin Vello no ha contestado al presupuesto y no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-10T09:44",
+    "motivo": "Francisco (06/11 14:44): «Se montará pieza nueva en Fábrica»: el presupuesto siguió adelante"
+   }
   },
   {
    "id": "8362-isaac-panel-05-1732",
