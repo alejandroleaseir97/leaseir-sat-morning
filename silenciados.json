@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-10T19:03",
+ "actualizado": "2026-11-10T20:21",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13105,6 +13105,118 @@
    "porque": "Isaac (vía panel, 19:00): «la sustitucion esta en trabnsito y no puedo pedir ninguna recogida de su laser»",
    "quien": "Isaac (Jira, 10/11 19:00)",
    "cuando": "2026-11-10T19:00",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "taranto-isaac-1011-1907",
+   "que": "Epil Point Taranto: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point Taranto",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Isaac (panel, 19:07): «abro incidencia»; en «EPIL POINT LASER SUPPORT» (WhatsApp, 19:07) pidió el número de serie y a las 19:32 abrió LEAS-8444",
+   "quien": "Isaac (panel, 10/11 19:07)",
+   "cuando": "2026-11-10T19:07",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8035-isaac-1011-1909",
+   "que": "LEAS-8035: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8035",
+    "centro": "Centro Unico Campania",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "Isaac (vía panel, 19:09): «se tiene que enviar una sust, voy a preguntar si ya se envio mañana en el trabajo»",
+   "quien": "Isaac (Jira, 10/11 19:09)",
+   "cuando": "2026-11-10T19:09",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8277-isaac-1011-1936",
+   "que": "LEAS-8277: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8277",
+    "centro": "Epil Point Alessandria",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Isaac (vía panel, 19:36): «le he preguntado por alessandria para ver si tengo que cerrar la incidencia»; Fabio (WhatsApp, 19:48): «we need to wait for Carmen · Tomorrow morning»",
+   "quien": "Isaac (Jira, 10/11 19:36)",
+   "cuando": "2026-11-10T19:36",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7879-isaac-1011-1936",
+   "que": "LEAS-7879: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7879",
+    "centro": "Nantara Laser (Solmanía)",
+    "cliente": "Nantara",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 19:36): «se les vuelve a reclamar»",
+   "quien": "Isaac (Jira, 10/11 19:36)",
+   "cuando": "2026-11-10T19:36",
+   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7789-isaac-1011-1937",
+   "que": "LEAS-7789: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7789",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "Beleco",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 19:37): «siguen igual y yo creo que hay que penssar en empezar a bloquear su manipulo»",
+   "quien": "Isaac (Jira, 10/11 19:37)",
+   "cuando": "2026-11-10T19:37",
+   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8044-isaac-1011-1920",
+   "que": "LEAS-8044: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8044",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 19:20): «aun no han dicho nada»",
+   "quien": "Isaac (Jira, 10/11 19:20)",
+   "cuando": "2026-11-10T19:20",
+   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva"
+  },
+  {
+   "id": "6907-isaac-1011-1936",
+   "que": "LEAS-6907: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-6907",
+    "centro": "Apain Estetika",
+    "cliente": "Apain",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 19:36): «sigue pendiente»",
+   "quien": "Isaac (Jira, 10/11 19:36)",
+   "cuando": "2026-11-10T19:36",
+   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8060-isaac-1011-1921",
+   "que": "LEAS-8060: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8060",
+    "centro": "Pantera Sevilla",
+    "cliente": "Pantera",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 19:21): «la paso a inicio de reparación»",
+   "quien": "Isaac (Jira, 10/11 19:21)",
+   "cuando": "2026-11-10T19:21",
    "revive_si": "2026-11-17: si no hay nota de contenido nueva"
   }
  ],
