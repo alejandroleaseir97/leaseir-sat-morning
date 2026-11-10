@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-10T15:25",
+ "actualizado": "2026-11-10T16:23",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13020,6 +13020,20 @@
    "porque": "Cristina (panel, 10/11 13:03): «Hecho» (LEAS-8430 abierto a las 13:02)",
    "quien": "Cristina (worker, 10/11 13:03)",
    "cuando": "2026-11-10T13:03",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8364-gonzalo-1011-1557",
+   "que": "LEAS-8364: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8364",
+    "centro": "Smart Duck Annecy",
+    "cliente": "Smart Duck",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 15:57): «Corpodem debería de tener por lo menos una pieza de mano en depóstio poer no la han movido, se les ha preguntado pero no contestan»",
+   "quien": "Gonzalo (Jira, 10/11 15:57)",
+   "cuando": "2026-11-10T15:57",
    "revive_si": "2026-11-17: si no hay nota de contenido nueva"
   }
  ],
