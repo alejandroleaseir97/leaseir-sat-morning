@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-10T09:44",
+ "actualizado": "2026-11-10T09:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11436,7 +11436,7 @@
    "cuando": "2026-11-03T09:47",
    "revive_si": "2026-11-10: si el equipo averiado no ha llegado a taller",
    "revivido": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "vencía el 10/11: el equipo de Andújar no consta llegado a taller y el ticket no tiene nota nueva"
    }
   },
@@ -11454,7 +11454,7 @@
    "cuando": "2026-11-03T13:12",
    "revive_si": "2026-11-10: si no consta el envío del láser nuevo ni caso abierto",
    "revivido": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "vencía el 10/11: no consta el envío del láser nuevo ni caso abierto"
    }
   },
@@ -11472,7 +11472,7 @@
    "cuando": "2026-11-03T14:55",
    "revive_si": "2026-11-10: si el cliente vuelve a pedir el código permanente",
    "caducado": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "vencía el 10/11 y el cliente no ha vuelto a pedir el código permanente"
    }
   },
@@ -11490,7 +11490,7 @@
    "cuando": "2026-11-03T14:53",
    "revive_si": "2026-11-10: si el H00830 no ha salido",
    "caducado": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "LEAS-7895 está en «Devuelto a cliente»: el H00830 ya salió"
    }
   },
@@ -11526,7 +11526,7 @@
    "cuando": "2026-11-03T13:19",
    "revive_si": "2026-11-10: si el FC00022 no se ha recogido",
    "revivido": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "vencía el 10/11: el FC00022 sigue «Grabado, sin recoger» en DHL"
    }
   },
@@ -11544,7 +11544,7 @@
    "cuando": "2026-11-03T13:43",
    "revive_si": "2026-11-10: si la SRF no consta entregada",
    "caducado": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "LEAS-7810 está cerrado (Finalizada)"
    }
   },
@@ -11562,7 +11562,7 @@
    "cuando": "2026-11-03T13:43",
    "revive_si": "2026-11-10: si el BSSUST002 no se ha recogido",
    "caducado": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "Gonzalo (vía panel, 06/11 10:02): «Está en transito la pieza afectada»: el BSSUST002 ya salió"
    }
   },
@@ -11580,7 +11580,7 @@
    "cuando": "2026-11-03T14:33",
    "revive_si": "2026-11-10: si el ticket sigue abierto sin nota",
    "caducado": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "LEAS-8134 está cerrado (Cancelado)"
    }
   },
@@ -11598,7 +11598,7 @@
    "cuando": "2026-11-03T17:14",
    "revive_si": "2026-11-10: si el técnico no ha dado fecha de intervención",
    "revivido": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "vencía el 10/11: el técnico no ha dado fecha de intervención"
    }
   },
@@ -12016,7 +12016,7 @@
    "cuando": "2026-11-05T16:44",
    "revive_si": "2026-11-10: si Sin Vello no ha contestado al presupuesto y no hay nota de contenido nueva",
    "caducado": {
-    "fecha": "2026-11-10T09:44",
+    "fecha": "2026-11-10T09:49",
     "motivo": "Francisco (06/11 14:44): «Se montará pieza nueva en Fábrica»: el presupuesto siguió adelante"
    }
   },
