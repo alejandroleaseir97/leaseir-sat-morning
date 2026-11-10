@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-10T12:49",
+ "actualizado": "2026-11-10T15:25",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -12978,6 +12978,48 @@
    "porque": "Cristina (vía panel, 12:17): esto no aplica: «Como Chus irá a las revisiones consulto si es viable que haga el cambio in situ allí»",
    "quien": "Cristina (Jira, 10/11 12:17)",
    "cuando": "2026-11-10T12:17",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "medquant-gonzalo-1011-1333",
+   "que": "Medquant (distribuidor, Rusia): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "",
+    "centro": "Medquant (distribuidor, Rusia)",
+    "cliente": "Medquant",
+    "tipo": "telegram"
+   },
+   "porque": "Gonzalo y Alejandro contestaron en «Medquant - Leaseir Support Group» de 12:54 a 13:33: se le dio el código mensual del 70031 («The code is for today»); los permanentes y el plan de pagos los lleva Alejandro",
+   "quien": "Gonzalo (Telegram, 10/11 13:33)",
+   "cuando": "2026-11-10T13:33",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8398-borja-1011-1520",
+   "que": "LEAS-8398: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8398",
+    "centro": "Epil Point Formia",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Borja (vía panel, 15:20): «mueven ellos una sustitucion propia. nos avisan para recoger a taller»",
+   "quien": "Borja (Jira, 10/11 15:20)",
+   "cuando": "2026-11-10T15:20",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "meravigli-cristina-1011-1303",
+   "que": "LEAS-8430: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8430",
+    "centro": "Epil Point Milano Meravigli",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Cristina (panel, 10/11 13:03): «Hecho» (LEAS-8430 abierto a las 13:02)",
+   "quien": "Cristina (worker, 10/11 13:03)",
+   "cuando": "2026-11-10T13:03",
    "revive_si": "2026-11-17: si no hay nota de contenido nueva"
   }
  ],
