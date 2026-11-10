@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-10T09:49",
+ "actualizado": "2026-11-10T12:49",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -12657,6 +12657,328 @@
    "quien": "Gonzalo (Jira, 09/11 19:59)",
    "cuando": "2026-11-09T19:59",
    "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "splau-isaac-1011-1015",
+   "que": "Clínica MED Barcelona - Splau CC0671: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "",
+    "centro": "Clínica MED Barcelona - Splau CC0671",
+    "cliente": "Clínica MED",
+    "tipo": "telegram"
+   },
+   "porque": "Isaac (panel, 10/11 10:15): «ya esta todo solucionado»",
+   "quien": "Isaac (worker, 10/11 10:15)",
+   "cuando": "2026-11-10T10:15",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "esperanza-borja-1011-1148",
+   "que": "Esperanza Láser: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "",
+    "centro": "Esperanza Láser",
+    "cliente": "Esperanza Láser",
+    "tipo": "telegram"
+   },
+   "porque": "Borja (panel, 10/11 11:48): «es un tema de fabrica. no tenemos nada que gestionar nosotros»",
+   "quien": "Borja (worker, 10/11 11:48)",
+   "cuando": "2026-11-10T11:48",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "lasertam-borja-1011-1230",
+   "que": "Lasertam (Chile): punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "",
+    "centro": "Lasertam (Chile)",
+    "cliente": "Lasertam",
+    "tipo": "wapp"
+   },
+   "porque": "Borja (panel, 10/11 12:30): «parece un tema mas de comercial que David los redirija a ATM»",
+   "quien": "Borja (worker, 10/11 12:30)",
+   "cuando": "2026-11-10T12:30",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "avanti-gonzalo-1011-1143",
+   "que": "LEAS-8426: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8426",
+    "centro": "Avanti Realejos",
+    "cliente": "Avanti",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 11:43): el punto sin ticket va con LEAS-8426",
+   "quien": "Gonzalo (Jira, 10/11 11:43)",
+   "cuando": "2026-11-10T11:43",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7458-isaac-1011-1107",
+   "que": "LEAS-7458: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7458",
+    "centro": "Elha Laser Center Milano - Carducci",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (10/11 11:07): «Al final no ha funcionado con los manipulos que mandamos y hay que traer el laser entero, ahora lo gestiono»",
+   "quien": "Isaac (10/11 11:07)",
+   "cuando": "2026-11-10T11:07",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8286-isaac-1011-1107",
+   "que": "LEAS-8286: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8286",
+    "centro": "SinVello Andújar",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (10/11 11:07): «Voy a mandar un mail al comercial y segun lo que me diga pido otra recogida»",
+   "quien": "Isaac (10/11 11:07)",
+   "cuando": "2026-11-10T11:07",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8345-gonzalo-1011-1200",
+   "que": "LEAS-8345: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8345",
+    "centro": "Leaseir SAT (MHR 91138)",
+    "cliente": "Leaseir SAT",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (Jira, 10/11 12:00): «está en taller ya, solo se envia la foto para pasar el estado de la consola»",
+   "quien": "Gonzalo (Jira, 10/11 12:00)",
+   "cuando": "2026-11-10T12:00",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8347-gonzalo-1011-1202",
+   "que": "LEAS-8347: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8347",
+    "centro": "Leaseir SAT (MHR 91065)",
+    "cliente": "Leaseir SAT",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (Jira, 10/11 12:02): «Foto no corresponde, es solo para pasar el estado»",
+   "quien": "Gonzalo (Jira, 10/11 12:02)",
+   "cuando": "2026-11-10T12:02",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8353-gonzalo-1011-1204",
+   "que": "LEAS-8353: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8353",
+    "centro": "FAN Mallorca Shopping",
+    "cliente": "Beleco",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 12:04): «Ya tienen la sust de LEAS-8014, tienen que llegar mañana, se ha reclamado el envio»",
+   "quien": "Gonzalo (Jira, 10/11 12:04)",
+   "cuando": "2026-11-10T12:04",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8387-isaac-1011-1240",
+   "que": "LEAS-8387: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8387",
+    "centro": "Elha Betanzos",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (vía panel, 12:40): «ya esta gestionado» (pasó a «Gestionado transporte»)",
+   "quien": "Isaac (Jira, 10/11 12:40)",
+   "cuando": "2026-11-10T12:40",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8389-gonzalo-1011-1207",
+   "que": "LEAS-8389: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8389",
+    "centro": "Epil Point Roma EUR",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 12:07): «Se le ha pasado el precio a Epil point por whatsapp, es de 160 euros el movimiento… a la espera que acepten el presupuesto»",
+   "quien": "Gonzalo (Jira, 10/11 12:07)",
+   "cuando": "2026-11-10T12:07",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "arenella-gonzalo-1011-1207",
+   "que": "Epil Point Arenella: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "",
+    "centro": "Epil Point Arenella",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (panel, 10/11 12:07): «Es para una revisión, no por el Stop 6, no aplica»",
+   "quien": "Gonzalo (worker, 10/11 12:07)",
+   "cuando": "2026-11-10T12:07",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "novara-cristina-1011-1243",
+   "que": "Epil Point Novara: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "",
+    "centro": "Epil Point Novara",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Cristina (panel, 10/11 12:43): «no aplica»",
+   "quien": "Cristina (worker, 10/11 12:43)",
+   "cuando": "2026-11-10T12:43",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8199-borja-1011-1212",
+   "que": "LEAS-8199: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8199",
+    "centro": "Centro Unico Libia",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Borja (Centri Unico Italia, 10/11 12:12): pide a Libia un teléfono y un correo de contacto para pasárselo a DHL, que dice que pasó y en el centro no había paquete",
+   "quien": "Borja (Telegram, 10/11 12:12)",
+   "cuando": "2026-11-10T12:12",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "6906-gonzalo-1011-1235",
+   "que": "LEAS-6906: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-6906",
+    "centro": "Daniel Jaramillo Holea",
+    "cliente": "Daniel Jaramillo",
+    "tipo": "cerrar"
+   },
+   "porque": "Gonzalo (vía panel, 12:35): «SE LE PREGUNTA DE NUEVO A JARAMILLO»; Ernesto publicó en ENVIOS la dirección de Huelva con LEAS-6906",
+   "quien": "Gonzalo (Jira, 10/11 12:35)",
+   "cuando": "2026-11-10T12:35",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8325-gonzalo-1011-1236",
+   "que": "LEAS-8325: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8325",
+    "centro": "Elha Dra Castells",
+    "cliente": "Elha",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel, 12:36): «Se avisa a Carlos Mora» (y correo a Carlos Mora a las 12:36)",
+   "quien": "Gonzalo (Jira, 10/11 12:36)",
+   "cuando": "2026-11-10T12:36",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7820-gonzalo-1011-1239",
+   "que": "LEAS-7820: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7820",
+    "centro": "Juan Casasnovas (Florida)",
+    "cliente": "Juan Casasnovas",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel, 12:39): «Se le pregunta de nuevo»",
+   "quien": "Gonzalo (Jira, 10/11 12:39)",
+   "cuando": "2026-11-10T12:39",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8326-isaac-1011-1138",
+   "que": "LEAS-8326: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8326",
+    "centro": "SinVello El Vendrell",
+    "cliente": "Sin Vello",
+    "tipo": "externo"
+   },
+   "porque": "Isaac (Jira, 11:38): «se reclama a Carlos para que realice esta intervención» (y correo a Carlos Mora a las 11:37)",
+   "quien": "Isaac (Jira, 10/11 11:38)",
+   "cuando": "2026-11-10T11:38",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8367-gonzalo-1011-1150",
+   "que": "LEAS-8367: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8367",
+    "centro": "Laser Factory Berenguer",
+    "cliente": "Laser Factory",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel, 11:50): «Se reclama a Carlos para que confime cita» (y en «SAT LEASEIR CARLOS MORA» a las 11:51)",
+   "quien": "Gonzalo (Jira, 10/11 11:50)",
+   "cuando": "2026-11-10T11:50",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "4908-cristina-1011-1209",
+   "que": "LEAS-4908: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-4908",
+    "centro": "Elha Pintor Felo Monzón",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Cristina (vía panel, 12:09): esto no aplica: «En cuanto se liberen técnicos se asignará, hay mucho volumen de trabajo»",
+   "quien": "Cristina (Jira, 10/11 12:09)",
+   "cuando": "2026-11-10T12:09",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8152-cristina-1011-1233",
+   "que": "LEAS-8152: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8152",
+    "centro": "SinVello Terrassa",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Cristina (vía panel, 12:33): esto no aplica: «Consulto con Chus cuando podrá estar reparada»",
+   "quien": "Cristina (Jira, 10/11 12:33)",
+   "cuando": "2026-11-10T12:33",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8335-cristina-1011-1214",
+   "que": "LEAS-8335: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8335",
+    "centro": "Elha Creu Coberta",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Cristina (vía panel, 12:14): esto no aplica: «está en esperando inicio de reparación»",
+   "quien": "Cristina (Jira, 10/11 12:14)",
+   "cuando": "2026-11-10T12:14",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8095-cristina-1011-1217",
+   "que": "LEAS-8095: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8095",
+    "centro": "Epil Point Bergamo",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Cristina (vía panel, 12:17): esto no aplica: «Como Chus irá a las revisiones consulto si es viable que haga el cambio in situ allí»",
+   "quien": "Cristina (Jira, 10/11 12:17)",
+   "cuando": "2026-11-10T12:17",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
   }
  ],
  "enlaces": [
