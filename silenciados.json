@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-10T20:21",
+ "actualizado": "2026-11-11T10:21",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11632,7 +11632,11 @@
    "porque": "El equipo está cambiado hace tiempo . casos comentados",
    "quien": "Borja (vía panel, 04/11 09:15)",
    "cuando": "2026-11-04T09:15",
-   "revive_si": "2026-11-11: si L Medical vuelve a pedir la recogida"
+   "revive_si": "2026-11-11: si L Medical vuelve a pedir la recogida",
+   "revivido": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "vencía el 11/11 y no hay nota de contenido posterior: el ticket sigue abierto en «Pendiente agendar llamada», atascado"
+   }
   },
   {
    "id": "7850-nota-gonzalo-04-1115",
@@ -11646,7 +11650,11 @@
    "porque": "No tenemos técnico para que cambie la puntera, saldrá mañana",
    "quien": "Gonzalo (vía panel, 04/11 11:15)",
    "cuando": "2026-11-04T11:15",
-   "revive_si": "2026-11-11: si el H00661 no ha salido y no hay nota de contenido nueva"
+   "revive_si": "2026-11-11: si el H00661 no ha salido y no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "LEAS-7850 cerrado"
+   }
   },
   {
    "id": "8234-nota-borja-04-1206",
@@ -11660,7 +11668,11 @@
    "porque": "equipo entregado",
    "quien": "Borja (vía panel, 04/11 12:06)",
    "cuando": "2026-11-04T12:06",
-   "revive_si": "2026-11-11: si Sin Vello vuelve a reclamar la sustitución de Tomares"
+   "revive_si": "2026-11-11: si Sin Vello vuelve a reclamar la sustitución de Tomares",
+   "caducado": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "LEAS-8234 cerrado"
+   }
   },
   {
    "id": "8188-nota-gonzalo-04-1116",
@@ -11674,7 +11686,11 @@
    "porque": "Esperando a su entrada",
    "quien": "Gonzalo (vía panel, 04/11 11:16)",
    "cuando": "2026-11-04T11:16",
-   "revive_si": "2026-11-11: si el 40178 sigue sin entrada en taller"
+   "revive_si": "2026-11-11: si el 40178 sigue sin entrada en taller",
+   "revivido": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "vencía el 11/11 y no hay nota de contenido posterior: no consta la entrada del 40178 en taller"
+   }
   },
   {
    "id": "8044-presu-borja-04-1009",
@@ -11706,7 +11722,11 @@
    "porque": "Se ha pedido recogida pero yo les debo una pieza de mano nueva de XCell que pedi en fabrica hace tiempo y aun no han podido fabricarla",
    "quien": "Borja (Jira, 04/11 14:32)",
    "cuando": "2026-11-04T14:32",
-   "revive_si": "2026-11-11: si sigue en «Inspección de salida» sin la pieza de mano XCell ni nota nueva"
+   "revive_si": "2026-11-11: si sigue en «Inspección de salida» sin la pieza de mano XCell ni nota nueva",
+   "caducado": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "LEAS-7759 cerrado"
+   }
   },
   {
    "id": "7673-nota-borja-04-1437",
@@ -11720,7 +11740,11 @@
    "porque": "pedida la recogida de la sust por chat. esperamos respuesta",
    "quien": "Borja (Jira, 04/11 14:37)",
    "cuando": "2026-11-04T14:37",
-   "revive_si": "2026-11-11: si la sustitución LEAS-7674 sigue sin recoger y el ticket sin cerrar"
+   "revive_si": "2026-11-11: si la sustitución LEAS-7674 sigue sin recoger y el ticket sin cerrar",
+   "caducado": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "LEAS-7673 cerrado"
+   }
   },
   {
    "id": "7730-nota-borja-04-1434",
@@ -11734,7 +11758,11 @@
    "porque": "he reclamado un monton de veces de hecho es la segunda etiqueta que genero",
    "quien": "Borja (Jira, 04/11 14:34)",
    "cuando": "2026-11-04T14:34",
-   "revive_si": "2026-11-11: si DHL sigue sin recoger"
+   "revive_si": "2026-11-11: si DHL sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "vencía el 11/11 y no hay nota de contenido posterior: DHL sigue sin recoger (Grabado desde el 28/10)"
+   }
   },
   {
    "id": "8322-nota-borja-04-1514",
@@ -11748,7 +11776,11 @@
    "porque": "ambas soluciones son complicadas en FRancia sin gastar un dineral . Vamos a investigar cual puede ser el problema para dar una solución definitiva",
    "quien": "Borja (vía panel, 04/11 15:14)",
    "cuando": "2026-11-04T15:14",
-   "revive_si": "2026-11-11: si no hay solución ni nota de contenido nueva"
+   "revive_si": "2026-11-11: si no hay solución ni nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "vencía el 11/11 y no hay nota de contenido posterior: sin solución ni nota nueva"
+   }
   },
   {
    "id": "8193-nota-borja-04-1524",
@@ -11762,7 +11794,11 @@
    "porque": "Aun no han entregado la caja . Está de reparto",
    "quien": "Borja (vía panel, 04/11 15:24)",
    "cuando": "2026-11-04T15:24",
-   "revive_si": "2026-11-11: si la consola 90954 sigue sin recoger"
+   "revive_si": "2026-11-11: si la consola 90954 sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "vencía el 11/11 y no hay nota de contenido posterior: no consta la recogida de la 90954"
+   }
   },
   {
    "id": "8285-nota-borja-04-1525",
@@ -11776,7 +11812,11 @@
    "porque": "se envia hoy sustitución quad H01033",
    "quien": "Borja (vía panel, 04/11 15:25)",
    "cuando": "2026-11-04T15:25",
-   "revive_si": "2026-11-11: si la averiada C00403/H00403 sigue sin recoger"
+   "revive_si": "2026-11-11: si la averiada C00403/H00403 sigue sin recoger",
+   "caducado": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "la averiada ya está en taller (En cola taller, nota de Ernesto del 09/11)"
+   }
   },
   {
    "id": "8305-nota-borja-04-1527",
@@ -11790,7 +11830,11 @@
    "porque": "A la espera de sustituciones disponibles",
    "quien": "Borja (vía panel, 04/11 15:27)",
    "cuando": "2026-11-04T15:27",
-   "revive_si": "2026-11-11: si sigue sin sustitución ni recogida"
+   "revive_si": "2026-11-11: si sigue sin sustitución ni recogida",
+   "revivido": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "vencía el 11/11 y no hay nota de contenido posterior: sigue sin sustitución ni recogida"
+   }
   },
   {
    "id": "8285-borja-wapp-05-0905",
@@ -12229,7 +12273,11 @@
    "porque": "Gonzalo (en LEAS-8202, 09:42): «Reclamada la entrega a Dhl Express y equipo entregado , ayer 05/11 se ha pedido la recogida»",
    "quien": "Gonzalo (Jira, 06/11 09:42)",
    "cuando": "2026-11-06T09:42",
-   "revive_si": "2026-11-11: si la averiada no se ha recogido"
+   "revive_si": "2026-11-11: si la averiada no se ha recogido",
+   "caducado": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "la averiada ya está en taller (En cola taller, nota de Ernesto del 10/11)"
+   }
   },
   {
    "id": "8218-gonzalo-panel-06-1116",
@@ -12517,7 +12565,11 @@
    "porque": "Cristina (vía panel, 17:22): «Consulto con los chicos por si hubiesen mandado el presupuesto y no lo tenga en conocimiento»",
    "quien": "Cristina (vía panel, 06/11 17:22)",
    "cuando": "2026-11-06T17:22",
-   "revive_si": "2026-11-11: si sigue sin constar el envío del presupuesto o la respuesta del cliente"
+   "revive_si": "2026-11-11: si sigue sin constar el envío del presupuesto o la respuesta del cliente",
+   "revivido": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "vencía el 11/11 y no hay nota de contenido posterior: sin constar envío del presupuesto ni respuesta"
+   }
   },
   {
    "id": "lyon6-borja-wapp-09-1605",
@@ -12825,7 +12877,11 @@
    "porque": "Gonzalo (panel, 10/11 12:07): «Es para una revisión, no por el Stop 6, no aplica»",
    "quien": "Gonzalo (worker, 10/11 12:07)",
    "cuando": "2026-11-10T12:07",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-11T10:21",
+    "motivo": "hecho nuevo posterior: hoy a las 09:36 Epil Point pide saber hoy cuándo va Chus a Arenella"
+   }
   },
   {
    "id": "novara-cristina-1011-1243",
