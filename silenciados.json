@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-11T12:46",
+ "actualizado": "2026-11-11T15:29",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -12175,7 +12175,11 @@
    "porque": "Gonzalo (19:50): «Se avisa a GEE»; (vía panel, 19:51): «Avisado a Gee»",
    "quien": "Gonzalo (vía panel, 05/11 19:51)",
    "cuando": "2026-11-05T19:51",
-   "revive_si": "2026-11-12: si GEE no ha dado fecha ni resultado"
+   "revive_si": "2026-11-12: si GEE no ha dado fecha ni resultado",
+   "caducado": {
+    "fecha": "2026-11-11T15:29",
+    "motivo": "GEE ha dado fecha por correo a las 14:52: el técnico va el jueves 12/11"
+   }
   },
   {
    "id": "8218-gonzalo-panel-05-1952",
@@ -12366,7 +12370,11 @@
    "porque": "Gonzalo (vía panel, 10:10): «Se ha reclamado la recogida, si no vuelven a recoger se pide una nueva»",
    "quien": "Gonzalo (vía panel, 06/11 10:10)",
    "cuando": "2026-11-06T10:10",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-11T15:29",
+    "motivo": "hoy Epil Point reclama la recogida de Bergamo (12:11 y 14:47) y DHL Express dice que no puede recoger (correo de las 12:45): sale en epil"
+   }
   },
   {
    "id": "7935-gonzalo-panel-06-1003",
@@ -13414,6 +13422,34 @@
    "quien": "Isaac (Jira, 11/11 11:30)",
    "cuando": "2026-11-11T11:30",
    "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8035-borja-1111-1413",
+   "que": "LEAS-8035: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8035",
+    "centro": "Centro Unico Campania",
+    "cliente": "Unico Italia",
+    "tipo": "telegram"
+   },
+   "porque": "Gonzalo (SAT Centri Unico, 12:43) contestó a Oscar lo de los caliports y Borja (14:13) lo de Campania: «te mando para recoger la averiada… la sust… la recogen esta tarde sin falta»",
+   "quien": "Borja (Telegram, 11/11 14:13)",
+   "cuando": "2026-11-11T14:13",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7881-isaac-1111-1305",
+   "que": "LEAS-7881: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7881",
+    "centro": "Blanca (Colombia)",
+    "cliente": "Blanca",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 13:05): «esta negociando david»",
+   "quien": "Isaac (Jira, 11/11 13:05)",
+   "cuando": "2026-11-11T13:05",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
   }
  ],
  "enlaces": [
