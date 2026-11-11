@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-11T16:23",
+ "actualizado": "2026-11-11T18:25",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13478,6 +13478,76 @@
    "quien": "Borja (WhatsApp, 11/11 15:23)",
    "cuando": "2026-11-11T15:23",
    "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8193-isaac-1111-1807",
+   "que": "LEAS-8193: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8193",
+    "centro": "Elha Boltaña",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 18:07): «se las asigno a Ivan»; el ticket pasó a «En cola taller» a las 18:08",
+   "quien": "Isaac (panel, 11/11 18:07)",
+   "cuando": "2026-11-11T18:07",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8456-isaac-1111-1812",
+   "que": "LEAS-8456: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8456",
+    "centro": "Lucem Reus",
+    "cliente": "Lucem Reus",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 18:12): «se tiene que recoger pero la clinica tiene que organizarse para que lo recoja»",
+   "quien": "Isaac (panel, 11/11 18:12)",
+   "cuando": "2026-11-11T18:12",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8283-isaac-1111-1810",
+   "que": "LEAS-8283: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8283",
+    "centro": "Elha Vigo",
+    "cliente": "Elha",
+    "tipo": "telegram"
+   },
+   "porque": "Isaac (vía panel, 18:10): «el tecnico va mañana»",
+   "quien": "Isaac (panel, 11/11 18:10)",
+   "cuando": "2026-11-11T18:10",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8452-isaac-1111-1811",
+   "que": "LEAS-8452: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8452",
+    "centro": "Unico Campania Caserta",
+    "cliente": "Unico Italia",
+    "tipo": "maps"
+   },
+   "porque": "Isaac (vía panel, 18:11): «pendiente de enviar sust»",
+   "quien": "Isaac (panel, 11/11 18:11)",
+   "cuando": "2026-11-11T18:11",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8033-isaac-1111-1811",
+   "que": "LEAS-8033: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8033",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 18:11): «mandado presupuesto pendiente de aceptar»",
+   "quien": "Isaac (panel, 11/11 18:11)",
+   "cuando": "2026-11-11T18:11",
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva (presu, 3 días laborables)"
   }
  ],
  "enlaces": [
