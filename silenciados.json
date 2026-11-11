@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-11T10:21",
+ "actualizado": "2026-11-11T12:46",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13274,6 +13274,146 @@
    "quien": "Isaac (Jira, 10/11 19:21)",
    "cuando": "2026-11-10T19:21",
    "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8305-gonzalo-1111-1030",
+   "que": "LEAS-8305: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8305",
+    "centro": "Malie Urbil",
+    "cliente": "Malie",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 10:30): «Se prepara pieza de sustitución para enviar» (ENVIOS 10:26: SUSTQUAD035, LEAS-8306)",
+   "quien": "Gonzalo (Jira, 11/11 10:30)",
+   "cuando": "2026-11-11T10:30",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8436-gonzalo-1111-1025",
+   "que": "LEAS-8436: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8436",
+    "centro": "Elha Meléndez Valdés",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 10:25): «Se envia caja para el centro , para recoger la consola»",
+   "quien": "Gonzalo (Jira, 11/11 10:25)",
+   "cuando": "2026-11-11T10:25",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8299-isaac-1111-1129",
+   "que": "LEAS-8299: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8299",
+    "centro": "L point",
+    "cliente": "L Medical",
+    "tipo": "nadie"
+   },
+   "porque": "Isaac (vía panel, 11:29): «esta en manos de I+D para que nos den una solución»",
+   "quien": "Isaac (Jira, 11/11 11:29)",
+   "cuando": "2026-11-11T11:29",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8322-isaac-1111-1129",
+   "que": "LEAS-8322: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8322",
+    "centro": "Smart Duck Troyes",
+    "cliente": "Smart Duck",
+    "tipo": "nadie"
+   },
+   "porque": "Isaac (vía panel, 11:29): «esta en manos de I+D para que nos den una solución»",
+   "quien": "Isaac (Jira, 11/11 11:29)",
+   "cuando": "2026-11-11T11:29",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8257-cristina-1111-1100",
+   "que": "LEAS-8257: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8257",
+    "centro": "Centro Unico Campania",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Cristina (vía panel, 11:00): esto no aplica: «Hecho abierta la incidencia»",
+   "quien": "Cristina (Jira, 11/11 11:00)",
+   "cuando": "2026-11-11T11:00",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8331-gonzalo-1111-1031",
+   "que": "LEAS-8331: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8331",
+    "centro": "Epil Point Monopoli",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 10:31): «Se ha reclamado a Sincronis y al técnico individualemente desde el Lunes sin respuesta… si no contesta hoy se habla con el gerente»",
+   "quien": "Gonzalo (Jira, 11/11 10:31)",
+   "cuando": "2026-11-11T10:31",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "7730-borja-1111-1217",
+   "que": "LEAS-7730: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7730",
+    "centro": "Unico Euroma2 Roma",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Borja (SAT Centri Unico, 12:17) pidió teléfono y correo de Euroma2 para DHL; Oscar los dio a las 12:31",
+   "quien": "Borja (Telegram, 11/11 12:17)",
+   "cuando": "2026-11-11T12:17",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8193-gonzalo-1111-1034",
+   "que": "LEAS-8193: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8193",
+    "centro": "Elha Boltaña",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 10:34): «La consola ha entrado en taller el 10 de noviembre… se ha realizado la entrada»",
+   "quien": "Gonzalo (Jira, 11/11 10:34)",
+   "cuando": "2026-11-11T10:34",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8184-gonzalo-1111-1039",
+   "que": "LEAS-8184: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8184",
+    "centro": "SinVello El Pilar",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 10:39): «Se reclama en fábrica para saber como va»",
+   "quien": "Gonzalo (Jira, 11/11 10:39)",
+   "cuando": "2026-11-11T10:39",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8360-isaac-1111-1130",
+   "que": "LEAS-8360: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8360",
+    "centro": "Elha (C03362)",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 11:30): «la tiene Ivan a la espera»",
+   "quien": "Isaac (Jira, 11/11 11:30)",
+   "cuando": "2026-11-11T11:30",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
   }
  ],
  "enlaces": [
