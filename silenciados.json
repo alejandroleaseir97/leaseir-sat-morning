@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-11T15:29",
+ "actualizado": "2026-11-11T16:23",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13450,6 +13450,34 @@
    "quien": "Isaac (Jira, 11/11 13:05)",
    "cuando": "2026-11-11T13:05",
    "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "arenella-cristina-1111-1532",
+   "que": "Epil Point Arenella: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point Arenella",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Cristina (vía panel, 15:32): «No hay ticket es que no se pudo pasar la revisión porque la aerolinia extravió la maleta que llevaba el material, ya está localizada y se agendará con EP un nuevo día para realizar la revisión»",
+   "quien": "Cristina (panel, 11/11 15:32)",
+   "cuando": "2026-11-11T15:32",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8371-borja-1111-1523",
+   "que": "LEAS-8371: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8371",
+    "centro": "Dermasana Zubiarte",
+    "cliente": "Dermasana",
+    "tipo": "wapp"
+   },
+   "porque": "Borja (Reparaciones Leaseir Dermasana Zubiarte, 15:23): «no queda mas que moverlo un poco hacia los lados con fuerza para desencajarlo»; 16:11 el centro lo desencajó y a las 16:14 lo vuelve a intentar",
+   "quien": "Borja (WhatsApp, 11/11 15:23)",
+   "cuando": "2026-11-11T15:23",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
   }
  ],
  "enlaces": [
