@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-12T16:23",
+ "actualizado": "2026-11-12T18:31",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13984,6 +13984,47 @@
    "quien": "Isaac (worker, 12/11 16:03)",
    "cuando": "2026-11-12T16:03",
    "revive_si": "2026-11-19: si el LEAS-8484 sigue sin recoger"
+  },
+  {
+   "id": "8132-isaac-panel-1211-1739",
+   "que": "LEAS-8132: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8132",
+    "centro": "Belenus",
+    "cliente": "Belenus",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 17:39): «ya han aceptado su presupuesto e Ivan que es una maquina ya la tiene lista»",
+   "quien": "Isaac (panel, 12/11 17:39)",
+   "cuando": "2026-11-12T17:39",
+   "revive_si": "2026-11-19: si el H00919 sigue sin reparar y sin nota nueva"
+  },
+  {
+   "id": "7923-isaac-panel-1211-1741",
+   "que": "LEAS-7923: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7923",
+    "centro": "Clinica Tres Palacios",
+    "cliente": "Clinica Tres Palacios",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 17:41): «esta consola nos la quedamos y la sust que se la queden ellos, lo hablo con Borja»",
+   "quien": "Isaac (panel, 12/11 17:41)",
+   "cuando": "2026-11-12T17:41",
+   "revive_si": "2026-11-19: si no hay nota de lo hablado con Borja"
+  },
+  {
+   "id": "lmedical-c03373-ticket-1211-1747",
+   "que": "L Medical (G-Point): punto ya contestado por el equipo",
+   "ambito": {
+    "centro": "L Medical (G-Point)",
+    "cliente": "L Medical",
+    "tipo": "wapp"
+   },
+   "porque": "LEAS-8486 abierto; Isaac contestó en el grupo a las 16:34 (placa en garantía) y apuntó a las 17:47 «se envia material mañana y lo cambian ellos»",
+   "quien": "Isaac (Jira, 12/11 17:47)",
+   "cuando": "2026-11-12T17:47",
+   "revive_si": "2026-11-19: si el material no ha salido"
   }
  ],
  "enlaces": [
