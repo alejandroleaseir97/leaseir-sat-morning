@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-12T15:26",
+ "actualizado": "2026-11-12T16:23",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13860,6 +13860,130 @@
    "quien": "Borja (Jira, 12/11 10:14)",
    "cuando": "2026-11-12T10:14",
    "revive_si": "2026-11-13: si DHL no la ha recogido y no se ha pedido a Sincronis"
+  },
+  {
+   "id": "7458-isaac-panel-1211-1601",
+   "que": "LEAS-7458: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7458",
+    "centro": "Elha Laser Center Milano - Carducci",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 16:01): «hay problemas con el transporte en Italia»",
+   "quien": "Isaac (panel, 12/11 16:01)",
+   "cuando": "2026-11-12T16:01",
+   "revive_si": "2026-11-19: si DHL sigue sin recogerla y no hay nota nueva"
+  },
+  {
+   "id": "8471-isaac-panel-1211-1601",
+   "que": "LEAS-8471: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8471",
+    "centro": "SinVello Lucena",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (vía panel, 16:01): «se envia interlock rapido para que puedan trabajar»",
+   "quien": "Isaac (panel, 12/11 16:01)",
+   "cuando": "2026-11-12T16:01",
+   "revive_si": "2026-11-19: si el ticket sigue sin asignar y sin nota de la intervención"
+  },
+  {
+   "id": "8459-isaac-panel-1211-1602",
+   "que": "LEAS-8459: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8459",
+    "centro": "Dermoscan",
+    "cliente": "Dermoscan",
+    "tipo": "telegram"
+   },
+   "porque": "Isaac (vía panel, 16:02): «la tiene Francisco a ver si la mira rapido»",
+   "quien": "Isaac (panel, 12/11 16:02)",
+   "cuando": "2026-11-12T16:02",
+   "revive_si": "2026-11-19: si no hay diagnóstico en el ticket"
+  },
+  {
+   "id": "8176-isaac-panel-1211-1603",
+   "que": "LEAS-8176: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8176",
+    "centro": "Elha Jaén",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 16:03): «se asigna a tecnico»",
+   "quien": "Isaac (panel, 12/11 16:03)",
+   "cuando": "2026-11-12T16:03",
+   "revive_si": "2026-11-19: si sigue sin repararse y sin nota del taller"
+  },
+  {
+   "id": "8104-isaac-panel-1211-1604",
+   "que": "LEAS-8104: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8104",
+    "centro": "Pro Laser Tenerife",
+    "cliente": "Pro Laser Tenerife",
+    "tipo": "prestamo"
+   },
+   "porque": "Isaac (vía panel, 16:04): «esta de camino el laser»",
+   "quien": "Isaac (panel, 12/11 16:04)",
+   "cuando": "2026-11-12T16:04",
+   "revive_si": "2026-11-19: si no ha llegado y el préstamo sigue abierto"
+  },
+  {
+   "id": "8241-isaac-panel-1211-1605",
+   "que": "LEAS-8241: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8241",
+    "centro": "Elha Laser Center Zaragoza Dato",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (vía panel, 16:05): «ya se lo he comentado a Elha que si se puede recoger»",
+   "quien": "Isaac (panel, 12/11 16:05)",
+   "cuando": "2026-11-12T16:05",
+   "revive_si": "2026-11-19: si sigue en «Pendiente recogida» sin transporte pedido"
+  },
+  {
+   "id": "7978-cristina-noaplica-1211-1528",
+   "que": "LEAS-7978: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7978",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "repara"
+   },
+   "porque": "Cristina (vía panel, 15:28): «no aplica»",
+   "quien": "Cristina (panel, 12/11 15:28)",
+   "cuando": "2026-11-12T15:28",
+   "revive_si": "2026-11-19: si no ha entrado a reparar y no hay nota nueva"
+  },
+  {
+   "id": "cartagena-isaac-worker-1211-1601",
+   "que": "Elha Cartagena: punto ya contestado por el equipo",
+   "ambito": {
+    "centro": "Elha Cartagena",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (panel, nota sin ticket, 16:01): «se abre ticket y se pide recogida»",
+   "quien": "Isaac (worker, 12/11 16:01)",
+   "cuando": "2026-11-12T16:01",
+   "revive_si": "2026-11-19: si no hay ticket abierto de la 90453"
+  },
+  {
+   "id": "limoneros-isaac-worker-1211-1603",
+   "que": "Elha Limoneros: punto ya contestado por el equipo",
+   "ambito": {
+    "centro": "Elha Limoneros",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (panel, nota sin ticket, 16:03): «ya esta abierto ticket y pedida recogida» (LEAS-8484, abierto a las 15:45; etiqueta CTT enviada a las 15:49)",
+   "quien": "Isaac (worker, 12/11 16:03)",
+   "cuando": "2026-11-12T16:03",
+   "revive_si": "2026-11-19: si el LEAS-8484 sigue sin recoger"
   }
  ],
  "enlaces": [
