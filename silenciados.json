@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-12T09:56",
+ "actualizado": "2026-11-12T12:51",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13818,6 +13818,48 @@
    "quien": "Isaac (panel, 11/11 18:33)",
    "cuando": "2026-11-11T18:33",
    "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8285-cristina-noaplica-1211-1233",
+   "que": "LEAS-8285: esto no aplica",
+   "ambito": {
+    "leas": "LEAS-8285",
+    "centro": "SinVello Cartagena",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Cristina (vía panel, 12:33): «esto no aplica: En cuanto el técnico se libere se comenzará la reparación»",
+   "quien": "Cristina (panel, 12/11 12:33)",
+   "cuando": "2026-11-12T12:33",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva ni ha empezado la reparación"
+  },
+  {
+   "id": "8297-cristina-noaplica-1211-1229",
+   "que": "LEAS-8297: esto no aplica",
+   "ambito": {
+    "leas": "LEAS-8297",
+    "centro": "Brull",
+    "cliente": "Brull",
+    "tipo": "repara"
+   },
+   "porque": "Cristina (vía panel, 12:29): «esto no aplica: Presupuesto mandado por Isaac el 11/11»",
+   "quien": "Cristina (panel, 12/11 12:29)",
+   "cuando": "2026-11-12T12:29",
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva ni ha empezado la reparación"
+  },
+  {
+   "id": "8093-borja-jira-1211-1014",
+   "que": "LEAS-8093: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8093",
+    "centro": "Epil Point Bergamo",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Borja (Jira, 10:14): «REclamacion dura a dhl italia. segun dicen van hoy 100% seguro … En caso de no recogerse ya tenemos presupeustos para que Sincronis lo mueva a su almacen»",
+   "quien": "Borja (Jira, 12/11 10:14)",
+   "cuando": "2026-11-12T10:14",
+   "revive_si": "2026-11-13: si DHL no la ha recogido y no se ha pedido a Sincronis"
   }
  ],
  "enlaces": [
