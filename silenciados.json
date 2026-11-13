@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-13T09:44",
+ "actualizado": "2026-11-13T12:46",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14175,6 +14175,118 @@
    "quien": "Gonzalo (panel, 12/11 20:00)",
    "cuando": "2026-11-12T20:00",
    "revive_si": "2026-11-17: si el presupuesto sigue sin mandarse y sin nota nueva"
+  },
+  {
+   "id": "avanta-borja-noaplica-1311-1220",
+   "que": "Avanta C00171: código pedido el 12/11",
+   "ambito": {
+    "leas": null,
+    "centro": "Avanta",
+    "cliente": "Avanta",
+    "tipo": "wapp"
+   },
+   "porque": "Borja (panel, 12:20): «no hace falta ticket esta resuelto el tema se les ha dado codigo» (WhatsApp 10:10)",
+   "quien": "Borja (panel, 13/11 12:20)",
+   "cuando": "2026-11-13T12:20",
+   "revive_si": "2026-11-20: si Avanta vuelve a pedir un código sin respuesta"
+  },
+  {
+   "id": "8416-gonzalo-panel-1311-1217",
+   "que": "LEAS-8416: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8416",
+    "centro": "Tegmed",
+    "cliente": "Tegmed",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 12:17): «Se le ha enviado el material»; el ticket pasa a «En reparación»",
+   "quien": "Gonzalo (panel, 13/11 12:17)",
+   "cuando": "2026-11-13T12:17",
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva ni ha salido reparado"
+  },
+  {
+   "id": "8339-gonzalo-panel-1311-1216",
+   "que": "LEAS-8339 (SUSTDUAL017): recogida de sustitución",
+   "ambito": {
+    "leas": "LEAS-8339",
+    "centro": "Leaseir SAT",
+    "cliente": "Leaseir",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 12:16, en LEAS-8339 sobre las cuatro): «Están en taller, esperando reparación»",
+   "quien": "Gonzalo (panel, 13/11 12:16)",
+   "cuando": "2026-11-13T12:16",
+   "revive_si": "2026-11-18: si siguen en «Pendiente recogida» sin nota de contenido nueva"
+  },
+  {
+   "id": "8341-gonzalo-panel-1311-1216",
+   "que": "LEAS-8341 (SUSTDUAL010): recogida de sustitución",
+   "ambito": {
+    "leas": "LEAS-8341",
+    "centro": "Leaseir SAT",
+    "cliente": "Leaseir",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 12:16, en LEAS-8339 sobre las cuatro): «Están en taller, esperando reparación»",
+   "quien": "Gonzalo (panel, 13/11 12:16)",
+   "cuando": "2026-11-13T12:16",
+   "revive_si": "2026-11-18: si siguen en «Pendiente recogida» sin nota de contenido nueva"
+  },
+  {
+   "id": "8343-gonzalo-panel-1311-1216",
+   "que": "LEAS-8343 (SUSTQUAD016): recogida de sustitución",
+   "ambito": {
+    "leas": "LEAS-8343",
+    "centro": "Leaseir SAT",
+    "cliente": "Leaseir",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 12:16, en LEAS-8339 sobre las cuatro): «Están en taller, esperando reparación»",
+   "quien": "Gonzalo (panel, 13/11 12:16)",
+   "cuando": "2026-11-13T12:16",
+   "revive_si": "2026-11-18: si siguen en «Pendiente recogida» sin nota de contenido nueva"
+  },
+  {
+   "id": "8349-gonzalo-panel-1311-1216",
+   "que": "LEAS-8349 (SUSTDUAL016): recogida de sustitución",
+   "ambito": {
+    "leas": "LEAS-8349",
+    "centro": "Leaseir SAT",
+    "cliente": "Leaseir",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 12:16, en LEAS-8339 sobre las cuatro): «Están en taller, esperando reparación»",
+   "quien": "Gonzalo (panel, 13/11 12:16)",
+   "cuando": "2026-11-13T12:16",
+   "revive_si": "2026-11-18: si siguen en «Pendiente recogida» sin nota de contenido nueva"
+  },
+  {
+   "id": "8093-borja-jira-1311-1237",
+   "que": "LEAS-8093: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8093",
+    "centro": "Epil Point Bergamo",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Borja (Jira, 12:37): «Recogida ayer» (a las 12:42 MCP SAT seguía dando el DHL JJD014600012890692187 «Grabado, sin recoger» del 22/10)",
+   "quien": "Borja (Jira, 13/11 12:37)",
+   "cuando": "2026-11-13T12:37",
+   "revive_si": "2026-11-17: si no consta evento de recogida de DHL ni llegada a taller"
+  },
+  {
+   "id": "8044-borja-panel-1311-1237",
+   "que": "LEAS-8044: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8044",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "repara"
+   },
+   "porque": "Borja (vía panel, 12:37): «Recogida ayer»",
+   "quien": "Borja (panel, 13/11 12:37)",
+   "cuando": "2026-11-13T12:37",
+   "revive_si": "2026-11-18: si sigue en reparación sin nota de contenido nueva"
   }
  ],
  "enlaces": [
