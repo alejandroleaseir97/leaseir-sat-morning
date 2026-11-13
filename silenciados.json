@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-13T12:46",
+ "actualizado": "2026-11-13T16:22",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14146,7 +14146,8 @@
    "porque": "Gonzalo (vía panel, 19:45): «Se les ha enviado un correo y se ha preguntado a Sincronism para que puedan ir lo antes posible»; a las 19:05 contestó a Roma Est en «Centri Unico Italia - Leaseir» «Ne parlerò con il team tecnico»",
    "quien": "Gonzalo (panel, 12/11 19:45)",
    "cuando": "2026-11-12T19:45",
-   "revive_si": "2026-11-16: si no hay nota de cuándo va Sincronis"
+   "revive_si": "2026-11-16: si no hay nota de cuándo va Sincronis",
+   "revivido": "2026-11-13T16:20: hecho nuevo y posterior — el centro dice en Telegram (13:30) que el técnico no se presentó; el punto vuelve a salir en telegram"
   },
   {
    "id": "8437-gonzalo-panel-1211-1954",
@@ -14287,6 +14288,118 @@
    "quien": "Borja (panel, 13/11 12:37)",
    "cuando": "2026-11-13T12:37",
    "revive_si": "2026-11-18: si sigue en reparación sin nota de contenido nueva"
+  },
+  {
+   "id": "7714-borja-1311-1550",
+   "que": "LEAS-7714: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7714",
+    "centro": "Oksana Sagan",
+    "cliente": "Oksana Sagan",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 15:50): «esto no aplica: pedida recogida» (DHL JJD014600012918476703)",
+   "quien": "Borja (panel, 13/11 15:50)",
+   "cuando": "2026-11-13T15:50",
+   "revive_si": "2026-11-18: si no consta evento de recogida de DHL ni llegada a taller"
+  },
+  {
+   "id": "8414-borja-1311-1419",
+   "que": "LEAS-8414: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8414",
+    "centro": "SinVello Zoco",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 14:19): «actualizado»; la sustitución SUSTDUAL040 salió hoy (Fotos equipos 13:14)",
+   "quien": "Borja (panel, 13/11 14:19)",
+   "cuando": "2026-11-13T14:19",
+   "revive_si": "2026-11-18: si sigue en «Pendiente recogida» sin transporte pedido ni nota de contenido nueva"
+  },
+  {
+   "id": "8164-borja-1311-1552",
+   "que": "LEAS-8164: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8164",
+    "centro": "Smart Duck Cannes",
+    "cliente": "Smart Duck",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 15:52): «recogida y ya está en Madrid, repartirán semana que viene» (MCP SAT: en tránsito, entrega prevista 16/11)",
+   "quien": "Borja (panel, 13/11 15:52)",
+   "cuando": "2026-11-13T15:52",
+   "revive_si": "2026-11-18: si no ha llegado a taller"
+  },
+  {
+   "id": "7904-borja-1311-1553",
+   "que": "LEAS-7904: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7904",
+    "centro": "Dermasana Calle Alcalá",
+    "cliente": "Dermasana",
+    "tipo": "repara"
+   },
+   "porque": "Borja (vía panel, 15:53): «ha salido hoy reparada» (Fotos equipos 15:39: #C00166 out)",
+   "quien": "Borja (panel, 13/11 15:53)",
+   "cuando": "2026-11-13T15:53",
+   "revive_si": "2026-11-18: si el ticket sigue abierto sin nota de entrega"
+  },
+  {
+   "id": "8295-borja-1311-1539",
+   "que": "LEAS-8295: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8295",
+    "centro": "Elha Pintor Gisbert",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Borja (vía panel, 12:33): «esto no aplica: hecho» y (15:39) «en cola taller»",
+   "quien": "Borja (panel, 13/11 15:39)",
+   "cuando": "2026-11-13T15:39",
+   "revive_si": "2026-11-18: si sigue en cola sin nota de contenido nueva"
+  },
+  {
+   "id": "8172-cristina-1311-1234",
+   "que": "LEAS-8172: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8172",
+    "centro": "SinVello Tomares",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Cristina (vía panel, 12:34): «en cuanto el técnico se libere se pondrá con ello»",
+   "quien": "Cristina (panel, 13/11 12:34)",
+   "cuando": "2026-11-13T12:34",
+   "revive_si": "2026-11-18: si sigue en cola sin nota de contenido nueva"
+  },
+  {
+   "id": "7975-isaac-1311-1349",
+   "que": "LEAS-7975: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7975",
+    "centro": "SinVello A Coruña",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 13:49): «se pide diodo»",
+   "quien": "Isaac (panel, 13/11 13:49)",
+   "cuando": "2026-11-13T13:49",
+   "revive_si": "2026-11-18: si no hay nota de que ha llegado el diodo o de reparación"
+  },
+  {
+   "id": "7879-isaac-1311-1354",
+   "que": "LEAS-7879: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7879",
+    "centro": "Nantara Laser (Solmanía)",
+    "cliente": "Nantara",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 13:54): «le hemos reclamado varias veces en el chat y no contestas» (reclamación: vuelve a los 3 días laborables)",
+   "quien": "Isaac (panel, 13/11 13:54)",
+   "cuando": "2026-11-13T13:54",
+   "revive_si": "2026-11-18: si el cliente sigue sin contestar al presupuesto"
   }
  ],
  "enlaces": [
