@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-13T16:22",
+ "actualizado": "2026-11-13T18:19",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14400,6 +14400,76 @@
    "quien": "Isaac (panel, 13/11 13:54)",
    "cuando": "2026-11-13T13:54",
    "revive_si": "2026-11-18: si el cliente sigue sin contestar al presupuesto"
+  },
+  {
+   "id": "8488-gonzalo-1311-1650",
+   "que": "LEAS-8488: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8488",
+    "centro": "Centro Unico Roma Est",
+    "cliente": "Centri Unico",
+    "tipo": "telegram"
+   },
+   "porque": "Gonzalo (vía panel, 16:50): «Está gestionado quita la notificación» (visita fallida; 10144 = martes 17/11)",
+   "quien": "Gonzalo (panel, 13/11 16:50)",
+   "cuando": "2026-11-13T16:50",
+   "revive_si": "2026-11-18: si la visita del 17/11 no consta hecha"
+  },
+  {
+   "id": "8291-gonzalo-1311-1647",
+   "que": "LEAS-8291: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8291",
+    "centro": "Doll Beauty Suiza",
+    "cliente": "Doll Beauty",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 16:47): «Se le pregunta de nuevo» (reclamación al cliente por la recogida)",
+   "quien": "Gonzalo (panel, 13/11 16:47)",
+   "cuando": "2026-11-13T16:47",
+   "revive_si": "2026-11-18: si sigue en «Pendiente recogida» sin transporte pedido"
+  },
+  {
+   "id": "8500-gonzalo-1311-1648",
+   "que": "LEAS-8500: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8500",
+    "centro": "Epil Point Roma Appia",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 16:48): «Va a ir un técnico, ya se ha avisado, los técnicos los asigna Sincronis»; en WhatsApp (16:58) se prepara una backup para el lunes por si acaso",
+   "quien": "Gonzalo (panel, 13/11 16:48)",
+   "cuando": "2026-11-13T16:48",
+   "revive_si": "2026-11-17: si no hay fecha de visita de Sincronis ni backup enviada"
+  },
+  {
+   "id": "7824-gonzalo-1311-1649",
+   "que": "LEAS-7824: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7824",
+    "centro": "Elha Obispo",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 16:49): «vamos a probarlo en Gijón el C00520, lo ha probado hoy Boto»",
+   "quien": "Gonzalo (panel, 13/11 16:49)",
+   "cuando": "2026-11-13T16:49",
+   "revive_si": "2026-11-18: si sigue en «Inspección de salida» sin nota de contenido nueva"
+  },
+  {
+   "id": "7891-gonzalo-1311-1649",
+   "que": "LEAS-7891: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-7891",
+    "centro": "Paula Estética",
+    "cliente": "Paula Estética",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 16:49): «en cola de taller»",
+   "quien": "Gonzalo (panel, 13/11 16:49)",
+   "cuando": "2026-11-13T16:49",
+   "revive_si": "2026-11-18: si sigue en reparación sin nota de contenido nueva"
   }
  ],
  "enlaces": [
