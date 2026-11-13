@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-12T20:50",
+ "actualizado": "2026-11-13T09:44",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11130,7 +11130,11 @@
    "porque": "Se les pregunta por ello, no es Temperatura pero Stop 3 (y Epil Point contestó a las 17:40: «the issue in Martina Franca has been resolved»)",
    "quien": "Gonzalo (vía panel, 30/10 17:02)",
    "cuando": "2026-10-30T17:02",
-   "revive_si": "2026-11-13: si Epil Point vuelve a reportar el stop en Martina Franca"
+   "revive_si": "2026-11-13: si Epil Point vuelve a reportar el stop en Martina Franca",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencido sin nuevo aviso de stop en Martina Franca"
+   }
   },
   {
    "id": "8171-noaplica-cristina-30-1751",
@@ -11428,7 +11432,11 @@
    "porque": "punto del panel sin ticket, va con LEAS-8268",
    "quien": "Gonzalo (vía panel, 30/10 18:41)",
    "cuando": "2026-10-30T18:41",
-   "revive_si": "2026-11-13: si la intervención del 13/11 no está apuntada en LEAS-8268"
+   "revive_si": "2026-11-13: si la intervención del 13/11 no está apuntada en LEAS-8268",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "monopoli-alessandria-isaac-02-1207",
@@ -12501,7 +12509,11 @@
    "porque": "Gonzalo (vía panel, 09:40): «Se ha pedido ayer la recogida, hay que ver si la recogen hoy»",
    "quien": "Gonzalo (vía panel, 06/11 09:40)",
    "cuando": "2026-11-06T09:40",
-   "revive_si": "2026-11-13: si DHL no ha recogido y no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si DHL no ha recogido y no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: sigue sin nota (ya en tránsito, MCP SAT)"
+   }
   },
   {
    "id": "8244-gonzalo-panel-06-0944",
@@ -12515,7 +12527,11 @@
    "porque": "Gonzalo (vía panel, 09:44): «Esperando por Stock de material ya que todavía no tenemos»",
    "quien": "Gonzalo (vía panel, 06/11 09:44)",
    "cuando": "2026-11-06T09:44",
-   "revive_si": "2026-11-13: si sigue sin material ni nota de contenido nueva"
+   "revive_si": "2026-11-13: si sigue sin material ni nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: sigue sin material"
+   }
   },
   {
    "id": "8172-gonzalo-8202-06-0942",
@@ -12547,7 +12563,11 @@
    "porque": "Gonzalo (vía panel, 11:16): «Carlos va hoy»",
    "quien": "Gonzalo (vía panel, 06/11 11:16)",
    "cuando": "2026-11-06T11:16",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8291-gonzalo-panel-06-1015",
@@ -12561,7 +12581,11 @@
    "porque": "Gonzalo (vía panel, 10:15): «Estamos esperando a que apruebe el precio orientativo»",
    "quien": "Gonzalo (vía panel, 06/11 10:15)",
    "cuando": "2026-11-06T10:15",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: sigue sin recoger"
+   }
   },
   {
    "id": "8295-gonzalo-panel-06-1015",
@@ -12575,7 +12599,11 @@
    "porque": "Gonzalo (vía panel, 10:15): «Esperando a que llegue la caja»",
    "quien": "Gonzalo (vía panel, 06/11 10:15)",
    "cuando": "2026-11-06T10:15",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: entregado en Asturias el 12/11 con el ticket sin mover"
+   }
   },
   {
    "id": "8339-gonzalo-panel-06-1031",
@@ -12594,7 +12622,11 @@
    "porque": "Gonzalo (vía panel, 10:31): «Como se puede leer en cada una de las incidencias la dirección es…»",
    "quien": "Gonzalo (vía panel, 06/11 10:31)",
    "cuando": "2026-11-06T10:31",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: los cuatro siguen en Pendiente recogida"
+   }
   },
   {
    "id": "8371-gonzalo-panel-06-1013",
@@ -12608,7 +12640,11 @@
    "porque": "Gonzalo (vía panel, 10:13): «Se envia caja para su recogida»",
    "quien": "Gonzalo (vía panel, 06/11 10:13)",
    "cuando": "2026-11-06T10:13",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "nota de contenido posterior (Borja, 12/11 11:29: se manda otra caja)"
+   }
   },
   {
    "id": "8093-gonzalo-panel-06-1010",
@@ -12640,7 +12676,11 @@
    "porque": "Gonzalo (vía panel, 10:03): «Ha salido de taller y está en transito»",
    "quien": "Gonzalo (vía panel, 06/11 10:03)",
    "cuando": "2026-11-06T10:03",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8236-gonzalo-panel-06-1002",
@@ -12654,7 +12694,11 @@
    "porque": "Gonzalo (vía panel, 10:02): «Está en transito la pieza afectada»",
    "quien": "Gonzalo (vía panel, 06/11 10:02)",
    "cuando": "2026-11-06T10:02",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "7891-gonzalo-panel-06-1116",
@@ -12668,7 +12712,11 @@
    "porque": "Gonzalo (vía panel, 11:16): «Sigue en cola de taller»",
    "quien": "Gonzalo (vía panel, 06/11 11:16)",
    "cuando": "2026-11-06T11:16",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: sigue sin repararse"
+   }
   },
   {
    "id": "7804-gonzalo-panel-06-1039",
@@ -12682,7 +12730,11 @@
    "porque": "Gonzalo (vía panel, 10:39): «Se pregunta de nuevo por ello, por si está aprobado el presupuesto»",
    "quien": "Gonzalo (vía panel, 06/11 10:39)",
    "cuando": "2026-11-06T10:39",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "7824-gonzalo-panel-06-1033",
@@ -12696,7 +12748,11 @@
    "porque": "Gonzalo (vía panel, 10:33): «Sigue en cola de taller»",
    "quien": "Gonzalo (vía panel, 06/11 10:33)",
    "cuando": "2026-11-06T10:33",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: sigue en Inspección de salida"
+   }
   },
   {
    "id": "7904-gonzalo-panel-06-1040",
@@ -12710,7 +12766,11 @@
    "porque": "Gonzalo (vía panel, 10:40): «Está en cola de taller»",
    "quien": "Gonzalo (vía panel, 06/11 10:40)",
    "cuando": "2026-11-06T10:40",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: sigue en Inspección de salida"
+   }
   },
   {
    "id": "8170-gonzalo-panel-06-1033",
@@ -12724,7 +12784,11 @@
    "porque": "Gonzalo (vía panel, 10:33): «Ha llegado esta semana, Sigue en cola de taller»",
    "quien": "Gonzalo (vía panel, 06/11 10:33)",
    "cuando": "2026-11-06T10:33",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "nota de contenido posterior (Jonathan, 12/11 10:53)"
+   }
   },
   {
    "id": "8148-gonzalo-panel-06-1041",
@@ -12738,7 +12802,11 @@
    "porque": "Gonzalo (vía panel, 10:41): «Tiene que salir todavía»",
    "quien": "Gonzalo (vía panel, 06/11 10:41)",
    "cuando": "2026-11-06T10:41",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8310-gonzalo-panel-06-1016",
@@ -12755,7 +12823,11 @@
    "porque": "Gonzalo (vía panel, 10:16): «Se va a realizar hoy la visita esperamos al parte de Carlos»",
    "quien": "Gonzalo (vía panel, 06/11 10:16)",
    "cuando": "2026-11-06T10:16",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "7975-gonzalo-panel-06-1042",
@@ -12769,7 +12841,11 @@
    "porque": "Gonzalo (vía panel, 10:42): «Se ha enviado el presupuesto ayer, tardarán unos dias en aprobarlo»",
    "quien": "Gonzalo (vía panel, 06/11 10:42)",
    "cuando": "2026-11-06T10:42",
-   "revive_si": "2026-11-13: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: presupuesto sin respuesta"
+   }
   },
   {
    "id": "lf-mollet-pulseras-06-1529",
@@ -12783,7 +12859,11 @@
    "porque": "Sat Leaseir Internacional en «Sat Laser Factory» (WhatsApp, 15:29): «Muy buenas si» a la petición de pulseras de las 15:01",
    "quien": "Sat Leaseir Internacional (WhatsApp, 06/11 15:29)",
    "cuando": "2026-11-06T15:29",
-   "revive_si": "2026-11-13: si el centro vuelve a pedirlas o no consta el envío"
+   "revive_si": "2026-11-13: si el centro vuelve a pedirlas o no consta el envío",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencido sin nuevo aviso"
+   }
   },
   {
    "id": "leas-8378-pere3-tecnico-06-1712",
@@ -12797,7 +12877,11 @@
    "porque": "Gonzalo (vía panel, 17:12): «Se va a enviar a carlos para que vaya a cambiar termostato y sonda»; Isaac en «Incidencias Leaseir/Elha» (WhatsApp, 17:59): «El gel se congela vamos avisar al tecnico a ver si puede hacer algo alli»",
    "quien": "Gonzalo (vía panel, 06/11 17:12)",
    "cuando": "2026-11-06T17:12",
-   "revive_si": "2026-11-13: si no consta la visita de Carlos Mora o Elha vuelve a preguntar"
+   "revive_si": "2026-11-13: si no consta la visita de Carlos Mora o Elha vuelve a preguntar",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "dermasana-albufera-recogida-06-1713",
@@ -12811,7 +12895,11 @@
    "porque": "Gonzalo (nota del panel, 17:13): «La recogida ha sido realizada y ya está en taller»",
    "quien": "Gonzalo (nota del panel, 06/11 17:13)",
    "cuando": "2026-11-06T17:13",
-   "revive_si": "2026-11-13: si el equipo no tiene ticket abierto en taller"
+   "revive_si": "2026-11-13: si el equipo no tiene ticket abierto en taller",
+   "caducado": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencido sin nuevo aviso"
+   }
   },
   {
    "id": "leas-8033-belenus-presu-06-1722",
@@ -13481,7 +13569,11 @@
    "porque": "Isaac (vía panel, 19:36): «se les vuelve a reclamar»",
    "quien": "Isaac (Jira, 10/11 19:36)",
    "cuando": "2026-11-10T19:36",
-   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: presupuesto sin respuesta"
+   }
   },
   {
    "id": "7789-isaac-1011-1937",
@@ -13495,7 +13587,11 @@
    "porque": "Isaac (vía panel, 19:37): «siguen igual y yo creo que hay que penssar en empezar a bloquear su manipulo»",
    "quien": "Isaac (Jira, 10/11 19:37)",
    "cuando": "2026-11-10T19:37",
-   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: presupuesto sin respuesta"
+   }
   },
   {
    "id": "8044-isaac-1011-1920",
@@ -13509,7 +13605,11 @@
    "porque": "Isaac (vía panel, 19:20): «aun no han dicho nada»",
    "quien": "Isaac (Jira, 10/11 19:20)",
    "cuando": "2026-11-10T19:20",
-   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: la respuesta de Belenus (12/11) no está en el ticket"
+   }
   },
   {
    "id": "6907-isaac-1011-1936",
@@ -13523,7 +13623,11 @@
    "porque": "Isaac (vía panel, 19:36): «sigue pendiente»",
    "quien": "Isaac (Jira, 10/11 19:36)",
    "cuando": "2026-11-10T19:36",
-   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva"
+   "revive_si": "2026-11-13: presupuesto sin respuesta, vuelve a los 3 días laborables si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11 y no hay nota de contenido posterior: presupuesto sin enviar"
+   }
   },
   {
    "id": "8060-isaac-1011-1921",
@@ -13859,7 +13963,11 @@
    "porque": "Borja (Jira, 10:14): «REclamacion dura a dhl italia. segun dicen van hoy 100% seguro … En caso de no recogerse ya tenemos presupeustos para que Sincronis lo mueva a su almacen»",
    "quien": "Borja (Jira, 12/11 10:14)",
    "cuando": "2026-11-12T10:14",
-   "revive_si": "2026-11-13: si DHL no la ha recogido y no se ha pedido a Sincronis"
+   "revive_si": "2026-11-13: si DHL no la ha recogido y no se ha pedido a Sincronis",
+   "revivido": {
+    "fecha": "2026-11-13T09:44",
+    "motivo": "vencía el 13/11: DHL sigue «Grabado, sin recoger» (MCP SAT)"
+   }
   },
   {
    "id": "7458-isaac-panel-1211-1601",
