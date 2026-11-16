@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-16T12:42",
+ "actualizado": "2026-11-16T15:22",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14693,7 +14693,8 @@
    "porque": "Se le preguntó (09:41) «Handpiece 40674?»; Epil Point (09:42): «I'm waiting for a response from the girls»",
    "quien": "WhatsApp (16/11 09:42)",
    "cuando": "2026-11-16T09:42",
-   "revive_si": "2026-11-19: si Epil Point contesta y no se le responde"
+   "revive_si": "2026-11-19: si Epil Point contesta y no se le responde",
+   "revivido": "2026-11-16T15:30: Epil Point (12:49) pide un técnico para el tubo del MHR-40647 y no se le ha contestado"
   },
   {
    "id": "8394-jonathan-jira-1611-1238",
@@ -14708,6 +14709,48 @@
    "quien": "Jonathan (Jira, 16/11 12:38)",
    "cuando": "2026-11-16T12:38",
    "revive_si": "2026-11-19: si el presupuesto no consta enviado"
+  },
+  {
+   "id": "8481-borja-wapp-1611-1459",
+   "que": "LEAS-8481: Smart Duck pide la etiqueta del manípulo de Grenoble",
+   "ambito": {
+    "leas": "LEAS-8481",
+    "centro": "Smart Duck Grenoble",
+    "cliente": "Smart Duck",
+    "tipo": "wapp"
+   },
+   "porque": "Borja (Smart Duck Technical Service, 14:59): «we already recevive Grenoble here H03207»",
+   "quien": "Borja (WhatsApp, 16/11 14:59)",
+   "cuando": "2026-11-16T14:59",
+   "revive_si": "2026-11-18: si sigue en «Gestionado transporte» con el H03207 ya en taller"
+  },
+  {
+   "id": "unico-ostia-gonzalo-tg-1611-1254",
+   "que": "Centri Unico Ostia: ¿pueden seguir trabajando con el láser?",
+   "ambito": {
+    "leas": null,
+    "centro": "Centri Unico Ostia",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (Centri Unico Italia - Leaseir, 12:48-12:54): el buzzer tiene polvo, no afecta; «Potete usare questo laser senza problemi finché vi avvisiamo»",
+   "quien": "Gonzalo (Telegram, 16/11 12:54)",
+   "cuando": "2026-11-16T12:54",
+   "revive_si": "2026-11-19: si el centro sigue sin fecha del técnico"
+  },
+  {
+   "id": "7789-borja-jira-1611-1434",
+   "que": "LEAS-7789: presupuesto de Beleco Fan Mallorca sin aceptar",
+   "ambito": {
+    "leas": "LEAS-7789",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "Beleco",
+    "tipo": "presu"
+   },
+   "porque": "Borja (Jira, 14:34): «Segun el dueño están esperando a ver que le dicen en el Seguro para pagar. Se lo comentaremos a David que es su comercial»",
+   "quien": "Borja (Jira, 16/11 14:34)",
+   "cuando": "2026-11-16T14:34",
+   "revive_si": "2026-11-19: si sigue sin aceptar"
   }
  ],
  "enlaces": [
