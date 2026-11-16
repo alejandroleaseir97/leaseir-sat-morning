@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-16T09:55",
+ "actualizado": "2026-11-16T12:42",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14526,6 +14526,188 @@
    "quien": "Gonzalo (panel, 13/11 16:49)",
    "cuando": "2026-11-13T16:49",
    "revive_si": "2026-11-18: si sigue en reparación sin nota de contenido nueva"
+  },
+  {
+   "id": "8297-gonzalo-panel-1611-1004",
+   "que": "LEAS-8297: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8297",
+    "centro": "Brull",
+    "cliente": "Brull",
+    "tipo": "telegram"
+   },
+   "porque": "Gonzalo (vía panel, 10:04): «Se recuerda en el grupo de Sat y se recuerda personalmente a BOrja»; Borja (Interno, 10:28): «el viernes salió la 20056»",
+   "quien": "Gonzalo (panel, 16/11 10:04)",
+   "cuando": "2026-11-16T10:04",
+   "revive_si": "2026-11-19: si en el ticket sigue sin constar qué se le cobra a Brull"
+  },
+  {
+   "id": "sincronis-movement-borja-noaplica-1611-1100",
+   "que": "Sincronis (correo «Movement»): ¿se cancelan las recogidas?",
+   "ambito": {
+    "leas": null,
+    "centro": "Sincronis",
+    "cliente": "Sincronis",
+    "tipo": "telegram"
+   },
+   "porque": "Borja (panel, 11:00, no aplica): «Listo»",
+   "quien": "Borja (panel, 16/11 11:00)",
+   "cuando": "2026-11-16T11:00",
+   "revive_si": "2026-11-23: si Sincronis vuelve a preguntar sin respuesta"
+  },
+  {
+   "id": "zugan-beasain-gonzalo-panel-1611-1005",
+   "que": "Zugan Beasain: sustitución pedida por Isaac el 14/11",
+   "ambito": {
+    "leas": "LEAS-8478",
+    "centro": "Zugan Beasain",
+    "cliente": "Zugan",
+    "tipo": "telegram"
+   },
+   "porque": "Gonzalo (vía panel, 10:05, en LEAS-8478): «Es este Leas»",
+   "quien": "Gonzalo (panel, 16/11 10:05)",
+   "cuando": "2026-11-16T10:05",
+   "revive_si": "2026-11-19: si la sustitución de LEAS-8478 sigue sin salir"
+  },
+  {
+   "id": "lmedical-gonzalo-nota-1611-1006",
+   "que": "L Medical (G-Point): preguntas del 07/11",
+   "ambito": {
+    "leas": null,
+    "centro": "L Medical (G-Point)",
+    "cliente": "L Medical",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (panel, 10:06, nota): «Nos lo tiene que decir I+D quita este aviso»",
+   "quien": "Gonzalo (panel, 16/11 10:06)",
+   "cuando": "2026-11-16T10:06",
+   "revive_si": "2026-11-23: si I+D no ha contestado y L Medical vuelve a preguntar"
+  },
+  {
+   "id": "8184-gonzalo-panel-1611-1022",
+   "que": "LEAS-8184: informe de El Pilar pedido por Sin Vello",
+   "ambito": {
+    "leas": "LEAS-8184",
+    "centro": "SinVello El Pilar",
+    "cliente": "Sin Vello",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 10:22): «Se le pasa esta tarde»",
+   "quien": "Gonzalo (panel, 16/11 10:22)",
+   "cuando": "2026-11-16T10:22",
+   "revive_si": "2026-11-17: si el informe no consta enviado"
+  },
+  {
+   "id": "8389-gonzalo-panel-1611-1020",
+   "que": "LEAS-8389: etiqueta de Roma EUR",
+   "ambito": {
+    "leas": "LEAS-8389",
+    "centro": "Epil Point Roma EUR",
+    "cliente": "Epil Point",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 10:20): «Te has confundido, la etiqueta para hoy es la de roma Appia» (LEAS-8500)",
+   "quien": "Gonzalo (panel, 16/11 10:20)",
+   "cuando": "2026-11-16T10:20",
+   "revive_si": "2026-11-18: si sigue en «Pendiente recogida» sin nota de contenido nueva"
+  },
+  {
+   "id": "8374-gonzalo-panel-1611-1015",
+   "que": "LEAS-8374: recogida con incidencia en CTT",
+   "ambito": {
+    "leas": "LEAS-8374",
+    "centro": "Elha Cartagena",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 10:15): «Se pide de nuevo la recogida» (Incidencias Leaseir/Elha 10:12: «No lo han recogido, lo pido de nuevo»)",
+   "quien": "Gonzalo (panel, 16/11 10:15)",
+   "cuando": "2026-11-16T10:15",
+   "revive_si": "2026-11-18: si el nuevo CTT sigue con incidencia o sin recoger"
+  },
+  {
+   "id": "8214-borja-panel-1611-1115",
+   "que": "LEAS-8214: recogida de la C00673 y sustitución LEAS-8231",
+   "ambito": {
+    "leas": "LEAS-8214",
+    "centro": "SinVello Badajoz",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 11:15): «no necesitan la sustitución finalmente, tramitamos la vuelta a taller de la sustitución»",
+   "quien": "Borja (panel, 16/11 11:15)",
+   "cuando": "2026-11-16T11:15",
+   "revive_si": "2026-11-19: si sigue en «Pendiente recogida» sin nota de contenido nueva"
+  },
+  {
+   "id": "8449-borja-panel-1611-1114",
+   "que": "LEAS-8449: consola de Beleco Fan Mallorca en tránsito",
+   "ambito": {
+    "leas": "LEAS-8449",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "Beleco",
+    "tipo": "ruta"
+   },
+   "porque": "Borja (vía panel, 11:14): «En transito y recogida camino a gijon»",
+   "quien": "Borja (panel, 16/11 11:14)",
+   "cuando": "2026-11-16T11:14",
+   "revive_si": "2026-11-19: si no ha llegado a taller"
+  },
+  {
+   "id": "8441-gonzalo-panel-1611-1010",
+   "que": "LEAS-8441: material y visita de Palermo",
+   "ambito": {
+    "leas": "LEAS-8441",
+    "centro": "Epil Point Palermo",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 10:10): «Sigue en transito el material» con el DHL Parcel",
+   "quien": "Gonzalo (panel, 16/11 10:10)",
+   "cuando": "2026-11-16T10:10",
+   "revive_si": "2026-11-19: si no consta el resultado de la visita del 18/11"
+  },
+  {
+   "id": "epil-napoles-chus-wapp-1611-1214",
+   "que": "Epil Point Nápoles (Arenella, Casoria, Marano): fechas",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point Nápoles",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Chus contestó en «EPIL POINT LASER SUPPORT» (09:56-12:14, con correo a las 11:42); Epil Point (12:21): «I'm looking into it and will keep you updated»",
+   "quien": "Chus (WhatsApp, 16/11 12:14)",
+   "cuando": "2026-11-16T12:14",
+   "revive_si": "2026-11-19: si Epil Point contesta y no se le responde"
+  },
+  {
+   "id": "epil-bergamo-cable-wapp-1611-0942",
+   "que": "Epil Point Bergamo: cable del manípulo",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point Bergamo",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Se le preguntó (09:41) «Handpiece 40674?»; Epil Point (09:42): «I'm waiting for a response from the girls»",
+   "quien": "WhatsApp (16/11 09:42)",
+   "cuando": "2026-11-16T09:42",
+   "revive_si": "2026-11-19: si Epil Point contesta y no se le responde"
+  },
+  {
+   "id": "8394-jonathan-jira-1611-1238",
+   "que": "LEAS-8394: punto ya contestado por el taller",
+   "ambito": {
+    "leas": "LEAS-8394",
+    "centro": "Brull",
+    "cliente": "Brull",
+    "tipo": "repara"
+   },
+   "porque": "Jonathan (Jira, 12:38): diodo degradado, buffer dañado, umbilical rajado; «Presupuestar»; pasa a «En preparación presupuesto»",
+   "quien": "Jonathan (Jira, 16/11 12:38)",
+   "cuando": "2026-11-16T12:38",
+   "revive_si": "2026-11-19: si el presupuesto no consta enviado"
   }
  ],
  "enlaces": [
