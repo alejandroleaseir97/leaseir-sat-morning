@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-16T16:23",
+ "actualizado": "2026-11-16T18:18",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14779,6 +14779,132 @@
    "quien": "Borja (WhatsApp, 16/11 15:35)",
    "cuando": "2026-11-16T15:35",
    "revive_si": "2026-11-20: si no consta el envío de las piezas ni la visita"
+  },
+  {
+   "id": "8347-gonzalo-panel-1611-1756",
+   "que": "LEAS-8347: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8347",
+    "centro": "Leaseir SAT MHR91065",
+    "cliente": "Leaseir",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:56): «De sust, esperando reparación»",
+   "quien": "Gonzalo (panel, 16/11 17:56)",
+   "cuando": "2026-11-16T17:56",
+   "revive_si": "2026-11-23: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8466-gonzalo-panel-1611-1807",
+   "que": "LEAS-8466: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8466",
+    "centro": "Epil Point Martina Franca",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 18:07): «Se le ha hablado para que vaya igualmente, aunque lo haya hablado por tlf»",
+   "quien": "Gonzalo (panel, 16/11 18:07)",
+   "cuando": "2026-11-16T18:07",
+   "revive_si": "2026-11-23: si no consta la visita ni el resultado"
+  },
+  {
+   "id": "8500-gonzalo-panel-1611-1755",
+   "que": "LEAS-8500: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8500",
+    "centro": "Epil Point Roma Appia",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 17:55): «No se sabe si se cancela el envio ya que no han llamado todavía y se le ha reclaamdo»",
+   "quien": "Gonzalo (panel, 16/11 17:55)",
+   "cuando": "2026-11-16T17:55",
+   "revive_si": "2026-11-23: si Sincronis sigue sin cita"
+  },
+  {
+   "id": "8493-gonzalo-panel-1611-1810",
+   "que": "LEAS-8493: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8493",
+    "centro": "SinVello Zaragoza Goya",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 18:10): «Se pide la recogida de su pieza de mano»; WhatsApp 18:09 «Pido al recogida de su pieza de mano»",
+   "quien": "Gonzalo (panel, 16/11 18:10)",
+   "cuando": "2026-11-16T18:10",
+   "revive_si": "2026-11-19: si la C03021 sigue sin recoger"
+  },
+  {
+   "id": "8461-gonzalo-panel-1611-1808",
+   "que": "LEAS-8461: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8461",
+    "centro": "Leaseir Sat",
+    "cliente": "Leaseir",
+    "tipo": "cerrar"
+   },
+   "porque": "Gonzalo (vía panel, 18:08): «Faltan las fotos para cerrar el Leas, las hago mañana»",
+   "quien": "Gonzalo (panel, 16/11 18:08)",
+   "cuando": "2026-11-16T18:08",
+   "revive_si": "2026-11-18: si sigue sin cerrar"
+  },
+  {
+   "id": "8204-gonzalo-panel-1611-1817",
+   "que": "LEAS-8204: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8204",
+    "centro": "Sinvello Arrecife Lanzarote",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 18:17): «Se les pregunta si aceptan el presupuesto»",
+   "quien": "Gonzalo (panel, 16/11 18:17)",
+   "cuando": "2026-11-16T18:17",
+   "revive_si": "2026-11-23: si Sin Vello no ha contestado a los portes o la C00617 sigue sin recoger"
+  },
+  {
+   "id": "8447-gonzalo-panel-1611-1815",
+   "que": "LEAS-8447: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8447",
+    "centro": "SinVello Mataró",
+    "cliente": "Sin Vello",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel, 18:15): «Se ha  solicitado el parte de trabajo»",
+   "quien": "Gonzalo (panel, 16/11 18:15)",
+   "cuando": "2026-11-16T18:15",
+   "revive_si": "2026-11-23: si no consta el parte ni el resultado"
+  },
+  {
+   "id": "8384-gonzalo-panel-1611-1814",
+   "que": "LEAS-8384: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8384",
+    "centro": "Smartduck Rennes",
+    "cliente": "Smart Duck",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 18:14): «Está en cola»",
+   "quien": "Gonzalo (panel, 16/11 18:14)",
+   "cuando": "2026-11-16T18:14",
+   "revive_si": "2026-11-23: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8227-gonzalo-panel-1611-1814",
+   "que": "LEAS-8227: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8227",
+    "centro": "Clínica Indalo Santurce",
+    "cliente": "Clínica Indalo",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 18:14): «Está en cola»",
+   "quien": "Gonzalo (panel, 16/11 18:14)",
+   "cuando": "2026-11-16T18:14",
+   "revive_si": "2026-11-23: si no hay nota de contenido nueva"
   }
  ],
  "enlaces": [
