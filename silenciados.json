@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-16T15:22",
+ "actualizado": "2026-11-16T16:23",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14751,6 +14751,34 @@
    "quien": "Borja (Jira, 16/11 14:34)",
    "cuando": "2026-11-16T14:34",
    "revive_si": "2026-11-19: si sigue sin aceptar"
+  },
+  {
+   "id": "7904-borja-wapp-1611-1553",
+   "que": "LEAS-7904: Dermasana Alcalá dice que el equipo recibido no calibra",
+   "ambito": {
+    "leas": "LEAS-7904",
+    "centro": "Dermasana Calle Alcalá",
+    "cliente": "Dermasana",
+    "tipo": "wapp"
+   },
+   "porque": "Cristina (15:33) y Borja (15:51-15:53) en «Reparaciones Leaseir Dermasana Alcalá»: «falta al interlock por eso no pasa el test», «os mandamos uno entonces»; Cristina 15:53 en ENVIOS «1x interlock LT DERMASANA Alcalá» y etiqueta CTT 15:54",
+   "quien": "Borja (WhatsApp, 16/11 15:53)",
+   "cuando": "2026-11-16T15:53",
+   "revive_si": "2026-11-19: si el centro sigue sin el interlock o el equipo no calibra"
+  },
+  {
+   "id": "epil-bergamo-borja-wapp-1611-1535",
+   "que": "Epil Point Bergamo: ¿va un técnico a arreglar el tubo del MHR-40647?",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point Bergamo",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Borja (EPIL POINT LASER SUPPORT, 15:35): «From the photos, it's mostly cosmetic for now, but we can't put it off any longer. We're sending the parts out so we can head over ASAP.»",
+   "quien": "Borja (WhatsApp, 16/11 15:35)",
+   "cuando": "2026-11-16T15:35",
+   "revive_si": "2026-11-20: si no consta el envío de las piezas ni la visita"
   }
  ],
  "enlaces": [
