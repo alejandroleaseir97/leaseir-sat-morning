@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-16T18:18",
+ "actualizado": "2026-11-16T18:23",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14905,6 +14905,20 @@
    "quien": "Gonzalo (panel, 16/11 18:14)",
    "cuando": "2026-11-16T18:14",
    "revive_si": "2026-11-23: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "epil-soporte-diploma-gonzalo-panel-1611-1755",
+   "que": "Epil Point (soporte): copia del diploma de la formación para Fabio Formisano",
+   "ambito": {
+    "leas": null,
+    "centro": "Epil Point",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (nota del panel, 17:55): «Se pregunta a cristina que lleva las formaciones en Italia»; en «SAT ITALIA» 18:01-18:06 Maria Martire: «ellos de Epilpoint no me pasaron los nombre», «Ahora le pedí que me pasen los nombres»",
+   "quien": "Gonzalo (panel, 16/11 17:55)",
+   "cuando": "2026-11-16T17:55",
+   "revive_si": "2026-11-23: si no se ha mandado el diploma a Fabio"
   }
  ],
  "enlaces": [
