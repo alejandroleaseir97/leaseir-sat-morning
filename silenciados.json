@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-13T20:20",
+ "actualizado": "2026-11-16T09:55",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -11418,7 +11418,11 @@
    "porque": "ticket de prueba: la avería dice «PRUEBA – NO ES QUEJA REAL – No calienta FC» (creado por Ignacio Ortiz el 27/10); no es una incidencia real",
    "quien": "pasada de las 9:30 del 02/11 (pendiente de que Alejandro decida si se cancela)",
    "cuando": "2026-11-02T10:05",
-   "revive_si": "2026-11-16: si sigue abierto"
+   "revive_si": "2026-11-16: si sigue abierto",
+   "caducado": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "romaest-enlace-gonzalo-30-1841",
@@ -12945,7 +12949,11 @@
    "porque": "Gonzalo (vía panel, 18:07): «Se les pregunta a Elha si han probado con otro manipulo»; LEAS-8383 cancelada a las 18:06 («El cliente mueve una sust»)",
    "quien": "Gonzalo (Jira, 09/11 18:07)",
    "cuando": "2026-11-09T18:07",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8374-gonzalo-0911-1808",
@@ -12959,7 +12967,11 @@
    "porque": "Gonzalo (vía panel, 18:08): «Se pregunta a Elha» (WhatsApp 18:08: «se puede recoger»)",
    "quien": "Gonzalo (Jira, 09/11 18:08)",
    "cuando": "2026-11-09T18:08",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "vencía el 16/11 y no hay nota de contenido posterior: CTT con incidencia en la recogida desde el 10/11"
+   }
   },
   {
    "id": "8281-gonzalo-0911-1809",
@@ -12973,7 +12985,11 @@
    "porque": "Gonzalo (vía panel, 18:09): «Al final carlos hizo caso omiso y fue a reparalo»",
    "quien": "Gonzalo (Jira, 09/11 18:09)",
    "cuando": "2026-11-09T18:09",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8415-gonzalo-0911-1911",
@@ -12987,7 +13003,11 @@
    "porque": "Gonzalo (vía panel, 19:11): punto sin ticket enlazado a LEAS-8415, «se pregunta» (garantía consultada en el grupo interno a las 19:11)",
    "quien": "Gonzalo (Jira, 09/11 19:11)",
    "cuando": "2026-11-09T19:11",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8404-gonzalo-0911-1954",
@@ -13001,7 +13021,11 @@
    "porque": "Gonzalo (vía panel, 19:54): enlaza LEAS-8416, «se envia el material»",
    "quien": "Gonzalo (Jira, 09/11 19:54)",
    "cuando": "2026-11-09T19:54",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "vencía el 16/11 y no hay nota de contenido posterior: sigue en Abierto sin asignar"
+   }
   },
   {
    "id": "8384-caen-0911-1928",
@@ -13015,7 +13039,11 @@
    "porque": "Informe de Caen enviado en «Smart Duck Technical Service» (WhatsApp) a las 19:28",
    "quien": "equipo (WhatsApp, 09/11 19:28)",
    "cuando": "2026-11-09T19:28",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "vencía el 16/11 y no hay nota de contenido posterior: sigue sin asignar y sin saber si el cable lo resolvió"
+   }
   },
   {
    "id": "8013-beleco-0911-2002",
@@ -13029,7 +13057,11 @@
    "porque": "Contestado en «Leaseir SAT Beleco Fan Mallorca» (WhatsApp) a las 20:02: «Según dhl llega mañana» con el tracking",
    "quien": "equipo (WhatsApp, 09/11 20:02)",
    "cuando": "2026-11-09T20:02",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8214-gonzalo-0911-1958",
@@ -13043,7 +13075,11 @@
    "porque": "Gonzalo (vía panel, 19:58): «Se revisa mañana para enviar»; en ENVIOS a las 19:57: «SinVello Badajoz Enviar sustitución completa LT»",
    "quien": "Gonzalo (Jira, 09/11 19:58)",
    "cuando": "2026-11-09T19:58",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "vencía el 16/11 y no hay nota de contenido posterior: sigue sin recoger"
+   }
   },
   {
    "id": "8227-gonzalo-0911-1959",
@@ -13057,7 +13093,11 @@
    "porque": "Gonzalo (vía panel, 19:59): «Se revisa en las sust»; en ENVIOS a las 19:59: «Clínica Indalo Santurce enviar sust single/dual LM»",
    "quien": "Gonzalo (Jira, 09/11 19:59)",
    "cuando": "2026-11-09T19:59",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "vencía el 16/11 y no hay nota de contenido posterior: sigue en cola de taller"
+   }
   },
   {
    "id": "splau-isaac-1011-1015",
@@ -13169,7 +13209,11 @@
    "porque": "Gonzalo (Jira, 10/11 12:02): «Foto no corresponde, es solo para pasar el estado»",
    "quien": "Gonzalo (Jira, 10/11 12:02)",
    "cuando": "2026-11-10T12:02",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "hecho nuevo y posterior: Francisco (16/11 07:49) «no se encuentra en SAT»"
+   }
   },
   {
    "id": "8353-gonzalo-1011-1204",
@@ -13809,7 +13853,11 @@
    "porque": "Isaac (vía panel, 13:05): «esta negociando david»",
    "quien": "Isaac (Jira, 11/11 13:05)",
    "cuando": "2026-11-11T13:05",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "vencía el 16/11 y no hay nota de contenido posterior: presupuesto sin respuesta"
+   }
   },
   {
    "id": "arenella-cristina-1111-1532",
@@ -13907,7 +13955,11 @@
    "porque": "Isaac (vía panel, 18:11): «mandado presupuesto pendiente de aceptar»",
    "quien": "Isaac (panel, 11/11 18:11)",
    "cuando": "2026-11-11T18:11",
-   "revive_si": "2026-11-16: si no hay nota de contenido nueva (presu, 3 días laborables)"
+   "revive_si": "2026-11-16: si no hay nota de contenido nueva (presu, 3 días laborables)",
+   "revivido": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "vencía el 16/11 y no hay nota de contenido posterior: presupuesto sin respuesta"
+   }
   },
   {
    "id": "8428-isaac-1111-1833",
@@ -14441,7 +14493,11 @@
    "porque": "Gonzalo (vía panel, 16:48): «Va a ir un técnico, ya se ha avisado, los técnicos los asigna Sincronis»; en WhatsApp (16:58) se prepara una backup para el lunes por si acaso",
    "quien": "Gonzalo (panel, 13/11 16:48)",
    "cuando": "2026-11-13T16:48",
-   "revive_si": "2026-11-17: si no hay fecha de visita de Sincronis ni backup enviada"
+   "revive_si": "2026-11-17: si no hay fecha de visita de Sincronis ni backup enviada",
+   "revivido": {
+    "fecha": "2026-11-16T09:55",
+    "motivo": "hecho nuevo y posterior: Sincronis (correo 16/11 09:02) aplaza la visita al 17/11 y pregunta por el movimiento"
+   }
   },
   {
    "id": "7824-gonzalo-1311-1649",
