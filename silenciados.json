@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-16T18:23",
+ "actualizado": "2026-11-17T09:42",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -1346,7 +1346,11 @@
    "porque": "Isaac contestó desde el panel el 09/09 a las 18:54 («las incidencias»). Es una respuesta escueta, pero es respuesta: el punto no se repite hoy.",
    "quien": "Isaac",
    "cuando": "2026-09-09",
-   "revive_si": "Pasan 3 días laborables sin una nota de gestión de verdad (no un traspaso), comprobado releyendo el ticket en esa pasada. Al revivir, pedir qué se hace con un ticket abierto desde enero."
+   "revive_si": "Pasan 3 días laborables sin una nota de gestión de verdad (no un traspaso), comprobado releyendo el ticket en esa pasada. Al revivir, pedir qué se hace con un ticket abierto desde enero.",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sin fecha ISO; el atascado vuelve a salir"
+   }
   },
   {
    "id": "7540-material-y-carlos-mora",
@@ -12935,7 +12939,11 @@
    "porque": "Borja en «Smart Duck Technical Service» (WhatsApp, 16:05): «this is already done» (cambio H03206/H03204)",
    "quien": "Borja (WhatsApp, 09/11 16:05)",
    "cuando": "2026-11-09T16:05",
-   "revive_si": "2026-11-16: si Smart Duck vuelve a pedirlo"
+   "revive_si": "2026-11-16: si Smart Duck vuelve a pedirlo",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "Smart Duck no ha vuelto a pedirlo"
+   }
   },
   {
    "id": "8380-gonzalo-0911-1807",
@@ -13111,7 +13119,11 @@
    "porque": "Isaac (panel, 10/11 10:15): «ya esta todo solucionado»",
    "quien": "Isaac (worker, 10/11 10:15)",
    "cuando": "2026-11-10T10:15",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "solucionado según Isaac"
+   }
   },
   {
    "id": "esperanza-borja-1011-1148",
@@ -13125,7 +13137,11 @@
    "porque": "Borja (panel, 10/11 11:48): «es un tema de fabrica. no tenemos nada que gestionar nosotros»",
    "quien": "Borja (worker, 10/11 11:48)",
    "cuando": "2026-11-10T11:48",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "tema de fábrica, nada que gestionar"
+   }
   },
   {
    "id": "lasertam-borja-1011-1230",
@@ -13139,7 +13155,11 @@
    "porque": "Borja (panel, 10/11 12:30): «parece un tema mas de comercial que David los redirija a ATM»",
    "quien": "Borja (worker, 10/11 12:30)",
    "cuando": "2026-11-10T12:30",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "redirigido a comercial"
+   }
   },
   {
    "id": "avanti-gonzalo-1011-1143",
@@ -13153,7 +13173,11 @@
    "porque": "Gonzalo (vía panel, 11:43): el punto sin ticket va con LEAS-8426",
    "quien": "Gonzalo (Jira, 10/11 11:43)",
    "cuando": "2026-11-10T11:43",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "7458-isaac-1011-1107",
@@ -13181,7 +13205,11 @@
    "porque": "Isaac (10/11 11:07): «Voy a mandar un mail al comercial y segun lo que me diga pido otra recogida»",
    "quien": "Isaac (10/11 11:07)",
    "cuando": "2026-11-10T11:07",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: DHL entregado el 16/11 y el ticket sin mover"
+   }
   },
   {
    "id": "8345-gonzalo-1011-1200",
@@ -13195,7 +13223,11 @@
    "porque": "Gonzalo (Jira, 10/11 12:00): «está en taller ya, solo se envia la foto para pasar el estado de la consola»",
    "quien": "Gonzalo (Jira, 10/11 12:00)",
    "cuando": "2026-11-10T12:00",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: presupuesto sin enviar"
+   }
   },
   {
    "id": "8347-gonzalo-1011-1202",
@@ -13227,7 +13259,11 @@
    "porque": "Gonzalo (vía panel, 12:04): «Ya tienen la sust de LEAS-8014, tienen que llegar mañana, se ha reclamado el envio»",
    "quien": "Gonzalo (Jira, 10/11 12:04)",
    "cuando": "2026-11-10T12:04",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sustitución entregada y sin recogida pedida"
+   }
   },
   {
    "id": "8387-isaac-1011-1240",
@@ -13241,7 +13277,11 @@
    "porque": "Isaac (vía panel, 12:40): «ya esta gestionado» (pasó a «Gestionado transporte»)",
    "quien": "Isaac (Jira, 10/11 12:40)",
    "cuando": "2026-11-10T12:40",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue en Devuelto a cliente sin cerrar"
+   }
   },
   {
    "id": "8389-gonzalo-1011-1207",
@@ -13291,7 +13331,11 @@
    "porque": "Cristina (panel, 10/11 12:43): «no aplica»",
    "quien": "Cristina (worker, 10/11 12:43)",
    "cuando": "2026-11-10T12:43",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "no aplica"
+   }
   },
   {
    "id": "8199-borja-1011-1212",
@@ -13305,7 +13349,11 @@
    "porque": "Borja (Centri Unico Italia, 10/11 12:12): pide a Libia un teléfono y un correo de contacto para pasárselo a DHL, que dice que pasó y en el centro no había paquete",
    "quien": "Borja (Telegram, 10/11 12:12)",
    "cuando": "2026-11-10T12:12",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue sin llegar a taller"
+   }
   },
   {
    "id": "6906-gonzalo-1011-1235",
@@ -13319,7 +13367,11 @@
    "porque": "Gonzalo (vía panel, 12:35): «SE LE PREGUNTA DE NUEVO A JARAMILLO»; Ernesto publicó en ENVIOS la dirección de Huelva con LEAS-6906",
    "quien": "Gonzalo (Jira, 10/11 12:35)",
    "cuando": "2026-11-10T12:35",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue sin dirección de envío"
+   }
   },
   {
    "id": "8325-gonzalo-1011-1236",
@@ -13333,7 +13385,11 @@
    "porque": "Gonzalo (vía panel, 12:36): «Se avisa a Carlos Mora» (y correo a Carlos Mora a las 12:36)",
    "quien": "Gonzalo (Jira, 10/11 12:36)",
    "cuando": "2026-11-10T12:36",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "7820-gonzalo-1011-1239",
@@ -13347,7 +13403,11 @@
    "porque": "Gonzalo (vía panel, 12:39): «Se le pregunta de nuevo»",
    "quien": "Gonzalo (Jira, 10/11 12:39)",
    "cuando": "2026-11-10T12:39",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sin respuesta del técnico"
+   }
   },
   {
    "id": "8326-isaac-1011-1138",
@@ -13361,7 +13421,11 @@
    "porque": "Isaac (Jira, 11:38): «se reclama a Carlos para que realice esta intervención» (y correo a Carlos Mora a las 11:37)",
    "quien": "Isaac (Jira, 10/11 11:38)",
    "cuando": "2026-11-10T11:38",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8367-gonzalo-1011-1150",
@@ -13375,7 +13439,11 @@
    "porque": "Gonzalo (vía panel, 11:50): «Se reclama a Carlos para que confime cita» (y en «SAT LEASEIR CARLOS MORA» a las 11:51)",
    "quien": "Gonzalo (Jira, 10/11 11:50)",
    "cuando": "2026-11-10T11:50",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: hoja de asistencia mandada por correo el 16/11 y no apuntada"
+   }
   },
   {
    "id": "4908-cristina-1011-1209",
@@ -13389,7 +13457,11 @@
    "porque": "Cristina (vía panel, 12:09): esto no aplica: «En cuanto se liberen técnicos se asignará, hay mucho volumen de trabajo»",
    "quien": "Cristina (Jira, 10/11 12:09)",
    "cuando": "2026-11-10T12:09",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue en cola de taller"
+   }
   },
   {
    "id": "8152-cristina-1011-1233",
@@ -13403,7 +13475,11 @@
    "porque": "Cristina (vía panel, 12:33): esto no aplica: «Consulto con Chus cuando podrá estar reparada»",
    "quien": "Cristina (Jira, 10/11 12:33)",
    "cuando": "2026-11-10T12:33",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8335-cristina-1011-1214",
@@ -13417,7 +13493,11 @@
    "porque": "Cristina (vía panel, 12:14): esto no aplica: «está en esperando inicio de reparación»",
    "quien": "Cristina (Jira, 10/11 12:14)",
    "cuando": "2026-11-10T12:14",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue en Devuelto a cliente sin cerrar"
+   }
   },
   {
    "id": "8095-cristina-1011-1217",
@@ -13431,7 +13511,11 @@
    "porque": "Cristina (vía panel, 12:17): esto no aplica: «Como Chus irá a las revisiones consulto si es viable que haga el cambio in situ allí»",
    "quien": "Cristina (Jira, 10/11 12:17)",
    "cuando": "2026-11-10T12:17",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: préstamo sin decisión"
+   }
   },
   {
    "id": "medquant-gonzalo-1011-1333",
@@ -13445,7 +13529,11 @@
    "porque": "Gonzalo y Alejandro contestaron en «Medquant - Leaseir Support Group» de 12:54 a 13:33: se le dio el código mensual del 70031 («The code is for today»); los permanentes y el plan de pagos los lleva Alejandro",
    "quien": "Gonzalo (Telegram, 10/11 13:33)",
    "cuando": "2026-11-10T13:33",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "contestado; sin mensajes nuevos"
+   }
   },
   {
    "id": "8398-borja-1011-1520",
@@ -13459,7 +13547,11 @@
    "porque": "Borja (vía panel, 15:20): «mueven ellos una sustitucion propia. nos avisan para recoger a taller»",
    "quien": "Borja (Jira, 10/11 15:20)",
    "cuando": "2026-11-10T15:20",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sin aviso de Epil Point ni recogida"
+   }
   },
   {
    "id": "meravigli-cristina-1011-1303",
@@ -13473,7 +13565,11 @@
    "porque": "Cristina (panel, 10/11 13:03): «Hecho» (LEAS-8430 abierto a las 13:02)",
    "quien": "Cristina (worker, 10/11 13:03)",
    "cuando": "2026-11-10T13:03",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8364-gonzalo-1011-1557",
@@ -13487,7 +13583,11 @@
    "porque": "Gonzalo (vía panel, 15:57): «Corpodem debería de tener por lo menos una pieza de mano en depóstio poer no la han movido, se les ha preguntado pero no contestan»",
    "quien": "Gonzalo (Jira, 10/11 15:57)",
    "cuando": "2026-11-10T15:57",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sustitución entregada y sin recogida pedida"
+   }
   },
   {
    "id": "8311-isaac-1011-1832",
@@ -13501,7 +13601,11 @@
    "porque": "Isaac (vía panel, 18:32): «hablo con cliente para mover una sustitución y me dice que no quiere mover ninguna que quiere tener donde estan por si surgen incidencias, la C00400 aun la tiene Joni a ver si la acaba.»",
    "quien": "Isaac (Jira, 10/11 18:32)",
    "cuando": "2026-11-10T18:32",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue sin recoger"
+   }
   },
   {
    "id": "lf-hospitalet-isaac-1011-1819",
@@ -13515,7 +13619,11 @@
    "porque": "Isaac (panel, 18:19): «se ha preguntado a I+D que solucion se le puede dar»",
    "quien": "Isaac (panel, 10/11 18:19)",
    "cuando": "2026-11-10T18:19",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sin respuesta de I+D"
+   }
   },
   {
    "id": "globo-isaac-1011-1856",
@@ -13529,7 +13637,11 @@
    "porque": "Isaac (panel, 18:56): «ya esta finalizado por el tecnico»",
    "quien": "Isaac (panel, 10/11 18:56)",
    "cuando": "2026-11-10T18:56",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "finalizado por el técnico"
+   }
   },
   {
    "id": "7188-isaac-1011-1858",
@@ -13543,7 +13655,11 @@
    "porque": "Isaac (vía panel, 18:58): «se la asigno a Francisco para que la repare»",
    "quien": "Isaac (Jira, 10/11 18:58)",
    "cuando": "2026-11-10T18:58",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue en reparación sin nota"
+   }
   },
   {
    "id": "8211-isaac-1011-1900",
@@ -13557,7 +13673,11 @@
    "porque": "Isaac (vía panel, 19:00): «la sustitucion esta en trabnsito y no puedo pedir ninguna recogida de su laser»",
    "quien": "Isaac (Jira, 10/11 19:00)",
    "cuando": "2026-11-10T19:00",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sustitución entregada y sin recogida pedida"
+   }
   },
   {
    "id": "taranto-isaac-1011-1907",
@@ -13571,7 +13691,11 @@
    "porque": "Isaac (panel, 19:07): «abro incidencia»; en «EPIL POINT LASER SUPPORT» (WhatsApp, 19:07) pidió el número de serie y a las 19:32 abrió LEAS-8444",
    "quien": "Isaac (panel, 10/11 19:07)",
    "cuando": "2026-11-10T19:07",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "abierta LEAS-8444"
+   }
   },
   {
    "id": "8035-isaac-1011-1909",
@@ -13585,7 +13709,11 @@
    "porque": "Isaac (vía panel, 19:09): «se tiene que enviar una sust, voy a preguntar si ya se envio mañana en el trabajo»",
    "quien": "Isaac (Jira, 10/11 19:09)",
    "cuando": "2026-11-10T19:09",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "nota del 13/11: se manda la SRF00042"
+   }
   },
   {
    "id": "8277-isaac-1011-1936",
@@ -13599,7 +13727,11 @@
    "porque": "Isaac (vía panel, 19:36): «le he preguntado por alessandria para ver si tengo que cerrar la incidencia»; Fabio (WhatsApp, 19:48): «we need to wait for Carmen · Tomorrow morning»",
    "quien": "Isaac (Jira, 10/11 19:36)",
    "cuando": "2026-11-10T19:36",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sin respuesta de Epil Point"
+   }
   },
   {
    "id": "7879-isaac-1011-1936",
@@ -13685,7 +13817,11 @@
    "porque": "Isaac (vía panel, 19:21): «la paso a inicio de reparación»",
    "quien": "Isaac (Jira, 10/11 19:21)",
    "cuando": "2026-11-10T19:21",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "ticket cerrado"
+   }
   },
   {
    "id": "8305-gonzalo-1111-1030",
@@ -13987,7 +14123,11 @@
    "porque": "Cristina (vía panel, 12:33): «esto no aplica: En cuanto el técnico se libere se comenzará la reparación»",
    "quien": "Cristina (panel, 12/11 12:33)",
    "cuando": "2026-11-12T12:33",
-   "revive_si": "2026-11-17: si no hay nota de contenido nueva ni ha empezado la reparación"
+   "revive_si": "2026-11-17: si no hay nota de contenido nueva ni ha empezado la reparación",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue sin presupuesto ni reparación"
+   }
   },
   {
    "id": "8297-cristina-noaplica-1211-1229",
@@ -14213,7 +14353,11 @@
    "porque": "Gonzalo (vía panel, 19:54): «Enviado por correo» (etiqueta de recogida a Deseja a las 19:53)",
    "quien": "Gonzalo (panel, 12/11 19:54)",
    "cuando": "2026-11-12T19:54",
-   "revive_si": "2026-11-17: si el AHR0500 sigue sin recoger"
+   "revive_si": "2026-11-17: si el AHR0500 sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue sin reparar; Gonzalo insistió el 16/11 18:42"
+   }
   },
   {
    "id": "8203-gonzalo-panel-1211-2000",
@@ -14227,7 +14371,11 @@
    "porque": "Gonzalo (vía panel, 20:00): «Se recuerda a Administración» (presupuesto E262205 pendiente de mandar)",
    "quien": "Gonzalo (panel, 12/11 20:00)",
    "cuando": "2026-11-12T20:00",
-   "revive_si": "2026-11-17: si el presupuesto sigue sin mandarse y sin nota nueva"
+   "revive_si": "2026-11-17: si el presupuesto sigue sin mandarse y sin nota nueva",
+   "revivido": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "vencía el 17/11 y no hay nota de contenido posterior: sigue en Devuelto a cliente sin cerrar"
+   }
   },
   {
    "id": "avanta-borja-noaplica-1311-1220",
@@ -14325,7 +14473,11 @@
    "porque": "Borja (Jira, 12:37): «Recogida ayer» (a las 12:42 MCP SAT seguía dando el DHL JJD014600012890692187 «Grabado, sin recoger» del 22/10)",
    "quien": "Borja (Jira, 13/11 12:37)",
    "cuando": "2026-11-13T12:37",
-   "revive_si": "2026-11-17: si no consta evento de recogida de DHL ni llegada a taller"
+   "revive_si": "2026-11-17: si no consta evento de recogida de DHL ni llegada a taller",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "la consola ya está en taller («En preparación presupuesto»)"
+   }
   },
   {
    "id": "8044-borja-panel-1311-1237",
@@ -14595,7 +14747,11 @@
    "porque": "Gonzalo (vía panel, 10:22): «Se le pasa esta tarde»",
    "quien": "Gonzalo (panel, 16/11 10:22)",
    "cuando": "2026-11-16T10:22",
-   "revive_si": "2026-11-17: si el informe no consta enviado"
+   "revive_si": "2026-11-17: si el informe no consta enviado",
+   "caducado": {
+    "fecha": "2026-11-17T09:42",
+    "motivo": "informe enviado el 16/11 a las 19:30 en «INCIDENCIAS (FOTOS Y VIDEOS)»"
+   }
   },
   {
    "id": "8389-gonzalo-panel-1611-1020",
