@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-17T09:42",
+ "actualizado": "2026-11-17T12:43",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -15075,6 +15075,160 @@
    "quien": "Gonzalo (panel, 16/11 17:55)",
    "cuando": "2026-11-16T17:55",
    "revive_si": "2026-11-23: si no se ha mandado el diploma a Fabio"
+  },
+  {
+   "id": "8286-gonzalo-panel-1711-1047",
+   "que": "LEAS-8286: ya en taller",
+   "ambito": {
+    "leas": "LEAS-8286",
+    "centro": "SinVello Andujar",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 10:47): «Ha llegado, se mete dentro»; Fotos equipos 11:28 «#MHR91241 MHP30559 IN»",
+   "quien": "Gonzalo (panel, 17/11 10:47)",
+   "cuando": "2026-11-17T10:47",
+   "revive_si": "2026-11-24: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8311-borja-wapp-1711-1221",
+   "que": "LEAS-8311: recogida en marcha",
+   "ambito": {
+    "leas": "LEAS-8311",
+    "centro": "Laser Factory Granollers",
+    "cliente": "Laser Factory",
+    "tipo": "ruta"
+   },
+   "porque": "Laser Factory (WhatsApp 12:00): «podéis mandar a recoger… Es el C00395 y ya lo tenemos empaquetado»; Borja 12:21 manda la etiqueta",
+   "quien": "Borja (WhatsApp, 17/11 12:21)",
+   "cuando": "2026-11-17T12:21",
+   "revive_si": "2026-11-19: si la C00395 no ha salido o no ha llegado a taller"
+  },
+  {
+   "id": "8199-gonzalo-panel-1711-1055",
+   "que": "LEAS-8199: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8199",
+    "centro": "Centro Unico Libia FC00022",
+    "cliente": "Centri Unico",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 10:55): «Esperando a que llegue»",
+   "quien": "Gonzalo (panel, 17/11 10:55)",
+   "cuando": "2026-11-17T10:55",
+   "revive_si": "2026-11-18: si sigue sin entrada en taller (DHL da entregado en Gijón el 17/11)"
+  },
+  {
+   "id": "8277-gonzalo-panel-1711-1034",
+   "que": "LEAS-8277: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8277",
+    "centro": "Epil Point ALESSANDRIA",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 10:34): «No ha llegado el material todavía»",
+   "quien": "Gonzalo (panel, 17/11 10:34)",
+   "cuando": "2026-11-17T10:34",
+   "revive_si": "2026-11-24: si no consta que llegó el material"
+  },
+  {
+   "id": "8398-gonzalo-panel-1711-1035",
+   "que": "LEAS-8398: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8398",
+    "centro": "Epil Point Formia",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 10:35): «No ha llegado el material todavía»",
+   "quien": "Gonzalo (panel, 17/11 10:35)",
+   "cuando": "2026-11-17T10:35",
+   "revive_si": "2026-11-24: si el 40330 sigue sin recoger"
+  },
+  {
+   "id": "8470-gonzalo-panel-1711-1044",
+   "que": "LEAS-8470: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8470",
+    "centro": "Regina 91422 30870",
+    "cliente": "Regina",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 10:44): «Ha llegado ayer a taller»",
+   "quien": "Gonzalo (panel, 17/11 10:44)",
+   "cuando": "2026-11-17T10:44",
+   "revive_si": "2026-11-24: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8484-gonzalo-panel-1711-1035",
+   "que": "LEAS-8484: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8484",
+    "centro": "Elha Limoneros",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 10:35): «En cola taller»; a las 12:29 pasa a «Presupuesto preparado pendiente de enviar»",
+   "quien": "Gonzalo (panel, 17/11 10:35)",
+   "cuando": "2026-11-17T10:35",
+   "revive_si": "2026-11-20: si el presupuesto sigue sin enviar"
+  },
+  {
+   "id": "8095-gonzalo-panel-1711-1033",
+   "que": "LEAS-8095: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8095",
+    "centro": "Epil Point Bergamo",
+    "cliente": "Epil Point",
+    "tipo": "prestamo"
+   },
+   "porque": "Gonzalo (vía panel, 10:33): «HA lleago ayer la consola a reparar, no se ha podido cambiar la nevera tan rápido»",
+   "quien": "Gonzalo (panel, 17/11 10:33)",
+   "cuando": "2026-11-17T10:33",
+   "revive_si": "2026-11-24: si no hay decisión sobre la SUSTMHR014"
+  },
+  {
+   "id": "8387-gonzalo-panel-1711-1032",
+   "que": "LEAS-8387: punto ya contestado por el equipo",
+   "ambito": {
+    "leas": "LEAS-8387",
+    "centro": "Elha Betanzos",
+    "cliente": "Elha",
+    "tipo": "cerrar"
+   },
+   "porque": "Gonzalo (vía panel, 10:32): «El equipo salió ayer no ha llegado todavía»",
+   "quien": "Gonzalo (panel, 17/11 10:32)",
+   "cuando": "2026-11-17T10:32",
+   "revive_si": "2026-11-19: si sigue sin finalizar"
+  },
+  {
+   "id": "7420-borja-jira-1711-0951",
+   "que": "LEAS-7420: espera a la clienta",
+   "ambito": {
+    "leas": "LEAS-7420",
+    "centro": "Medical & Aesthetics Solutions",
+    "cliente": "Medical & Aesthetics Solutions",
+    "tipo": "cerrar"
+   },
+   "porque": "Borja (Jira, 09:51): «el envio depende de una clienta de Adolfo en Surinam, sigue pdte de que le de luz verde para mandar la pieza»",
+   "quien": "Borja (Jira, 17/11 09:51)",
+   "cuando": "2026-11-17T09:51",
+   "revive_si": "2026-11-24: si sigue sin luz verde ni envío"
+  },
+  {
+   "id": "lf-hospitalet-gonzalo-panel-1711-1203",
+   "que": "Laser Factory Hospitalet y Terrassa: esperando a I+D",
+   "ambito": {
+    "leas": null,
+    "centro": "Laser Factory Hospitalet y Terrassa",
+    "cliente": "Laser Factory",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (nota del panel, 12:03): «Estamos esperando a I+D, per seguramente no sabremos nada en bastantes dias»",
+   "quien": "Gonzalo (panel, 17/11 12:03)",
+   "cuando": "2026-11-17T12:03",
+   "revive_si": "2026-11-24: si I+D sigue sin dar la solución"
   }
  ],
  "enlaces": [
