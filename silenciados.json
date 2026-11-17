@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-17T16:19",
+ "actualizado": "2026-11-17T22:37",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -15331,6 +15331,174 @@
    "quien": "Gonzalo (panel, 17/11 16:13)",
    "cuando": "2026-11-17T16:13",
    "revive_si": "2026-11-18: si Mário Pinto sigue sin precio (pregunta de las 16:14) o no hay ticket de la C00514"
+  },
+  {
+   "id": "8371-gonzalo-1711-1721",
+   "que": "Zubiarte: recogida pedida",
+   "ambito": {
+    "leas": "LEAS-8371",
+    "centro": "Dermasana Zubiarte",
+    "cliente": "Dermasana",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 17:21): «Pedido»; en el chat (17:15-17:19): «Pido la recogida para mañana» y la etiqueta",
+   "quien": "Gonzalo (panel, 17/11 17:21)",
+   "cuando": "2026-11-17T17:21",
+   "revive_si": "2026-11-19: si el equipo no se ha recogido"
+  },
+  {
+   "id": "8353-gonzalo-1711-1727",
+   "que": "FAN Mallorca Shopping: recogido y en taller",
+   "ambito": {
+    "leas": "LEAS-8353",
+    "centro": "FAN Mallorca Shopping",
+    "cliente": "Beleco",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (17:27, en el ticket y vía panel): «Se ha recogido, en taller»; MCP SAT: DHL Parcel «Entregado · Asturias · 17/11»",
+   "quien": "Gonzalo (Jira, 17/11 17:27)",
+   "cuando": "2026-11-17T17:27",
+   "revive_si": "2026-11-19: si sigue en «Gestionado transporte»"
+  },
+  {
+   "id": "8364-gonzalo-1711-1725",
+   "que": "Smart Duck Annecy: recogida pedida",
+   "ambito": {
+    "leas": "LEAS-8364",
+    "centro": "Smart Duck Annecy",
+    "cliente": "Smart Duck",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (17:25, en el ticket y vía panel): «Recogida pedida»; MCP SAT: DHL Express JJD014600012889368211 «Grabado, sin recoger · Lyon · 17/11»",
+   "quien": "Gonzalo (Jira, 17/11 17:25)",
+   "cuando": "2026-11-17T17:25",
+   "revive_si": "2026-11-20: si DHL no lo ha recogido"
+  },
+  {
+   "id": "8102-gonzalo-1711-1735",
+   "que": "Pro Laser Tenerife: en tránsito con BPR sin localizador",
+   "ambito": {
+    "leas": "LEAS-8102",
+    "centro": "Pro Laser Tenerife",
+    "cliente": "Pro Laser",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 17:35): «No tiene localizador, se pregunta a benjamin a ver cuando vuelve»; BPR Logistic por correo (19:01): «Salió el viernes pasado, calcula un tránsito de 7 a 10 días»",
+   "quien": "Gonzalo (panel, 17/11 17:35)",
+   "cuando": "2026-11-17T17:35",
+   "revive_si": "2026-11-25: si no ha llegado a taller (tránsito de 7 a 10 días desde el 13/11)"
+  },
+  {
+   "id": "8517-gonzalo-1711-1723",
+   "que": "Helena Cordero: se envía la sustitución antes de recoger",
+   "ambito": {
+    "leas": "LEAS-8517",
+    "centro": "Helena Cordero",
+    "cliente": "Helena Cordero",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 17:23): «Se mira para enviar una»; ENVIOS SAT LEASEIR (17:22): envío de «Sustitución AHR Dual» a Helena Cordero",
+   "quien": "Gonzalo (panel, 17/11 17:23)",
+   "cuando": "2026-11-17T17:23",
+   "revive_si": "2026-11-20: si no ha salido la sustitución o no se ha pedido la recogida"
+  },
+  {
+   "id": "4908-gonzalo-1711-1732",
+   "que": "Pintor Felo Monzón: en cola",
+   "ambito": {
+    "leas": "LEAS-4908",
+    "centro": "Elha Pintor Felo Monzon",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:32): «En cola»",
+   "quien": "Gonzalo (panel, 17/11 17:32)",
+   "cuando": "2026-11-17T17:32",
+   "revive_si": "2026-11-20: si no ha entrado a reparar y no hay nota nueva"
+  },
+  {
+   "id": "7188-gonzalo-1711-1757",
+   "que": "Unico Boccea SRF00014: en cola",
+   "ambito": {
+    "leas": "LEAS-7188",
+    "centro": "Centro Unico Boccea",
+    "cliente": "Centri Unico",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:57): «En cola»",
+   "quien": "Gonzalo (panel, 17/11 17:57)",
+   "cuando": "2026-11-17T17:57",
+   "revive_si": "2026-11-20: si no hay avance ni nota nueva"
+  },
+  {
+   "id": "8033-isaac-1711-1834",
+   "que": "Belenus Chile H00321: en reparación",
+   "ambito": {
+    "leas": "LEAS-8033",
+    "centro": "Belenus Chile",
+    "cliente": "Belenus",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 18:34): «ya esta en reparación»",
+   "quien": "Isaac (panel, 17/11 18:34)",
+   "cuando": "2026-11-17T18:34",
+   "revive_si": "2026-11-20: si no ha salido de reparación y no hay nota nueva"
+  },
+  {
+   "id": "8437-gonzalo-1711-1733",
+   "que": "Deseja AHR0500: asignado",
+   "ambito": {
+    "leas": "LEAS-8437",
+    "centro": "Deseja",
+    "cliente": "Deseja",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:33): «Ya está asignado» (Iván)",
+   "quien": "Gonzalo (panel, 17/11 17:33)",
+   "cuando": "2026-11-17T17:33",
+   "revive_si": "2026-11-20: si no ha entrado a reparar y no hay nota nueva"
+  },
+  {
+   "id": "8486-gonzalo-1711-1733",
+   "que": "L Medical C03373: material enviado",
+   "ambito": {
+    "leas": "LEAS-8486",
+    "centro": "L Medical",
+    "cliente": "L Medical",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:33): «Material enviado» con DHL Express JJD014600012888929286",
+   "quien": "Gonzalo (panel, 17/11 17:33)",
+   "cuando": "2026-11-17T17:33",
+   "revive_si": "2026-11-20: si no consta la reparación con el material"
+  },
+  {
+   "id": "6906-isaac-1711-1841",
+   "que": "Holea: sigue igual en inspección de salida",
+   "ambito": {
+    "leas": "LEAS-6906",
+    "centro": "Daniel Jaramillo Holea",
+    "cliente": "Holea",
+    "tipo": "cerrar"
+   },
+   "porque": "Isaac (vía panel, 18:41): «sigue todo igual»",
+   "quien": "Isaac (panel, 17/11 18:41)",
+   "cuando": "2026-11-17T18:41",
+   "revive_si": "2026-11-20: si sigue en «Inspección de salida» sin nota de contenido"
+  },
+  {
+   "id": "7820-gonzalo-1711-1721",
+   "que": "Juan Casasnovas: se le envía material",
+   "ambito": {
+    "leas": "LEAS-7820",
+    "centro": "Juan Casasnovas",
+    "cliente": "Juan Casasnovas",
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (vía panel, 17:21): «Se le va a enviar material»",
+   "quien": "Gonzalo (panel, 17/11 17:21)",
+   "cuando": "2026-11-17T17:21",
+   "revive_si": "2026-11-24: si no consta el envío del material"
   }
  ],
  "enlaces": [
