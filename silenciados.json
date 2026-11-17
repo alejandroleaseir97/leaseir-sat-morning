@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-17T12:43",
+ "actualizado": "2026-11-17T15:26",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14021,7 +14021,11 @@
    "porque": "Borja (Reparaciones Leaseir Dermasana Zubiarte, 15:23): «no queda mas que moverlo un poco hacia los lados con fuerza para desencajarlo»; 16:11 el centro lo desencajó y a las 16:14 lo vuelve a intentar",
    "quien": "Borja (WhatsApp, 11/11 15:23)",
    "cuando": "2026-11-11T15:23",
-   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-17T15:26",
+    "motivo": "hecho nuevo: a las 15:09 la clienta (Eva) pide dar la orden de recogida y no se le ha contestado"
+   }
   },
   {
    "id": "8193-isaac-1111-1807",
@@ -15229,6 +15233,76 @@
    "quien": "Gonzalo (panel, 17/11 12:03)",
    "cuando": "2026-11-17T12:03",
    "revive_si": "2026-11-24: si I+D sigue sin dar la solución"
+  },
+  {
+   "id": "8232-isaac-jira-1711-1428",
+   "que": "LEAS-8232: ya en taller",
+   "ambito": {
+    "leas": "LEAS-8232",
+    "centro": "SinVello Jerez",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Pasa a «En cola taller»; Isaac (Jira, 14:28): «no me deja descargar las fotos de entrada»",
+   "quien": "Isaac (Jira, 17/11 14:28)",
+   "cuando": "2026-11-17T14:28",
+   "revive_si": "2026-11-24: si no hay nota de contenido nueva"
+  },
+  {
+   "id": "8345-jira-1711-esperando-inicio",
+   "que": "LEAS-8345: presupuesto resuelto",
+   "ambito": {
+    "leas": "LEAS-8345",
+    "centro": "Leaseir SAT",
+    "cliente": "Leaseir SAT",
+    "tipo": "presu"
+   },
+   "porque": "Pasa a «Esperando inicio reparación»",
+   "quien": "Jira (17/11)",
+   "cuando": "2026-11-17T14:20",
+   "revive_si": "2026-11-24: si sigue sin empezar la reparación"
+  },
+  {
+   "id": "8170-isaac-jira-1711-1304",
+   "que": "LEAS-8170: presupuesto enviado",
+   "ambito": {
+    "leas": "LEAS-8170",
+    "centro": "Clinic and Esthetic by Skincare Addict",
+    "cliente": "Clinic and Esthetic",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (Jira, 13:04): presupuesto E262251 de 5.445 € («se envia presupuesto cambio diodo, solo el diodo con el 50% de descuento segun contrato»); WhatsApp 13:05",
+   "quien": "Isaac (Jira, 17/11 13:04)",
+   "cuando": "2026-11-17T13:04",
+   "revive_si": "2026-11-20: si la clienta no ha contestado"
+  },
+  {
+   "id": "8285-isaac-jira-1711-1329",
+   "que": "LEAS-8285: presupuesto enviado",
+   "ambito": {
+    "leas": "LEAS-8285",
+    "centro": "SinVello Cartagena",
+    "cliente": "Sin Vello",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (Jira, 13:29): «se envia presupuesto a Sin vello por mail»",
+   "quien": "Isaac (Jira, 17/11 13:29)",
+   "cuando": "2026-11-17T13:29",
+   "revive_si": "2026-11-20: si Sin Vello no ha contestado"
+  },
+  {
+   "id": "8534-cristina-wapp-1711-1242",
+   "que": "LEAS-8534: contestado, vuelve a taller",
+   "ambito": {
+    "leas": "LEAS-8534",
+    "centro": "Elha Cartagena",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Cristina (WhatsApp, 12:42): «Está la traemos a taller, decirme si tenéis caja por favor»; a las 12:44 pasa a «Pendiente recogida» (reparación en taller)",
+   "quien": "Cristina (WhatsApp, 17/11 12:42)",
+   "cuando": "2026-11-17T12:42",
+   "revive_si": "2026-11-19: si sigue sin recogida pedida"
   }
  ],
  "enlaces": [
