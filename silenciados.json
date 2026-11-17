@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-17T15:26",
+ "actualizado": "2026-11-17T16:19",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -15303,6 +15303,34 @@
    "quien": "Cristina (WhatsApp, 17/11 12:42)",
    "cuando": "2026-11-17T12:42",
    "revive_si": "2026-11-19: si sigue sin recogida pedida"
+  },
+  {
+   "id": "galaxy-gonzalo-1711-1612",
+   "que": "Galaxy: pregunta de los ml contestada",
+   "ambito": {
+    "leas": null,
+    "centro": "Galaxy",
+    "cliente": "Galaxy",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 16:12): «Se ha respondido»; en el grupo (15:59): «250 ml»",
+   "quien": "Gonzalo (panel, 17/11 16:12)",
+   "cuando": "2026-11-17T15:59",
+   "revive_si": "Galaxy vuelve a preguntar y no se le contesta en el día"
+  },
+  {
+   "id": "portugal-gonzalo-1711-1613",
+   "que": "SAT Portugal (C00514): queja del umbilical contestada",
+   "ambito": {
+    "leas": null,
+    "centro": "SAT Portugal",
+    "cliente": "SAT Portugal",
+    "tipo": "wapp"
+   },
+   "porque": "Gonzalo (vía panel, 16:13): «Se ha respondido»; en el grupo (15:40-16:11) se le dijo que es reparable, que hay que recogerlo y que no tiene garantía",
+   "quien": "Gonzalo (panel, 17/11 16:13)",
+   "cuando": "2026-11-17T16:13",
+   "revive_si": "2026-11-18: si Mário Pinto sigue sin precio (pregunta de las 16:14) o no hay ticket de la C00514"
   }
  ],
  "enlaces": [
