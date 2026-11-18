@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-18T15:22",
+ "actualizado": "2026-11-18T16:17",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -15715,6 +15715,34 @@
    "quien": "Borja (panel, 18/11 14:05)",
    "cuando": "2026-11-18T14:05",
    "revive_si": "2026-11-23: si sigue en «Devuelto a cliente» sin finalizar"
+  },
+  {
+   "id": "7824-borja-1811-1530",
+   "que": "Elha Obispo C00520: se prueba en Elha Oviedo",
+   "ambito": {
+    "leas": "LEAS-7824",
+    "centro": "Elha Obispo",
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Borja (Jira, 15:30): «Se está probando desde hoy en ELha Oviedo»",
+   "quien": "Borja (Jira, 18/11 15:30)",
+   "cuando": "2026-11-18T15:30",
+   "revive_si": "2026-11-23: si sigue en «Inspección de salida» sin nota de contenido"
+  },
+  {
+   "id": "8464-diodor-1811-1612",
+   "que": "Diodor Gandía: cita con el técnico quedada para el 19/11",
+   "ambito": {
+    "leas": "LEAS-8464",
+    "centro": "Diodor Gandía",
+    "cliente": "Diodor",
+    "tipo": "wapp"
+   },
+   "porque": "Diodor (WhatsApp, 16:12): «Mañana hemos quedado con el Técnico, os vamos diciendo»",
+   "quien": "Diodor (WhatsApp, 18/11 16:12)",
+   "cuando": "2026-11-18T16:12",
+   "revive_si": "2026-11-20: si no consta la visita del 19/11"
   }
  ],
  "enlaces": [
