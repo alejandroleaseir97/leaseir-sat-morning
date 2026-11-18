@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-18T16:17",
+ "actualizado": "2026-11-18T19:18",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -15743,6 +15743,202 @@
    "quien": "Diodor (WhatsApp, 18/11 16:12)",
    "cuando": "2026-11-18T16:12",
    "revive_si": "2026-11-20: si no consta la visita del 19/11"
+  },
+  {
+   "id": "8546-gonzalo-1811-1756",
+   "que": "SinVello Alicante Gran Vía: se envía material",
+   "ambito": {
+    "leas": "LEAS-8546",
+    "centro": "SinVello Alicante Gran Vía",
+    "cliente": "Sin Vello",
+    "tipo": "telegram"
+   },
+   "porque": "Gonzalo (vía panel, 17:56): «Se va a enviar material, es muy facil de reparar»",
+   "quien": "Gonzalo (Jira, 18/11 17:56)",
+   "cuando": "2026-11-18T17:56",
+   "revive_si": "2026-11-25: si no consta el envío del material"
+  },
+  {
+   "id": "8291-gonzalo-1811-1653",
+   "que": "Doll Beauty Suiza: no aprueban el presupuesto",
+   "ambito": {
+    "leas": "LEAS-8291",
+    "centro": "Doll Beauty Suiza",
+    "cliente": "Doll Beauty",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 16:53): «No aprueban el presupuesto»",
+   "quien": "Gonzalo (Jira, 18/11 16:53)",
+   "cuando": "2026-11-18T16:53",
+   "revive_si": "2026-11-23: si sigue en «Pendiente recogida» sin nota de contenido"
+  },
+  {
+   "id": "8339-gonzalo-1811-1748",
+   "que": "SUSTDUAL017: nuestro, esperando reparación",
+   "ambito": {
+    "leas": "LEAS-8339",
+    "centro": "Leaseir SAT",
+    "cliente": "Leaseir",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 17:48): «Nuestro, esperando repración»",
+   "quien": "Gonzalo (Jira, 18/11 17:48)",
+   "cuando": "2026-11-18T17:48",
+   "revive_si": "2026-11-25: si sigue en «Pendiente recogida» sin nota de contenido"
+  },
+  {
+   "id": "8456-gonzalo-1811-1740",
+   "que": "Lucem Reus: se pregunta si se recoge (tiene que aceptar presupuesto)",
+   "ambito": {
+    "leas": "LEAS-8456",
+    "centro": "Lucem Reus",
+    "cliente": "Lucem",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 17:40): «Se le pregunta si se hace la recogida ya que tiene que aceptar el presupuesto»; el cliente (WhatsApp, 17:55): «Si, mañana os diremos algo»",
+   "quien": "Gonzalo (Jira, 18/11 17:40)",
+   "cuando": "2026-11-18T17:40",
+   "revive_si": "2026-11-20: si el cliente no ha contestado"
+  },
+  {
+   "id": "8299-gonzalo-1811-1727",
+   "que": "L point: se espera respuesta de I+D",
+   "ambito": {
+    "leas": "LEAS-8299",
+    "centro": "L point",
+    "cliente": "L point",
+    "tipo": "nadie"
+   },
+   "porque": "Gonzalo (vía panel, 17:27): «Se espera respuesta de I+D»",
+   "quien": "Gonzalo (Jira, 18/11 17:27)",
+   "cuando": "2026-11-18T17:27",
+   "revive_si": "2026-11-25: si no hay respuesta de I+D"
+  },
+  {
+   "id": "8322-gonzalo-1811-1734",
+   "que": "Smart Duck Troyes: a la espera de programa de I+D",
+   "ambito": {
+    "leas": "LEAS-8322",
+    "centro": "Smart Duck Troyes",
+    "cliente": "Smart Duck",
+    "tipo": "nadie"
+   },
+   "porque": "Gonzalo (Jira, 17:34): «A la espera de programa de I+D»",
+   "quien": "Gonzalo (Jira, 18/11 17:34)",
+   "cuando": "2026-11-18T17:34",
+   "revive_si": "2026-11-25: si no llega el programa de I+D"
+  },
+  {
+   "id": "8257-gonzalo-1811-1746",
+   "que": "Centro Unico Campania H00562: se pide de nuevo la recogida",
+   "ambito": {
+    "leas": "LEAS-8257",
+    "centro": "Centro Unico Campania",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (Jira, 17:46): «Se pide de nuevo la recogida»; Telegram 17:44 con la etiqueta: «Se non lo ritirano domani o dopodomani, vi preghiamo di comunicarcelo»",
+   "quien": "Gonzalo (Jira, 18/11 17:46)",
+   "cuando": "2026-11-18T17:46",
+   "revive_si": "2026-11-20: si DHL no la ha recogido"
+  },
+  {
+   "id": "8341-gonzalo-1811-1733",
+   "que": "SUSTDUAL010: nuestra, prisa solo por tenerla disponible",
+   "ambito": {
+    "leas": "LEAS-8341",
+    "centro": "Leaseir SAT",
+    "cliente": "Leaseir",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:33): «Es nuestra, corre, solo corre prisa para tenerla disponible»",
+   "quien": "Gonzalo (Jira, 18/11 17:33)",
+   "cuando": "2026-11-18T17:33",
+   "revive_si": "2026-11-25: si sigue sin técnico"
+  },
+  {
+   "id": "8343-gonzalo-1811-1733",
+   "que": "SUSTQUAD016: nuestra, prisa solo por tenerla disponible",
+   "ambito": {
+    "leas": "LEAS-8343",
+    "centro": "Leaseir SAT",
+    "cliente": "Leaseir",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:33): «Es nuestra, corre, solo corre prisa para tenerla disponible»",
+   "quien": "Gonzalo (Jira, 18/11 17:33)",
+   "cuando": "2026-11-18T17:33",
+   "revive_si": "2026-11-25: si sigue sin técnico"
+  },
+  {
+   "id": "8349-gonzalo-1811-1733",
+   "que": "SUSTDUAL016: nuestra, prisa solo por tenerla disponible",
+   "ambito": {
+    "leas": "LEAS-8349",
+    "centro": "Leaseir SAT",
+    "cliente": "Leaseir",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:33): «Es nuestra, corre, solo corre prisa para tenerla disponible»",
+   "quien": "Gonzalo (Jira, 18/11 17:33)",
+   "cuando": "2026-11-18T17:33",
+   "revive_si": "2026-11-25: si sigue sin técnico"
+  },
+  {
+   "id": "8403-gonzalo-1811-1732",
+   "que": "Elha Niza: en cola",
+   "ambito": {
+    "leas": "LEAS-8403",
+    "centro": "Elha Niza",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:32): «En cola»",
+   "quien": "Gonzalo (Jira, 18/11 17:32)",
+   "cuando": "2026-11-18T17:32",
+   "revive_si": "2026-11-23: si sigue sin empezar la reparación"
+  },
+  {
+   "id": "8481-gonzalo-1811-1748",
+   "que": "Smart Duck Grenoble: presupuesto enviado, esperando aprobación",
+   "ambito": {
+    "leas": "LEAS-8481",
+    "centro": "Smart Duck Grenoble",
+    "cliente": "Smart Duck",
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 17:48): «Se ha enviado ayer el presupuesto, esperando su aprobación»",
+   "quien": "Gonzalo (Jira, 18/11 17:48)",
+   "cuando": "2026-11-18T17:48",
+   "revive_si": "2026-11-23: si no hay respuesta al presupuesto"
+  },
+  {
+   "id": "7879-isaac-1811-1833",
+   "que": "Nantara Laser: presupuesto reclamado de nuevo",
+   "ambito": {
+    "leas": "LEAS-7879",
+    "centro": "Nantara Laser (Solmanía)",
+    "cliente": "Nantara",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 18:33): «se lo hemos vuelto a recordar…»",
+   "quien": "Isaac (Jira, 18/11 18:33)",
+   "cuando": "2026-11-18T18:33",
+   "revive_si": "2026-11-23: si no hay respuesta del cliente"
+  },
+  {
+   "id": "epil-milano-regina-1811-1623",
+   "que": "Epil Point Milano Regina MHR91371: ticket abierto y enviado a técnico externo",
+   "ambito": {
+    "leas": "LEAS-8567",
+    "centro": "Epil Point Milano Regina",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "LEAS-8567 abierto a las 16:23 («EP MILANO REGINA») y en «Enviado a técnico externo»; correo de Gonzalo a Sincronis «LEAS-8567 Ep Milano Regina 91371 Temperature problem»",
+   "quien": "Gonzalo (Jira y correo, 18/11 16:23-16:32)",
+   "cuando": "2026-11-18T16:32",
+   "revive_si": "2026-11-25: si no hay fecha del técnico externo"
   }
  ],
  "enlaces": [
