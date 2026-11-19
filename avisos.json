@@ -1,7 +1,7 @@
 {
  "_que_es": "Días LABORABLES en que cada punto ha salido en el panel. El aviso es len(dias): 1 = primera vez, 2 = campana, 3+ = rojo. Lo mantiene la pasada, no el navegador, para que todos vean el mismo número.",
  "_como_se_actualiza": "En la primera pasada de cada día laborable, añadir la fecha de hoy a cada punto que sigue saliendo, y borrar los puntos que ya no salen. Sábados, domingos y los días de 'festivos' NO se añaden.",
- "actualizado": "2026-11-18T09:43",
+ "actualizado": "2026-11-19T10:24",
  "festivos": [
   "2026-01-01",
   "2026-01-06",
@@ -41,125 +41,90 @@
    "2026-11-13",
    "2026-11-16",
    "2026-11-17",
-   "2026-11-18"
+   "2026-11-18",
+   "2026-11-19"
   ],
-  "wapp|Distrilaser (Francia) · consola 90200 · fuga": [
-   "2026-11-18"
+  "wapp|Distrilaser (Francia) · consola inundada · s": [
+   "2026-11-19"
   ],
-  "LEAS-8464": [
-   "2026-11-18"
+  "wapp|Skinnovation (India) · manípulo Dual Blend e": [
+   "2026-11-19"
   ],
-  "wapp|Elha (Incidencias Leaseir/Elha) · cajas vací": [
-   "2026-11-18"
+  "LEAS-8241": [
+   "2026-11-19"
   ],
-  "LEAS-8193": [
-   "2026-11-18"
+  "LEAS-8534": [
+   "2026-11-19"
   ],
-  "wapp|NEA Aesthetic (Líbano) · consola 40511 · cód": [
-   "2026-11-18"
+  "LEAS-8554": [
+   "2026-11-19"
   ],
-  "LEAS-7824": [
-   "2026-11-18"
+  "LEAS-8572": [
+   "2026-11-19"
   ],
-  "LEAS-8291": [
-   "2026-11-18"
+  "LEAS-8311": [
+   "2026-11-19"
   ],
-  "LEAS-8305": [
-   "2026-11-18"
+  "LEAS-8478": [
+   "2026-11-19"
   ],
-  "LEAS-8339": [
-   "2026-11-18"
+  "LEAS-8493": [
+   "2026-11-19"
   ],
-  "LEAS-8414": [
-   "2026-11-18"
+  "LEAS-8353": [
+   "2026-11-19"
   ],
-  "LEAS-8456": [
-   "2026-11-18"
-  ],
-  "LEAS-8374": [
-   "2026-11-18"
-  ],
-  "LEAS-8299": [
-   "2026-11-18"
-  ],
-  "LEAS-8322": [
-   "2026-11-18"
+  "LEAS-8515": [
+   "2026-11-19"
   ],
   "LEAS-8211": [
    "2026-11-17",
-   "2026-11-18"
+   "2026-11-18",
+   "2026-11-19"
   ],
-  "LEAS-8035": [
-   "2026-11-18"
+  "LEAS-8389": [
+   "2026-11-19"
   ],
-  "LEAS-8257": [
-   "2026-11-18"
+  "LEAS-8441": [
+   "2026-11-19"
   ],
-  "LEAS-7730": [
-   "2026-11-18"
-  ],
-  "LEAS-8093": [
-   "2026-11-18"
+  "LEAS-8563": [
+   "2026-11-19"
   ],
   "epil|Epil Point Arenella · revisión pendiente de ": [
-   "2026-11-18"
+   "2026-11-18",
+   "2026-11-19"
   ],
-  "LEAS-7714": [
-   "2026-11-18"
+  "epil|Epil Point Castellammare (consola 91347) · n": [
+   "2026-11-19"
   ],
-  "LEAS-7891": [
-   "2026-11-18"
+  "LEAS-8449": [
+   "2026-11-19"
   ],
-  "LEAS-7975": [
-   "2026-11-18"
+  "LEAS-8374": [
+   "2026-11-18",
+   "2026-11-19"
   ],
-  "LEAS-8164": [
-   "2026-11-18"
+  "LEAS-7923": [
+   "2026-11-19"
   ],
-  "LEAS-8172": [
-   "2026-11-18"
+  "LEAS-8184": [
+   "2026-11-19"
   ],
-  "LEAS-8341": [
-   "2026-11-18"
+  "LEAS-8512": [
+   "2026-11-19"
   ],
-  "LEAS-8343": [
-   "2026-11-18"
+  "LEAS-8513": [
+   "2026-11-19"
   ],
-  "LEAS-8349": [
-   "2026-11-18"
+  "LEAS-8394": [
+   "2026-11-19"
   ],
-  "LEAS-8403": [
-   "2026-11-18"
+  "LEAS-7789": [
+   "2026-11-19"
   ],
-  "LEAS-8416": [
-   "2026-11-18"
-  ],
-  "LEAS-8481": [
-   "2026-11-18"
-  ],
-  "LEAS-8044": [
-   "2026-11-18"
-  ],
-  "LEAS-8360": [
-   "2026-11-18"
-  ],
-  "LEAS-7904": [
-   "2026-11-18"
-  ],
-  "LEAS-8436": [
-   "2026-11-18"
-  ],
-  "LEAS-8461": [
-   "2026-11-18"
-  ],
-  "LEAS-8283": [
-   "2026-11-18"
-  ],
-  "LEAS-8510": [
-   "2026-11-18"
-  ],
-  "LEAS-7879": [
-   "2026-11-18"
+  "LEAS-8459": [
+   "2026-11-19"
   ]
  }
 }
