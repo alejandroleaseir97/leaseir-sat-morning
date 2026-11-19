@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-19T12:43",
+ "actualizado": "2026-11-19T15:23",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -16203,6 +16203,90 @@
    "quien": "Gonzalo",
    "cuando": "2026-11-19T11:32",
    "revive_si": "2026-11-24: si no consta respuesta de Brull"
+  },
+  {
+   "id": "8374-cristina-noaplica-1911-1323",
+   "que": "LEAS-8374: asignar técnico al 40568 de Elha Cartagena",
+   "ambito": {
+    "leas": "LEAS-8374",
+    "centro": "Elha Laser Center Cartagena",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Cristina (vía panel, 13:23): «esto no aplica: en cuanto se liberen los técnicos en taller se asignará»",
+   "quien": "Cristina",
+   "cuando": "2026-11-19T13:23",
+   "revive_si": "2026-11-24: si sigue en «Pendiente asignar técnico» sin nota nueva"
+  },
+  {
+   "id": "8184-isaac-panel-1911-1327",
+   "que": "LEAS-8184: pieza nueva de fábrica para SinVello El Pilar",
+   "ambito": {
+    "leas": "LEAS-8184",
+    "centro": "SinVello El Pilar",
+    "cliente": "Sin Vello",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 13:27): «fabrica tiene que montar una pieza nueva, esta en cola»",
+   "quien": "Isaac",
+   "cuando": "2026-11-19T13:27",
+   "revive_si": "2026-11-24: si sigue en «Esperando inicio reparación» sin nota nueva"
+  },
+  {
+   "id": "8449-isaac-panel-1911-1326",
+   "que": "LEAS-8449: asignar técnico a la 91130 de Beleco Fan Mallorca",
+   "ambito": {
+    "leas": "LEAS-8449",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "Beleco",
+    "tipo": "repara"
+   },
+   "porque": "Isaac (vía panel, 13:26): «esta en manos del comercial»",
+   "quien": "Isaac",
+   "cuando": "2026-11-19T13:26",
+   "revive_si": "2026-11-24: si sigue sin decisión del comercial apuntada"
+  },
+  {
+   "id": "8512-cristina-noaplica-1911-1324",
+   "que": "LEAS-8512: visita de GEE en Elha Caracol",
+   "ambito": {
+    "leas": "LEAS-8512",
+    "centro": "Elha Caracol",
+    "cliente": "Elha",
+    "tipo": "externo"
+   },
+   "porque": "Cristina (vía panel, 13:24): «esto no aplica: Se pregunta a GEE cuando se asistirá a reparar»; GEE mandó el albarán de trabajo de Elha Caracol por correo a las 14:12",
+   "quien": "Cristina",
+   "cuando": "2026-11-19T13:24",
+   "revive_si": "2026-11-24: si sigue en «Enviado a técnico externo» sin cerrar"
+  },
+  {
+   "id": "8554-isaac-panel-1911-1324",
+   "que": "LEAS-8554: recogida del 30206 de SinVello Écija",
+   "ambito": {
+    "leas": "LEAS-8554",
+    "centro": "SinVello Écija",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (vía panel, 13:24): «se envia sustitución» (LEAS-8556, CTT grabado el 19/11)",
+   "quien": "Isaac",
+   "cuando": "2026-11-19T13:24",
+   "revive_si": "2026-11-24: si la sustitución está entregada y la recogida sigue sin pedir"
+  },
+  {
+   "id": "8563-borja-srf-1911-1316",
+   "que": "LEAS-8563: SRF de Vercelli que se calienta",
+   "ambito": {
+    "leas": "LEAS-8563",
+    "centro": "Centro Unico Vercelli",
+    "cliente": "Unico Italia",
+    "tipo": "epil"
+   },
+   "porque": "Borja (SRF unico italia, Telegram, 13:15-13:16): «Anche a voi mandiamo una BS»; Ernesto (ENVIOS SAT LEASEIR, 15:13): «BSSUST010 UNICO VERCELLI»",
+   "quien": "Borja",
+   "cuando": "2026-11-19T13:16",
+   "revive_si": "2026-11-23: si sigue en «Abierto» sin nota de contenido"
   }
  ],
  "enlaces": [
