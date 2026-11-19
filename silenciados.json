@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-19T10:24",
+ "actualizado": "2026-11-19T12:43",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -16063,6 +16063,146 @@
    "quien": "equipo (WhatsApp)",
    "cuando": "2026-11-19T09:35",
    "revive_si": "2026-11-25: si Epil Point dice que no le ha llegado"
+  },
+  {
+   "id": "distrilaser-inundada-wapp-1911-1023",
+   "que": "Distrilaser: consola inundada, contacto para la aseguradora",
+   "ambito": {
+    "leas": null,
+    "centro": "Distrilaser",
+    "cliente": "Distrilaser",
+    "tipo": "wapp sin-ticket"
+   },
+   "porque": "Distrilaser - Leaseir (WhatsApp, 19/11 10:23): se le dio a Gravereau el nombre de Gonzalo y los correos del equipo para el escrito; a las 10:28 ya tiene los conectores y va a reparar",
+   "quien": "equipo (WhatsApp)",
+   "cuando": "2026-11-19T10:23",
+   "revive_si": "2026-11-26: si Distrilaser vuelve a preguntar sin respuesta"
+  },
+  {
+   "id": "skinnovation-blend-wapp-1911-1148",
+   "que": "Skinnovation: fluencia máxima en blend",
+   "ambito": {
+    "leas": null,
+    "centro": "Skinnovation",
+    "cliente": "Skinnovation",
+    "tipo": "wapp sin-ticket"
+   },
+   "porque": "Leaseir Skinnovation SAT (WhatsApp, 19/11 11:48-11:53): contestada la consulta de las 09:38 (densidad máxima 40 J/cm²; en blend 30 J/cm² por las tres longitudes de onda)",
+   "quien": "equipo (WhatsApp)",
+   "cuando": "2026-11-19T11:48",
+   "revive_si": "2026-11-23: si la pregunta nueva de las 12:34 sigue sin respuesta"
+  },
+  {
+   "id": "8241-isaac-panel-1911-1118",
+   "que": "LEAS-8241: recogida en Elha Zaragoza Dato",
+   "ambito": {
+    "leas": "LEAS-8241",
+    "centro": "Elha Laser Center Zaragoza Dato",
+    "cliente": "Elha",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (vía panel, 11:18): «les reclamo si la quieren que recojamos o si ya esta solucionado y cancelamos incidencia»; Elha (WhatsApp, 11:27): sigue haciendo pruebas",
+   "quien": "Isaac",
+   "cuando": "2026-11-19T11:18",
+   "revive_si": "2026-11-24: si sigue en «Pendiente recogida» sin decisión apuntada"
+  },
+  {
+   "id": "8572-gonzalo-panel-1911-1129",
+   "que": "LEAS-8572: recogida del manípulo de Nichelino",
+   "ambito": {
+    "leas": "LEAS-8572",
+    "centro": "Centri Ideal - Nichelino",
+    "cliente": "Centri Ideal",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 11:29): «Estamos a la espera de más info»",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-19T11:29",
+   "revive_si": "2026-11-24: si sigue en «Pendiente recogida» sin nota nueva"
+  },
+  {
+   "id": "8478-gonzalo-jira-1911-1114",
+   "que": "LEAS-8478: recogida del 30496 de Zugan Tolosa",
+   "ambito": {
+    "leas": "LEAS-8478",
+    "centro": "Zugan Tolosa",
+    "cliente": "Zugan",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (Jira, 11:14): «Se pide la recogida»",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-19T11:14",
+   "revive_si": "2026-11-24: si no ha llegado a taller"
+  },
+  {
+   "id": "8353-gonzalo-panel-1911-1129",
+   "que": "LEAS-8353: entrada en taller del 40562",
+   "ambito": {
+    "leas": "LEAS-8353",
+    "centro": "FAN Mallorca Shopping",
+    "cliente": "FAN",
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 11:29): «Esperando su entrada»",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-19T11:29",
+   "revive_si": "2026-11-20: si sigue en «Gestionado transporte»"
+  },
+  {
+   "id": "8389-gonzalo-panel-1911-1140",
+   "que": "LEAS-8389: llegada de la 91307 de Roma EUR",
+   "ambito": {
+    "leas": "LEAS-8389",
+    "centro": "Epil Point Roma EUR",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 11:40): «Fue recogida el Lunes, esperando a que llegue a españa»",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-19T11:40",
+   "revive_si": "2026-11-20: si sigue en «Pendiente recogida» (DHL la da entregada en Gijón el 19/11)"
+  },
+  {
+   "id": "8441-gonzalo-panel-1911-1124",
+   "que": "LEAS-8441: visita de Sincronis en Palermo",
+   "ambito": {
+    "leas": "LEAS-8441",
+    "centro": "Epil Point Palermo",
+    "cliente": "Epil Point",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 11:24): «Ya ha llegado el material ek técnico va mañana»",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-19T11:24",
+   "revive_si": "2026-11-23: si no consta el resultado de la visita del 20/11"
+  },
+  {
+   "id": "castellammare-gonzalo-panel-1911-1125",
+   "que": "Epil Point Castellammare (91347): no enciende",
+   "ambito": {
+    "leas": "LEAS-8580",
+    "centro": "Epil Point Castellammare",
+    "cliente": "Epil Point",
+    "tipo": "epil sin-ticket"
+   },
+   "porque": "Gonzalo (vía panel, 11:25): «punto del panel sin ticket, va con este» → LEAS-8580",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-19T11:25",
+   "revive_si": "2026-11-26: si LEAS-8580 sigue sin nota de contenido"
+  },
+  {
+   "id": "8394-gonzalo-panel-1911-1132",
+   "que": "LEAS-8394: presupuesto de Brull",
+   "ambito": {
+    "leas": "LEAS-8394",
+    "centro": "Brull",
+    "cliente": "Brull",
+    "tipo": "presu"
+   },
+   "porque": "Gonzalo (vía panel, 11:32): «Van a hablar Francess y Oliver»",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-19T11:32",
+   "revive_si": "2026-11-24: si no consta respuesta de Brull"
   }
  ],
  "enlaces": [
