@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-19T15:23",
+ "actualizado": "2026-11-19T16:18",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -16287,6 +16287,62 @@
    "quien": "Borja",
    "cuando": "2026-11-19T13:16",
    "revive_si": "2026-11-23: si sigue en «Abierto» sin nota de contenido"
+  },
+  {
+   "id": "satportugal-isaac-wapp-1911-1609",
+   "que": "SAT Portugal: «Já temos alguma solução» (12:18)",
+   "ambito": {
+    "leas": null,
+    "centro": null,
+    "cliente": "SAT Portugal",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac (WhatsApp «SAT Portugal», 15:50-16:09): propone un interruptor hembra; «te mando uno donde quieras» → a la oficina de Mário",
+   "quien": "Isaac",
+   "cuando": "2026-11-19T16:09",
+   "revive_si": "2026-11-24: si no consta el envío del interruptor o el cliente vuelve a preguntar"
+  },
+  {
+   "id": "8493-isaac-panel-1911-1550",
+   "que": "LEAS-8493: incidencia de CTT en la recogida de SinVello Zaragoza Goya",
+   "ambito": {
+    "leas": "LEAS-8493",
+    "centro": "SinVello Zaragoza Goya",
+    "cliente": "Sin Vello",
+    "tipo": "ruta"
+   },
+   "porque": "Isaac (vía panel, 15:50): «se lo comento a luismi a ver si hubo algun problema y sino han recogido pido otra»; a las 15:49 lo preguntó en «INCIDENCIAS (FOTOS Y VIDEOS)» de Sin Vello",
+   "quien": "Isaac",
+   "cuando": "2026-11-19T15:50",
+   "revive_si": "2026-11-23: si sigue en «Gestionado transporte» sin recogida nueva"
+  },
+  {
+   "id": "8513-isaac-panel-1911-1556",
+   "que": "LEAS-8513: fecha de INNET en Elha Valdemoro",
+   "ambito": {
+    "leas": "LEAS-8513",
+    "centro": "Elha Valdemoro",
+    "cliente": "Elha",
+    "tipo": "externo"
+   },
+   "porque": "Isaac (vía panel, 15:56): «se reclama a Innet»; correo de Isaac a INNET a las 15:55 («Sabemos algo de esta reparación?»)",
+   "quien": "Isaac",
+   "cuando": "2026-11-19T15:56",
+   "revive_si": "2026-11-26: si sigue en «Enviado a técnico externo» sin fecha confirmada"
+  },
+  {
+   "id": "7789-isaac-panel-1911-1556",
+   "que": "LEAS-7789: presupuesto de Beleco Fan Mallorca esperando al seguro",
+   "ambito": {
+    "leas": "LEAS-7789",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "Beleco",
+    "tipo": "presu"
+   },
+   "porque": "Isaac (vía panel, 15:56): «sigue igual» (esperan al seguro para pagar)",
+   "quien": "Isaac",
+   "cuando": "2026-11-19T15:56",
+   "revive_si": "2026-11-24: si sigue en «Pendiente confirmación presupuesto» sin respuesta"
   }
  ],
  "enlaces": [
