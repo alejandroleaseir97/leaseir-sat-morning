@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-20T09:47",
+ "actualizado": "2026-11-20T12:38",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -16541,6 +16541,34 @@
    "quien": "Gonzalo",
    "cuando": "2026-11-19T18:39",
    "revive_si": "2026-11-25: si sigue sin presupuesto"
+  },
+  {
+   "id": "8519-cristina-noaplica-2011-1153",
+   "que": "LEAS-8519: asignar técnico en Elha Sant Boi",
+   "ambito": {
+    "leas": "LEAS-8519",
+    "centro": "Elha Sant Boi",
+    "cliente": "Elha",
+    "tipo": "repara"
+   },
+   "porque": "Cristina (vía panel, 11:53): «esto no aplica: en cuanto se libere un técnico se asignará hay mucho volumen de trabajo en taller»",
+   "quien": "Cristina",
+   "cuando": "2026-11-20T11:53",
+   "revive_si": "2026-11-25: si sigue en «Pendiente asignar técnico»"
+  },
+  {
+   "id": "elha-recogida-borja-wapp-2011-1201",
+   "que": "Elha: recogida pedida el 19/11 a las 20:17",
+   "ambito": {
+    "leas": null,
+    "centro": null,
+    "cliente": "Elha",
+    "tipo": "wapp"
+   },
+   "porque": "Borja («Incidencias Leaseir/Elha», 12:01): mandó las etiquetas PRG261123780931 para recoger la 41003 y la H00474",
+   "quien": "Borja",
+   "cuando": "2026-11-20T12:01",
+   "revive_si": "2026-11-25: si Elha vuelve a pedir la recogida"
   }
  ],
  "enlaces": [
