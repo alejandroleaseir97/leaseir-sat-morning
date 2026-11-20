@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-19T16:18",
+ "actualizado": "2026-11-20T09:25",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -16343,6 +16343,20 @@
    "quien": "Isaac",
    "cuando": "2026-11-19T15:56",
    "revive_si": "2026-11-24: si sigue en «Pendiente confirmación presupuesto» sin respuesta"
+  },
+  {
+   "id": "distrilaser-c00216-alejandro-2011-0925",
+   "que": "Distrilaser (Francia) · C00216: caliport pendiente de pago del cliente",
+   "ambito": {
+    "leas": null,
+    "centro": "Distrilaser",
+    "cliente": "Distrilaser",
+    "tipo": "wapp sin-ticket"
+   },
+   "porque": "Alejandro (chat, 20/11 09:2x): cerrado; que deje de salir en el panel (lo pidieron Borja e Isaac). Se envía el caliport cuando administración confirme el pago, fuera del panel.",
+   "quien": "Alejandro",
+   "cuando": "2026-11-20T09:25",
+   "revive_si": "solo si se abre ticket del C00216 o Alejandro lo pide; los mensajes del grupo sobre otras averías (90200, consola inundada) van aparte y no lo reviven"
   }
  ],
  "enlaces": [
@@ -17190,7 +17204,7 @@
   },
   {
    "id": "distrilaser-c00216-caliport-solicitado-16-1810",
-   "activo": true,
+   "activo": false,
    "que": "Distrilaser (Francia), C00216: envío del caliport pedido a CALIPORT (bloque wapp, sin ticket)",
    "estado": "C00216: solicitado a CALIPORT; confirmación de despacho/facturación pendiente; el cliente ya decidió (15:14) y ya se le contestó/transmitió (18:09-18:12): no volver a pedirlo; no afirmar despacho ni entrega; sin dirección personal ni ciudad; C00663 aparte",
    "quien": "Isaac (CALIPORT 18:09 y 18:10; acuse al cliente 18:12)",
@@ -17212,11 +17226,16 @@
     "Saint",
     "(?i)abrir (el )?ticket"
    ],
-   "debe_salir": true,
+   "debe_salir": false,
    "deja_de_aplicar_si": "CALIPORT confirma despacho (tracking) o entrega, o responde sobre la facturación, o se abre ticket del envío: entonces se reescribe con ese dato o activo=false con motivo.",
    "historial": [
-    "2026-10-16 18:40: fijado tras la pasada de 18:10, que había retirado el punto por el acuse de Isaac."
-   ]
+    "2026-10-16 18:40: fijado tras la pasada de 18:10, que había retirado el punto por el acuse de Isaac.",
+    "2026-11-20 09:25: activo=false por decisión de Alejandro (chat): deja de salir."
+   ],
+   "desactivado": {
+    "cuando": "2026-11-20T09:25",
+    "motivo": "Alejandro (chat, 20/11 09:2x) lo da por cerrado: «quítalo», a petición de Borja, que dice que sale a todo el equipo y no tiene sentido. Isaac ya lo había pedido por el panel (10/11, 11/11, 16/11). Decisión de Alejandro, único que podía cerrarlo."
+   }
   }
  ],
  "que_es_esto_criticos_seguimiento": "Excepción ACOTADA (16/10/2026, Alejandro, regla 19): críticos abiertos en Jira cuyo «esto no aplica» de hoy descarta la ACCIÓN antigua del punto, no el posible riesgo. Mientras 'activo' sea true el punto sigue saliendo (en 'bloque') con el descarte visible y la caja de críticos lo conserva; el comprobador NO da error por el «no aplica» ni por los silencios listados en 'descartes' (que siguen válidos y no se tocan), y SÍ da error si el punto desaparece, pierde el descarte o vuelve a la acción descartada. Solo cubre los LEAS listados: no es una regla para ignorar «no aplica».",
