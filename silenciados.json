@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-23T15:28",
+ "actualizado": "2026-11-23T18:26",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -17231,6 +17231,104 @@
    "quien": "Gonzalo (correo)",
    "cuando": "2026-11-23T12:39",
    "revive_si": "2026-11-26: si LEAS-8655 sigue sin fecha"
+  },
+  {
+   "id": "8547-isaac-panel-2311-1718",
+   "que": "Se gestiona, se pone la sustitución en préstamo (vía panel, 17:18); DHL da la sustitución LEAS-8552 entregada hoy",
+   "ambito": {
+    "leas": "LEAS-8547",
+    "centro": "Sinvello Valladolid",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "Se gestiona, se pone la sustitución en préstamo (vía panel, 17:18); DHL da la sustitución LEAS-8552 entregada hoy",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T17:18",
+   "revive_si": "2026-11-26: si el averiado no se ha recogido"
+  },
+  {
+   "id": "8648-isaac-panel-2311-1718",
+   "que": "Isaac contesta en el grupo (15:26) y se envía a técnico en garantía (vía panel, 17:18)",
+   "ambito": {
+    "leas": "LEAS-8648",
+    "centro": "SinVello Rivas Vaciamadrid",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "Isaac contesta en el grupo (15:26) y se envía a técnico en garantía (vía panel, 17:18)",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T17:18",
+   "revive_si": "2026-11-26: si el técnico no tiene fecha"
+  },
+  {
+   "id": "8257-isaac-panel-2311-1809",
+   "que": "No hay que recoger ese manípulo, cancelo el LEAS (vía panel, 18:09)",
+   "ambito": {
+    "leas": "LEAS-8257",
+    "centro": "Centro Unico Campania",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "No hay que recoger ese manípulo, cancelo el LEAS (vía panel, 18:09)",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T18:09",
+   "revive_si": "2026-11-25: si el ticket sigue abierto"
+  },
+  {
+   "id": "8305-isaac-panel-2311-1736",
+   "que": "Asignada (vía panel, 17:36): en cola de taller con Jonathan",
+   "ambito": {
+    "leas": "LEAS-8305",
+    "centro": "Malie Urbil",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "Asignada (vía panel, 17:36): en cola de taller con Jonathan",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T17:36",
+   "revive_si": "2026-11-26: si sigue en cola sin nota"
+  },
+  {
+   "id": "8214-isaac-panel-2311-1719",
+   "que": "Se recoge la sustitución (vía panel, 17:19)",
+   "ambito": {
+    "leas": "LEAS-8214",
+    "centro": "SinVello Badajoz",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Se recoge la sustitución (vía panel, 17:19)",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T17:19",
+   "revive_si": "2026-11-26: si no se ha recogido"
+  },
+  {
+   "id": "8170-isaac-panel-2311-1737",
+   "que": "Se les reclama, dicen que darán respuesta (vía panel, 17:37)",
+   "ambito": {
+    "leas": "LEAS-8170",
+    "centro": "Clinic and Esthetic",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "Se les reclama, dicen que darán respuesta (vía panel, 17:37)",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T17:37",
+   "revive_si": "2026-11-26: si no han contestado al presupuesto"
+  },
+  {
+   "id": "8227-isaac-panel-2311-1737",
+   "que": "Lo están hablando con Oliver, aún sin respuesta (vía panel, 17:37)",
+   "ambito": {
+    "leas": "LEAS-8227",
+    "centro": "Clínica Indalo Santurce",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "Lo están hablando con Oliver, aún sin respuesta (vía panel, 17:37)",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T17:37",
+   "revive_si": "2026-11-26: si no han contestado al presupuesto"
   }
  ],
  "enlaces": [
