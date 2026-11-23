@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-23T09:55",
+ "actualizado": "2026-11-23T09:58",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -14895,7 +14895,7 @@
    "cuando": "2026-11-16T11:00",
    "revive_si": "2026-11-23: si Sincronis vuelve a preguntar sin respuesta",
    "caducado": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "sin mensaje nuevo de Sincronis desde el 20/11 (WhatsApp, 23/11)"
    }
   },
@@ -15190,7 +15190,7 @@
    "cuando": "2026-11-16T17:56",
    "revive_si": "2026-11-23: si no hay nota de contenido nueva",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -15276,7 +15276,7 @@
    "cuando": "2026-11-16T18:17",
    "revive_si": "2026-11-23: si Sin Vello no ha contestado a los portes o la C00617 sigue sin recoger",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -15294,7 +15294,7 @@
    "cuando": "2026-11-16T18:15",
    "revive_si": "2026-11-23: si no consta el parte ni el resultado",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -15326,7 +15326,7 @@
    "cuando": "2026-11-16T18:14",
    "revive_si": "2026-11-23: si no hay nota de contenido nueva",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -15342,7 +15342,11 @@
    "porque": "Gonzalo (nota del panel, 17:55): «Se pregunta a cristina que lleva las formaciones en Italia»; en «SAT ITALIA» 18:01-18:06 Maria Martire: «ellos de Epilpoint no me pasaron los nombre», «Ahora le pedí que me pasen los nombres»",
    "quien": "Gonzalo (panel, 16/11 17:55)",
    "cuando": "2026-11-16T17:55",
-   "revive_si": "2026-11-23: si no se ha mandado el diploma a Fabio"
+   "revive_si": "2026-11-23: si no se ha mandado el diploma a Fabio",
+   "revivido": {
+    "fecha": "2026-11-23T09:58",
+    "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8286-gonzalo-panel-1711-1047",
@@ -15846,7 +15850,7 @@
    "cuando": "2026-11-18T13:20",
    "revive_si": "2026-11-23: si sigue en «En cola taller» sin nota de contenido",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -15864,7 +15868,7 @@
    "cuando": "2026-11-18T14:04",
    "revive_si": "2026-11-23: si no ha llegado a taller",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -15882,7 +15886,7 @@
    "cuando": "2026-11-18T14:05",
    "revive_si": "2026-11-23: si sigue sin técnico asignado",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -15914,7 +15918,7 @@
    "cuando": "2026-11-18T15:30",
    "revive_si": "2026-11-23: si sigue en «Inspección de salida» sin nota de contenido",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -15964,7 +15968,7 @@
    "cuando": "2026-11-18T16:53",
    "revive_si": "2026-11-23: si sigue en «Pendiente recogida» sin nota de contenido",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -16102,7 +16106,7 @@
    "cuando": "2026-11-18T17:32",
    "revive_si": "2026-11-23: si sigue sin empezar la reparación",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -16120,7 +16124,7 @@
    "cuando": "2026-11-18T17:48",
    "revive_si": "2026-11-23: si no hay respuesta al presupuesto",
    "caducado": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "DHL lo entregó en Grenoble el 20/11 (MCP SAT, 23/11)"
    }
   },
@@ -16138,7 +16142,7 @@
    "cuando": "2026-11-18T18:33",
    "revive_si": "2026-11-23: si no hay respuesta del cliente",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -16211,9 +16215,9 @@
    "quien": "equipo (WhatsApp)",
    "cuando": "2026-11-19T11:48",
    "revive_si": "2026-11-23: si la pregunta nueva de las 12:34 sigue sin respuesta",
-   "caducado": {
-    "fecha": "2026-11-23T09:55",
-    "motivo": "sin mensaje nuevo en el grupo desde el 20/11 (WhatsApp, 23/11)"
+   "revivido": {
+    "fecha": "2026-11-23T09:58",
+    "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
   {
@@ -16308,7 +16312,7 @@
    "cuando": "2026-11-19T11:24",
    "revive_si": "2026-11-23: si no consta el resultado de la visita del 20/11",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "vencido el 23/11 sin nota de contenido posterior: el punto vuelve a salir"
    }
   },
@@ -16410,7 +16414,7 @@
    "cuando": "2026-11-19T13:24",
    "revive_si": "2026-11-24: si la sustitución está entregada y la recogida sigue sin pedir",
    "revivido": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "hecho nuevo: la sustitución LEAS-8556 marca incidencia en el reparto (CTT, 21/11) y la recogida sigue sin pedir"
    }
   },
@@ -16428,7 +16432,7 @@
    "cuando": "2026-11-19T13:16",
    "revive_si": "2026-11-23: si sigue en «Abierto» sin nota de contenido",
    "caducado": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "ya no está en «Abierto»: pasó a «Pendiente recogida» y la sustitución LEAS-8603 va en tránsito"
    }
   },
@@ -16460,7 +16464,7 @@
    "cuando": "2026-11-19T15:50",
    "revive_si": "2026-11-23: si sigue en «Gestionado transporte» sin recogida nueva",
    "caducado": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "CTT lo da hoy en reparto hacia Gijón (MCP SAT, 23/11)"
    }
   },
@@ -16576,7 +16580,7 @@
    "cuando": "2026-11-19T19:06",
    "revive_si": "2026-11-23: si sigue en «Gestionado transporte»",
    "caducado": {
-    "fecha": "2026-11-23T09:55",
+    "fecha": "2026-11-23T09:58",
     "motivo": "ya llegó: está en «Pendiente asignar técnico»"
    }
   },
@@ -16859,6 +16863,48 @@
    "quien": "pasada 9:30",
    "cuando": "2026-11-23T10:00",
    "revive_si": "2026-11-25: si sigue en «Devuelto a cliente» sin finalizar"
+  },
+  {
+   "id": "8532-gonzalo-2111-1025",
+   "que": "Belenus H00318: localizador puesto",
+   "ambito": {
+    "leas": "LEAS-8532",
+    "centro": "Belenus Chile",
+    "cliente": null,
+    "tipo": "ruta track"
+   },
+   "porque": "Gonzalo (Jira, 21/11 10:25): pone los localizadores DHL JJD014600012889359487 y …488 en un comentario",
+   "quien": "Gonzalo (Jira)",
+   "cuando": "2026-11-21T10:25",
+   "revive_si": "2026-11-26: si no ha llegado a taller"
+  },
+  {
+   "id": "8538-gonzalo-2111-1025",
+   "que": "Belenus H03242: localizador puesto",
+   "ambito": {
+    "leas": "LEAS-8538",
+    "centro": "Belenus Chile",
+    "cliente": null,
+    "tipo": "ruta track"
+   },
+   "porque": "Gonzalo (Jira, 21/11 10:25): pone los localizadores DHL en un comentario",
+   "quien": "Gonzalo (Jira)",
+   "cuando": "2026-11-21T10:25",
+   "revive_si": "2026-11-26: si no ha llegado a taller"
+  },
+  {
+   "id": "dermasana-alcala-sust-gonzalo-2111-1031",
+   "que": "Dermasana Alcalá: ticket abierto",
+   "ambito": {
+    "leas": "LEAS-8641",
+    "centro": "Dermasana Alcalá",
+    "cliente": null,
+    "tipo": "wapp sin-ticket"
+   },
+   "porque": "Gonzalo abre LEAS-8641 el 21/11 10:31 («Se les pide más info, habrá que recogerla»); la clínica manda el vídeo hoy",
+   "quien": "Gonzalo (Jira)",
+   "cuando": "2026-11-21T10:31",
+   "revive_si": "2026-11-25: si LEAS-8641 sigue en «Abierto» sin nota de contenido"
   }
  ],
  "enlaces": [
