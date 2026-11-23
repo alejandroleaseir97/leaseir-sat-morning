@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-23T09:58",
+ "actualizado": "2026-11-23T12:41",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -16158,7 +16158,11 @@
    "porque": "LEAS-8567 abierto a las 16:23 («EP MILANO REGINA») y en «Enviado a técnico externo»; correo de Gonzalo a Sincronis «LEAS-8567 Ep Milano Regina 91371 Temperature problem»",
    "quien": "Gonzalo (Jira y correo, 18/11 16:23-16:32)",
    "cuando": "2026-11-18T16:32",
-   "revive_si": "2026-11-25: si no hay fecha del técnico externo"
+   "revive_si": "2026-11-25: si no hay fecha del técnico externo",
+   "revivido": {
+    "fecha": "2026-11-23T12:41",
+    "motivo": "hecho nuevo: el técnico fue y no lo resolvió; EP pide hoy (11:23, 11:57) decidir si cambian el manípulo o mandan la consola a España"
+   }
   },
   {
    "id": "8035-isaac-panel-1911-1018",
@@ -16905,6 +16909,230 @@
    "quien": "Gonzalo (Jira)",
    "cuando": "2026-11-21T10:31",
    "revive_si": "2026-11-25: si LEAS-8641 sigue en «Abierto» sin nota de contenido"
+  },
+  {
+   "id": "4908-isaac-panel-2311-1052",
+   "que": "Jonathan registra hoy las mediciones (10:57) y pasa a «Presupuesto preparado pendiente de enviar»; Isaac (vía panel 10:52): hay bastante trabajo en el SAT",
+   "ambito": {
+    "leas": "LEAS-4908",
+    "centro": "Elha Pintor Felo Monzón",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "Jonathan registra hoy las mediciones (10:57) y pasa a «Presupuesto preparado pendiente de enviar»; Isaac (vía panel 10:52): hay bastante trabajo en el SAT",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T10:57",
+   "revive_si": "2026-11-26: si sigue sin enviarse el presupuesto"
+  },
+  {
+   "id": "7879-gonzalo-panel-2311-1015",
+   "que": "En cola (vía panel, 10:15)",
+   "ambito": {
+    "leas": "LEAS-7879",
+    "centro": "Nantara Laser",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "En cola (vía panel, 10:15)",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-23T10:15",
+   "revive_si": "2026-11-26: si sigue sin empezar"
+  },
+  {
+   "id": "8093-gonzalo-panel-2311-1015",
+   "que": "En cola (vía panel, 10:15)",
+   "ambito": {
+    "leas": "LEAS-8093",
+    "centro": "Epil Point Bergamo",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "En cola (vía panel, 10:15)",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-23T10:15",
+   "revive_si": "2026-11-26: si sigue sin terminar"
+  },
+  {
+   "id": "8403-gonzalo-panel-2311-1011",
+   "que": "En cola esperando reparación (vía panel, 10:11)",
+   "ambito": {
+    "leas": "LEAS-8403",
+    "centro": "Elha Niza",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "En cola esperando reparación (vía panel, 10:11)",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-23T10:11",
+   "revive_si": "2026-11-26: si sigue sin empezar"
+  },
+  {
+   "id": "8285-isaac-panel-2311-1036",
+   "que": "Isaac reclama la respuesta (vía panel 10:36) y SinVello acepta por correo a las 11:30; ya en «Esperando inicio reparación»",
+   "ambito": {
+    "leas": "LEAS-8285",
+    "centro": "SinVello Cartagena",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "Isaac reclama la respuesta (vía panel 10:36) y SinVello acepta por correo a las 11:30; ya en «Esperando inicio reparación»",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T10:36",
+   "revive_si": "2026-11-26: si sigue sin empezar la reparación"
+  },
+  {
+   "id": "8414-isaac-correo-2311-1224",
+   "que": "Presupuesto enviado (10:51), aceptado por SinVello (11:31) y factura enviada (12:24), por correo",
+   "ambito": {
+    "leas": "LEAS-8414",
+    "centro": "SinVello Zoco",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "Presupuesto enviado (10:51), aceptado por SinVello (11:31) y factura enviada (12:24), por correo",
+   "quien": "Isaac (correo)",
+   "cuando": "2026-11-23T12:24",
+   "revive_si": "2026-11-26: si el ticket sigue en presupuesto"
+  },
+  {
+   "id": "8353-borja-panel-2311-1129",
+   "que": "No correspondía el tracking; se ha pedido hoy la recogida (vía panel, 11:29)",
+   "ambito": {
+    "leas": "LEAS-8353",
+    "centro": "FAN Mallorca Shopping",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "No correspondía el tracking; se ha pedido hoy la recogida (vía panel, 11:29)",
+   "quien": "Borja",
+   "cuando": "2026-11-23T11:29",
+   "revive_si": "2026-11-25: si CTT no la ha recogido"
+  },
+  {
+   "id": "8441-gonzalo-panel-2311-1000",
+   "que": "Se reclama al técnico (vía panel 10:00); Sincronis confirma la visita mañana 24/11 a las 13:00 (correo 12:31 y WhatsApp 11:37)",
+   "ambito": {
+    "leas": "LEAS-8441",
+    "centro": "Epil Point Palermo",
+    "cliente": "",
+    "tipo": "epil externo"
+   },
+   "porque": "Se reclama al técnico (vía panel 10:00); Sincronis confirma la visita mañana 24/11 a las 13:00 (correo 12:31 y WhatsApp 11:37)",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-23T10:00",
+   "revive_si": "2026-11-25: si no consta la visita del 24/11"
+  },
+  {
+   "id": "8563-gonzalo-panel-2311-1013",
+   "que": "Esperando a que llegue la sust (vía panel, 10:13)",
+   "ambito": {
+    "leas": "LEAS-8563",
+    "centro": "Centro Unico Vercelli",
+    "cliente": "",
+    "tipo": "epil ruta"
+   },
+   "porque": "Esperando a que llegue la sust (vía panel, 10:13)",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-23T10:13",
+   "revive_si": "2026-11-25: si llegó la sustitución LEAS-8603 y la recogida sigue sin pedir"
+  },
+  {
+   "id": "8566-gonzalo-panel-2311-0958",
+   "que": "Intervención reclamada (vía panel, 09:58)",
+   "ambito": {
+    "leas": "LEAS-8566",
+    "centro": "SinVello Zaragoza",
+    "cliente": "",
+    "tipo": "externo"
+   },
+   "porque": "Intervención reclamada (vía panel, 09:58)",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-23T09:58",
+   "revive_si": "2026-11-30: si no consta la intervención del 30/11"
+  },
+  {
+   "id": "8574-gonzalo-panel-2311-1001",
+   "que": "Se pregunta a Carlos Mora (vía panel 10:01; WhatsApp 10:01)",
+   "ambito": {
+    "leas": "LEAS-8574",
+    "centro": "Elha Calassanç Durán",
+    "cliente": "",
+    "tipo": "externo"
+   },
+   "porque": "Se pregunta a Carlos Mora (vía panel 10:01; WhatsApp 10:01)",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-23T10:01",
+   "revive_si": "2026-11-25: si Carlos Mora sigue sin dar fecha"
+  },
+  {
+   "id": "8535-pasada-2311-1230",
+   "que": "Ya en «Esperando inicio reparación» (11:12)",
+   "ambito": {
+    "leas": "LEAS-8535",
+    "centro": "Elha Oviedo",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "Ya en «Esperando inicio reparación» (11:12)",
+   "quien": "pasada 12:30",
+   "cuando": "2026-11-23T12:40",
+   "revive_si": "2026-11-26: si vuelve a presupuesto"
+  },
+  {
+   "id": "8621-wapp-2311-1107",
+   "que": "La sustitución llegó hoy y la averiada se recoge mañana; la clínica la deja preparada (WhatsApp 11:07-11:08)",
+   "ambito": {
+    "leas": "LEAS-8621",
+    "centro": "Dermasana Fuenlabrada",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "La sustitución llegó hoy y la averiada se recoge mañana; la clínica la deja preparada (WhatsApp 11:07-11:08)",
+   "quien": "Sat Leaseir (WhatsApp)",
+   "cuando": "2026-11-23T11:07",
+   "revive_si": "2026-11-25: si no se ha recogido"
+  },
+  {
+   "id": "8172-isaac-panel-2311-1240",
+   "que": "Les he reclamado que me digan algo (vía panel, 12:40)",
+   "ambito": {
+    "leas": "LEAS-8172",
+    "centro": "SinVello Tomares",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "Les he reclamado que me digan algo (vía panel, 12:40)",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T12:40",
+   "revive_si": "2026-11-26: si sigue sin respuesta al presupuesto"
+  },
+  {
+   "id": "8347-isaac-panel-2311-1240",
+   "que": "Hay un poco de atasco (vía panel, 12:40)",
+   "ambito": {
+    "leas": "LEAS-8347",
+    "centro": "Leaseir SAT MHR91065",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "Hay un poco de atasco (vía panel, 12:40)",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T12:40",
+   "revive_si": "2026-11-26: si sigue en cola sin empezar"
+  },
+  {
+   "id": "8204-isaac-panel-2311-1239",
+   "que": "Le he pasado presupuesto de portes y de técnico, a la espera de que conteste (vía panel, 12:39)",
+   "ambito": {
+    "leas": "LEAS-8204",
+    "centro": "Sinvello Arrecife Lanzarote",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Le he pasado presupuesto de portes y de técnico, a la espera de que conteste (vía panel, 12:39)",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T12:39",
+   "revive_si": "2026-11-26: si sigue sin respuesta del cliente"
   }
  ],
  "enlaces": [
