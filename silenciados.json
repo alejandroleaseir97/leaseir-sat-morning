@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-23T12:41",
+ "actualizado": "2026-11-23T15:28",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -17133,6 +17133,104 @@
    "quien": "Isaac",
    "cuando": "2026-11-23T12:39",
    "revive_si": "2026-11-26: si sigue sin respuesta del cliente"
+  },
+  {
+   "id": "8607-borja-panel-2311-1307",
+   "que": "Sale hoy una sustitución (vía panel, 13:07); CTT de la SUST de Albacete en ENVIOS a las 13:20",
+   "ambito": {
+    "leas": "LEAS-8607",
+    "centro": "SinVello Albacete",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Sale hoy una sustitución (vía panel, 13:07); CTT de la SUST de Albacete en ENVIOS a las 13:20",
+   "quien": "Borja",
+   "cuando": "2026-11-23T13:07",
+   "revive_si": "2026-11-25: si llegó la sustitución LEAS-8619 y la recogida sigue sin pedir"
+  },
+  {
+   "id": "8634-isaac-2311-1247",
+   "que": "Se envía caja de madera (Isaac 12:47); etiqueta DHL en ENVIOS a las 12:51",
+   "ambito": {
+    "leas": "LEAS-8634",
+    "centro": "Elha Esteve Albert",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Se envía caja de madera (Isaac 12:47); etiqueta DHL en ENVIOS a las 12:51",
+   "quien": "Isaac",
+   "cuando": "2026-11-23T12:47",
+   "revive_si": "2026-11-25: si no se ha recogido"
+  },
+  {
+   "id": "8554-isaac-wapp-2311-1335",
+   "que": "SinVello confirma que llegó la sustitución (13:28) e Isaac manda la etiqueta de recogida (13:35)",
+   "ambito": {
+    "leas": "LEAS-8554",
+    "centro": "SinVello Écija",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "SinVello confirma que llegó la sustitución (13:28) e Isaac manda la etiqueta de recogida (13:35)",
+   "quien": "Isaac (WhatsApp)",
+   "cuando": "2026-11-23T13:35",
+   "revive_si": "2026-11-25: si CTT no la ha recogido"
+  },
+  {
+   "id": "7824-borja-panel-2311-1247",
+   "que": "Se está probando en Oviedo (vía panel, 12:47)",
+   "ambito": {
+    "leas": "LEAS-7824",
+    "centro": "Elha Obispo",
+    "cliente": "",
+    "tipo": "cerrar"
+   },
+   "porque": "Se está probando en Oviedo (vía panel, 12:47)",
+   "quien": "Borja",
+   "cuando": "2026-11-23T12:47",
+   "revive_si": "2026-11-26: si sigue en «Inspección de salida»"
+  },
+  {
+   "id": "8643-gonzalo-2311-1511",
+   "que": "Se envía, está en envíos (vía panel 14:45); se pide la recogida (Gonzalo, 15:11)",
+   "ambito": {
+    "leas": "LEAS-8643",
+    "centro": "Elha Rocafort",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "Se envía, está en envíos (vía panel 14:45); se pide la recogida (Gonzalo, 15:11)",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-23T15:11",
+   "revive_si": "2026-11-25: si no se ha recogido"
+  },
+  {
+   "id": "8193-borja-wapp-2311-1403",
+   "que": "Borja contesta (12:57-13:50): pide abrir el caso y Elha avisará cuando esté para recoger (14:03)",
+   "ambito": {
+    "leas": "LEAS-8193",
+    "centro": "Elha",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "Borja contesta (12:57-13:50): pide abrir el caso y Elha avisará cuando esté para recoger (14:03)",
+   "quien": "Borja (WhatsApp)",
+   "cuando": "2026-11-23T14:03",
+   "revive_si": "2026-11-25: si Elha no ha avisado ni hay caso nuevo"
+  },
+  {
+   "id": "8567-gonzalo-correo-2311-1239",
+   "que": "Decidido: intervención nueva LEAS-8655 para cambiar sonda y termostato (Gonzalo a Sincronis, 12:39)",
+   "ambito": {
+    "leas": "LEAS-8567",
+    "centro": "EP Milano Regina",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Decidido: intervención nueva LEAS-8655 para cambiar sonda y termostato (Gonzalo a Sincronis, 12:39)",
+   "quien": "Gonzalo (correo)",
+   "cuando": "2026-11-23T12:39",
+   "revive_si": "2026-11-26: si LEAS-8655 sigue sin fecha"
   }
  ],
  "enlaces": [
