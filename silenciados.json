@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-20T18:17",
+ "actualizado": "2026-11-23T09:45",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13929,7 +13929,11 @@
    "porque": "Gonzalo (vía panel, 10:31): «Se ha reclamado a Sincronis y al técnico individualemente desde el Lunes sin respuesta… si no contesta hoy se habla con el gerente»",
    "quien": "Gonzalo (Jira, 11/11 10:31)",
    "cuando": "2026-11-11T10:31",
-   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ticket cerrado en Jira"
+   }
   },
   {
    "id": "7730-borja-1111-1217",
@@ -14141,7 +14145,11 @@
    "porque": "Isaac (vía panel, 18:11): «pendiente de enviar sust»",
    "quien": "Isaac (panel, 11/11 18:11)",
    "cuando": "2026-11-11T18:11",
-   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ticket cerrado en Jira"
+   }
   },
   {
    "id": "8033-isaac-1111-1811",
@@ -14173,7 +14181,11 @@
    "porque": "Isaac (vía panel, 18:33): «aun nos estamos informando, lo va a gestionar Gonzalo»",
    "quien": "Isaac (panel, 11/11 18:33)",
    "cuando": "2026-11-11T18:33",
-   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ticket cerrado en Jira"
+   }
   },
   {
    "id": "8285-cristina-noaplica-1211-1233",
@@ -14259,7 +14271,11 @@
    "porque": "Isaac (vía panel, 16:01): «se envia interlock rapido para que puedan trabajar»",
    "quien": "Isaac (panel, 12/11 16:01)",
    "cuando": "2026-11-12T16:01",
-   "revive_si": "2026-11-19: si el ticket sigue sin asignar y sin nota de la intervención"
+   "revive_si": "2026-11-19: si el ticket sigue sin asignar y sin nota de la intervención",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ticket cerrado en Jira"
+   }
   },
   {
    "id": "8459-isaac-panel-1211-1602",
@@ -14879,7 +14895,11 @@
    "porque": "Gonzalo (vía panel, 10:04): «Se recuerda en el grupo de Sat y se recuerda personalmente a BOrja»; Borja (Interno, 10:28): «el viernes salió la 20056»",
    "quien": "Gonzalo (panel, 16/11 10:04)",
    "cuando": "2026-11-16T10:04",
-   "revive_si": "2026-11-19: si en el ticket sigue sin constar qué se le cobra a Brull"
+   "revive_si": "2026-11-19: si en el ticket sigue sin constar qué se le cobra a Brull",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ticket cerrado en Jira"
+   }
   },
   {
    "id": "sincronis-movement-borja-noaplica-1611-1100",
@@ -14893,7 +14913,11 @@
    "porque": "Borja (panel, 11:00, no aplica): «Listo»",
    "quien": "Borja (panel, 16/11 11:00)",
    "cuando": "2026-11-16T11:00",
-   "revive_si": "2026-11-23: si Sincronis vuelve a preguntar sin respuesta"
+   "revive_si": "2026-11-23: si Sincronis vuelve a preguntar sin respuesta",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "sin pregunta nueva de Sincronis desde el 16/11 en WhatsApp ni correo"
+   }
   },
   {
    "id": "zugan-beasain-gonzalo-panel-1611-1005",
@@ -14925,7 +14949,11 @@
    "porque": "Gonzalo (panel, 10:06, nota): «Nos lo tiene que decir I+D quita este aviso»",
    "quien": "Gonzalo (panel, 16/11 10:06)",
    "cuando": "2026-11-16T10:06",
-   "revive_si": "2026-11-23: si I+D no ha contestado y L Medical vuelve a preguntar"
+   "revive_si": "2026-11-23: si I+D no ha contestado y L Medical vuelve a preguntar",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "L Medical escribió hoy (BIOS de C03358) y Chus le contestó a las 09:11-09:14"
+   }
   },
   {
    "id": "8184-gonzalo-panel-1611-1022",
@@ -15152,7 +15180,11 @@
    "porque": "Cristina (15:33) y Borja (15:51-15:53) en «Reparaciones Leaseir Dermasana Alcalá»: «falta al interlock por eso no pasa el test», «os mandamos uno entonces»; Cristina 15:53 en ENVIOS «1x interlock LT DERMASANA Alcalá» y etiqueta CTT 15:54",
    "quien": "Borja (WhatsApp, 16/11 15:53)",
    "cuando": "2026-11-16T15:53",
-   "revive_si": "2026-11-19: si el centro sigue sin el interlock o el equipo no calibra"
+   "revive_si": "2026-11-19: si el centro sigue sin el interlock o el equipo no calibra",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ticket cerrado en Jira"
+   }
   },
   {
    "id": "epil-bergamo-borja-wapp-1611-1535",
@@ -15184,7 +15216,11 @@
    "porque": "Gonzalo (vía panel, 17:56): «De sust, esperando reparación»",
    "quien": "Gonzalo (panel, 16/11 17:56)",
    "cuando": "2026-11-16T17:56",
-   "revive_si": "2026-11-23: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-23: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "8466-gonzalo-panel-1611-1807",
@@ -15216,7 +15252,11 @@
    "porque": "Gonzalo (vía panel, 17:55): «No se sabe si se cancela el envio ya que no han llamado todavía y se le ha reclaamdo»",
    "quien": "Gonzalo (panel, 16/11 17:55)",
    "cuando": "2026-11-16T17:55",
-   "revive_si": "2026-11-23: si Sincronis sigue sin cita"
+   "revive_si": "2026-11-23: si Sincronis sigue sin cita",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ticket cerrado en Jira"
+   }
   },
   {
    "id": "8493-gonzalo-panel-1611-1810",
@@ -15266,7 +15306,11 @@
    "porque": "Gonzalo (vía panel, 18:17): «Se les pregunta si aceptan el presupuesto»",
    "quien": "Gonzalo (panel, 16/11 18:17)",
    "cuando": "2026-11-16T18:17",
-   "revive_si": "2026-11-23: si Sin Vello no ha contestado a los portes o la C00617 sigue sin recoger"
+   "revive_si": "2026-11-23: si Sin Vello no ha contestado a los portes o la C00617 sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "8447-gonzalo-panel-1611-1815",
@@ -15280,7 +15324,11 @@
    "porque": "Gonzalo (vía panel, 18:15): «Se ha  solicitado el parte de trabajo»",
    "quien": "Gonzalo (panel, 16/11 18:15)",
    "cuando": "2026-11-16T18:15",
-   "revive_si": "2026-11-23: si no consta el parte ni el resultado"
+   "revive_si": "2026-11-23: si no consta el parte ni el resultado",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "Hecho nuevo: Carlos Mora mandó la hoja de asistencia por correo el 20/11 y el ticket no la recoge"
+   }
   },
   {
    "id": "8384-gonzalo-panel-1611-1814",
@@ -15294,7 +15342,11 @@
    "porque": "Gonzalo (vía panel, 18:14): «Está en cola»",
    "quien": "Gonzalo (panel, 16/11 18:14)",
    "cuando": "2026-11-16T18:14",
-   "revive_si": "2026-11-23: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-23: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ticket cerrado en Jira"
+   }
   },
   {
    "id": "8227-gonzalo-panel-1611-1814",
@@ -15308,7 +15360,11 @@
    "porque": "Gonzalo (vía panel, 18:14): «Está en cola»",
    "quien": "Gonzalo (panel, 16/11 18:14)",
    "cuando": "2026-11-16T18:14",
-   "revive_si": "2026-11-23: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-23: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "epil-soporte-diploma-gonzalo-panel-1611-1755",
@@ -15322,7 +15378,11 @@
    "porque": "Gonzalo (nota del panel, 17:55): «Se pregunta a cristina que lleva las formaciones en Italia»; en «SAT ITALIA» 18:01-18:06 Maria Martire: «ellos de Epilpoint no me pasaron los nombre», «Ahora le pedí que me pasen los nombres»",
    "quien": "Gonzalo (panel, 16/11 17:55)",
    "cuando": "2026-11-16T17:55",
-   "revive_si": "2026-11-23: si no se ha mandado el diploma a Fabio"
+   "revive_si": "2026-11-23: si no se ha mandado el diploma a Fabio",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "8286-gonzalo-panel-1711-1047",
@@ -15460,7 +15520,11 @@
    "porque": "Gonzalo (vía panel, 10:32): «El equipo salió ayer no ha llegado todavía»",
    "quien": "Gonzalo (panel, 17/11 10:32)",
    "cuando": "2026-11-17T10:32",
-   "revive_si": "2026-11-19: si sigue sin finalizar"
+   "revive_si": "2026-11-19: si sigue sin finalizar",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ticket cerrado en Jira"
+   }
   },
   {
    "id": "7420-borja-jira-1711-0951",
@@ -15824,7 +15888,11 @@
    "porque": "Cristina (vía panel, 13:20): «esto no aplica: No aplica»",
    "quien": "Cristina (panel, 18/11 13:20)",
    "cuando": "2026-11-18T13:20",
-   "revive_si": "2026-11-23: si sigue en «En cola taller» sin nota de contenido"
+   "revive_si": "2026-11-23: si sigue en «En cola taller» sin nota de contenido",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "8414-borja-1811-1404",
@@ -15838,7 +15906,11 @@
    "porque": "Borja (vía panel, 14:04): «pedida recogida»",
    "quien": "Borja (panel, 18/11 14:04)",
    "cuando": "2026-11-18T14:04",
-   "revive_si": "2026-11-23: si no ha llegado a taller"
+   "revive_si": "2026-11-23: si no ha llegado a taller",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ya llegó a taller: hoy está en «En preparación presupuesto»"
+   }
   },
   {
    "id": "7730-borja-1811-1405",
@@ -15852,7 +15924,11 @@
    "porque": "Borja (vía panel, 14:05): «entrada en taller. falta asignar»",
    "quien": "Borja (panel, 18/11 14:05)",
    "cuando": "2026-11-18T14:05",
-   "revive_si": "2026-11-23: si sigue sin técnico asignado"
+   "revive_si": "2026-11-23: si sigue sin técnico asignado",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "8044-borja-1811-1405",
@@ -15866,7 +15942,11 @@
    "porque": "Borja (vía panel, 14:05): «sale hoy»",
    "quien": "Borja (panel, 18/11 14:05)",
    "cuando": "2026-11-18T14:05",
-   "revive_si": "2026-11-23: si sigue en «Devuelto a cliente» sin finalizar"
+   "revive_si": "2026-11-23: si sigue en «Devuelto a cliente» sin finalizar",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "7824-borja-1811-1530",
@@ -15880,7 +15960,11 @@
    "porque": "Borja (Jira, 15:30): «Se está probando desde hoy en ELha Oviedo»",
    "quien": "Borja (Jira, 18/11 15:30)",
    "cuando": "2026-11-18T15:30",
-   "revive_si": "2026-11-23: si sigue en «Inspección de salida» sin nota de contenido"
+   "revive_si": "2026-11-23: si sigue en «Inspección de salida» sin nota de contenido",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "8464-diodor-1811-1612",
@@ -15926,7 +16010,11 @@
    "porque": "Gonzalo (vía panel, 16:53): «No aprueban el presupuesto»",
    "quien": "Gonzalo (Jira, 18/11 16:53)",
    "cuando": "2026-11-18T16:53",
-   "revive_si": "2026-11-23: si sigue en «Pendiente recogida» sin nota de contenido"
+   "revive_si": "2026-11-23: si sigue en «Pendiente recogida» sin nota de contenido",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "8339-gonzalo-1811-1748",
@@ -16060,7 +16148,11 @@
    "porque": "Gonzalo (vía panel, 17:32): «En cola»",
    "quien": "Gonzalo (Jira, 18/11 17:32)",
    "cuando": "2026-11-18T17:32",
-   "revive_si": "2026-11-23: si sigue sin empezar la reparación"
+   "revive_si": "2026-11-23: si sigue sin empezar la reparación",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "8481-gonzalo-1811-1748",
@@ -16074,7 +16166,11 @@
    "porque": "Gonzalo (vía panel, 17:48): «Se ha enviado ayer el presupuesto, esperando su aprobación»",
    "quien": "Gonzalo (Jira, 18/11 17:48)",
    "cuando": "2026-11-18T17:48",
-   "revive_si": "2026-11-23: si no hay respuesta al presupuesto"
+   "revive_si": "2026-11-23: si no hay respuesta al presupuesto",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "7879-isaac-1811-1833",
@@ -16088,7 +16184,11 @@
    "porque": "Isaac (vía panel, 18:33): «se lo hemos vuelto a recordar…»",
    "quien": "Isaac (Jira, 18/11 18:33)",
    "cuando": "2026-11-18T18:33",
-   "revive_si": "2026-11-23: si no hay respuesta del cliente"
+   "revive_si": "2026-11-23: si no hay respuesta del cliente",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "epil-milano-regina-1811-1623",
@@ -16158,7 +16258,11 @@
    "porque": "Leaseir Skinnovation SAT (WhatsApp, 19/11 11:48-11:53): contestada la consulta de las 09:38 (densidad máxima 40 J/cm²; en blend 30 J/cm² por las tres longitudes de onda)",
    "quien": "equipo (WhatsApp)",
    "cuando": "2026-11-19T11:48",
-   "revive_si": "2026-11-23: si la pregunta nueva de las 12:34 sigue sin respuesta"
+   "revive_si": "2026-11-23: si la pregunta nueva de las 12:34 sigue sin respuesta",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "8241-isaac-panel-1911-1118",
@@ -16250,7 +16354,11 @@
    "porque": "Gonzalo (vía panel, 11:24): «Ya ha llegado el material ek técnico va mañana»",
    "quien": "Gonzalo",
    "cuando": "2026-11-19T11:24",
-   "revive_si": "2026-11-23: si no consta el resultado de la visita del 20/11"
+   "revive_si": "2026-11-23: si no consta el resultado de la visita del 20/11",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "castellammare-gonzalo-panel-1911-1125",
@@ -16362,7 +16470,11 @@
    "porque": "Borja (SRF unico italia, Telegram, 13:15-13:16): «Anche a voi mandiamo una BS»; Ernesto (ENVIOS SAT LEASEIR, 15:13): «BSSUST010 UNICO VERCELLI»",
    "quien": "Borja",
    "cuando": "2026-11-19T13:16",
-   "revive_si": "2026-11-23: si sigue en «Abierto» sin nota de contenido"
+   "revive_si": "2026-11-23: si sigue en «Abierto» sin nota de contenido",
+   "revivido": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "revive_si con fecha de hoy (23/11) cumplido: sigue abierto y sin nota de contenido posterior; el punto vuelve"
+   }
   },
   {
    "id": "satportugal-isaac-wapp-1911-1609",
@@ -16390,7 +16502,11 @@
    "porque": "Isaac (vía panel, 15:50): «se lo comento a luismi a ver si hubo algun problema y sino han recogido pido otra»; a las 15:49 lo preguntó en «INCIDENCIAS (FOTOS Y VIDEOS)» de Sin Vello",
    "quien": "Isaac",
    "cuando": "2026-11-19T15:50",
-   "revive_si": "2026-11-23: si sigue en «Gestionado transporte» sin recogida nueva"
+   "revive_si": "2026-11-23: si sigue en «Gestionado transporte» sin recogida nueva",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "CTT lo tiene en reparto hacia Gijón hoy 23/11 (MCP SAT)"
+   }
   },
   {
    "id": "8513-isaac-panel-1911-1556",
@@ -16502,7 +16618,11 @@
    "porque": "Gonzalo (19:06): «Ha llegado pero de tarde, se hace la entrada mañana por la mañana»",
    "quien": "Gonzalo",
    "cuando": "2026-11-19T19:06",
-   "revive_si": "2026-11-23: si sigue en «Gestionado transporte»"
+   "revive_si": "2026-11-23: si sigue en «Gestionado transporte»",
+   "caducado": {
+    "fecha": "2026-11-23T09:45",
+    "motivo": "ya no está en «Gestionado transporte»: hoy en «Pendiente asignar técnico»"
+   }
   },
   {
    "id": "8211-gonzalo-panel-1911-1929",
@@ -16573,6 +16693,216 @@
    "quien": "Borja",
    "cuando": "2026-11-20T12:01",
    "revive_si": "2026-11-25: si Elha vuelve a pedir la recogida"
+  },
+  {
+   "id": "8456-gonzalo-panel-2111-1008",
+   "que": "Lucem Reus: recogida pendiente de que acepte el presupuesto",
+   "ambito": {
+    "leas": "LEAS-8456",
+    "centro": "Lucem Reus",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:08): «A la espera» (de que acepte el presupuesto)",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:08",
+   "revive_si": "2026-11-30: si sigue en «Pendiente recogida» sin respuesta"
+  },
+  {
+   "id": "8517-gonzalo-panel-2111-1010",
+   "que": "Helena Cordero: recogida en espera",
+   "ambito": {
+    "leas": "LEAS-8517",
+    "centro": "Helena Cordero",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:10): «A la espera»",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:10",
+   "revive_si": "2026-11-30: si sigue en «Pendiente recogida» sin nota de contenido"
+  },
+  {
+   "id": "8548-gonzalo-panel-2111-1017",
+   "que": "Torrejón: recogida pedida",
+   "ambito": {
+    "leas": "LEAS-8548",
+    "centro": "SinVello Torrejon de Ardoz",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:17): «Pedida la recogida» (Sin Vello: recogida el lunes)",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:17",
+   "revive_si": "2026-11-26: si la consola no se ha recogido"
+  },
+  {
+   "id": "8547-gonzalo-panel-2111-1020",
+   "que": "Valladolid: recogida pedida",
+   "ambito": {
+    "leas": "LEAS-8547",
+    "centro": "Sinvello Valladolid",
+    "cliente": null,
+    "tipo": "ruta"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:20): «Recogida pedida»",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:20",
+   "revive_si": "2026-11-26: si la consola no se ha recogido"
+  },
+  {
+   "id": "8597-gonzalo-panel-2111-1026",
+   "que": "Campania 8597: espera la sustitución",
+   "ambito": {
+    "leas": "LEAS-8597",
+    "centro": "Centro Unico Campania",
+    "cliente": null,
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:26): «Tiene que llegar la sust»",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:26",
+   "revive_si": "2026-11-26: si la sustitución LEAS-8598 no ha llegado o no se ha pedido la recogida"
+  },
+  {
+   "id": "8466-gonzalo-panel-2111-1021",
+   "que": "Martina Franca: técnico avisado para ir",
+   "ambito": {
+    "leas": "LEAS-8466",
+    "centro": "Epil Point Martina Franca",
+    "cliente": null,
+    "tipo": "epil externo"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:21): «Se le ha dicho que vaya» (al técnico)",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:21",
+   "revive_si": "2026-11-25: si no consta la visita ni el resultado"
+  },
+  {
+   "id": "8488-gonzalo-panel-2111-1027",
+   "que": "Roma Est 8488: visita acordada en diciembre",
+   "ambito": {
+    "leas": "LEAS-8488",
+    "centro": "Centro Unico Roma Est",
+    "cliente": null,
+    "tipo": "externo epil"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:27): visita acordada con Sincronis para el 01/12 a las 14:00 o el 03/12 a las 10:00",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:27",
+   "revive_si": "2026-12-04: si no consta la visita"
+  },
+  {
+   "id": "8530-gonzalo-2111-1034",
+   "que": "Elha Rubí: técnico externo el 30/11",
+   "ambito": {
+    "leas": "LEAS-8530",
+    "centro": "Elha Rubí",
+    "cliente": null,
+    "tipo": "externo"
+   },
+   "porque": "Gonzalo (Jira, 21/11 10:34): «Se les pregunta de nuevo»; 10144 = 30/11",
+   "quien": "Gonzalo (Jira)",
+   "cuando": "2026-11-21T10:34",
+   "revive_si": "2026-12-01: si no consta la visita del 30/11"
+  },
+  {
+   "id": "8536-gonzalo-panel-2111-1010",
+   "que": "Ostia: técnico el 24/11",
+   "ambito": {
+    "leas": "LEAS-8536",
+    "centro": "Centro Unico Ostia",
+    "cliente": null,
+    "tipo": "externo epil"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:10): «Esperando técnico»; 10144 = 24/11 11:45",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:10",
+   "revive_si": "2026-11-25: si no consta la visita del 24/11"
+  },
+  {
+   "id": "7458-gonzalo-panel-2111-1008",
+   "que": "Carducci: en cola de taller",
+   "ambito": {
+    "leas": "LEAS-7458",
+    "centro": "Elha Laser Center Milano - Carducci",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:08): «En cola»",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:08",
+   "revive_si": "2026-11-26: si sigue sin técnico asignado"
+  },
+  {
+   "id": "8199-gonzalo-panel-2111-1008",
+   "que": "Libia: en cola de taller",
+   "ambito": {
+    "leas": "LEAS-8199",
+    "centro": "Centro Unico Libia",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:08): «En cola»",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:08",
+   "revive_si": "2026-11-26: si sigue sin empezar la reparación"
+  },
+  {
+   "id": "8371-gonzalo-panel-2111-1008",
+   "que": "Zubiarte: en cola de taller",
+   "ambito": {
+    "leas": "LEAS-8371",
+    "centro": "Dermasana Zubiarte",
+    "cliente": null,
+    "tipo": "repara"
+   },
+   "porque": "Gonzalo (vía panel, 21/11 10:08): «En cola»",
+   "quien": "Gonzalo (panel)",
+   "cuando": "2026-11-21T10:08",
+   "revive_si": "2026-11-26: si sigue sin técnico asignado"
+  },
+  {
+   "id": "8532-gonzalo-2111-1025",
+   "que": "Belenus H00318: localizador puesto",
+   "ambito": {
+    "leas": "LEAS-8532",
+    "centro": "Belenus Chile",
+    "cliente": null,
+    "tipo": "ruta track"
+   },
+   "porque": "Gonzalo (Jira, 21/11 10:25): pone los localizadores DHL JJD014600012889359487 y …488 en un comentario",
+   "quien": "Gonzalo (Jira)",
+   "cuando": "2026-11-21T10:25",
+   "revive_si": "2026-11-26: si no ha llegado a taller"
+  },
+  {
+   "id": "8538-gonzalo-2111-1025",
+   "que": "Belenus H03242: localizador puesto",
+   "ambito": {
+    "leas": "LEAS-8538",
+    "centro": "Belenus Chile",
+    "cliente": null,
+    "tipo": "ruta track"
+   },
+   "porque": "Gonzalo (Jira, 21/11 10:25): pone los localizadores DHL en un comentario",
+   "quien": "Gonzalo (Jira)",
+   "cuando": "2026-11-21T10:25",
+   "revive_si": "2026-11-26: si no ha llegado a taller"
+  },
+  {
+   "id": "dermasana-alcala-sust-gonzalo-2111-1031",
+   "que": "Dermasana Alcalá: ticket abierto",
+   "ambito": {
+    "leas": "LEAS-8641",
+    "centro": "Dermasana Alcalá",
+    "cliente": null,
+    "tipo": "wapp sin-ticket"
+   },
+   "porque": "Gonzalo abre LEAS-8641 el 21/11 10:31 («Se les pide más info, habrá que recogerla»); la clínica manda el vídeo hoy",
+   "quien": "Gonzalo (Jira)",
+   "cuando": "2026-11-21T10:31",
+   "revive_si": "2026-11-25: si LEAS-8641 sigue en «Abierto» sin nota de contenido"
   }
  ],
  "enlaces": [
