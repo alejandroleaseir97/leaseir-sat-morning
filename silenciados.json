@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-24T12:42",
+ "actualizado": "2026-11-24T15:19",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -16996,7 +16996,11 @@
    "porque": "Gonzalo abre LEAS-8641 el 21/11 10:31 («Se les pide más info, habrá que recogerla»); la clínica manda el vídeo hoy",
    "quien": "Gonzalo (Jira)",
    "cuando": "2026-11-21T10:31",
-   "revive_si": "2026-11-25: si LEAS-8641 sigue en «Abierto» sin nota de contenido"
+   "revive_si": "2026-11-25: si LEAS-8641 sigue en «Abierto» sin nota de contenido",
+   "revivido": {
+    "fecha": "2026-11-24T15:19",
+    "motivo": "hecho nuevo: la clínica manda hoy 24/11 a las 14:56-14:58 el vídeo y las fotos de la avería, sin respuesta"
+   }
   },
   {
    "id": "4908-isaac-panel-2311-1052",
@@ -17136,7 +17140,11 @@
    "porque": "Intervención reclamada (vía panel, 09:58)",
    "quien": "Gonzalo",
    "cuando": "2026-11-23T09:58",
-   "revive_si": "2026-11-30: si no consta la intervención del 30/11"
+   "revive_si": "2026-11-30: si no consta la intervención del 30/11",
+   "revivido": {
+    "fecha": "2026-11-24T15:19",
+    "motivo": "hecho nuevo: Borja pide hoy 24/11 por correo (14:22) que vuelva el técnico (diodo mal puesto, STOP 6)"
+   }
   },
   {
    "id": "8574-gonzalo-panel-2311-1001",
