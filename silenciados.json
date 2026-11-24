@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-23T20:22",
+ "actualizado": "2026-11-24T09:47",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -15360,7 +15360,11 @@
    "porque": "Gonzalo (vía panel, 10:47): «Ha llegado, se mete dentro»; Fotos equipos 11:28 «#MHR91241 MHP30559 IN»",
    "quien": "Gonzalo (panel, 17/11 10:47)",
    "cuando": "2026-11-17T10:47",
-   "revive_si": "2026-11-24: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-24: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "nota de contenido de Jonathan el 20/11 (pruebas de temperatura)"
+   }
   },
   {
    "id": "8311-borja-wapp-1711-1221",
@@ -15410,7 +15414,11 @@
    "porque": "Gonzalo (vía panel, 10:34): «No ha llegado el material todavía»",
    "quien": "Gonzalo (panel, 17/11 10:34)",
    "cuando": "2026-11-17T10:34",
-   "revive_si": "2026-11-24: si no consta que llegó el material"
+   "revive_si": "2026-11-24: si no consta que llegó el material",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8398-gonzalo-panel-1711-1035",
@@ -15424,7 +15432,11 @@
    "porque": "Gonzalo (vía panel, 10:35): «No ha llegado el material todavía»",
    "quien": "Gonzalo (panel, 17/11 10:35)",
    "cuando": "2026-11-17T10:35",
-   "revive_si": "2026-11-24: si el 40330 sigue sin recoger"
+   "revive_si": "2026-11-24: si el 40330 sigue sin recoger",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8470-gonzalo-panel-1711-1044",
@@ -15438,7 +15450,11 @@
    "porque": "Gonzalo (vía panel, 10:44): «Ha llegado ayer a taller»",
    "quien": "Gonzalo (panel, 17/11 10:44)",
    "cuando": "2026-11-17T10:44",
-   "revive_si": "2026-11-24: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-24: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "nota del 18/11: abierto LEAS-8567"
+   }
   },
   {
    "id": "8484-gonzalo-panel-1711-1035",
@@ -15470,7 +15486,11 @@
    "porque": "Gonzalo (vía panel, 10:33): «HA lleago ayer la consola a reparar, no se ha podido cambiar la nevera tan rápido»",
    "quien": "Gonzalo (panel, 17/11 10:33)",
    "cuando": "2026-11-17T10:33",
-   "revive_si": "2026-11-24: si no hay decisión sobre la SUSTMHR014"
+   "revive_si": "2026-11-24: si no hay decisión sobre la SUSTMHR014",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8387-gonzalo-panel-1711-1032",
@@ -15498,7 +15518,11 @@
    "porque": "Borja (Jira, 09:51): «el envio depende de una clienta de Adolfo en Surinam, sigue pdte de que le de luz verde para mandar la pieza»",
    "quien": "Borja (Jira, 17/11 09:51)",
    "cuando": "2026-11-17T09:51",
-   "revive_si": "2026-11-24: si sigue sin luz verde ni envío"
+   "revive_si": "2026-11-24: si sigue sin luz verde ni envío",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "lf-hospitalet-gonzalo-panel-1711-1203",
@@ -15512,7 +15536,11 @@
    "porque": "Gonzalo (nota del panel, 12:03): «Estamos esperando a I+D, per seguramente no sabremos nada en bastantes dias»",
    "quien": "Gonzalo (panel, 17/11 12:03)",
    "cuando": "2026-11-17T12:03",
-   "revive_si": "2026-11-24: si I+D sigue sin dar la solución"
+   "revive_si": "2026-11-24: si I+D sigue sin dar la solución",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8232-isaac-jira-1711-1428",
@@ -15526,7 +15554,11 @@
    "porque": "Pasa a «En cola taller»; Isaac (Jira, 14:28): «no me deja descargar las fotos de entrada»",
    "quien": "Isaac (Jira, 17/11 14:28)",
    "cuando": "2026-11-17T14:28",
-   "revive_si": "2026-11-24: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-24: si no hay nota de contenido nueva",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8345-jira-1711-esperando-inicio",
@@ -15540,7 +15572,11 @@
    "porque": "Pasa a «Esperando inicio reparación»",
    "quien": "Jira (17/11)",
    "cuando": "2026-11-17T14:20",
-   "revive_si": "2026-11-24: si sigue sin empezar la reparación"
+   "revive_si": "2026-11-24: si sigue sin empezar la reparación",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8170-isaac-jira-1711-1304",
@@ -15834,7 +15870,11 @@
    "porque": "Gonzalo (vía panel, 17:21): «Se le va a enviar material»",
    "quien": "Gonzalo (panel, 17/11 17:21)",
    "cuando": "2026-11-17T17:21",
-   "revive_si": "2026-11-24: si no consta el envío del material"
+   "revive_si": "2026-11-24: si no consta el envío del material",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8172-cristina-1811-1320",
@@ -16176,7 +16216,11 @@
    "porque": "Isaac (vía panel, 10:18): «ya esta en transito para taller»",
    "quien": "Isaac",
    "cuando": "2026-11-19T10:18",
-   "revive_si": "2026-11-24: si no ha llegado a taller y no hay nota nueva"
+   "revive_si": "2026-11-24: si no ha llegado a taller y no hay nota nueva",
+   "caducado": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "nota de Francisco hoy a las 09:28: se cierra el caso con la consola comprobada"
+   }
   },
   {
    "id": "cesena-laser-wapp-1911-0935",
@@ -16250,7 +16294,11 @@
    "porque": "Gonzalo (vía panel, 11:29): «Estamos a la espera de más info»",
    "quien": "Gonzalo",
    "cuando": "2026-11-19T11:29",
-   "revive_si": "2026-11-24: si sigue en «Pendiente recogida» sin nota nueva"
+   "revive_si": "2026-11-24: si sigue en «Pendiente recogida» sin nota nueva",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8478-gonzalo-jira-1911-1114",
@@ -16264,7 +16312,11 @@
    "porque": "Gonzalo (Jira, 11:14): «Se pide la recogida»",
    "quien": "Gonzalo",
    "cuando": "2026-11-19T11:14",
-   "revive_si": "2026-11-24: si no ha llegado a taller"
+   "revive_si": "2026-11-24: si no ha llegado a taller",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8353-gonzalo-panel-1911-1129",
@@ -16346,7 +16398,11 @@
    "porque": "Gonzalo (vía panel, 11:32): «Van a hablar Francess y Oliver»",
    "quien": "Gonzalo",
    "cuando": "2026-11-19T11:32",
-   "revive_si": "2026-11-24: si no consta respuesta de Brull"
+   "revive_si": "2026-11-24: si no consta respuesta de Brull",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8374-cristina-noaplica-1911-1323",
@@ -16360,7 +16416,11 @@
    "porque": "Cristina (vía panel, 13:23): «esto no aplica: en cuanto se liberen los técnicos en taller se asignará»",
    "quien": "Cristina",
    "cuando": "2026-11-19T13:23",
-   "revive_si": "2026-11-24: si sigue en «Pendiente asignar técnico» sin nota nueva"
+   "revive_si": "2026-11-24: si sigue en «Pendiente asignar técnico» sin nota nueva",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "hecho nuevo: ha pasado a «Devuelto a cliente» y sigue sin finalizar"
+   }
   },
   {
    "id": "8184-isaac-panel-1911-1327",
@@ -16374,7 +16434,11 @@
    "porque": "Isaac (vía panel, 13:27): «fabrica tiene que montar una pieza nueva, esta en cola»",
    "quien": "Isaac",
    "cuando": "2026-11-19T13:27",
-   "revive_si": "2026-11-24: si sigue en «Esperando inicio reparación» sin nota nueva"
+   "revive_si": "2026-11-24: si sigue en «Esperando inicio reparación» sin nota nueva",
+   "caducado": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "nota «Ya ha sido recibido» (Gonzalo, 23/11) y ya está «En reparación»"
+   }
   },
   {
    "id": "8449-isaac-panel-1911-1326",
@@ -16388,7 +16452,11 @@
    "porque": "Isaac (vía panel, 13:26): «esta en manos del comercial»",
    "quien": "Isaac",
    "cuando": "2026-11-19T13:26",
-   "revive_si": "2026-11-24: si sigue sin decisión del comercial apuntada"
+   "revive_si": "2026-11-24: si sigue sin decisión del comercial apuntada",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8512-cristina-noaplica-1911-1324",
@@ -16452,7 +16520,11 @@
    "porque": "Isaac (WhatsApp «SAT Portugal», 15:50-16:09): propone un interruptor hembra; «te mando uno donde quieras» → a la oficina de Mário",
    "quien": "Isaac",
    "cuando": "2026-11-19T16:09",
-   "revive_si": "2026-11-24: si no consta el envío del interruptor o el cliente vuelve a preguntar"
+   "revive_si": "2026-11-24: si no consta el envío del interruptor o el cliente vuelve a preguntar",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "8493-isaac-panel-1911-1550",
@@ -16498,7 +16570,11 @@
    "porque": "Isaac (vía panel, 15:56): «sigue igual» (esperan al seguro para pagar)",
    "quien": "Isaac",
    "cuando": "2026-11-19T15:56",
-   "revive_si": "2026-11-24: si sigue en «Pendiente confirmación presupuesto» sin respuesta"
+   "revive_si": "2026-11-24: si sigue en «Pendiente confirmación presupuesto» sin respuesta",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "distrilaser-c00216-alejandro-2011-0925",
@@ -16540,7 +16616,11 @@
    "porque": "Sat Leaseir Internacional («Smart Duck», 19:20): C03178 recibida el 16 y salió el 18, en camino (DHL Parcel)",
    "quien": "Sat Leaseir",
    "cuando": "2026-11-19T19:20",
-   "revive_si": "2026-11-24: si el cable de Rennes sigue en el punto DHL"
+   "revive_si": "2026-11-24: si el cable de Rennes sigue en el punto DHL",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "lmedical-8601-gonzalo-1911-1852",
@@ -16600,7 +16680,11 @@
    "porque": "Gonzalo (vía panel, 19:29): «Se les pregunta»; lo preguntó en «SRF unico italia» a las 19:29",
    "quien": "Gonzalo",
    "cuando": "2026-11-19T19:29",
-   "revive_si": "2026-11-24: si sigue sin transporte pedido"
+   "revive_si": "2026-11-24: si sigue sin transporte pedido",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "vencido el 24/11 sin nota de contenido posterior: el punto vuelve a salir"
+   }
   },
   {
    "id": "7923-gonzalo-panel-1911-1842",
@@ -17244,7 +17328,11 @@
    "porque": "Se gestiona, se pone la sustitución en préstamo (vía panel, 17:18); DHL da la sustitución LEAS-8552 entregada hoy",
    "quien": "Isaac",
    "cuando": "2026-11-23T17:18",
-   "revive_si": "2026-11-26: si el averiado no se ha recogido"
+   "revive_si": "2026-11-26: si el averiado no se ha recogido",
+   "revivido": {
+    "fecha": "2026-11-24T09:47",
+    "motivo": "hecho nuevo: SinVello avisa hoy a las 09:16 de que llegó la sustitución y pide recoger el averiado"
+   }
   },
   {
    "id": "8648-isaac-panel-2311-1718",
