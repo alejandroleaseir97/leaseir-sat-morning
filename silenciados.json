@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-24T09:47",
+ "actualizado": "2026-11-24T12:42",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -16810,7 +16810,11 @@
    "porque": "Tiene que llegar la sust (vía panel, sábado 21/11 10:26)",
    "quien": "Gonzalo",
    "cuando": "2026-11-21T10:26",
-   "revive_si": "2026-11-25: si llegó la sustitución LEAS-8592 y la recogida sigue sin pedir"
+   "revive_si": "2026-11-25: si llegó la sustitución LEAS-8592 y la recogida sigue sin pedir",
+   "revivido": {
+    "fecha": "2026-11-24T12:42",
+    "motivo": "hecho nuevo: la sustitución LEAS-8592 se entregó hoy 24/11 y Oscar pregunta a las 12:18 en lugar de qué manípulo"
+   }
   },
   {
    "id": "8597-gonzalo-panel-2111-1026",
@@ -17431,6 +17435,76 @@
    "quien": "Gonzalo",
    "cuando": "2026-11-23T18:57",
    "revive_si": "2026-11-26: si sigue en «Abierto» sin asignar"
+  },
+  {
+   "id": "8095-gonzalo-panel-2411-1122",
+   "que": "A la espera a que aprueben el presupuesto",
+   "ambito": {
+    "leas": "LEAS-8095",
+    "centro": "Epil Point Bergamo",
+    "cliente": "",
+    "tipo": "prestamo"
+   },
+   "porque": "A la espera a que aprueben el presupuesto",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-24T11:22",
+   "revive_si": "2026-12-01: si sigue sin aprobarse el presupuesto, vuelve"
+  },
+  {
+   "id": "8345-gonzalo-panel-2411-1119",
+   "que": "Es nuestro",
+   "ambito": {
+    "leas": "LEAS-8345",
+    "centro": "Leaseir SAT MHR91138",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "Es nuestro",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-24T11:19",
+   "revive_si": "2026-12-01: si sigue en reparación sin nota de contenido, vuelve"
+  },
+  {
+   "id": "8478-gonzalo-panel-2411-1155",
+   "que": "En cola",
+   "ambito": {
+    "leas": "LEAS-8478",
+    "centro": "Zugan Tolosa",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "En cola",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-24T11:55",
+   "revive_si": "2026-11-27: si sigue sin técnico ni nota de contenido, vuelve"
+  },
+  {
+   "id": "8547-gonzalo-panel-2411-1155",
+   "que": "Se gestiona la recogida",
+   "ambito": {
+    "leas": "LEAS-8547",
+    "centro": "SinVello Valladolid",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "Se gestiona la recogida",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-24T11:55",
+   "revive_si": "2026-11-27: si no hay recogida con tracking, vuelve"
+  },
+  {
+   "id": "8657-gonzalo-panel-2411-1154",
+   "que": "Se gestiona la recogida",
+   "ambito": {
+    "leas": "LEAS-8657",
+    "centro": "Elha Boltaña",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "Se gestiona la recogida",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-24T11:55",
+   "revive_si": "2026-11-27: si no hay recogida con tracking, vuelve"
   }
  ],
  "enlaces": [
