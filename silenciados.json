@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-24T15:19",
+ "actualizado": "2026-11-24T16:17",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -17513,6 +17513,34 @@
    "quien": "Gonzalo",
    "cuando": "2026-11-24T11:55",
    "revive_si": "2026-11-27: si no hay recogida con tracking, vuelve"
+  },
+  {
+   "id": "8641-borja-wapp-2411-1541",
+   "que": "contestado: Borja pregunta a las 15:41 «el 166 verdad?» y la clínica confirma a las 16:13; Isaac gestiona la recogida (Executive 12:58)",
+   "ambito": {
+    "leas": "LEAS-8641",
+    "centro": "Dermasana Alcalá",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "contestado: Borja pregunta a las 15:41 «el 166 verdad?» y la clínica confirma a las 16:13; Isaac gestiona la recogida (Executive 12:58)",
+   "quien": "Borja (WhatsApp Dermasana Alcalá, 15:41)",
+   "cuando": "2026-11-24T16:13",
+   "revive_si": "si el 2026-11-26 sigue en «Abierto» sin recogida pedida"
+  },
+  {
+   "id": "8566-gee-correo-2411-1554",
+   "que": "fecha cerrada: GEE contesta a las 15:54 que la clienta pide que vayan mañana 25/11 a las 12:45",
+   "ambito": {
+    "leas": "LEAS-8566",
+    "centro": "SinVello Zaragoza",
+    "cliente": "",
+    "tipo": "externo"
+   },
+   "porque": "fecha cerrada: GEE contesta a las 15:54 que la clienta pide que vayan mañana 25/11 a las 12:45",
+   "quien": "Borja (correo de GEE, 15:54)",
+   "cuando": "2026-11-24T15:54",
+   "revive_si": "si el 2026-11-26 no hay nota de la visita"
   }
  ],
  "enlaces": [
