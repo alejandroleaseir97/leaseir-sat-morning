@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-24T16:17",
+ "actualizado": "2026-11-24T18:17",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -17541,6 +17541,20 @@
    "quien": "Borja (correo de GEE, 15:54)",
    "cuando": "2026-11-24T15:54",
    "revive_si": "si el 2026-11-26 no hay nota de la visita"
+  },
+  {
+   "id": "8548-gonzalo-panel-2411-1810",
+   "que": "contestado: Gonzalo (vía panel, 18:10): «Pedida» (la recogida)",
+   "ambito": {
+    "leas": "LEAS-8548",
+    "centro": "SinVello Torrejón de Ardoz",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "contestado: Gonzalo (vía panel, 18:10): «Pedida» (la recogida)",
+   "quien": "Gonzalo (vía panel, 18:10)",
+   "cuando": "2026-11-24T18:10",
+   "revive_si": "si el 2026-11-26 sigue en «Gestionado transporte» sin tracking"
   }
  ],
  "enlaces": [
