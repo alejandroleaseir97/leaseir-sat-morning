@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-25T12:42",
+ "actualizado": "2026-11-25T15:22",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -17182,7 +17182,11 @@
    "porque": "Isaac reclama la respuesta (vía panel 10:36) y SinVello acepta por correo a las 11:30; ya en «Esperando inicio reparación»",
    "quien": "Isaac",
    "cuando": "2026-11-23T10:36",
-   "revive_si": "2026-11-26: si sigue sin empezar la reparación"
+   "revive_si": "2026-11-26: si sigue sin empezar la reparación",
+   "revivido": {
+    "fecha": "2026-11-25T15:22",
+    "motivo": "hecho nuevo: OUT a las 14:39 y paso a Inspección de salida sin nota (25/11)"
+   }
   },
   {
    "id": "8414-isaac-correo-2311-1224",
@@ -18001,6 +18005,34 @@
    "quien": "Cristina (vía panel)",
    "cuando": "2026-11-25T11:28",
    "revive_si": "2026-11-27: si la visita del 26/11 no se ha apuntado"
+  },
+  {
+   "id": "8591-gonzalo-srf-2511-1332",
+   "que": "Gonzalo manda la etiqueta en SRF unico italia (13:32): «ritira il manipolo che non funziona e spediscilo in Spagna»",
+   "ambito": {
+    "leas": "LEAS-8591",
+    "centro": "Centro Unico Roma Est",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Gonzalo manda la etiqueta en SRF unico italia (13:32): «ritira il manipolo che non funziona e spediscilo in Spagna»",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-25T13:32",
+   "revive_si": "2026-11-27: si la averiada no ha salido de Roma Est"
+  },
+  {
+   "id": "8717-gonzalo-panel-2511-1257",
+   "que": "punto del panel sin ticket, va con este (LEAS-8717)",
+   "ambito": {
+    "leas": "LEAS-8717",
+    "centro": "DERMASANA ALCOBENDAS",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "punto del panel sin ticket, va con este (LEAS-8717)",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-25T12:57",
+   "revive_si": "2026-11-27: si Innet no ha ido a reparar el gatillo"
   }
  ],
  "enlaces": [
