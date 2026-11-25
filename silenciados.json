@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-24T20:16",
+ "actualizado": "2026-11-25T09:39",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -13929,7 +13929,11 @@
    "porque": "Gonzalo (vía panel, 10:31): «Se ha reclamado a Sincronis y al técnico individualemente desde el Lunes sin respuesta… si no contesta hoy se habla con el gerente»",
    "quien": "Gonzalo (Jira, 11/11 10:31)",
    "cuando": "2026-11-11T10:31",
-   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "7730-borja-1111-1217",
@@ -14141,7 +14145,11 @@
    "porque": "Isaac (vía panel, 18:11): «pendiente de enviar sust»",
    "quien": "Isaac (panel, 11/11 18:11)",
    "cuando": "2026-11-11T18:11",
-   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8033-isaac-1111-1811",
@@ -14173,7 +14181,11 @@
    "porque": "Isaac (vía panel, 18:33): «aun nos estamos informando, lo va a gestionar Gonzalo»",
    "quien": "Isaac (panel, 11/11 18:33)",
    "cuando": "2026-11-11T18:33",
-   "revive_si": "2026-11-18: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-18: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8285-cristina-noaplica-1211-1233",
@@ -14259,7 +14271,11 @@
    "porque": "Isaac (vía panel, 16:01): «se envia interlock rapido para que puedan trabajar»",
    "quien": "Isaac (panel, 12/11 16:01)",
    "cuando": "2026-11-12T16:01",
-   "revive_si": "2026-11-19: si el ticket sigue sin asignar y sin nota de la intervención"
+   "revive_si": "2026-11-19: si el ticket sigue sin asignar y sin nota de la intervención",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8459-isaac-panel-1211-1602",
@@ -14879,7 +14895,11 @@
    "porque": "Gonzalo (vía panel, 10:04): «Se recuerda en el grupo de Sat y se recuerda personalmente a BOrja»; Borja (Interno, 10:28): «el viernes salió la 20056»",
    "quien": "Gonzalo (panel, 16/11 10:04)",
    "cuando": "2026-11-16T10:04",
-   "revive_si": "2026-11-19: si en el ticket sigue sin constar qué se le cobra a Brull"
+   "revive_si": "2026-11-19: si en el ticket sigue sin constar qué se le cobra a Brull",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "sincronis-movement-borja-noaplica-1611-1100",
@@ -15156,7 +15176,11 @@
    "porque": "Cristina (15:33) y Borja (15:51-15:53) en «Reparaciones Leaseir Dermasana Alcalá»: «falta al interlock por eso no pasa el test», «os mandamos uno entonces»; Cristina 15:53 en ENVIOS «1x interlock LT DERMASANA Alcalá» y etiqueta CTT 15:54",
    "quien": "Borja (WhatsApp, 16/11 15:53)",
    "cuando": "2026-11-16T15:53",
-   "revive_si": "2026-11-19: si el centro sigue sin el interlock o el equipo no calibra"
+   "revive_si": "2026-11-19: si el centro sigue sin el interlock o el equipo no calibra",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "epil-bergamo-borja-wapp-1611-1535",
@@ -15224,7 +15248,11 @@
    "porque": "Gonzalo (vía panel, 17:55): «No se sabe si se cancela el envio ya que no han llamado todavía y se le ha reclaamdo»",
    "quien": "Gonzalo (panel, 16/11 17:55)",
    "cuando": "2026-11-16T17:55",
-   "revive_si": "2026-11-23: si Sincronis sigue sin cita"
+   "revive_si": "2026-11-23: si Sincronis sigue sin cita",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8493-gonzalo-panel-1611-1810",
@@ -15310,7 +15338,11 @@
    "porque": "Gonzalo (vía panel, 18:14): «Está en cola»",
    "quien": "Gonzalo (panel, 16/11 18:14)",
    "cuando": "2026-11-16T18:14",
-   "revive_si": "2026-11-23: si no hay nota de contenido nueva"
+   "revive_si": "2026-11-23: si no hay nota de contenido nueva",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8227-gonzalo-panel-1611-1814",
@@ -15504,7 +15536,11 @@
    "porque": "Gonzalo (vía panel, 10:32): «El equipo salió ayer no ha llegado todavía»",
    "quien": "Gonzalo (panel, 17/11 10:32)",
    "cuando": "2026-11-17T10:32",
-   "revive_si": "2026-11-19: si sigue sin finalizar"
+   "revive_si": "2026-11-19: si sigue sin finalizar",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "7420-borja-jira-1711-0951",
@@ -15730,7 +15766,11 @@
    "porque": "Gonzalo (vía panel, 17:35): «No tiene localizador, se pregunta a benjamin a ver cuando vuelve»; BPR Logistic por correo (19:01): «Salió el viernes pasado, calcula un tránsito de 7 a 10 días»",
    "quien": "Gonzalo (panel, 17/11 17:35)",
    "cuando": "2026-11-17T17:35",
-   "revive_si": "2026-11-25: si no ha llegado a taller (tránsito de 7 a 10 días desde el 13/11)"
+   "revive_si": "2026-11-25: si no ha llegado a taller (tránsito de 7 a 10 días desde el 13/11)",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8517-gonzalo-1711-1723",
@@ -15942,7 +15982,11 @@
    "porque": "Borja (vía panel, 14:05): «sale hoy»",
    "quien": "Borja (panel, 18/11 14:05)",
    "cuando": "2026-11-18T14:05",
-   "revive_si": "2026-11-23: si sigue en «Devuelto a cliente» sin finalizar"
+   "revive_si": "2026-11-23: si sigue en «Devuelto a cliente» sin finalizar",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "7824-borja-1811-1530",
@@ -15992,7 +16036,11 @@
    "porque": "Gonzalo (vía panel, 17:56): «Se va a enviar material, es muy facil de reparar»",
    "quien": "Gonzalo (Jira, 18/11 17:56)",
    "cuando": "2026-11-18T17:56",
-   "revive_si": "2026-11-25: si no consta el envío del material"
+   "revive_si": "2026-11-25: si no consta el envío del material",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8291-gonzalo-1811-1653",
@@ -16024,7 +16072,11 @@
    "porque": "Gonzalo (vía panel, 17:48): «Nuestro, esperando repración»",
    "quien": "Gonzalo (Jira, 18/11 17:48)",
    "cuando": "2026-11-18T17:48",
-   "revive_si": "2026-11-25: si sigue en «Pendiente recogida» sin nota de contenido"
+   "revive_si": "2026-11-25: si sigue en «Pendiente recogida» sin nota de contenido",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8456-gonzalo-1811-1740",
@@ -16056,7 +16108,11 @@
    "porque": "Gonzalo (vía panel, 17:27): «Se espera respuesta de I+D»",
    "quien": "Gonzalo (Jira, 18/11 17:27)",
    "cuando": "2026-11-18T17:27",
-   "revive_si": "2026-11-25: si no hay respuesta de I+D"
+   "revive_si": "2026-11-25: si no hay respuesta de I+D",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8322-gonzalo-1811-1734",
@@ -16070,7 +16126,11 @@
    "porque": "Gonzalo (Jira, 17:34): «A la espera de programa de I+D»",
    "quien": "Gonzalo (Jira, 18/11 17:34)",
    "cuando": "2026-11-18T17:34",
-   "revive_si": "2026-11-25: si no llega el programa de I+D"
+   "revive_si": "2026-11-25: si no llega el programa de I+D",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8257-gonzalo-1811-1746",
@@ -16102,7 +16162,11 @@
    "porque": "Gonzalo (vía panel, 17:33): «Es nuestra, corre, solo corre prisa para tenerla disponible»",
    "quien": "Gonzalo (Jira, 18/11 17:33)",
    "cuando": "2026-11-18T17:33",
-   "revive_si": "2026-11-25: si sigue sin técnico"
+   "revive_si": "2026-11-25: si sigue sin técnico",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8343-gonzalo-1811-1733",
@@ -16116,7 +16180,11 @@
    "porque": "Gonzalo (vía panel, 17:33): «Es nuestra, corre, solo corre prisa para tenerla disponible»",
    "quien": "Gonzalo (Jira, 18/11 17:33)",
    "cuando": "2026-11-18T17:33",
-   "revive_si": "2026-11-25: si sigue sin técnico"
+   "revive_si": "2026-11-25: si sigue sin técnico",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8349-gonzalo-1811-1733",
@@ -16130,7 +16198,11 @@
    "porque": "Gonzalo (vía panel, 17:33): «Es nuestra, corre, solo corre prisa para tenerla disponible»",
    "quien": "Gonzalo (Jira, 18/11 17:33)",
    "cuando": "2026-11-18T17:33",
-   "revive_si": "2026-11-25: si sigue sin técnico"
+   "revive_si": "2026-11-25: si sigue sin técnico",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8403-gonzalo-1811-1732",
@@ -16280,7 +16352,11 @@
    "porque": "Isaac (vía panel, 11:18): «les reclamo si la quieren que recojamos o si ya esta solucionado y cancelamos incidencia»; Elha (WhatsApp, 11:27): sigue haciendo pruebas",
    "quien": "Isaac",
    "cuando": "2026-11-19T11:18",
-   "revive_si": "2026-11-24: si sigue en «Pendiente recogida» sin decisión apuntada"
+   "revive_si": "2026-11-24: si sigue en «Pendiente recogida» sin decisión apuntada",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8572-gonzalo-panel-1911-1129",
@@ -16470,7 +16546,11 @@
    "porque": "Cristina (vía panel, 13:24): «esto no aplica: Se pregunta a GEE cuando se asistirá a reparar»; GEE mandó el albarán de trabajo de Elha Caracol por correo a las 14:12",
    "quien": "Cristina",
    "cuando": "2026-11-19T13:24",
-   "revive_si": "2026-11-24: si sigue en «Enviado a técnico externo» sin cerrar"
+   "revive_si": "2026-11-24: si sigue en «Enviado a técnico externo» sin cerrar",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8554-isaac-panel-1911-1324",
@@ -16602,7 +16682,11 @@
    "porque": "Borja («Marvena Bulgaria», 09:18): «price for this harting staple is 25 eur»; tornillos incluidos",
    "quien": "Borja",
    "cuando": "2026-11-20T09:18",
-   "revive_si": "2026-11-25: si el cliente vuelve a preguntar sin respuesta"
+   "revive_si": "2026-11-25: si el cliente vuelve a preguntar sin respuesta",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "smartduck-sat-wapp-1911-1920",
@@ -16634,7 +16718,11 @@
    "porque": "Gonzalo (vía panel, 18:52): punto sin ticket, va con LEAS-8601; contestado en el grupo 18:44-18:48",
    "quien": "Gonzalo",
    "cuando": "2026-11-19T18:52",
-   "revive_si": "2026-11-25: si LEAS-8601 sigue en «Abierto» sin plan"
+   "revive_si": "2026-11-25: si LEAS-8601 sigue en «Abierto» sin plan",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "aesthemed-borja-wapp-2011-0929",
@@ -16698,7 +16786,11 @@
    "porque": "Gonzalo (vía panel, 18:42): «Nos la quedamos ya la tenemos aqui, esperando reparación»",
    "quien": "Gonzalo",
    "cuando": "2026-11-19T18:42",
-   "revive_si": "2026-11-25: si no hay nota de reparación"
+   "revive_si": "2026-11-25: si no hay nota de reparación",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8459-gonzalo-panel-1911-1839",
@@ -16712,7 +16804,11 @@
    "porque": "Gonzalo (vía panel, 18:39): «En cola»",
    "quien": "Gonzalo",
    "cuando": "2026-11-19T18:39",
-   "revive_si": "2026-11-25: si sigue sin presupuesto"
+   "revive_si": "2026-11-25: si sigue sin presupuesto",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8519-cristina-noaplica-2011-1153",
@@ -16726,7 +16822,11 @@
    "porque": "Cristina (vía panel, 11:53): «esto no aplica: en cuanto se libere un técnico se asignará hay mucho volumen de trabajo en taller»",
    "quien": "Cristina",
    "cuando": "2026-11-20T11:53",
-   "revive_si": "2026-11-25: si sigue en «Pendiente asignar técnico»"
+   "revive_si": "2026-11-25: si sigue en «Pendiente asignar técnico»",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "elha-recogida-borja-wapp-2011-1201",
@@ -16740,7 +16840,11 @@
    "porque": "Borja («Incidencias Leaseir/Elha», 12:01): mandó las etiquetas PRG261123780931 para recoger la 41003 y la H00474",
    "quien": "Borja",
    "cuando": "2026-11-20T12:01",
-   "revive_si": "2026-11-25: si Elha vuelve a pedir la recogida"
+   "revive_si": "2026-11-25: si Elha vuelve a pedir la recogida",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8456-gonzalo-panel-2111-1008",
@@ -16842,7 +16946,11 @@
    "porque": "Se le ha dicho que vaya (vía panel, sábado 21/11 10:21)",
    "quien": "Gonzalo",
    "cuando": "2026-11-21T10:21",
-   "revive_si": "2026-11-25: si no consta la visita del técnico"
+   "revive_si": "2026-11-25: si no consta la visita del técnico",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "hecho nuevo: Pasquale (Sincronis) va el 26/11 a las 11:30 y pregunta hoy a las 08:23 qué hacer, sin respuesta"
+   }
   },
   {
    "id": "8488-gonzalo-panel-2111-1027",
@@ -16954,7 +17062,11 @@
    "porque": "DHL en tránsito a Santiago de Chile, entrega prevista el 23/11 (MCP SAT)",
    "quien": "pasada 9:30",
    "cuando": "2026-11-23T10:00",
-   "revive_si": "2026-11-25: si sigue en «Devuelto a cliente» sin finalizar"
+   "revive_si": "2026-11-25: si sigue en «Devuelto a cliente» sin finalizar",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8532-gonzalo-2111-1025",
@@ -17098,7 +17210,11 @@
    "porque": "No correspondía el tracking; se ha pedido hoy la recogida (vía panel, 11:29)",
    "quien": "Borja",
    "cuando": "2026-11-23T11:29",
-   "revive_si": "2026-11-25: si CTT no la ha recogido"
+   "revive_si": "2026-11-25: si CTT no la ha recogido",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8441-gonzalo-panel-2311-1000",
@@ -17112,7 +17228,11 @@
    "porque": "Se reclama al técnico (vía panel 10:00); Sincronis confirma la visita mañana 24/11 a las 13:00 (correo 12:31 y WhatsApp 11:37)",
    "quien": "Gonzalo",
    "cuando": "2026-11-23T10:00",
-   "revive_si": "2026-11-25: si no consta la visita del 24/11"
+   "revive_si": "2026-11-25: si no consta la visita del 24/11",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "la visita se hizo el 24/11 (chat Sincronis, Francesco en Palermo 12:27-14:48)"
+   }
   },
   {
    "id": "8563-gonzalo-panel-2311-1013",
@@ -17158,7 +17278,11 @@
    "porque": "Se pregunta a Carlos Mora (vía panel 10:01; WhatsApp 10:01)",
    "quien": "Gonzalo",
    "cuando": "2026-11-23T10:01",
-   "revive_si": "2026-11-25: si Carlos Mora sigue sin dar fecha"
+   "revive_si": "2026-11-25: si Carlos Mora sigue sin dar fecha",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8535-pasada-2311-1230",
@@ -17186,7 +17310,11 @@
    "porque": "La sustitución llegó hoy y la averiada se recoge mañana; la clínica la deja preparada (WhatsApp 11:07-11:08)",
    "quien": "Sat Leaseir (WhatsApp)",
    "cuando": "2026-11-23T11:07",
-   "revive_si": "2026-11-25: si no se ha recogido"
+   "revive_si": "2026-11-25: si no se ha recogido",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8172-isaac-panel-2311-1240",
@@ -17242,7 +17370,11 @@
    "porque": "Sale hoy una sustitución (vía panel, 13:07); CTT de la SUST de Albacete en ENVIOS a las 13:20",
    "quien": "Borja",
    "cuando": "2026-11-23T13:07",
-   "revive_si": "2026-11-25: si llegó la sustitución LEAS-8619 y la recogida sigue sin pedir"
+   "revive_si": "2026-11-25: si llegó la sustitución LEAS-8619 y la recogida sigue sin pedir",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8634-isaac-2311-1247",
@@ -17256,7 +17388,11 @@
    "porque": "Se envía caja de madera (Isaac 12:47); etiqueta DHL en ENVIOS a las 12:51",
    "quien": "Isaac",
    "cuando": "2026-11-23T12:47",
-   "revive_si": "2026-11-25: si no se ha recogido"
+   "revive_si": "2026-11-25: si no se ha recogido",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8554-isaac-wapp-2311-1335",
@@ -17270,7 +17406,11 @@
    "porque": "SinVello confirma que llegó la sustitución (13:28) e Isaac manda la etiqueta de recogida (13:35)",
    "quien": "Isaac (WhatsApp)",
    "cuando": "2026-11-23T13:35",
-   "revive_si": "2026-11-25: si CTT no la ha recogido"
+   "revive_si": "2026-11-25: si CTT no la ha recogido",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "7824-borja-panel-2311-1247",
@@ -17298,7 +17438,11 @@
    "porque": "Se envía, está en envíos (vía panel 14:45); se pide la recogida (Gonzalo, 15:11)",
    "quien": "Gonzalo",
    "cuando": "2026-11-23T15:11",
-   "revive_si": "2026-11-25: si no se ha recogido"
+   "revive_si": "2026-11-25: si no se ha recogido",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8193-borja-wapp-2311-1403",
@@ -17312,7 +17456,11 @@
    "porque": "Borja contesta (12:57-13:50): pide abrir el caso y Elha avisará cuando esté para recoger (14:03)",
    "quien": "Borja (WhatsApp)",
    "cuando": "2026-11-23T14:03",
-   "revive_si": "2026-11-25: si Elha no ha avisado ni hay caso nuevo"
+   "revive_si": "2026-11-25: si Elha no ha avisado ni hay caso nuevo",
+   "caducado": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y la condición no se cumple o el ticket está cerrado"
+   }
   },
   {
    "id": "8567-gonzalo-correo-2311-1239",
@@ -17372,7 +17520,11 @@
    "porque": "No hay que recoger ese manípulo, cancelo el LEAS (vía panel, 18:09)",
    "quien": "Isaac",
    "cuando": "2026-11-23T18:09",
-   "revive_si": "2026-11-25: si el ticket sigue abierto"
+   "revive_si": "2026-11-25: si el ticket sigue abierto",
+   "revivido": {
+    "fecha": "2026-11-25T09:39",
+    "motivo": "revive_si vencido el 25/11 y sin nota de contenido posterior: el punto vuelve"
+   }
   },
   {
    "id": "8305-isaac-panel-2311-1736",
@@ -17583,6 +17735,62 @@
    "quien": "Isaac (WhatsApp 19:10-20:00)",
    "cuando": "2026-11-24T20:10",
    "revive_si": "si el 2026-11-27 sigue en «Gestionado transporte» sin llegar a taller"
+  },
+  {
+   "id": "8547-pasada-2511-0930",
+   "que": "recogida pedida a DHL Parcel (Gonzalo, 24/11 11:55); DHL sin datos desde el 23/11",
+   "ambito": {
+    "leas": "LEAS-8547",
+    "centro": "Sinvello Valladolid",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "recogida pedida a DHL Parcel (Gonzalo, 24/11 11:55); DHL sin datos desde el 23/11",
+   "quien": "pasada 9:30 (MCP SAT estado_transportes)",
+   "cuando": "2026-11-25T09:30",
+   "revive_si": "2026-11-27: si DHL no la ha recogido"
+  },
+  {
+   "id": "8548-pasada-2511-0930",
+   "que": "recogida pedida a DHL Parcel (Gonzalo, 24/11 18:10)",
+   "ambito": {
+    "leas": "LEAS-8548",
+    "centro": "SinVello Torrejón de Ardoz",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "recogida pedida a DHL Parcel (Gonzalo, 24/11 18:10)",
+   "quien": "pasada 9:30 (MCP SAT estado_transportes)",
+   "cuando": "2026-11-25T09:30",
+   "revive_si": "2026-11-27: si DHL no la ha recogido"
+  },
+  {
+   "id": "8563-pasada-2511-0930",
+   "que": "la sustitución LEAS-8603 sigue en tránsito (DHL, Italia, 24/11)",
+   "ambito": {
+    "leas": "LEAS-8563",
+    "centro": "Centro Unico Vercelli",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "la sustitución LEAS-8603 sigue en tránsito (DHL, Italia, 24/11)",
+   "quien": "pasada 9:30 (MCP SAT estado_transportes)",
+   "cuando": "2026-11-25T09:30",
+   "revive_si": "2026-11-27: si llegó la sustitución y la recogida sigue sin pedir"
+  },
+  {
+   "id": "8597-pasada-2511-0930",
+   "que": "la consola C00677 (LEAS-8598) tiene la recogida pedida (Gonzalo 23/11) y Campania la dio por retirada el 24/11",
+   "ambito": {
+    "leas": "LEAS-8597",
+    "centro": "Centro Unico Campania",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "la consola C00677 (LEAS-8598) tiene la recogida pedida (Gonzalo 23/11) y Campania la dio por retirada el 24/11",
+   "quien": "pasada 9:30",
+   "cuando": "2026-11-25T09:30",
+   "revive_si": "2026-11-27: si sigue sin transporte pedido"
   }
  ],
  "enlaces": [
