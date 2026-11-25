@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-25T15:22",
+ "actualizado": "2026-11-25T16:18",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -18033,6 +18033,20 @@
    "quien": "Gonzalo (vía panel)",
    "cuando": "2026-11-25T12:57",
    "revive_si": "2026-11-27: si Innet no ha ido a reparar el gatillo"
+  },
+  {
+   "id": "umbilicales-ep-cristina-2511-1546",
+   "que": "Cristina manda el presupuesto revisado de los umbilicales en EPIL POINT LASER SUPPORT (15:46) y por correo",
+   "ambito": {
+    "leas": "",
+    "centro": "Epil Point",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Cristina manda el presupuesto revisado de los umbilicales en EPIL POINT LASER SUPPORT (15:46) y por correo",
+   "quien": "Cristina",
+   "cuando": "2026-11-25T15:46",
+   "revive_si": "2026-11-30: si EP no ha confirmado el pedido"
   }
  ],
  "enlaces": [
