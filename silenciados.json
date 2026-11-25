@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-25T09:39",
+ "actualizado": "2026-11-25T12:42",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -17791,6 +17791,216 @@
    "quien": "pasada 9:30",
    "cuando": "2026-11-25T09:30",
    "revive_si": "2026-11-27: si sigue sin transporte pedido"
+  },
+  {
+   "id": "8649-gonzalo-panel-2511-0959",
+   "que": "La envian ellos",
+   "ambito": {
+    "leas": "LEAS-8649",
+    "centro": "Dermoscan",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "La envian ellos",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-25T09:59",
+   "revive_si": "2026-11-27: si no ha llegado a taller"
+  },
+  {
+   "id": "8650-gonzalo-panel-2511-0959",
+   "que": "La envian ellos",
+   "ambito": {
+    "leas": "LEAS-8650",
+    "centro": "Dermoscan",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "La envian ellos",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-25T09:59",
+   "revive_si": "2026-11-27: si no ha llegado a taller"
+  },
+  {
+   "id": "8629-gonzalo-panel-2511-0959",
+   "que": "La envian ellos",
+   "ambito": {
+    "leas": "LEAS-8629",
+    "centro": "Dermoscan",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "La envian ellos",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-25T09:59",
+   "revive_si": "2026-11-27: si no ha llegado a taller"
+  },
+  {
+   "id": "8710-gonzalo-panel-2511-0959",
+   "que": "Hay que meterlo",
+   "ambito": {
+    "leas": "LEAS-8710",
+    "centro": "Daniel Jaramillo",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Hay que meterlo",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-25T09:59",
+   "revive_si": "2026-11-26: si sigue en «Gestionado transporte»"
+  },
+  {
+   "id": "7820-gonzalo-panel-2511-1005",
+   "que": "PEDIMOS LOS DATOS BANCARIOS TODOS LOS DIAS Y NO DICEN NI MU Y LES DA IGUAL",
+   "ambito": {
+    "leas": "LEAS-7820",
+    "centro": "Juan Casasnovas",
+    "cliente": "",
+    "tipo": "externo"
+   },
+   "porque": "PEDIMOS LOS DATOS BANCARIOS TODOS LOS DIAS Y NO DICEN NI MU Y LES DA IGUAL",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-25T10:05",
+   "revive_si": "2026-11-30: si sigue sin datos bancarios ni envío"
+  },
+  {
+   "id": "8482-gonzalo-panel-2511-1000",
+   "que": "Se pregunta",
+   "ambito": {
+    "leas": "LEAS-8482",
+    "centro": "Smart Duck Grenoble",
+    "cliente": "",
+    "tipo": "huerf"
+   },
+   "porque": "Se pregunta",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-25T10:00",
+   "revive_si": "2026-11-27: si no hay respuesta"
+  },
+  {
+   "id": "8322-gonzalo-panel-2511-1106",
+   "que": "En cola",
+   "ambito": {
+    "leas": "LEAS-8322",
+    "centro": "Smart Duck Troyes",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "En cola",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-25T11:06",
+   "revive_si": "2026-11-30: si sigue sin fecha"
+  },
+  {
+   "id": "8554-gonzalo-2511-1125",
+   "que": "Se pide de nuevo la recogida",
+   "ambito": {
+    "leas": "LEAS-8554",
+    "centro": "SinVello Écija",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Se pide de nuevo la recogida",
+   "quien": "Gonzalo",
+   "cuando": "2026-11-25T11:25",
+   "revive_si": "2026-11-27: si CTT no la ha recogido"
+  },
+  {
+   "id": "8598-gonzalo-panel-2511-1112",
+   "que": "La consola de remplazo es la C00282",
+   "ambito": {
+    "leas": "LEAS-8598",
+    "centro": "Centro Unico Campania",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "La consola de remplazo es la C00282",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-25T11:12",
+   "revive_si": "2026-11-30: si la C00282 no ha salido"
+  },
+  {
+   "id": "8634-cristina-noaplica-2511-1123",
+   "que": "esto no aplica: La caja aún no se entregó, se revisa en DHL y ayer no pudieron entregarla asique deberían entregar hoy.",
+   "ambito": {
+    "leas": "LEAS-8634",
+    "centro": "Elha Esteve Albert",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: La caja aún no se entregó, se revisa en DHL y ayer no pudieron entregarla asique deberían entregar hoy.",
+   "quien": "Cristina (vía panel)",
+   "cuando": "2026-11-25T11:23",
+   "revive_si": "2026-11-27: si la caja no se ha entregado o no se ha pedido la recogida"
+  },
+  {
+   "id": "8637-cristina-noaplica-2511-1126",
+   "que": "esto no aplica: pregunto al centro ya que Borja les preguntó por el chat y no dieron respuesta",
+   "ambito": {
+    "leas": "LEAS-8637",
+    "centro": "Elha Jaén",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: pregunto al centro ya que Borja les preguntó por el chat y no dieron respuesta",
+   "quien": "Cristina (vía panel)",
+   "cuando": "2026-11-25T11:26",
+   "revive_si": "2026-11-27: si el centro no ha contestado"
+  },
+  {
+   "id": "8546-cristina-noaplica-2511-1127",
+   "que": "esto no aplica: Hasta que no se libere una sustitución no se puede recoger, no es un caso urgente ya que no está roto",
+   "ambito": {
+    "leas": "LEAS-8546",
+    "centro": "SinVello Alicante Gran Vía",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "esto no aplica: Hasta que no se libere una sustitución no se puede recoger, no es un caso urgente ya que no está roto",
+   "quien": "Cristina (vía panel)",
+   "cuando": "2026-11-25T11:27",
+   "revive_si": "2026-12-02: si la sustitución LEAS-8584 sigue en «Solicitado»"
+  },
+  {
+   "id": "8574-cristina-noaplica-2511-1127",
+   "que": "esto no aplica: en cuanto confirme Carlos fecha lo anotaremos",
+   "ambito": {
+    "leas": "LEAS-8574",
+    "centro": "Elha Calassanç Durán",
+    "cliente": "",
+    "tipo": "externo"
+   },
+   "porque": "esto no aplica: en cuanto confirme Carlos fecha lo anotaremos",
+   "quien": "Cristina (vía panel)",
+   "cuando": "2026-11-25T11:27",
+   "revive_si": "2026-11-30: si Carlos Mora sigue sin fecha"
+  },
+  {
+   "id": "8636-cristina-noaplica-2511-1127",
+   "que": "no aplica (Gonzalo mandó a Sincronis la petición urgente por correo)",
+   "ambito": {
+    "leas": "LEAS-8636",
+    "centro": "Epil Point Roma Appia",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "no aplica (Gonzalo mandó a Sincronis la petición urgente por correo)",
+   "quien": "Cristina (vía panel)",
+   "cuando": "2026-11-25T11:27",
+   "revive_si": "2026-11-27: si Sincronis no ha dado fecha"
+  },
+  {
+   "id": "8466-cristina-noaplica-2511-1128",
+   "que": "no aplica",
+   "ambito": {
+    "leas": "LEAS-8466",
+    "centro": "Epil Point Martina Franca",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "no aplica",
+   "quien": "Cristina (vía panel)",
+   "cuando": "2026-11-25T11:28",
+   "revive_si": "2026-11-27: si la visita del 26/11 no se ha apuntado"
   }
  ],
  "enlaces": [
