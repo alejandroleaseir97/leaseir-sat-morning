@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-26T12:37",
+ "actualizado": "2026-11-26T15:16",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -18283,6 +18283,48 @@
    "quien": "Borja (vía panel)",
    "cuando": "2026-11-26T12:11",
    "revive_si": "2026-11-27: si no ha llegado a taller"
+  },
+  {
+   "id": "8600-borja-panel-2611-1329",
+   "que": "listo",
+   "ambito": {
+    "leas": "LEAS-8600",
+    "centro": "Aesthemed",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "listo",
+   "quien": "Borja (vía panel)",
+   "cuando": "2026-11-26T13:29",
+   "revive_si": "2026-12-01: si el material no ha llegado al cliente"
+  },
+  {
+   "id": "8676-borja-panel-2611-1330",
+   "que": "volvio y reparo",
+   "ambito": {
+    "leas": "LEAS-8676",
+    "centro": "Elha Castellón",
+    "cliente": "",
+    "tipo": "wapp"
+   },
+   "porque": "volvio y reparo",
+   "quien": "Borja (vía panel)",
+   "cuando": "2026-11-26T13:30",
+   "revive_si": "2026-12-01: si Elha vuelve a reclamar"
+  },
+  {
+   "id": "8093-gonzalo-panel-2611-1432",
+   "que": "Esto es la consola",
+   "ambito": {
+    "leas": "LEAS-8093",
+    "centro": "Epil Point Bergamo",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Esto es la consola",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-26T14:32",
+   "revive_si": "2026-12-01: si Bergamo sigue parado"
   }
  ],
  "enlaces": [
