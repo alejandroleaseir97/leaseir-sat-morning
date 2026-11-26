@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-26T16:15",
+ "actualizado": "2026-11-26T18:16",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -18353,6 +18353,370 @@
    "quien": "Cristina (vía panel)",
    "cuando": "2026-11-26T16:11",
    "revive_si": "2026-12-01: si la intervención de Sincronis sigue sin fecha confirmada"
+  },
+  {
+   "id": "7458-isaac-panel-2611-1734",
+   "que": "asignado a Joni",
+   "ambito": {
+    "leas": "LEAS-7458",
+    "centro": "Elha Carducci",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "asignado a Joni",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:34",
+   "revive_si": "2026-12-01: si sigue sin fecha"
+  },
+  {
+   "id": "7923-isaac-panel-2611-1750",
+   "que": "igual",
+   "ambito": {
+    "leas": "LEAS-7923",
+    "centro": "Clínica Tres Palacios",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "igual",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:50",
+   "revive_si": "2026-12-03: si sigue sin fecha"
+  },
+  {
+   "id": "7981-isaac-panel-2611-1759",
+   "que": "lo han entregado, mañana hacemos la entrada",
+   "ambito": {
+    "leas": "LEAS-7981",
+    "centro": "SinVello A Coruña",
+    "cliente": "",
+    "tipo": "maps"
+   },
+   "porque": "lo han entregado, mañana hacemos la entrada",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:59",
+   "revive_si": "2026-11-27: si no se ha hecho la entrada"
+  },
+  {
+   "id": "8044-isaac-panel-2611-1752",
+   "que": "enviado hoy",
+   "ambito": {
+    "leas": "LEAS-8044",
+    "centro": "Belenus Chile",
+    "cliente": "",
+    "tipo": "cerrar"
+   },
+   "porque": "enviado hoy",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:52",
+   "revive_si": "2026-11-30: si no se ha finalizado"
+  },
+  {
+   "id": "8102-isaac-panel-2611-1752",
+   "que": "enviado hoy",
+   "ambito": {
+    "leas": "LEAS-8102",
+    "centro": "Pro Laser Tenerife",
+    "cliente": "",
+    "tipo": "cerrar"
+   },
+   "porque": "enviado hoy",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:52",
+   "revive_si": "2026-11-30: si no se ha finalizado"
+  },
+  {
+   "id": "8170-isaac-panel-2611-1756",
+   "que": "sigue igual",
+   "ambito": {
+    "leas": "LEAS-8170",
+    "centro": "Clinic & Esthetic",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "sigue igual",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:56",
+   "revive_si": "2026-12-01: si no hay respuesta del cliente"
+  },
+  {
+   "id": "8214-isaac-panel-2611-1748",
+   "que": "asigno a fran",
+   "ambito": {
+    "leas": "LEAS-8214",
+    "centro": "SinVello Badajoz",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "asigno a fran",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:48",
+   "revive_si": "2026-12-01: si sigue sin fecha"
+  },
+  {
+   "id": "8311-cristina-panel-2611-1626",
+   "que": "esto no aplica: no aplica",
+   "ambito": {
+    "leas": "LEAS-8311",
+    "centro": "Laser Factory Granollers",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: no aplica",
+   "quien": "Cristina (vía panel)",
+   "cuando": "2026-11-26T16:26",
+   "revive_si": "2026-12-01: si sigue sin enviarse"
+  },
+  {
+   "id": "8339-isaac-panel-2611-1757",
+   "que": "esta en colo de taller",
+   "ambito": {
+    "leas": "LEAS-8339",
+    "centro": "SUSTDUAL017",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "esta en colo de taller",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:57",
+   "revive_si": "2026-12-01: si sigue sin reparar"
+  },
+  {
+   "id": "8349-isaac-panel-2611-1750",
+   "que": "asigno a tecnico",
+   "ambito": {
+    "leas": "LEAS-8349",
+    "centro": "SUSTDUAL016",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "asigno a tecnico",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:50",
+   "revive_si": "2026-12-01: si sigue sin fecha"
+  },
+  {
+   "id": "8353-isaac-panel-2611-1752",
+   "que": "asignada",
+   "ambito": {
+    "leas": "LEAS-8353",
+    "centro": "FAN Mallorca Shopping",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "asignada",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:52",
+   "revive_si": "2026-12-01: si sigue sin fecha"
+  },
+  {
+   "id": "8364-cristina-panel-2611-1625",
+   "que": "esto no aplica: en cuanto se libere el técnico se pondrá con ello",
+   "ambito": {
+    "leas": "LEAS-8364",
+    "centro": "Smart Duck Annecy",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: en cuanto se libere el técnico se pondrá con ello",
+   "quien": "Cristina (vía panel)",
+   "cuando": "2026-11-26T16:25",
+   "revive_si": "2026-12-01: si sigue sin fecha"
+  },
+  {
+   "id": "8371-cristina-panel-2611-1625",
+   "que": "esto no aplica: en cuanto se libere el técnico se pondrá con ello",
+   "ambito": {
+    "leas": "LEAS-8371",
+    "centro": "Dermasana Zubiarte",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "esto no aplica: en cuanto se libere el técnico se pondrá con ello",
+   "quien": "Cristina (vía panel)",
+   "cuando": "2026-11-26T16:25",
+   "revive_si": "2026-12-01: si sigue sin fecha"
+  },
+  {
+   "id": "8403-isaac-panel-2611-1750",
+   "que": "en este nos tendria que dar una solución I + D ya que es un laser nuevo",
+   "ambito": {
+    "leas": "LEAS-8403",
+    "centro": "Elha Niza",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "en este nos tendria que dar una solución I + D ya que es un laser nuevo",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:50",
+   "revive_si": "2026-12-03: si I+D no ha dado solución"
+  },
+  {
+   "id": "8449-isaac-panel-2611-1750",
+   "que": "lo mismo",
+   "ambito": {
+    "leas": "LEAS-8449",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "lo mismo",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:50",
+   "revive_si": "2026-12-03: si sigue sin fecha"
+  },
+  {
+   "id": "8576-isaac-panel-2611-1754",
+   "que": "se reclama al tecnico",
+   "ambito": {
+    "leas": "LEAS-8576",
+    "centro": "Elha Comercio",
+    "cliente": "",
+    "tipo": "externo"
+   },
+   "porque": "se reclama al tecnico",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:54",
+   "revive_si": "2026-12-01: si el técnico sigue sin fecha"
+  },
+  {
+   "id": "8607-isaac-panel-2611-1724",
+   "que": "gestiono",
+   "ambito": {
+    "leas": "LEAS-8607",
+    "centro": "SinVello Albacete",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "gestiono",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:24",
+   "revive_si": "2026-12-01: si sigue sin fecha"
+  },
+  {
+   "id": "8625-isaac-panel-2611-1717",
+   "que": "se le ha mandado hoy sustitucion",
+   "ambito": {
+    "leas": "LEAS-8625",
+    "centro": "SinVello Elche",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "se le ha mandado hoy sustitucion",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:17",
+   "revive_si": "2026-11-30: si la sustitución no ha llegado o no se ha pedido la recogida"
+  },
+  {
+   "id": "8632-isaac-panel-2611-1751",
+   "que": "se asigna a tecnico",
+   "ambito": {
+    "leas": "LEAS-8632",
+    "centro": "Condiodo",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "se asigna a tecnico",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:51",
+   "revive_si": "2026-12-01: si sigue sin fecha"
+  },
+  {
+   "id": "8641-isaac-panel-2611-1723",
+   "que": "pregunto a gonzalo",
+   "ambito": {
+    "leas": "LEAS-8641",
+    "centro": "Dermasana Alcalá",
+    "cliente": "",
+    "tipo": "nadie"
+   },
+   "porque": "pregunto a gonzalo",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:23",
+   "revive_si": "2026-11-30: si sigue sin asignar"
+  },
+  {
+   "id": "8666-isaac-panel-2611-1756",
+   "que": "se habla con tecnico que llame a otro telefono xq el que le pasamos estaba mal, se citara en estos dias",
+   "ambito": {
+    "leas": "LEAS-8666",
+    "centro": "SinVello San Pedro de Alcántara",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "se habla con tecnico que llame a otro telefono xq el que le pasamos estaba mal, se citara en estos dias",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:56",
+   "revive_si": "2026-12-01: si no hay cita ni presupuesto"
+  },
+  {
+   "id": "8675-isaac-panel-2611-1755",
+   "que": "ha llegado el material y esta avisado el tecnico",
+   "ambito": {
+    "leas": "LEAS-8675",
+    "centro": "Elha Sant Boi",
+    "cliente": "",
+    "tipo": "externo"
+   },
+   "porque": "ha llegado el material y esta avisado el tecnico",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:55",
+   "revive_si": "2026-11-30: si no consta la intervención"
+  },
+  {
+   "id": "8681-isaac-panel-2611-1754",
+   "que": "he reclamdo al tecnico que vaya antes del lunes y ya esta alli el material",
+   "ambito": {
+    "leas": "LEAS-8681",
+    "centro": "Elha Zambrano",
+    "cliente": "",
+    "tipo": "externo"
+   },
+   "porque": "he reclamdo al tecnico que vaya antes del lunes y ya esta alli el material",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:54",
+   "revive_si": "2026-12-01: si el técnico no ha ido"
+  },
+  {
+   "id": "8749-isaac-panel-2611-1720",
+   "que": "Pichi llevo la sust y ha traido la suya, mañana hacemos la entrada",
+   "ambito": {
+    "leas": "LEAS-8749",
+    "centro": "Zurimed Los Fresnos",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Pichi llevo la sust y ha traido la suya, mañana hacemos la entrada",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:20",
+   "revive_si": "2026-11-27: si no se ha hecho la entrada"
+  },
+  {
+   "id": "8750-isaac-panel-2611-1759",
+   "que": "ya la bajo Pichi y esta cambiado en el jira",
+   "ambito": {
+    "leas": "LEAS-8750",
+    "centro": "Zurimed Los Fresnos",
+    "cliente": "",
+    "tipo": "maps"
+   },
+   "porque": "ya la bajo Pichi y esta cambiado en el jira",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:59",
+   "revive_si": "2026-12-01: si vuelve a faltar el link"
+  },
+  {
+   "id": "8749-isaac-panel-maps-2611-1720",
+   "que": "Pichi llevo la sust y ha traido la suya, mañana hacemos la entrada",
+   "ambito": {
+    "leas": "LEAS-8749",
+    "centro": "Zurimed Los Fresnos",
+    "cliente": "",
+    "tipo": "maps"
+   },
+   "porque": "Pichi llevo la sust y ha traido la suya, mañana hacemos la entrada",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-26T17:20",
+   "revive_si": "2026-11-27: si no se ha hecho la entrada"
   }
  ],
  "enlaces": [
