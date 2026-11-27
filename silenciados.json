@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-27T18:15",
+ "actualizado": "2026-11-27T20:15",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -19133,6 +19133,244 @@
    "quien": "Gonzalo (vía panel)",
    "cuando": "2026-11-27T17:57",
    "revive_si": "2026-12-01: si no hay presupuesto enviado a EP"
+  },
+  {
+   "id": "7824-gonzalo-panel-2711-1816",
+   "que": "Lo siguen probando en oviedo",
+   "ambito": {
+    "leas": "LEAS-7824",
+    "centro": "Elha Obispo",
+    "cliente": "",
+    "tipo": "cerrar"
+   },
+   "porque": "Lo siguen probando en oviedo",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T18:16",
+   "revive_si": "2026-12-02: si no consta el resultado de la prueba"
+  },
+  {
+   "id": "7789-isaac-panel-2711-1903",
+   "que": "en manos de David",
+   "ambito": {
+    "leas": "LEAS-7789",
+    "centro": "Beleco Fan Mallorca",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "en manos de David",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:03",
+   "revive_si": "2026-12-02: si no hay respuesta al presupuesto"
+  },
+  {
+   "id": "8172-isaac-panel-2711-1903",
+   "que": "sigue igual",
+   "ambito": {
+    "leas": "LEAS-8172",
+    "centro": "SinVello Tomares",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "sigue igual",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:03",
+   "revive_si": "2026-12-02: si no hay respuesta al presupuesto"
+  },
+  {
+   "id": "8394-isaac-panel-2711-1903",
+   "que": "en manos de Oliver",
+   "ambito": {
+    "leas": "LEAS-8394",
+    "centro": "Brull",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "en manos de Oliver",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:03",
+   "revive_si": "2026-12-02: si no hay respuesta al presupuesto"
+  },
+  {
+   "id": "8493-isaac-panel-2711-1903",
+   "que": "sigue igual",
+   "ambito": {
+    "leas": "LEAS-8493",
+    "centro": "SinVello Zaragoza Goya",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "sigue igual",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:03",
+   "revive_si": "2026-12-02: si no hay respuesta al presupuesto"
+  },
+  {
+   "id": "8663-isaac-panel-2711-1903",
+   "que": "sigue igual",
+   "ambito": {
+    "leas": "LEAS-8663",
+    "centro": "Clínica Imebelle Sabadell",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "sigue igual",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:03",
+   "revive_si": "2026-12-02: si no hay respuesta al presupuesto"
+  },
+  {
+   "id": "8644-isaac-panel-2711-1907",
+   "que": "se envia a tecnico y se manda material",
+   "ambito": {
+    "leas": "LEAS-8644",
+    "centro": "Elha Montcada",
+    "cliente": "",
+    "tipo": "presu"
+   },
+   "porque": "se envia a tecnico y se manda material",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:07",
+   "revive_si": "2026-12-02: si no consta la intervención"
+  },
+  {
+   "id": "8184-isaac-panel-2711-1857",
+   "que": "sigue igual",
+   "ambito": {
+    "leas": "LEAS-8184",
+    "centro": "SinVello El Pilar",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "sigue igual",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T18:57",
+   "revive_si": "2026-12-02: si sigue sin fecha"
+  },
+  {
+   "id": "8341-isaac-panel-2711-1859",
+   "que": "pasada a inicio de reparacion",
+   "ambito": {
+    "leas": "LEAS-8341",
+    "centro": "SUSTDUAL010",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "pasada a inicio de reparacion",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T18:59",
+   "revive_si": "2026-12-02: si sigue sin reparar"
+  },
+  {
+   "id": "8343-isaac-panel-2711-1858",
+   "que": "tenemos mucho trabajo",
+   "ambito": {
+    "leas": "LEAS-8343",
+    "centro": "SUSTQUAD016",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "tenemos mucho trabajo",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T18:58",
+   "revive_si": "2026-12-02: si sigue en cola"
+  },
+  {
+   "id": "8478-isaac-panel-2711-1911",
+   "que": "se asigna a tecnico",
+   "ambito": {
+    "leas": "LEAS-8478",
+    "centro": "Zugan Tolosa",
+    "cliente": "",
+    "tipo": "repara"
+   },
+   "porque": "se asigna a tecnico",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:11",
+   "revive_si": "2026-12-02: si sigue sin reparar ni contestar a Zugan"
+  },
+  {
+   "id": "8586-isaac-panel-2711-1912",
+   "que": "se asigna a tecnico",
+   "ambito": {
+    "leas": "LEAS-8586",
+    "centro": "Centro Unico Roma Est",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "se asigna a tecnico",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:12",
+   "revive_si": "2026-12-02: si sigue sin reparar"
+  },
+  {
+   "id": "8588-isaac-panel-2711-1912",
+   "que": "asigno a tecnico",
+   "ambito": {
+    "leas": "LEAS-8588",
+    "centro": "Centro Unico Roma Est",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "asigno a tecnico",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:12",
+   "revive_si": "2026-12-02: si sigue sin reparar"
+  },
+  {
+   "id": "8494-isaac-panel-2711-1913",
+   "que": "aun sigue igual",
+   "ambito": {
+    "leas": "LEAS-8494",
+    "centro": "Kevin Corpodem USA",
+    "cliente": "",
+    "tipo": "nadie"
+   },
+   "porque": "aun sigue igual",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:13",
+   "revive_si": "2026-12-02: si sigue sin asignar"
+  },
+  {
+   "id": "8517-isaac-panel-2711-1847",
+   "que": "ya llego la sustitución y pedimos la recogida",
+   "ambito": {
+    "leas": "LEAS-8517",
+    "centro": "Helena Cordero",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "ya llego la sustitución y pedimos la recogida",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T18:47",
+   "revive_si": "2026-12-01: si no ha llegado a taller"
+  },
+  {
+   "id": "8739-isaac-panel-2711-1845",
+   "que": "sigue igual",
+   "ambito": {
+    "leas": "LEAS-8739",
+    "centro": "L Medical G-Point",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "sigue igual",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T18:45",
+   "revive_si": "2026-12-02: si sigue sin recoger"
+  },
+  {
+   "id": "8636-isaac-panel-2711-1914",
+   "que": "segun cliente ya esta solucionado pero no la ciero xq no me fio",
+   "ambito": {
+    "leas": "LEAS-8636",
+    "centro": "Epil Point Roma Appia",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "segun cliente ya esta solucionado pero no la ciero xq no me fio",
+   "quien": "Isaac (vía panel)",
+   "cuando": "2026-11-27T19:14",
+   "revive_si": "2026-12-02: si sigue abierto sin decisión"
   }
  ],
  "enlaces": [
