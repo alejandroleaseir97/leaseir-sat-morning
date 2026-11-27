@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-11-27T16:14",
+ "actualizado": "2026-11-27T18:15",
  "que_es_esto": "Puntos que un humano ya ha explicado. La pasada tiene que leer este fichero ANTES de generar nada y no volver a sacar ninguno de ellos. Repetir un punto ya contestado es el peor fallo que puede cometer la herramienta: quema la confianza del equipo.",
  "como_se_usa": [
   "1. Antes de escribir un punto, comprobar si encaja con algún 'ambito' de esta lista. Encaja si coincide el LEAS, o si coinciden centro y tipo, o si coincide la serie.",
@@ -18909,6 +18909,230 @@
    "quien": "Isaac (Jira)",
    "cuando": "2026-11-27T10:41",
    "revive_si": "2026-12-02: si la clienta no ha contestado"
+  },
+  {
+   "id": "8637-gonzalo-panel-2711-1813",
+   "que": "Se vuelve a preguntar por el video demostración",
+   "ambito": {
+    "leas": "LEAS-8637",
+    "centro": "Elha Jaén",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Se vuelve a preguntar por el video demostración",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T18:13",
+   "revive_si": "2026-12-02: si el centro no ha contestado"
+  },
+  {
+   "id": "7880-gonzalo-panel-2711-1749",
+   "que": "Metido el link (en el comentario: el campo 11354 sigue vacío)",
+   "ambito": {
+    "leas": "LEAS-7880",
+    "centro": "Nantara Laser (sustitución)",
+    "cliente": "",
+    "tipo": "maps"
+   },
+   "porque": "Metido el link (en el comentario: el campo 11354 sigue vacío)",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T17:49",
+   "revive_si": "2026-12-04: si sigue sin recoger"
+  },
+  {
+   "id": "8199-gonzalo-panel-2711-1805",
+   "que": "Está a la espera como si es de sust",
+   "ambito": {
+    "leas": "LEAS-8199",
+    "centro": "Centro Unico Libia",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Está a la espera como si es de sust",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T18:05",
+   "revive_si": "2026-12-04: si sigue en inspección sin decisión"
+  },
+  {
+   "id": "8291-gonzalo-panel-2711-1625",
+   "que": "Se pregunta de nuevo",
+   "ambito": {
+    "leas": "LEAS-8291",
+    "centro": "Doll Beauty Suiza",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Se pregunta de nuevo",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T16:25",
+   "revive_si": "2026-12-02: si el cliente no ha contestado"
+  },
+  {
+   "id": "8398-gonzalo-panel-2711-1625",
+   "que": "Pues a esperar como todo",
+   "ambito": {
+    "leas": "LEAS-8398",
+    "centro": "Epil Point Formia",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Pues a esperar como todo",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T16:25",
+   "revive_si": "2026-12-04: si sigue sin recoger ni decidir"
+  },
+  {
+   "id": "8456-gonzalo-panel-2711-1625",
+   "que": "A la espera",
+   "ambito": {
+    "leas": "LEAS-8456",
+    "centro": "Lucem Reus",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "A la espera",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T16:25",
+   "revive_si": "2026-12-02: si la clínica no ha contestado"
+  },
+  {
+   "id": "8536-gonzalo-panel-2711-1804",
+   "que": "Se reclama a sincronis",
+   "ambito": {
+    "leas": "LEAS-8536",
+    "centro": "Centro Unico Ostia",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Se reclama a sincronis",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T18:04",
+   "revive_si": "2026-12-02: si Sincronis no ha contestado"
+  },
+  {
+   "id": "8547-gonzalo-panel-2711-1714",
+   "que": "LLega el lunes",
+   "ambito": {
+    "leas": "LEAS-8547",
+    "centro": "SinVello Valladolid",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "LLega el lunes",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T17:14",
+   "revive_si": "2026-12-01: si no ha llegado a taller"
+  },
+  {
+   "id": "8548-gonzalo-panel-2711-1715",
+   "que": "Recogida realizada en Madrid el 26/11; la tiene que entregar en Gijón",
+   "ambito": {
+    "leas": "LEAS-8548",
+    "centro": "SinVello Torrejón de Ardoz",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Recogida realizada en Madrid el 26/11; la tiene que entregar en Gijón",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T17:15",
+   "revive_si": "2026-12-01: si no ha llegado a taller"
+  },
+  {
+   "id": "8585-gonzalo-panel-2711-1803",
+   "que": "Sigue en transito la sust, en cuanto llegue se recoge",
+   "ambito": {
+    "leas": "LEAS-8585",
+    "centro": "Centro Unico Rende",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Sigue en transito la sust, en cuanto llegue se recoge",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T18:03",
+   "revive_si": "2026-12-02: si la sustitución no ha llegado o no se ha pedido la recogida"
+  },
+  {
+   "id": "8597-gonzalo-panel-2711-1756",
+   "que": "Va chus a ver que puede hacer",
+   "ambito": {
+    "leas": "LEAS-8597",
+    "centro": "Centro Unico Campania",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "Va chus a ver que puede hacer",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T17:56",
+   "revive_si": "2026-11-30: si no consta el resultado de la visita"
+  },
+  {
+   "id": "8601-gonzalo-panel-2711-1753",
+   "que": "No tiene plan ya que estamos a la espera de más noticias",
+   "ambito": {
+    "leas": "LEAS-8601",
+    "centro": "L Medical (G-Point, Bulgaria)",
+    "cliente": "",
+    "tipo": "nadie"
+   },
+   "porque": "No tiene plan ya que estamos a la espera de más noticias",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T17:53",
+   "revive_si": "2026-12-04: si sigue sin asignar y sin noticias"
+  },
+  {
+   "id": "8634-gonzalo-panel-2711-1713",
+   "que": "Se recoge",
+   "ambito": {
+    "leas": "LEAS-8634",
+    "centro": "Elha Esteve Albert",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Se recoge",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T17:13",
+   "revive_si": "2026-12-01: si no se ha recogido"
+  },
+  {
+   "id": "8649-gonzalo-panel-2711-1756",
+   "que": "No tenemos tracking, lo envian ellos",
+   "ambito": {
+    "leas": "LEAS-8649",
+    "centro": "Dermoscan",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "No tenemos tracking, lo envian ellos",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T17:56",
+   "revive_si": "2026-12-02: si no ha llegado ni hay seguimiento"
+  },
+  {
+   "id": "8657-gonzalo-panel-2711-1643",
+   "que": "Se reclama la recogida",
+   "ambito": {
+    "leas": "LEAS-8657",
+    "centro": "Elha Boltaña",
+    "cliente": "",
+    "tipo": "ruta"
+   },
+   "porque": "Se reclama la recogida",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T16:43",
+   "revive_si": "2026-12-01: si no se ha recogido"
+  },
+  {
+   "id": "8793-gonzalo-panel-2711-1757",
+   "que": "punto del panel sin ticket, va con LEAS-8793; presupuesto pedido a Sincronis",
+   "ambito": {
+    "leas": "LEAS-8793",
+    "centro": "EP Milano Meravigli",
+    "cliente": "",
+    "tipo": "epil"
+   },
+   "porque": "punto del panel sin ticket, va con LEAS-8793; presupuesto pedido a Sincronis",
+   "quien": "Gonzalo (vía panel)",
+   "cuando": "2026-11-27T17:57",
+   "revive_si": "2026-12-01: si no hay presupuesto enviado a EP"
   }
  ],
  "enlaces": [
